@@ -8,8 +8,11 @@
 :: ========================================================================
 
 
+:: Back to root directory.
+cd ..
+
 echo.
 
-"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" "%~dp0%\index.html"
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" "index.html"
 
 echo.
