@@ -15,10 +15,9 @@
 }
 
 body {
-  /* font-family: 'Lora', serif; */
-  background-color: white;
-  background-color: rgba(239, 255, 255, 0.8);
-  color: black;
+  font-family: 'Ubuntu Mono', monospace;
+  background-color: #232323;
+  color: #D2D2D2;
 }
 
 #announcement {
@@ -29,15 +28,16 @@ body {
   left: 0px;
 
   z-index: 100;
-  color: yellow;
+  color: #00FFFF;
   background-color: rgba(0,0,0,0.6);
   padding-top: 3px;
   padding-bottom: 4px;
 
-  font-family: 'pixelFJ8pt1__';
+  /* font-family: 'pixelFJ8pt1__'; */
 }
 
 .tips {
+  text-align: center;
   font-size: 0.8em;
   padding-top: 8px;
 
@@ -53,18 +53,21 @@ body {
 
 header {
   position: absolute;
-  top: 0px;
   padding: 1rem;
   text-align: center;
-  background-color: #DEDEDE;
+  background-color: #CCCCCC;
 
-  padding-top: 30px;
-  opacity: 0.8;
+  padding-top: 3rem;
+  opacity: 0.9;
 
   right: 0px;
   left: 0px;
 
   color: black;
+}
+
+h1 {
+  margin: 0px;
 }
 
 #content {
@@ -78,32 +81,43 @@ header {
   background-repeat: no-repeat;
   margin: 0px auto;
 
-  border: 3px solid #0000cd;
+  border: 3px solid #B0C4DE;
 
   /* NOTE(jenchieh): 'background-size' and 'width'/'height'
-  *                   must match to each other.
+  *                   must match to each other
   */
   background-size: 150px 150px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 #panel {
-  width: 80%;
+  width: 100%;
   margin: 0px auto;
   font-size: 1.3em;
-  text-align: center;
+}
 
-  /* border: 1px solid green; */
+h2 {
+  color: #17A0FB;
+}
+
+hr {
+  display: block;
+  border: 0;
+  border-top: 2px solid #6B8E23;
+  margin: 0.1em 0;
+  padding: 0;
 }
 
 /* Information Section. */
 a {
   text-decoration: none;
+  color: #00FFFF;
 }
 
 ul {
+  text-align: center;
   list-style-type: none;
 }
 
@@ -119,32 +133,38 @@ ul li {
 }
 
 #facebook-link {
-  background: url('../images/facebook_circle_color-256.png');
+  background: url('../images/icons/facebook_circle_color-256.png');
   background-size: 50px 50px;
 }
 
 #twitter-link {
-  background: url('../images/twitter_circle_color-256.png');
+  background: url('../images/icons/twitter_circle_color-256.png');
   background-size: 50px 50px;
+  background-color: white;
+  border-radius: 50%;
 }
 
 #github-link {
-  background: url('../images/github_icon.svg');
+  background: url('../images/icons/github_icon.svg');
   background-size: 50px 50px;
+  background-color: white;
+  border-radius: 50%;
 }
 
 #linkedin-link {
-  background: url('../images/linkedin-circle.png');
+  background: url('../images/icons/linkedin-circle.png');
   background-size: 50px 50px;
+  background-color: white;
+  border-radius: 50%;
 }
 
 #gmail-link {
-  background: url('../images/gmail-icon.ico');
+  background: url('../images/icons/gmail-icon.ico');
   background-size: 50px 50px;
 }
 
 #rss-link {
-  background: url('../images/rss.png');
+  background: url('../images/icons/rss.png');
   background-size: 50px 50px;
 }
 
@@ -200,11 +220,11 @@ footer {
   bottom: 0px;
   left: 0px;
 
-  opacity: 0.8;
+  opacity: 0.5;
 
   padding: 1rem;
   text-align: center;
-  background-color: #EFEFEF;
+  background-color: #CCCCCC;
 
   color: black;
 }
