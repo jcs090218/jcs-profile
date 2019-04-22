@@ -14,15 +14,15 @@
   $('#announcement-text').text(announcement);
 
   // CAUTION(jenchieh): all the animate string cannot be the same.
-  var link_init_anim_class_string = "zoomIn animated";
-  var link_anim_class_string = "flip animated";
+  const link_init_anim_class_string = "zoomIn animated";
+  const link_anim_class_string = "flip animated";
 
   var link_images = $('.link-image');
   var game_logos = $('.game-logo');
 
   var anim_list = [];
 
-  var link_anim_time_interval = (1000 * 0.5) * 1;  // in seconds
+  const link_anim_time_interval = (1000 * 0.5) * 1;  // in seconds
   var link_anim_run = false;
   var link_anim_index = -1;
   var line_anim_turn_delay_time = 1;  // `link_anim_time_interval' * this = actaul time.
