@@ -9,4 +9,4 @@
 
 "use strict";
 
-var announcement = "Love programming, focus on Software Dev!~";
+const announcement = "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.";
