@@ -14,8 +14,8 @@
   $('#announcement-text').text(announcement);
 
   // CAUTION(jenchieh): all the animate string cannot be the same.
-  const link_init_anim_class_string = "zoomIn animated";
-  const link_anim_class_string = "flip animated";
+  const link_init_anim_class_string = "fadeIn animated";
+  const link_anim_class_string = "heartBeat animated";
 
   var link_images = $('.link-image');
   var game_logos = $('.game-logo');
@@ -41,10 +41,14 @@
 
   /* Register Event */
 
-  for (var index = 0;
+  for (let index = 0;
        index < anim_list.length;
        ++index) {
     anim_list[index].mouseenter(function () {
+
+      let shinnySlot = $(this).siblings('.shinny-slot');
+      shinnySlot.css('display', 'inline');
+
       // Remove unused class from `ready' event.
       $(this).removeClass(link_init_anim_class_string);
 
@@ -57,6 +61,9 @@
     });
 
     anim_list[index].mouseleave(function () {
+      let shinnySlot = $(this).siblings('.shinny-slot');
+      shinnySlot.css('display', 'none');
+
       $(this).removeClass(link_anim_class_string);
 
       stop_loop_anim = false;
