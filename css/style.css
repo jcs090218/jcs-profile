@@ -216,9 +216,9 @@ ul li {
 
 #hemlock-logo {
   background: url('../images/games/hemlock_logo.png');
-  background-size: 50px 50px;
-  width: 50px;
-  height: 50px;
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
 }
 
 #might-and-blade-logo {
@@ -233,6 +233,13 @@ ul li {
   background-size: 124px 65px;
   width: 124px;
   height: 65px;
+}
+
+#pey-logo {
+  background: url('../images/games/pey_logo.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
 }
 
 footer {
