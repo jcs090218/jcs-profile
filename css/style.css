@@ -173,6 +173,13 @@ ul li {
   border-radius: 50%;
 }
 
+#gitlab-link {
+  background: url('../images/icons/gitlab_icon.svg');
+  background-size: 50px 50px;
+  background-color: gray;
+  border-radius: 50%;
+}
+
 #linkedin-link {
   background: url('../images/icons/linkedin-circle.png');
   background-size: 50px 50px;
