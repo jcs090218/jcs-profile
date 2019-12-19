@@ -83,13 +83,14 @@ h1 {
 
   border: 3px solid #B0C4DE;
 
-  /* NOTE(jenchieh): 'background-size' and 'width'/'height'
-  *                   must match to each other
-  */
+  /* NOTE: 'background-size' and 'width'/'height' must match to each other.
+   */
   background-size: 150px 150px;
   width: 150px;
   height: 150px;
   border-radius: 10%;
+
+  --balloon-font-size: 15px;
 }
 
 #panel {
