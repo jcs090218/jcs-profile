@@ -156,40 +156,40 @@ ul li {
 }
 
 #facebook-link {
-  background: url('../images/icons/facebook_circle_color-256.png');
+  background: url('../images/icons/facebook.png');
   background-size: 50px 50px;
 }
 
 #twitter-link {
-  background: url('../images/icons/twitter_circle_color-256.png');
+  background: url('../images/icons/twitter.png');
   background-size: 50px 50px;
   background-color: white;
   border-radius: 50%;
 }
 
 #github-link {
-  background: url('../images/icons/github_icon.svg');
+  background: url('../images/icons/github.svg');
   background-size: 50px 50px;
   background-color: white;
   border-radius: 50%;
 }
 
 #gitlab-link {
-  background: url('../images/icons/gitlab_icon.svg');
+  background: url('../images/icons/gitlab.svg');
   background-size: 50px 50px;
   background-color: gray;
   border-radius: 50%;
 }
 
 #linkedin-link {
-  background: url('../images/icons/linkedin-circle.png');
+  background: url('../images/icons/linkedin.png');
   background-size: 50px 50px;
   background-color: white;
   border-radius: 50%;
 }
 
 #gmail-link {
-  background: url('../images/icons/gmail-icon.ico');
+  background: url('../images/icons/gmail.ico');
   background-size: 50px 50px;
 }
 
