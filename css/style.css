@@ -156,12 +156,12 @@ ul li {
 }
 
 #facebook-link {
-  background: url('../images/icons/facebook.png');
+  background: url('../images/icons/facebook.svg');
   background-size: 50px 50px;
 }
 
 #twitter-link {
-  background: url('../images/icons/twitter.png');
+  background: url('../images/icons/twitter.svg');
   background-size: 50px 50px;
   background-color: white;
   border-radius: 50%;
@@ -182,19 +182,19 @@ ul li {
 }
 
 #linkedin-link {
-  background: url('../images/icons/linkedin.png');
+  background: url('../images/icons/linkedin.svg');
   background-size: 50px 50px;
   background-color: white;
   border-radius: 50%;
 }
 
 #gmail-link {
-  background: url('../images/icons/gmail.ico');
+  background: url('../images/icons/gmail.svg');
   background-size: 50px 50px;
 }
 
 #rss-link {
-  background: url('../images/icons/rss.png');
+  background: url('../images/icons/blog.svg');
   background-size: 50px 50px;
 }
 
