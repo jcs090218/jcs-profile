@@ -153,6 +153,7 @@ ul li {
 .link-image {
   width: 50px;
   height: 50px;
+  margin: 10px;
 }
 
 #facebook-link {
@@ -199,59 +200,74 @@ ul li {
 }
 
 /* Games section. */
-#games-panel {
+.panel {
   padding: 5px 30px;
 }
 
-.game-logo {
+.app-logo {
   display: inline-block;
   vertical-align: middle;
+  margin: 10px;
 }
 
-#archers-duel-logo {
+#logo-archers-duel {
   background: url('../images/games/archers_duel.png');
   background-size: 100px 71px;
   width: 100px;
   height: 71px;
 }
 
-#cardinal-logo {
+#logo-cardinal {
   background: url('../images/games/cardinal.png');
   background-size: 60px 60px;
   width: 60px;
   height: 60px;
 }
 
-#hemlock-logo {
+#logo-hemlock {
   background: url('../images/games/hemlock.png');
   background-size: 64px 64px;
   width: 64px;
   height: 64px;
 }
 
-#might-and-blade-logo {
+#logo-might-and-blade {
   background: url('../images/games/might_&_blade.png');
   background-size: 180px 72px;
   width: 180px;
   height: 72px;
 }
 
-#sugar-sleuths-logo {
+#logo-sugar-sleuths {
   background: url('../images/games/SugarSleuths.png');
   background-size: 124px 65px;
   width: 124px;
   height: 65px;
 }
 
-#pey-logo {
+#logo-pey {
   background: url('../images/games/PEY.png');
   background-size: 64px 64px;
   width: 64px;
   height: 64px;
 }
 
-#ais-logo {
+#logo-ais {
   background: url('../images/games/AIS.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
+#logo-lnd {
+  background: url('../images/app/LnD.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
+#logo-moncon {
+  background: url('../images/app/MonCon.png');
   background-size: 64px 64px;
   width: 64px;
   height: 64px;
