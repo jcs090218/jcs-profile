@@ -259,6 +259,13 @@ ul li {
   height: 64px;
 }
 
+#logo-meteo {
+  background: url('../images/app/Meteo.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
 #logo-lnd {
   background: url('../images/app/LnD.png');
   background-size: 64px 64px;
