@@ -224,6 +224,13 @@ ul li {
   height: 60px;
 }
 
+#logo-twilight-tower {
+  background: url('../images/games/Twilight_Tower.png');
+  background-size: 80px 80px;
+  width: 80px;
+  height: 80px;
+}
+
 #logo-hemlock {
   background: url('../images/games/hemlock.png');
   background-size: 64px 64px;
@@ -240,9 +247,9 @@ ul li {
 
 #logo-sugar-sleuths {
   background: url('../images/games/SugarSleuths.png');
-  background-size: 124px 65px;
-  width: 124px;
-  height: 65px;
+  background-size: 134px 75px;
+  width: 134px;
+  height: 75px;
 }
 
 #logo-pey {
