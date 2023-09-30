@@ -1,3 +1,3 @@
-# jcs-profile #
+# jcs-profile
 
-My personal website.<br/><br/>
+My personal website.
