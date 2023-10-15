@@ -266,6 +266,8 @@ ul li {
   height: 64px;
 }
 
+/* Applications */
+
 #logo-meteo {
   background: url('../images/app/Meteo.png');
   background-size: 64px 64px;
@@ -287,6 +289,29 @@ ul li {
   height: 64px;
 }
 
+/* Tools */
+
+#logo-pixisoft {
+  background: url('../images/tools/pixisoft.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
+#logo-emacs {
+  background: url('../images/tools/emacs.png');
+  background-size: 75px 75px;
+  width: 75px;
+  height: 75px;
+}
+
+#logo-gha {
+  background: url('../images/tools/GHA.png');
+  background-size: 55px 55px;
+  width: 55px;
+  height: 55px;
+}
+
 footer {
   /* Make it stick at the bottom. */
   position: fixed;
@@ -301,4 +326,14 @@ footer {
   background-color: #CCCCCC;
 
   color: black;
+}
+
+button, input[type="submit"], input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
 }
