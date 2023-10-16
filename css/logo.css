@@ -158,6 +158,13 @@
   height: 60px;
 }
 
+#logo-gha-github {
+  background: url('../images/automation/GHA_github.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
 #logo-gameci {
   background: url('../images/automation/GameCI_unity.png');
   background-size: 64px 64px;
