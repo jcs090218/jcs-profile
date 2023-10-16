@@ -204,6 +204,10 @@ ul li {
   padding: 5px 30px;
 }
 
+.panel-inner {
+  background: white;
+}
+
 .app-logo {
   display: inline-block;
   vertical-align: middle;
@@ -312,6 +316,41 @@ ul li {
   background-size: 55px 55px;
   width: 55px;
   height: 55px;
+}
+
+#logo-gameci {
+  background: url('../images/tools/gameci.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
+#logo-eask {
+  background: url('../images/tools/eask.png');
+  background-size: 75px 75px;
+  width: 75px;
+  height: 75px;
+}
+
+#logo-shader-ls {
+  background: url('../images/tools/shader-ls.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
+#logo-unity {
+  background: url('../images/tools/unity.png');
+  background-size: 55px 55px;
+  width: 55px;
+  height: 55px;
+}
+
+#logo-mx {
+  background: url('../images/tools/Mx.png');
+  background-size: 122px 47px;
+  width: 122px;
+  height: 47px;
 }
 
 footer {
