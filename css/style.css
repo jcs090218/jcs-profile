@@ -202,10 +202,15 @@ ul li {
 /* Games section. */
 .panel {
   padding: 5px 30px;
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
 }
 
 .panel-inner {
-  background: white;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  margin: 5px;
 }
 
 .app-logo {
@@ -276,9 +281,9 @@ ul li {
 
 #logo-twilight-tower {
   background: url('../images/games/Twilight_Tower.png');
-  background-size: 80px 80px;
-  width: 80px;
-  height: 80px;
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
 }
 
 #logo-lnd {
@@ -304,34 +309,6 @@ ul li {
   height: 64px;
 }
 
-#logo-emacs {
-  background: url('../images/tools/emacs.png');
-  background-size: 90px 90px;
-  width: 90px;
-  height: 90px;
-}
-
-#logo-gha {
-  background: url('../images/tools/GHA.png');
-  background-size: 55px 55px;
-  width: 55px;
-  height: 55px;
-}
-
-#logo-gameci {
-  background: url('../images/tools/gameci.png');
-  background-size: 64px 64px;
-  width: 64px;
-  height: 64px;
-}
-
-#logo-eask {
-  background: url('../images/tools/eask.png');
-  background-size: 75px 75px;
-  width: 75px;
-  height: 75px;
-}
-
 #logo-shader-ls {
   background: url('../images/tools/shader-ls.png');
   background-size: 64px 64px;
@@ -351,6 +328,36 @@ ul li {
   background-size: 122px 47px;
   width: 122px;
   height: 47px;
+}
+
+#logo-emacs {
+  background: url('../images/tools/emacs.png');
+  background-size: 60px 60px;
+  width: 60px;
+  height: 60px;
+}
+
+#logo-eask {
+  background: url('../images/tools/eask.png');
+  background-size: 60px 60px;
+  width: 60px;
+  height: 60px;
+}
+
+/* Automation */
+
+#logo-gha {
+  background: url('../images/automation/GHA.png');
+  background-size: 55px 55px;
+  width: 55px;
+  height: 55px;
+}
+
+#logo-gameci {
+  background: url('../images/automation/gameci.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
 }
 
 footer {
@@ -377,4 +384,12 @@ button, input[type="submit"], input[type="reset"] {
   font: inherit;
   cursor: pointer;
   outline: inherit;
+}
+
+[aria-label][data-balloon-pos]:after {
+  color : #024; background: #DEF;
+}
+[aria-label][data-balloon-pos]:before { border-top-color: #DEF; }
+[aria-label][data-balloon-pos][data-balloon-pos="down"]:before {
+  border-bottom-color: #DEF;
 }
