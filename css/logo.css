@@ -181,6 +181,13 @@
   height: 64px;
 }
 
+#logo-jcs-elpa {
+  background: url('../images/web/jcs-elpa.png');
+  background-size: 64px 64px;
+  width: 64px;
+  height: 64px;
+}
+
 #logo-siradoc {
   background: url('../images/tools/siradoc.png');
   background-size: 60px 60px;
