@@ -41,9 +41,7 @@
 
   /* Register Event */
 
-  for (let index = 0;
-       index < anim_list.length;
-       ++index) {
+  for (let index = 0; index < anim_list.length; ++index) {
     anim_list[index].mouseenter(function () {
 
       let shinnySlot = $(this).siblings('.shinny-slot');
