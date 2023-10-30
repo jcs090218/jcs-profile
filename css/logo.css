@@ -194,3 +194,17 @@
   width: 60px;
   height: 60px;
 }
+
+#logo-sherlock-project {
+  background: url('../images/web/sherlock-project.png');
+  background-size: 70px 70px;
+  width: 70px;
+  height: 70px;
+}
+
+#logo-node {
+  background: url('../images/web/node.png');
+  background-size: 60px 60px;
+  width: 60px;
+  height: 60px;
+}
