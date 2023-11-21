@@ -99,14 +99,14 @@ setInterval(function () {
 }
 
 function nonprof() {
-  var non_prof_toggle = true;
+  var non_prof_toggle = true;      // XXX: Set this be default!
   const non_prof_fade_time = 800;
 
   var non_prof = $('.non-prof');
   if (!non_prof_toggle)
     non_prof.hide();
   else
-    $('input[type=checkbox]').trigger('click');
+    $('#non-prof-checkbox').trigger('click');
 
   var toggle = $('.switch');
 
