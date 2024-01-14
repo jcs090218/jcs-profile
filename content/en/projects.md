@@ -9,11 +9,13 @@ This page lists some of my projects, work, and school projects.
 
 ## Currently working on
 
+- [jcs-profile](https://github.com/jcs090218/jcs-profile) (Spring 2024 - Present):
 This, my personal website.
 
-## Web apps and services, browser extensions
+## Tools, Framework, and Libraries
 
-WIP
+- [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summur 2016):
+Quickly construct your game using multiple components and predefined default settings.
 
 ## Games
 
@@ -54,6 +56,13 @@ Players can interact with objects in the scene by simply clicking on them.
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 💸):
 TODO.
+
+## Web apps and services, browser extensions
+
+- [Pixisoft Homepage](https://gitlab.com/pixisoft/pixisoft.gitlab.io) (Summur 2021 - Winter 2021 💸):
+TODO.
+- [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 - Spring 2024):
+My single page personal website implemented in basic HTML, CSS and JavaScript.
 
 ## Emacs stuff
 
