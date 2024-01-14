@@ -31,7 +31,7 @@ not(.dark) {
 }
 
 .main {
-    max-width: calc(var(--main-width) + var(--gap) * 2);
+    max-width: calc(var(--main-width) + var(--gap) * 5);
 }
 
 .post-content a {
@@ -83,6 +83,20 @@ body:not(.dark) .post-content a:hover {
 
 /* Button hl */
 
-.archive-entry h3:hover {
+.dark header a:hover {
+    color: #FFFFFF;
+}
+
+body:not(.dark) header a:hover {
+    color: #2D96BD;
+}
+
+.archive-entry-title:hover {
     color: red;
+}
+
+/* Code */
+
+.post-content pre code {
+    background: #272C34 !important;
 }
