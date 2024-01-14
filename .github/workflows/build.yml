@@ -32,11 +32,12 @@ jobs:
     - name: Build doc artifacts with Hugo
       run: hugo --destination ../gh-pages --minify
 
+    - run: ls
+
     # TODO: Generate better commit message
     - name: Publish doc artifacts
       if: github.ref == 'refs/heads/master'
       run: |
-        ls
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add .
