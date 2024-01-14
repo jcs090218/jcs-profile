@@ -36,7 +36,7 @@ zh-TW:
         url: blog/
         weight: 5
       - name: 履歷
-        url: storage/Resume.pdf
+        url: ../storage/Resume.pdf
         weight: 10
       - name: 專案
         url: projects/
