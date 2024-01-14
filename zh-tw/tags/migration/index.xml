@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>migration on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/zh-tw/tags/migration/</link>
+    <link>https://jcs090218.github.io/jcs-profile/zh-tw/tags/migration/</link>
     <description>Recent content in migration on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/migration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/tags/migration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一次遷移服務器</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/server/first-server-migration/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/server/first-server-migration/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/server/first-server-migration/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/server/first-server-migration/</guid>
       <description>我一直以來的的 web hosting, 一直是使用aws. 但最近總覺得價錢太貴, 而且很多資金的使用 並不是這麼貼心. 總是莫名其妙多了一些費用. 當然, 這些並不是說aws有問題. 不過它們這方 面的機制, 我本身並不是很喜歡. 所以我決定在這個月, 換一個web hosting的公司. 更換的 理由如下:
 AWS收費機制不討人喜歡 價格對於小型用戶太過昂貴, 而且不是這麼需要 UI介面有夠醜, UX很糟糕 它們大量的制定他們aws服務的專有名詞, 這部分技能是無法轉移的 (EC2? Route 53? 等等) 接著, 進入細節.
 📋 遷移網域名 這次遷移的目標是 jcs-profile.com 這個網域. 查一下 who.is, 註冊商是 amazon.com. 我之前是使用 AWS 裡面的網域 註冊服務 Route 53 來註冊這個網域. 不過 我想把它移置到 Namecheap. 這家並不是最便宜的, 不過他的優點大概是老牌, 介面也算乾淨好整理. 不會有些雜七雜八的東西. 不過我自己 也沒有用過很多家, 所以我也不班門弄斧了. 等我有足夠的經驗再來補充.

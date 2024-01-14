@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.jcs-profile.com/sitemap.xml
+Sitemap: https://jcs090218.github.io/jcs-profile/sitemap.xml

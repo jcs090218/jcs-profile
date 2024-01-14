@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>parallax on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/tags/parallax/</link>
+    <link>https://jcs090218.github.io/jcs-profile/tags/parallax/</link>
     <description>Recent content in parallax on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/tags/parallax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/tags/parallax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parallax Website</title>
-      <link>https://www.jcs-profile.com/posts/web-dev/parallax-website/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/web-dev/parallax-website/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/web-dev/parallax-website/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/web-dev/parallax-website/</guid>
       <description>Link: MapleStory Survival Kit
 This is the final project from the first class of web development from our school. I joined this class as an elective class so I could have a peek of how web development works. A list below is few highlights I would like to show from this project.
 Parallax Effect Use of Sound Gashapon 👁️ Parallax Effect Most parallax effect I have seen aren&amp;rsquo;t quite satisfied to me.</description>

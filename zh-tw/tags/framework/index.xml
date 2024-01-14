@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>framework on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/zh-tw/tags/framework/</link>
+    <link>https://jcs090218.github.io/jcs-profile/zh-tw/tags/framework/</link>
     <description>Recent content in framework on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/framework/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/tags/framework/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JCSUnity概要</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/overview/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/overview/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/overview/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/overview/</guid>
       <description>JCSUnity Repo: https://github.com/jcs090218/JCSUnity
 前言 這裡要介紹什麼其實真的不好說, 這是我已經開發將近3年的框架. 這個是我在大三的時候開發的框架, 也算是比較完整的框架. 在閱讀此篇之前,讀者最好要先了解框架,工具箱,圖書館,等等類似的東西的差別, 在這裡就不多贅述. 在我寫這個工具的時候, 我已經使用Unity大約兩年的時間. 從中做了不少的遊戲,畢竟課業需求,做遊戲如同家常便飯一樣. 寫程式也已經邁入第三年, 那時候的我才剛學完&amp;quot;資料結構&amp;quot;,&amp;ldquo;演算法&amp;rdquo;,&amp;ldquo;設計模式&amp;rdquo;. 特別是設計模式, 對於遊戲開發是特別有用的. 因為大多軟體架構都 是非常小的, 不然就是已經被前人給包好了. 例如, .NET框架, Visual BASIC/C++/C#, NetBean Graphic, 等等. 但是遊戲不同, 遊戲的架構通常再怎麼包都是非常大且複雜的. 了解底層運作更是十八般武藝&amp;hellip;
 在這些基礎之上,這個已經是我搭建的第三個框架,前面兩個我已經記不起來了. 我只記得其中一個是用AS3跟Starling框架配合. 對於寫API函式我已經算是有一定程度上的了解, 但是對於遊戲引擎的架構就有點顯得無知了. 在寫這個的時候我已經研究完了基 礎的遊戲引擎結構, 但是依然對於Unity Engine專門設計的API以及操作並不是很了解. 這使得我的工具顯得有點不是非常一致. 但是在我寫這個文章的時候, 這個工具已經大到非常難以管理的地步. 裡面的我自己寫的腳本大約400到500個. 每個腳本都是可以 獨立運行的,所以變化上由想可知是非常多的,同時也帶來了可能不必要的效能.
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>一直以來製作中的框架</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/productivity/framework-i-have-been-working-on/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/productivity/framework-i-have-been-working-on/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/productivity/framework-i-have-been-working-on/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/productivity/framework-i-have-been-working-on/</guid>
       <description>WIP</description>
     </item>
   </channel>

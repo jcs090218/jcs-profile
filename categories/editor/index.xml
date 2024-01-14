@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Editor on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/categories/editor/</link>
+    <link>https://jcs090218.github.io/jcs-profile/categories/editor/</link>
     <description>Recent content in Editor on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/categories/editor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/categories/editor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elisp Language Server</title>
-      <link>https://www.jcs-profile.com/posts/editor/elisp-ls/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/elisp-ls/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/elisp-ls/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/elisp-ls/</guid>
       <description>Repo link: https://github.com/jcs090218/ellsp
 I’ve recently created a language server for Emacs Lisp. It’s interesting since people don’t think a language server for Emacs Lisp will provide any value. The statement is correct, and so do I. Emacs Lisp is only used within the Emacs editor, and Emacs itself is an Emacs Lisp interpreter. Therefore, a language server for Emacs Lisp would hardly bring any benefits to Emacs users.
 But imagine you can code elisp (short for Emacs Lisp) outside of Emacs.</description>
     </item>
     <item>
       <title>How to build your own ELPA with Eask?</title>
-      <link>https://www.jcs-profile.com/posts/editor/build-elpa/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/build-elpa/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/build-elpa/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/build-elpa/</guid>
       <description>ELPA stands for Emacs Lisp Package Archive. It&amp;rsquo;s used for Emacs users to download packages from, and it&amp;rsquo;s also the place where Emacs Lisp developers will host their packages. Here is a list of famous ELPA; see their site for more information!
 GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ Why? So why do we want to host our own ELPA? Aren’t those ELPAs enough?
 Yes, in general, you don&amp;rsquo;t need to host ELPA yourself since most packages you need will be available in one of those ELPA (packages can co-exist between ELPA).</description>
     </item>
     <item>
       <title>Long Journey with Emacs</title>
-      <link>https://www.jcs-profile.com/posts/editor/long-journey-with-emacs/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/long-journey-with-emacs/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/long-journey-with-emacs/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/long-journey-with-emacs/</guid>
       <description>⚠️ The intention of this post is to remind myself why Emacs isn&amp;rsquo;t worth my time anymore.
 I&amp;rsquo;ve been using Emacs since 2015. I have developed more than 150 elisp packages, and maintained over 200 packages (including my packages). It&amp;rsquo;s been a long journey staying in the Emacs community, I think it&amp;rsquo;s a good for me to slow myself down and step back a little and think what I&amp;rsquo;ve accomplished through out these years.</description>
     </item>
     <item>
       <title>Emacs Eask 101 - Build tool</title>
-      <link>https://www.jcs-profile.com/posts/editor/emacs-eask-101/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/emacs-eask-101/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/emacs-eask-101/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/emacs-eask-101/</guid>
       <description>I&amp;rsquo;ve developed more than 50 elisp packages, and maintain 100 or more of them. Developing an elisp package isn&amp;rsquo;t easy for a beginner, especially for those who want to publish their package to an ELPA. e.g., GNU Elpa, NonGNU Elpa, MELPA, etc.
 That&amp;rsquo;s why I use Eask to help me develop elisp packages. Therefore, in this article, I&amp;rsquo;m going to teach people how to use this tool to help you build your own elisp packages!</description>
     </item>
     <item>
       <title>Fastest ELPA</title>
-      <link>https://www.jcs-profile.com/posts/editor/fastest-elpa/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/fastest-elpa/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/fastest-elpa/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/fastest-elpa/</guid>
       <description>What&amp;rsquo;s the fastest ELPA? Let&amp;rsquo;s define it first! The ELPA runs the fastest? No, that doesn&amp;rsquo;t make any sense. The ELPA serves you the fastest? Maybe.
 The definition for fastest ELPA in this article means it builds your packages the fastest! You might wonder why and how! Let me explain it to you!
 Normal ELPA, like MELPA, builds packages from the recipes directory, so it takes O(n) to do so. The more packages one ELPA holds, take longer the time to get packages to update to the server.</description>
     </item>
     <item>
       <title>Emacs Eask - Alternative to Emacs Cask</title>
-      <link>https://www.jcs-profile.com/posts/editor/emacs-eask/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/emacs-eask/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/emacs-eask/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/emacs-eask/</guid>
       <description>🔰 Introduction The name Eask came from Emacs Cask ; if you already know what Cask is and what it does, please skip this and forward to the next section.
 (NOTE: Cask and Eask are interchangeable in this section)
 Eask is the dependency management tool for Emacs Lisp. It&amp;rsquo;s like npm to Node.js; but it isn&amp;rsquo;t exactly the same since Eask has fewer tools than npm, plus their ecosystems are slightly different.</description>
     </item>
     <item>
       <title>Emacs vs Vim</title>
-      <link>https://www.jcs-profile.com/posts/editor/emacs-vs-vim/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/emacs-vs-vim/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/emacs-vs-vim/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/emacs-vs-vim/</guid>
       <description>Precisely that I am neither an Emacs nor Vim expert. I am just an amateur that knows about the two editors with just amount of knowledge. If you check out two of my Emacs and Vim repo, this could be the worst experience of all time. I hold onto an idea that the editors are just a tool. Unless there are issues that hamper or paster my workflow, I will avoid changing the configuration to my editor.</description>
     </item>
     <item>
       <title>Best Editor Ever</title>
-      <link>https://www.jcs-profile.com/posts/editor/best-editor-ever/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/best-editor-ever/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/best-editor-ever/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/best-editor-ever/</guid>
       <description>First the foremost, this article is all subjective opinions by me, and there are all kind of text editor for any kind of programmer. I think some programmer have some kind of religion, so I am not going to tell anyone to use any particular text editor. I believed text editor is just tool to help programmer make a software and get their job done.
 At my previous post &#39; Framework I have been working&amp;hellip; (Part 2) &amp;rsquo; I mentioned I watched a few episodes of &#39; Handmade Hero &amp;rsquo;s series.</description>
     </item>

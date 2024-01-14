@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>system on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/zh-tw/tags/system/</link>
+    <link>https://jcs090218.github.io/jcs-profile/zh-tw/tags/system/</link>
     <description>Recent content in system on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/tags/system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JCSUnity - 儲存機制</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/save-system/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/save-system/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/save-system/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/save-system/</guid>
       <description>這是一個簡易介紹給予展示 JCSUnity 是如何做到遊戲儲存機制.
 在Unity Engine裡面, 有三個主要方式做遊戲資料儲存使用C#語言.
 JCS_BinGameData - 二進制格式 JCS_XMLGameData - XML格式 JCS_JSONGameData - JSON格式 </description>

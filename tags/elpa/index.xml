@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ELPA on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/tags/elpa/</link>
+    <link>https://jcs090218.github.io/jcs-profile/tags/elpa/</link>
     <description>Recent content in ELPA on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/tags/elpa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/tags/elpa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to build your own ELPA with Eask?</title>
-      <link>https://www.jcs-profile.com/posts/editor/build-elpa/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/build-elpa/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/build-elpa/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/build-elpa/</guid>
       <description>ELPA stands for Emacs Lisp Package Archive. It&amp;rsquo;s used for Emacs users to download packages from, and it&amp;rsquo;s also the place where Emacs Lisp developers will host their packages. Here is a list of famous ELPA; see their site for more information!
 GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ Why? So why do we want to host our own ELPA? Aren’t those ELPAs enough?
 Yes, in general, you don&amp;rsquo;t need to host ELPA yourself since most packages you need will be available in one of those ELPA (packages can co-exist between ELPA).</description>
     </item>
     <item>
       <title>Fastest ELPA</title>
-      <link>https://www.jcs-profile.com/posts/editor/fastest-elpa/</link>
+      <link>https://jcs090218.github.io/jcs-profile/posts/editor/fastest-elpa/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/posts/editor/fastest-elpa/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/posts/editor/fastest-elpa/</guid>
       <description>What&amp;rsquo;s the fastest ELPA? Let&amp;rsquo;s define it first! The ELPA runs the fastest? No, that doesn&amp;rsquo;t make any sense. The ELPA serves you the fastest? Maybe.
 The definition for fastest ELPA in this article means it builds your packages the fastest! You might wonder why and how! Let me explain it to you!
 Normal ELPA, like MELPA, builds packages from the recipes directory, so it takes O(n) to do so. The more packages one ELPA holds, take longer the time to get packages to update to the server.</description>

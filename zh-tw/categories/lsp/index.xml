@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LSP on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/zh-tw/categories/lsp/</link>
+    <link>https://jcs090218.github.io/jcs-profile/zh-tw/categories/lsp/</link>
     <description>Recent content in LSP on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/zh-tw/categories/lsp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/categories/lsp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一個 VSCode 插件</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/lsp/vscode-shader/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/vscode-shader/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/vscode-shader/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/vscode-shader/</guid>
       <description>代碼庫連結: https://github.com/shader-ls/vscode-shader
 2023 年 8 月 23 日。我創建了我的第一個 VSCode 插件 – vscode-shader。 我的意圖很簡單：在 VSCode 中為我幾個月前創建的 shader-language-server 創建一個語言服務器客戶端。🤔
 🔰 簡單且良好的用戶體驗 首先，開發一個 VSCode 插件非常簡單。特別是為 VSCode 開發語言服務器的客戶端。 他們的網站上有許多示例和良好的文檔，使開發人員非常容易。我使用 uniteai 和 grammarly-language-server 作為參考。
@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>Shader 语言服务器</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/shader-ls/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/shader-ls/</guid>
       <description>代碼庫連結: https://github.com/shader-ls/shader-language-server
 2023 年 4 月 30 日。我創建了我的第一個語言服務器，它對某人確實有用。 我不久前嘗試過一個語言服務器，但它只是一個示例服務器，所以它不是很有用， 而且僅用於教育目的。
 我選擇編寫的目標語言是 ShaderLab 語言。 ShaderLab 用於 Unity 引擎， 因此您可以編寫自定義著色器來風格化您的遊戲。與常規編程語言不同，ShaderLab 分析起來要簡單得多，因此語言服務器可以響應客戶端。

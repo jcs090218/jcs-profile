@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ELPA on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/zh-tw/tags/elpa/</link>
+    <link>https://jcs090218.github.io/jcs-profile/zh-tw/tags/elpa/</link>
     <description>Recent content in ELPA on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/elpa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/tags/elpa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最快的 ELPA</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/fastest-elpa/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/fastest-elpa/</guid>
       <description>所以什麼是最快的 ELPA? 讓我們來定義一下! ELPA 最能跑? 不對, 這一點都不合邏 輯. ELPA 最快服務你? 或許, 但我不知道!
 在這裡我們定義&amp;quot;最快的 ELPA&amp;quot;為建構插件的速度. 也就是多久以後我們的插件會 被更新在服務器上. 就算更新了我們的插件, 也不用等上一段時間. 你可能會想說 &amp;ldquo;怎麼可能?&amp;rdquo; 還有 &amp;ldquo;怎麼做到的?&amp;rdquo;, 讓我一一解釋!
 一般的 ELPA, 像是 MELPA, 他們會從 recipes 資料夾裡取得需要建構的插件目標. 這裡的時間為 O(n), 越多插件則會花越多時間. 通常簡單的解決方法就是直接提升 硬體硬件, 來促使減少建構時間.

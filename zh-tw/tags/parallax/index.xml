@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>parallax on Jen-Chieh&#39;s Website</title>
-    <link>https://www.jcs-profile.com/zh-tw/tags/parallax/</link>
+    <link>https://jcs090218.github.io/jcs-profile/zh-tw/tags/parallax/</link>
     <description>Recent content in parallax on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/parallax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/tags/parallax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>視差網站</title>
-      <link>https://www.jcs-profile.com/zh-tw/posts/web-dev/parallax-website/</link>
+      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/web-dev/parallax-website/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.jcs-profile.com/zh-tw/posts/web-dev/parallax-website/</guid>
+      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/web-dev/parallax-website/</guid>
       <description>Link: MapleStory Survival Kit
 這是我學校第一堂網頁設計課所做的網頁. 因為之前是做遊戲的, 所以想挑戰看看 網頁設計能夠做到什麼地步來做到近乎渲染遊戲的方式. 這個網站有以下幾個亮點,
 視差 聲音 轉蛋機 👁️ 視差 我看大多範例的視差效果都是一張圖在後面, 身為一個遊戲工程師不經覺得這 樣的設計有些粗糙. 也想要設計看看CSS能夠做到什麼地步. 很幸運地在自己多 方琢磨之後,了解到CSS的動畫機制. 可以有機會的展示CSS的強大動畫效果. 視 差的動畫效果可以由左上方小小的控制板來操作.
