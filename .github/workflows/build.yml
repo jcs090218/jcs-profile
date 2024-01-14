@@ -29,11 +29,12 @@ jobs:
         ref: gh-pages
         path: gh-pages
 
+    - run: ls
+
     - name: Build doc artifacts with Hugo
       run: hugo --destination ../gh-pages --minify
 
-    - run: ls
-      working-directory: gh-pages
+    - run: cd ../ && ls
 
     # TODO: Generate better commit message
     - name: Publish doc artifacts
