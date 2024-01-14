@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>system on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/tags/system/</link>
+    <description>Recent content in system on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/tags/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JCSUnity - Save System</title>
+      <link>https://www.jcs-profile.com/posts/unity/jcsunity/save-system/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/unity/jcsunity/save-system/</guid>
+      <description>This is a introduction of how JCSUnity does for the game data save/load system.
+There are main three ways that you could do saving and loading in Unity Engine with C#.
+JCS_BinGameData - In binary format JCS_XMLGameData - In XML format JCS_JSONGameData - In JSON format </description>
+    </item>
+  </channel>
+</rss>

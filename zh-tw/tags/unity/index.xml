@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/tags/unity/</link>
+    <description>Recent content in Unity on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity CI自動化個人版授權</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</guid>
+      <description>追蹤了這篇 My disappointing experience using Unity in a CI pipeline, 我也認為這是我目前遇到的最大問題. 個人版本(免費)的授權系統是部分衝突到CI/CD的概念的, 原因是, 我們還是得手動更新授權至 UNITY_LICENSE 這個 GitHub secret (環境變數)裡面. 也導致了 我們全部的CI/CD並不是全部自動化的流程, 非常麻煩! 至於Plus/Pro使用者則沒有影響, 因為他們分 別使用了不同的授權系統! 😖
+我們直接切至問題點, 我們應該要怎麼做? 要怎麼讓這流程更順暢? 我的方法就是自動化整個授權的驗證過程! 長話短說, 我開發了一個 node 包 unity-license-activate, 原開發者是 Mizo Take. 這個包使用了 Puppeteer 來完成整個驗證步驟, 讓我可以使用JavaScript操控瀏覽器, 非常方便且正是我們需要的解決方法! 😁
+下一步, 我們只剩下要更新我們的 secret 至 UNITY_LICENSE 這個環境變數就好! 這些任務非常簡單, 我 們只需要下列的 GitHub actions 即可辦到.
+read-file-action, by Julian Gruber actions-set-secret, by Habid Enrique Manzur Restrepo 我們可以使用 read-file-action 來讀取下載好的 .ulf 檔案, 然後使用這個檔案的值給 actions-set-secrets.</description>
+    </item>
+    <item>
+      <title>JCSUnity - 儲存機制</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/save-system/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/save-system/</guid>
+      <description>這是一個簡易介紹給予展示 JCSUnity 是如何做到遊戲儲存機制.
+在Unity Engine裡面, 有三個主要方式做遊戲資料儲存使用C#語言.
+JCS_BinGameData - 二進制格式 JCS_XMLGameData - XML格式 JCS_JSONGameData - JSON格式 </description>
+    </item>
+    <item>
+      <title>JCSUnity概要</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/overview/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/overview/</guid>
+      <description>JCSUnity Repo: https://github.com/jcs090218/JCSUnity
+前言 這裡要介紹什麼其實真的不好說, 這是我已經開發將近3年的框架. 這個是我在大三的時候開發的框架, 也算是比較完整的框架. 在閱讀此篇之前,讀者最好要先了解框架,工具箱,圖書館,等等類似的東西的差別, 在這裡就不多贅述. 在我寫這個工具的時候, 我已經使用Unity大約兩年的時間. 從中做了不少的遊戲,畢竟課業需求,做遊戲如同家常便飯一樣. 寫程式也已經邁入第三年, 那時候的我才剛學完&amp;quot;資料結構&amp;quot;,&amp;ldquo;演算法&amp;rdquo;,&amp;ldquo;設計模式&amp;rdquo;. 特別是設計模式, 對於遊戲開發是特別有用的. 因為大多軟體架構都 是非常小的, 不然就是已經被前人給包好了. 例如, .NET框架, Visual BASIC/C++/C#, NetBean Graphic, 等等. 但是遊戲不同, 遊戲的架構通常再怎麼包都是非常大且複雜的. 了解底層運作更是十八般武藝&amp;hellip;
+在這些基礎之上,這個已經是我搭建的第三個框架,前面兩個我已經記不起來了. 我只記得其中一個是用AS3跟Starling框架配合. 對於寫API函式我已經算是有一定程度上的了解, 但是對於遊戲引擎的架構就有點顯得無知了. 在寫這個的時候我已經研究完了基 礎的遊戲引擎結構, 但是依然對於Unity Engine專門設計的API以及操作並不是很了解. 這使得我的工具顯得有點不是非常一致. 但是在我寫這個文章的時候, 這個工具已經大到非常難以管理的地步. 裡面的我自己寫的腳本大約400到500個. 每個腳本都是可以 獨立運行的,所以變化上由想可知是非常多的,同時也帶來了可能不必要的效能.
+介紹 JCSUnity是一個可快速搭建自己遊戲成品的高完成度框架. 由於框架的設計符合 Unity引擎遊戲設計師的設計理念, 版本相容度是非常高的, 基本上每次的Unity 版本升級都不會有問題. 這個框架更是完美呈現了框架的用意, 框架能提升開發者 的產能(productivity). 本人原本需要開發15周的時間能壓縮到3周, 因為這個 框架擁有了大多數遊戲都需要的設置, 但是Unity引擎本身並沒有提供的設置. 例 如, 慢慢地切換場景, 切換背景音樂, 銀幕等比例相容, 等等. 這個框架能讓遊戲 開發者高度集中在遊戲核心上的開發, 進而發展更多好玩的遊戲.
+可獨立運行腳本 接著上面所說的, 什麼是可獨立運行的腳本呢?</description>
+    </item>
+  </channel>
+</rss>

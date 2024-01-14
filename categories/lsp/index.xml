@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSP on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/categories/lsp/</link>
+    <description>Recent content in LSP on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/categories/lsp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first VSCode plugin</title>
+      <link>https://www.jcs-profile.com/posts/lsp/vscode-shader/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/lsp/vscode-shader/</guid>
+      <description>Repo Link: https://github.com/shader-ls/vscode-shader
+Aug 23rd, 2023. I&amp;rsquo;ve created my first VSCode plugin &amp;ndash; vscode-shader. My intention was simple: to create a language server&amp;rsquo;s client in VSCode for my shader-language-server that I created a couple of months ago. 🤔
+🔰 Simple and good UX First of all, it is very simple to develop a VSCode plugin. Especially developing a language server&amp;rsquo;s client for VSCode. There are many examples and good documentation on their site, making it very easy for developers.</description>
+    </item>
+    <item>
+      <title>Shader Language Server (LS)</title>
+      <link>https://www.jcs-profile.com/posts/lsp/shader-ls/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/lsp/shader-ls/</guid>
+      <description>Repo Link: https://github.com/shader-ls/shader-language-server
+April 30th, 2023. I have created my first language server that is actually useful to someone. I tried a language server a while back, but it was just an example server, so it’s not very useful, and it’s only for educational purposes.
+The target language I chose to write is the ShaderLab language. ShaderLab is used in Unity Engine, so you can write custom shaders to stylize your game.</description>
+    </item>
+  </channel>
+</rss>

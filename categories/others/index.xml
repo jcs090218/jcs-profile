@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/categories/others/</link>
+    <description>Recent content in Others on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I am about to do</title>
+      <link>https://www.jcs-profile.com/posts/others/what-i-am-about-to-do/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/others/what-i-am-about-to-do/</guid>
+      <description>Productivity is topic that often is ignored by a lot programmer. I have seen a bunch of documents out there talking about algorithm and data structure, so I would like to post a topic about productivity for an advanced programmer or for the programmer who wants to be a better programmer. So what exactly mean productivity in software development field? If you have seen my previous blog post &#39; Framework I have been working&amp;hellip; (Part 1) &amp;rsquo; and &#39; Framework I have been working&amp;hellip; (Part 2) &amp;lsquo;, then you might already know what I am going to write about for the rest of this article.</description>
+    </item>
+  </channel>
+</rss>
