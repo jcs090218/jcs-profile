@@ -33,6 +33,7 @@ jobs:
       run: hugo --destination ../gh-pages --minify
 
     - run: ls
+      working-directory: gh-pages
 
     # TODO: Generate better commit message
     - name: Publish doc artifacts
