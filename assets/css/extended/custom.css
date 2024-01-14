@@ -34,27 +34,23 @@ not(.dark) {
     max-width: calc(var(--main-width) + var(--gap) * 2);
 }
 
-a:hover {
-	color: #FFFFFF;
-}
-
 .post-content a {
     box-shadow: 0px 0px;
 }
 
-.list.dark .post-content a {
+.dark .post-content a {
 	color: #55BDE2;
 }
 
-.list:not(.dark) .post-content a {
-	color: #2D96BD;
-}
-
-.list.dark .post-content a:hover {
+.dark .post-content a:hover {
 	color: #AFDAEA;
 }
 
-.list:not(.dark) .post-content a:hover {
+body:not(.dark) .post-content a {
+	color: #2D96BD;
+}
+
+body:not(.dark) .post-content a:hover {
 	color: #EF3982;
 }
 
@@ -87,10 +83,6 @@ a:hover {
 
 /* Button hl */
 
-h3:hover {
-    color: red;
-}
-
-.entry-hint-parent:hover {
+.archive-entry h3:hover {
     color: red;
 }
