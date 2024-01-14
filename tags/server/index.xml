@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Server on Jen-Chieh&#39;s Website</title>
-    <link>https://jcs090218.github.io/jcs-profile/tags/server/</link>
+    <link>https://www.jcs-profile.com/tags/server/</link>
     <description>Recent content in Server on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jcs090218.github.io/jcs-profile/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jcs-profile.com/tags/server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First server migration</title>
-      <link>https://jcs090218.github.io/jcs-profile/posts/server/first-server-migration/</link>
+      <link>https://www.jcs-profile.com/posts/server/first-server-migration/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/posts/server/first-server-migration/</guid>
+      <guid>https://www.jcs-profile.com/posts/server/first-server-migration/</guid>
       <description>I have always been using AWS as my main web hosting choice. But I have come to the point that I reckon the price and services aren&amp;rsquo;t something that I need. Therefore, I have decided to switch to another web hosting company just for another taste.
 The main reasons are listed below:
 AWS charges you money when you click on their services without notifying the user. I dislike how it functions.</description>

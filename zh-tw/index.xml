@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jen-Chieh&#39;s Website</title>
-    <link>https://jcs090218.github.io/jcs-profile/zh-tw/</link>
+    <link>https://www.jcs-profile.com/zh-tw/</link>
     <description>Recent content on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jcs-profile.com/zh-tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elisp 語言服務器</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/elisp-ls/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-ls/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/elisp-ls/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-ls/</guid>
       <description>代碼庫連結: https://github.com/jcs090218/ellsp
 我最近為 Emacs Lisp 創建了一個語言伺服器。這很有趣，因為人們認為 Emacs Lisp 的語言伺服器不會提供任何價值。這個說法是正確的，我也是如此。Emacs Lisp 僅在 Emacs 編輯器內使用，Emacs 本身是一個 Emacs Lisp 解釋器。因此，Emacs Lisp 的語言伺服器很難為 Emacs 用戶帶來任何好處。
 但想像一下您可以在 Emacs 之外編寫 elisp（Emacs Lisp 的縮寫）。聽起來很有趣，對吧？ 🤔
@@ -24,9 +24,9 @@ Content-Length: 8203\r\n \r\n {json}\r\n 我花了幾個小時尋找解決方案
     </item>
     <item>
       <title>如何使用 Eask 構建自己的 ELPA？</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/build-elpa/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/build-elpa/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/build-elpa/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/build-elpa/</guid>
       <description>ELPA 是 Emacs Lisp Package Archive 的縮寫。它供 Emacs 用戶下載軟件包， 也是 Emacs Lisp 開發人員託管軟件包的地方。以下是著名 ELPA 的列表，請訪問他們的網站了解更多信息！
 GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為什麼要舉辦自己的 ELPA？這些 ELPA 還不夠嗎？
 是的，一般來說，您不需要自己託管 ELPA，因為您需要的大多數軟件包都可以在這些 ELPA 之一中獲得（軟件包可以在 ELPA 之間共存）。 以下是您可能想要構建自己的 ELPA 的幾個原因：
@@ -35,9 +35,9 @@ GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為�
     </item>
     <item>
       <title>我的第一個 VSCode 插件</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/vscode-shader/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/lsp/vscode-shader/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/vscode-shader/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/vscode-shader/</guid>
       <description>代碼庫連結: https://github.com/shader-ls/vscode-shader
 2023 年 8 月 23 日。我創建了我的第一個 VSCode 插件 – vscode-shader。 我的意圖很簡單：在 VSCode 中為我幾個月前創建的 shader-language-server 創建一個語言服務器客戶端。🤔
 🔰 簡單且良好的用戶體驗 首先，開發一個 VSCode 插件非常簡單。特別是為 VSCode 開發語言服務器的客戶端。 他們的網站上有許多示例和良好的文檔，使開發人員非常容易。我使用 uniteai 和 grammarly-language-server 作為參考。
@@ -48,9 +48,9 @@ GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為�
     </item>
     <item>
       <title>Shader 语言服务器</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/shader-ls/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/lsp/shader-ls/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/</guid>
       <description>代碼庫連結: https://github.com/shader-ls/shader-language-server
 2023 年 4 月 30 日。我創建了我的第一個語言服務器，它對某人確實有用。 我不久前嘗試過一個語言服務器，但它只是一個示例服務器，所以它不是很有用， 而且僅用於教育目的。
 我選擇編寫的目標語言是 ShaderLab 語言。 ShaderLab 用於 Unity 引擎， 因此您可以編寫自定義著色器來風格化您的遊戲。與常規編程語言不同，ShaderLab 分析起來要簡單得多，因此語言服務器可以響應客戶端。
@@ -63,9 +63,9 @@ GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為�
     </item>
     <item>
       <title>Emacs 的漫長旅程</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/long-journey-with-emacs/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/long-journey-with-emacs/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/long-journey-with-emacs/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/long-journey-with-emacs/</guid>
       <description>⚠️這篇文章的目的是提醒自己為什麼 Emacs 不再值得我花時間了。
 我從 2015 年開始使用 Emacs。我已經開發了 150 多個 elisp 包，並維護了 200 多個包（包括我的包）。 留在 Emacs 社區是一段漫長的旅程，我認為放慢自己的腳步，退一步思考這些年來我所取得的成就對我來說是有好處的。
 💫 我是如何進入 Emacs 的？ 很多人問我這個問題，所以我決定在這裡回答一下。
@@ -78,9 +78,9 @@ GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為�
     </item>
     <item>
       <title>Emacs Eask 101 - 建構工具</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/emacs-eask-101/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask-101/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/emacs-eask-101/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask-101/</guid>
       <description>我開發了 50 多個 Emacs 插件, 並且維護了將近 100 多個. 對初學者來說, 開發 Emacs 插件是一件不容易的事情, 特別是對那些想把自己的插件發行到其他的 ELPA 的人來說更不容易. 哪些 ELPA? (GNU Elpa, NonGNU Elpa, MELPA, 等等.)
 這是為什麼我使用 Eask 來幫助我完成這些插件的開發和維護的工作. 所以我將 在這則文章教大家如何使用這個工具來幫助你完成插件的開發!
 🗨️ 善用 --help 現今的 Eask 已經有超過 50 種以上的指令集 (包含隱藏的). 這個工具已經是個有 點複雜, 所以當你遇到問題的時候請善用 --help 這個旗幟.
@@ -90,9 +90,9 @@ $ eask --help 📦 建構插件 我們這裡直接切入正題, 我會默認你�
     </item>
     <item>
       <title>最快的 ELPA</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/fastest-elpa/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/fastest-elpa/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/</guid>
       <description>所以什麼是最快的 ELPA? 讓我們來定義一下! ELPA 最能跑? 不對, 這一點都不合邏 輯. ELPA 最快服務你? 或許, 但我不知道!
 在這裡我們定義&amp;quot;最快的 ELPA&amp;quot;為建構插件的速度. 也就是多久以後我們的插件會 被更新在服務器上. 就算更新了我們的插件, 也不用等上一段時間. 你可能會想說 &amp;ldquo;怎麼可能?&amp;rdquo; 還有 &amp;ldquo;怎麼做到的?&amp;rdquo;, 讓我一一解釋!
 一般的 ELPA, 像是 MELPA, 他們會從 recipes 資料夾裡取得需要建構的插件目標. 這裡的時間為 O(n), 越多插件則會花越多時間. 通常簡單的解決方法就是直接提升 硬體硬件, 來促使減少建構時間.
@@ -102,9 +102,9 @@ $ eask --help 📦 建構插件 我們這裡直接切入正題, 我會默認你�
     </item>
     <item>
       <title>💔 偏袒與被谝坦</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E5%81%8F%E8%A2%92%E8%88%87%E8%A2%AB%E8%B0%9D%E5%9D%A6/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/life/%E5%81%8F%E8%A2%92%E8%88%87%E8%A2%AB%E8%B0%9D%E5%9D%A6/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E5%81%8F%E8%A2%92%E8%88%87%E8%A2%AB%E8%B0%9D%E5%9D%A6/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/life/%E5%81%8F%E8%A2%92%E8%88%87%E8%A2%AB%E8%B0%9D%E5%9D%A6/</guid>
       <description>這是一篇又來記錄我生活上問到難題的文章. 不想接收負能量請離開!
 事件 前幾天我跟我姊發生了一些爭執, 姊弟吵架很正常, 但這次吵得很兇, 我們彼此都哭了. 此事情 將以我的個人為出發點去敘述始末!
 衝突的開端 那天2023, 美國舊金山時間1月10號晚上, 我們剛抵達舊金山, 抵達當地的飯店後, 一起出去買晚餐, 這之前 我不知道發生什麼事情, 我姊佳欣貌似與我媽相處的並不愉快, 並抱有不滿. 屆時, 我並不知道發生什麼事. 只知道到了外帶去(我們去買晚餐), 姐姐佳欣不願意幫忙拿自己的晚餐餐盒 (共三人份). 當下我很不滿, 我和我媽的手已經沒有手付帳, 她沒有選擇幫忙. 回到飯店後, 我撈刀並出言說她是&amp;quot;CryBaby&amp;quot;. 沒過一會兒, 她暴怒吼叫並出手攻擊推擠我. 我當下反應不及, 差點把他的晚餐打翻 (對, 我拿他的晚餐). 她吼道:
@@ -115,9 +115,9 @@ $ eask --help 📦 建構插件 我們這裡直接切入正題, 我會默認你�
     </item>
     <item>
       <title>第一次遷移服務器</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/server/first-server-migration/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/server/first-server-migration/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/server/first-server-migration/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/server/first-server-migration/</guid>
       <description>我一直以來的的 web hosting, 一直是使用aws. 但最近總覺得價錢太貴, 而且很多資金的使用 並不是這麼貼心. 總是莫名其妙多了一些費用. 當然, 這些並不是說aws有問題. 不過它們這方 面的機制, 我本身並不是很喜歡. 所以我決定在這個月, 換一個web hosting的公司. 更換的 理由如下:
 AWS收費機制不討人喜歡 價格對於小型用戶太過昂貴, 而且不是這麼需要 UI介面有夠醜, UX很糟糕 它們大量的制定他們aws服務的專有名詞, 這部分技能是無法轉移的 (EC2? Route 53? 等等) 接著, 進入細節.
 📋 遷移網域名 這次遷移的目標是 jcs-profile.com 這個網域. 查一下 who.is, 註冊商是 amazon.com. 我之前是使用 AWS 裡面的網域 註冊服務 Route 53 來註冊這個網域. 不過 我想把它移置到 Namecheap. 這家並不是最便宜的, 不過他的優點大概是老牌, 介面也算乾淨好整理. 不會有些雜七雜八的東西. 不過我自己 也沒有用過很多家, 所以我也不班門弄斧了. 等我有足夠的經驗再來補充.
@@ -125,9 +125,9 @@ AWS收費機制不討人喜歡 價格對於小型用戶太過昂貴, 而且不�
     </item>
     <item>
       <title>Game Jam - 8月 2022</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/game-jam-aug-2022/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam-aug-2022/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/game-jam-aug-2022/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam-aug-2022/</guid>
       <description>時間為2022的夏季, 在7月中旬, 我一位大學朋友 (@henrykuh) 邀請我一同參與他所主辦的 Game Jam, 在其活動的主題為驚喜 Surprise. 同時他也邀請我回 火柴共作坊 擔任程式區塊的負責人. 所以實質上, 這個 Game Jam 是用來讓我與其他在同個社群裡面的指導員 互相熟識, 以及交流的一個媒介. 這時候的我, 剛好完成了我上一份專案的開發計畫, 在沒有其他特別安排的 時期, 所以也沒有推辭, 就此決定參加很久沒參加的 Game Jam.
 ❓ 關於Game Jam 這個 Game Jam 的全名為 第五屆 DIY Game Jam: 驚喜 Surprise. 主辦單位為 自製遊戲公會. 時間是一個月, 比一般的 COVID-19 前的 Game Jam 的時間來的長上許多. 以往 Game Jam 時間都是 24 - 48 小時, 也就是一到兩天的時間 限制. 這是這個 Game Jam 相對比較特別的地方.
 主題很明顯的, 名稱已經洩漏了, 是驚喜.
@@ -135,9 +135,9 @@ AWS收費機制不討人喜歡 價格對於小型用戶太過昂貴, 而且不�
     </item>
     <item>
       <title>Emacs Eask - Emacs Cask替代方案</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/emacs-eask/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/emacs-eask/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask/</guid>
       <description>🔰 介紹 Eask的名字源自於Emacs Cask; 如果你已經有使 用過Cask的經驗, 那基本上你可以跳過這階段. 對於不了解或沒使用過的人, 在此我還是加減 介紹一下:
 (NOTE: 原則上這裡的Eask和Cask是可以互相替換的)
 Eask是個Emacs Lisp的套件管理工具, 有點類似於Node.js的npm, 但不全然是. 畢竟工具還不夠齊全, 而且Emacs生態也不適合npm那樣的模式. 所以簡單來說, Eask 可以是個劣化版的npm. 下面連結的 Why Cask? 有著更好的解釋
@@ -146,9 +146,9 @@ Behind technology Cross-Platform Emacs Version Size Cask Bash, Batch, and Python
     </item>
     <item>
       <title>❓ 媽媽, 要幫還是不幫? (短)</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E5%AA%BD%E5%AA%BD-%E8%A6%81%E5%B9%AB%E9%82%84%E6%98%AF%E4%B8%8D%E5%B9%AB/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/life/%E5%AA%BD%E5%AA%BD-%E8%A6%81%E5%B9%AB%E9%82%84%E6%98%AF%E4%B8%8D%E5%B9%AB/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E5%AA%BD%E5%AA%BD-%E8%A6%81%E5%B9%AB%E9%82%84%E6%98%AF%E4%B8%8D%E5%B9%AB/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/life/%E5%AA%BD%E5%AA%BD-%E8%A6%81%E5%B9%AB%E9%82%84%E6%98%AF%E4%B8%8D%E5%B9%AB/</guid>
       <description>這是一篇又來記錄我生活上問到難題的文章. 不想接收負能量請離開!
 進入正題,
 這種情況已經不只一次了, 這是一個平時工作日的下午, 陰天沒有陽光, 濕氣非常沉重. &amp;ldquo;我升降桌大後天要來了, 要把舊的書桌撤掉!&amp;rdquo;. 這是已經預定好了行程. 我已經跟我 媽商量好, 要一起把原先的舊桌子給移除. 然後把新的升降桌移入.
@@ -159,18 +159,18 @@ Behind technology Cross-Platform Emacs Version Size Cask Bash, Batch, and Python
     </item>
     <item>
       <title>第一個靜態網頁生產器</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/web-dev/first-static-site-generator/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/web-dev/first-static-site-generator/</link>
       <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/web-dev/first-static-site-generator/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/web-dev/first-static-site-generator/</guid>
       <description>最近迷上的網頁生產器, 所以我決定為我自己造一個網頁生產器, 何不? 其中較大的原因是因為我可以運行我的 網站到免費的 GitHub 網頁運行服務. 不過我上一個2018的專案 API-Reference-Template. 的核心是服務器取向, 而不是生產器取向&amp;hellip; 😨
 製作一個靜態網頁生產器並不是很困難, 我認為一個靜態網頁的價值來自原前端和整體的使用體驗. 然而, 我已經有一個令我自己滿意的前端網頁. 所以我就沿用我之前寫的專案, 並直接提取其中的前端部分. 然後直接把服務器取向的核心改成生產器取向! 🎉🎉🎉 我直接把這個工具重新取名為 SiraDoc, 這樣一來我也能夠給其他的網頁當作模板使用! 🥳
 🔗 Link https://github.com/SiraDoc/SiraDoc </description>
     </item>
     <item>
       <title>Unity CI自動化個人版授權</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</guid>
       <description>追蹤了這篇 My disappointing experience using Unity in a CI pipeline, 我也認為這是我目前遇到的最大問題. 個人版本(免費)的授權系統是部分衝突到CI/CD的概念的, 原因是, 我們還是得手動更新授權至 UNITY_LICENSE 這個 GitHub secret (環境變數)裡面. 也導致了 我們全部的CI/CD並不是全部自動化的流程, 非常麻煩! 至於Plus/Pro使用者則沒有影響, 因為他們分 別使用了不同的授權系統! 😖
 我們直接切至問題點, 我們應該要怎麼做? 要怎麼讓這流程更順暢? 我的方法就是自動化整個授權的驗證過程! 長話短說, 我開發了一個 node 包 unity-license-activate, 原開發者是 Mizo Take. 這個包使用了 Puppeteer 來完成整個驗證步驟, 讓我可以使用JavaScript操控瀏覽器, 非常方便且正是我們需要的解決方法! 😁
 下一步, 我們只剩下要更新我們的 secret 至 UNITY_LICENSE 這個環境變數就好! 這些任務非常簡單, 我 們只需要下列的 GitHub actions 即可辦到.
@@ -178,9 +178,9 @@ read-file-action, by Julian Gruber actions-set-secret, by Habid Enrique Manzur R
     </item>
     <item>
       <title>學歷或許沒這麼重要?</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</guid>
       <description>前言, 這是要給我&amp;quot;老爸&amp;quot;看的.
 這種類似的文章, 實在很多. 所以我不會提及任何外面已經有的文章. 這文章將會是充滿我個人主觀 想法的文章. 歡迎你有不同的想法, 也可以完全不贊同我的想法! 👍
 根據我老媽的說詞, 大家認為碩士生總比學士生還要來的有競爭力. 我是來顛覆你部分想法的!
@@ -191,9 +191,9 @@ read-file-action, by Julian Gruber actions-set-secret, by Habid Enrique Manzur R
     </item>
     <item>
       <title>為什麼離開雪梨大學?</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/why-i-left-usyd/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/why-i-left-usyd/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/why-i-left-usyd/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/why-i-left-usyd/</guid>
       <description>亞洲父母時常把自己的小孩當作人生的第二生命，因此造成了傳承上的惡性循環。那為什麼不在自己的有 限生命裡做自己認為對的事情呢？這問題也時常困惑著我，到什麼什麼時候才是長大？時間？歲月？還是 說是經驗？
 我認為沒有所謂的「長大」，因為我們一生中都會有自己不知道的事情。先今2021年，人類平均壽命為79- 80歲，但我們需要學習的東西卻為人類2000多年來的歷史。也就是說，我們花費一生也沒辦法把所有東西 都學完！🤔
 我認為學校是好的開始，但卻不是人生最終的答案！學習不應該只僅限制於學校內，而是應該融入於在生活 之中。學歷確實很重要，他能為你帶來工作，但也能為你帶來絕望。
@@ -204,9 +204,9 @@ read-file-action, by Julian Gruber actions-set-secret, by Habid Enrique Manzur R
     </item>
     <item>
       <title>為什麼我不再跟我姐說話 👧</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%86%8D%E8%B7%9F%E6%88%91%E5%A7%90%E8%AA%AA%E8%A9%B1/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%86%8D%E8%B7%9F%E6%88%91%E5%A7%90%E8%AA%AA%E8%A9%B1/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%86%8D%E8%B7%9F%E6%88%91%E5%A7%90%E8%AA%AA%E8%A9%B1/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%86%8D%E8%B7%9F%E6%88%91%E5%A7%90%E8%AA%AA%E8%A9%B1/</guid>
       <description>這篇是特別針對給我這個偉大的老姐看的. 😒
 我自己也不是很確定原因, 人在相處的時候互相不愉快. 絕對不會只是一方面的錯. 因為過程的最後不會有交集, 那探討這方面的問題一點也不重要.
 ❓ 問題 我把問題大概分為幾點, 根據我老媽跟自身的觀察. 老實說我自己都不知道這些是否正確. 但我可以肯定的是, 我老姐決不會認同. 因為她從來沒怎麼認同過我的論點. 😕 😧
@@ -218,9 +218,9 @@ P.S. 很好笑的是, 我們只差一歲! 😬
     </item>
     <item>
       <title>為什麼我討厭跟家人住</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A8%8E%E5%8E%AD%E8%B7%9F%E5%AE%B6%E4%BA%BA%E4%BD%8F/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A8%8E%E5%8E%AD%E8%B7%9F%E5%AE%B6%E4%BA%BA%E4%BD%8F/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A8%8E%E5%8E%AD%E8%B7%9F%E5%AE%B6%E4%BA%BA%E4%BD%8F/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E8%A8%8E%E5%8E%AD%E8%B7%9F%E5%AE%B6%E4%BA%BA%E4%BD%8F/</guid>
       <description>長期在國外生活的我, 已經很久一段時間沒有和家人住在一起. 這也時常讓我重新意識到 跟家人住有許多好處, 但事情總是正反兩面, 不會兩全其美.
 以下閒聊, 以及抱怨.
 在家吃飯無比壓力 有時候真的讓人覺得很無奈. 雖說我媽媽是個模範媽媽, 很會煮飯. 可是人不是機器人, 我媽也不是專業的廚師. 煮的東西也總是保持不一定的水準. 有時候蠻好吃的, 有時候 變得很難吃. 最可憐的是有時候主菜特別難吃又只有那一道菜的時候, 你就只好吃, 不然 就是不吃. 有時候跟老媽抱怨, 又會被嫌說我們不珍惜. 自己也感到內疚. 然後我媽就不 開心. 每天都是這個模式.
@@ -232,9 +232,9 @@ P.S. 很好笑的是, 我們只差一歲! 😬
     </item>
     <item>
       <title>🏀 為什麼我不在台灣打籃球?</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%89%93%E7%B1%83%E7%90%83/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%89%93%E7%B1%83%E7%90%83/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%89%93%E7%B1%83%E7%90%83/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/life/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E4%B8%8D%E5%9C%A8%E5%8F%B0%E7%81%A3%E6%89%93%E7%B1%83%E7%90%83/</guid>
       <description>這篇不代表所有台灣人都有此行為, 表示不以偏概全!
 這篇不代表台灣人因此犯賤, 單純討論台灣時事!
 先聲明, 我自己並不是個籃球員. 也不是個任何運動項目的運動員. 我只是個單純喜歡打籃球的人. 只是單純作為喜歡運動的人去評論在台灣打球的風氣. :P
@@ -246,9 +246,9 @@ FIBA規則書: https://www.fiba.basketball/documents/official-basketball-rules-2
     </item>
     <item>
       <title>遇到困難</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/philosophy/%E9%81%87%E5%88%B0%E5%9B%B0%E9%9B%A3/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/philosophy/%E9%81%87%E5%88%B0%E5%9B%B0%E9%9B%A3/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/philosophy/%E9%81%87%E5%88%B0%E5%9B%B0%E9%9B%A3/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/philosophy/%E9%81%87%E5%88%B0%E5%9B%B0%E9%9B%A3/</guid>
       <description>這是我曾經寫給我朋友的話, 我在此把它紀錄下來.
 此話始於, 2020-05-06 (真的是我想的嗎? 我自己都感到驚訝阿!😮)
 面對困難的時候, 人會感到害怕很正常, 或許是一個過程, 害怕會促使一個人的成長(看事情)? 就讓他去害怕吧! 不要放棄的絞盡腦汁的去思考, 思考問題, 努力的去想!如果到時候沒有辦法 解決, 不代表未來沒辦法解決, 也不代表你很失敗.
@@ -257,16 +257,16 @@ FIBA規則書: https://www.fiba.basketball/documents/official-basketball-rules-2
     </item>
     <item>
       <title>人才流失(台灣)</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/events/%E4%BA%BA%E6%89%8D%E6%B5%81%E5%A4%B1%E5%8F%B0%E7%81%A3/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/events/%E4%BA%BA%E6%89%8D%E6%B5%81%E5%A4%B1%E5%8F%B0%E7%81%A3/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/events/%E4%BA%BA%E6%89%8D%E6%B5%81%E5%A4%B1%E5%8F%B0%E7%81%A3/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/events/%E4%BA%BA%E6%89%8D%E6%B5%81%E5%A4%B1%E5%8F%B0%E7%81%A3/</guid>
       <description>今天來講講我對台灣人材流失的原因，我從美國畢業回來後，因為沒有資歷時常被公司壓。 我其實能夠理解公司不信任我的原因，但讓一個能力不行但卻又資歷的人有較好的待遇。 不經會讓人覺得「那我何必努力呢？反正讓時間帶過就好，薪水自然漲。」這樣的陋習。這 樣子跟共產「讓別人做事就好，我偷懶！」又有什麼兩樣？自然的，我不想熬兩三年，因為這 兩三年時間對我很寶貴（我不喜歡浪費時間）。所以我選擇離開台灣。不知道有沒有人有跟 我一樣的想法？</description>
     </item>
     <item>
       <title>我想幹嘛</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/others/what-i-am-about-to-do/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/others/what-i-am-about-to-do/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/others/what-i-am-about-to-do/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/others/what-i-am-about-to-do/</guid>
       <description>給予那些想跟我合作, 但並不完全信任或了解我的人.
 很多人問過我想幹什麼?對我的計畫有許多的疑惑與不了解. 所以我就打算乾脆打一篇 放著以方便我自己去做解釋. 首先想要了解我的計畫是沒有太多用處的. 請先了解我這個 人的特質. 我在小學六年級就有了第一次想要創業的想法, 原因不外乎就是因為我自己 家是有事業的. 從小看著自己爸爸媽媽過著有著自己事業的生活, 深深地影響我對自己 未來的計劃. 簡單的說,創業我比誰都很早就開始準備;也準備了超過10年的時間. 不管 是在大學期間的自我學習都跟著我未來的創業路程有著深遠的考慮而做出的決定. 對於 我自己的修成就是著重在如果開創自己的事業為主. 例如, 領導能力, 技術能力, 思想, 溝通與協調能力上面都做了充分的準備.
 基於上面的背景敘述, 我在大學特別向所有的領域有了個特別的研讀. 因此我或許不能 在某個特地的領域裡面當專家. 也能夠判別並分析出差異性. 我的領域學習路程是這樣 過來的. 真是多虧了我的大學(AAU)提供的多變的學習環境!
@@ -275,9 +275,9 @@ FIBA規則書: https://www.fiba.basketball/documents/official-basketball-rules-2
     </item>
     <item>
       <title>台灣軟體行業</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/industry/software-industry-taiwan/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/industry/software-industry-taiwan/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/industry/software-industry-taiwan/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/industry/software-industry-taiwan/</guid>
       <description>這是我曾經寫給我朋友的話, 我在此把它紀錄下來.
 此話始於, 2020-05-06 (真的是我想的嗎? 我自己都感到驚訝阿!😮)
 面對困難的時候, 人會感到害怕很正常, 或許是一個過程, 害怕會促使一個人的成長(看事情)? 就讓他去害怕吧! 不要放棄的絞盡腦汁的去思考, 思考問題, 努力的去想!如果到時候沒有辦法 解決, 不代表未來沒辦法解決, 也不代表你很失敗.
@@ -286,16 +286,16 @@ FIBA規則書: https://www.fiba.basketball/documents/official-basketball-rules-2
     </item>
     <item>
       <title>美術, 設計, 程式</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/art-design-programming/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/art-design-programming/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/art-design-programming/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/game-dev/art-design-programming/</guid>
       <description>WIP</description>
     </item>
     <item>
       <title>遊戲裡的編程</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/programming-in-game/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/programming-in-game/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/programming-in-game/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/game-dev/programming-in-game/</guid>
       <description>遊戲裡的編程可能是因為我就讀藝術學校, 很多人覺得我計算機領域很厲害. 我很幸運在大學裡認識了各行各界的人, 有的是大公司來進修的，有的是從 別的領域過來的. 其中做遊戲的科系很特別，因為遊戲需要的人太雜, 主要 分成三類, 美術, 設計, 程式. 關於遊戲領域我會在特別寫一篇, 在此篇先不討論.
 程式一直都是我們學校的弱點, 我們學校美術總是多於程式, 因此我在程式 方面多下了很多功夫, 也因此愛上了計算機的領域.
 因為我非本科生, 所以我並不知道我的見解是否完全正確. 我只知道我的一些 計算機領域的朋友以及老師都十分贊同我的想法. 首先, 計算機是很複雜的東西, 所以就算自己有什麼不懂的地方, 那很正常. 計算機是我認為其中一個最難的科 學之一, 因為其精密程度之高. 更重要的是, 人類學習機器的語言本來就比人類 學習人類的語言要難. 這也是為什麼我時常不在我非本科的朋友面前很少提工作 的事情, 因為通常的反應就是沒反應. 時常剛解釋完一個名詞就是接著解釋另一 個名詞. 畢竟是機器的東西, 所以我也不在提了.
@@ -304,9 +304,9 @@ FIBA規則書: https://www.fiba.basketball/documents/official-basketball-rules-2
     </item>
     <item>
       <title>API參考模板</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/legacy/api-reference-template/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/legacy/api-reference-template/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/legacy/api-reference-template/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/legacy/api-reference-template/</guid>
       <description>Demo: http://www.jcs-profile.com:3000/Manual/index.html
 GitHub Repo: https://github.com/jcs090218/API-Reference-Template
 因為平時很常寫很多的工具, 最常寫的就是API. 為了解決每次寫一個工具就 必須從頭建立檔案的問題, 決定花時間來寫一個專門給別人閱讀API用的網站. 以下是使用的技術資訊.
@@ -314,9 +314,9 @@ GitHub Repo: https://github.com/jcs090218/API-Reference-Template
     </item>
     <item>
       <title>視差網站</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/web-dev/parallax-website/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/web-dev/parallax-website/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/web-dev/parallax-website/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/web-dev/parallax-website/</guid>
       <description>Link: MapleStory Survival Kit
 這是我學校第一堂網頁設計課所做的網頁. 因為之前是做遊戲的, 所以想挑戰看看 網頁設計能夠做到什麼地步來做到近乎渲染遊戲的方式. 這個網站有以下幾個亮點,
 視差 聲音 轉蛋機 👁️ 視差 我看大多範例的視差效果都是一張圖在後面, 身為一個遊戲工程師不經覺得這 樣的設計有些粗糙. 也想要設計看看CSS能夠做到什麼地步. 很幸運地在自己多 方琢磨之後,了解到CSS的動畫機制. 可以有機會的展示CSS的強大動畫效果. 視 差的動畫效果可以由左上方小小的控制板來操作.
@@ -325,18 +325,18 @@ GitHub Repo: https://github.com/jcs090218/API-Reference-Template
     </item>
     <item>
       <title>JCSUnity - 儲存機制</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/save-system/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/save-system/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/save-system/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/save-system/</guid>
       <description>這是一個簡易介紹給予展示 JCSUnity 是如何做到遊戲儲存機制.
 在Unity Engine裡面, 有三個主要方式做遊戲資料儲存使用C#語言.
 JCS_BinGameData - 二進制格式 JCS_XMLGameData - XML格式 JCS_JSONGameData - JSON格式 </description>
     </item>
     <item>
       <title>JCSUnity概要</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/overview/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/overview/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/unity/jcsunity/overview/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/overview/</guid>
       <description>JCSUnity Repo: https://github.com/jcs090218/JCSUnity
 前言 這裡要介紹什麼其實真的不好說, 這是我已經開發將近3年的框架. 這個是我在大三的時候開發的框架, 也算是比較完整的框架. 在閱讀此篇之前,讀者最好要先了解框架,工具箱,圖書館,等等類似的東西的差別, 在這裡就不多贅述. 在我寫這個工具的時候, 我已經使用Unity大約兩年的時間. 從中做了不少的遊戲,畢竟課業需求,做遊戲如同家常便飯一樣. 寫程式也已經邁入第三年, 那時候的我才剛學完&amp;quot;資料結構&amp;quot;,&amp;ldquo;演算法&amp;rdquo;,&amp;ldquo;設計模式&amp;rdquo;. 特別是設計模式, 對於遊戲開發是特別有用的. 因為大多軟體架構都 是非常小的, 不然就是已經被前人給包好了. 例如, .NET框架, Visual BASIC/C++/C#, NetBean Graphic, 等等. 但是遊戲不同, 遊戲的架構通常再怎麼包都是非常大且複雜的. 了解底層運作更是十八般武藝&amp;hellip;
 在這些基礎之上,這個已經是我搭建的第三個框架,前面兩個我已經記不起來了. 我只記得其中一個是用AS3跟Starling框架配合. 對於寫API函式我已經算是有一定程度上的了解, 但是對於遊戲引擎的架構就有點顯得無知了. 在寫這個的時候我已經研究完了基 礎的遊戲引擎結構, 但是依然對於Unity Engine專門設計的API以及操作並不是很了解. 這使得我的工具顯得有點不是非常一致. 但是在我寫這個文章的時候, 這個工具已經大到非常難以管理的地步. 裡面的我自己寫的腳本大約400到500個. 每個腳本都是可以 獨立運行的,所以變化上由想可知是非常多的,同時也帶來了可能不必要的效能.
@@ -345,39 +345,39 @@ JCS_BinGameData - 二進制格式 JCS_XMLGameData - XML格式 JCS_JSONGameData -
     </item>
     <item>
       <title>Emacs vs Vim</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/emacs-vs-vim/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-vs-vim/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/emacs-vs-vim/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-vs-vim/</guid>
       <description>實際上,我並不是個Emacs或Vim專家.我只是單純剛好在這兩個編輯器上面都有些了解. 如果你查看我的兩個 Emacs 和 Vim 的repo,那可能是最糟的經驗. 我秉持著一個想法, 那就是編輯器對我只是個工具. 在我對於我的工具不滿意的時候我才會選擇去修改我的工具. 不是很必要的我就不會 特地去強求. 畢竟我不是要再造一個輪子,也沒打算讓Emacs或Vim分個高下.
 先說結論,我是Emacs的使用者. 但為什麼我是Emacs使用者不是Vim使用者對我來講是 有一套根據的. 首先我對於開發者的理念以及角度做了一個簡單的對比. 依照我的個人 經驗以及橫跨世界的開發者角度來看,使用Emacs的通常都是開發軟體(Software Engineering)的較多. 則使用Vim的大多是駭客(Hacker)或者從事資訊安全(Cyber Security). 其實這個道理很簡單,相信可能已經很多人都發現了. 身為軟體工程的我 會更喜歡Emacs本身設計師的理念, 他讓了軟體設計師有了強大的韌性以及空間去做最 大幅度上的修改. 因為軟體工程師的工作大多都需要在一個軟體待得很久, 這樣聽起來 是不是對某個東西很熟悉呢? 沒錯, 那就是一個Integrated Development Environment (IDE). 當然一定會有人開始要爭論Vim也做得到, 但是那並不是Vim 本身的設計理念. Vim本身是為了快速地能夠在終端修改文本而產生的編輯器. 他是為了 快速而生的, 所以在建造這個Vim的時候並沒有在修改上有其專門性. 在這方面在Emacs 面前較會略為遜色, 相反的Vim在速度以及需要跨足到其他軟體的行業來講是非常受到 歡迎的,以及近年來改的版本也越來越傾向於Emacs那樣的設計了! 但同時也衍生了一 個問題,如果Vim是為了快速修改文本,再增加每一個插件的同時,也帶來了效能上的消耗. 打開文本的速度會越來越慢. 這樣的衝突實在讓我百思不得其解&amp;hellip; 至於Emacs本身設計 的同時就打算在這上面有所顧忌了,所以他一開始就沒打算跟Vim去比速度. 這也是為什麼 大多Vim使用者覺得Emacs太肥,因為Emacs本身的設計就不是為了速度. 他是選擇夾在類 Vim跟大多的IDE中間. 這剛好滿足了軟體工程師討厭的肥大的IDE,以及同時保留了IDE大 多數或者更棒的功能!
 但是這麼棒的東西為什麼還是這麼少人用? 原因很簡單, 我個人學Emacs的時候是學 Raw Emacs, 也就是什麼都沒有開始建起來. 我特別能夠感受到Emacs它的獨特性以 及它的不友善性&amp;hellip; 它官方的文檔我覺得做的不算好,教學視頻也不是很多, 也沒有 Vim口令那樣的設計巧思. 根本就是一塊石頭. 在這樣的情況下,有誰會想用它? 在 學習曲線這麼陡的道路上,以及大多數的功能還要自己去寫,寫之前還得要去學Emacs 它們搭建的腳本層的語言/語法(Emacs Lisp),這些都是不少的工程以及時間上的花費.</description>
     </item>
     <item>
       <title>最好的編輯器</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/best-editor-ever/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/best-editor-ever/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/best-editor-ever/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/best-editor-ever/</guid>
       <description>WIP</description>
     </item>
     <item>
       <title>生產力</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/productivity/productivity/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/productivity/productivity/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/productivity/productivity/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/productivity/productivity/</guid>
       <description>WIP</description>
     </item>
     <item>
       <title>一直以來製作中的框架</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/productivity/framework-i-have-been-working-on/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/productivity/framework-i-have-been-working-on/</link>
       <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/productivity/framework-i-have-been-working-on/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/productivity/framework-i-have-been-working-on/</guid>
       <description>WIP</description>
     </item>
     <item>
       <title>關於我</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/announcement/about-me/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/announcement/about-me/</link>
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/announcement/about-me/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/announcement/about-me/</guid>
       <description>我一向不是很喜歡寫作以及談論自己的事情. 所以我一直很排斥去寫關於自己的事情， 更何況我誰也不是，既不是名人, 也從沒上過什麼報章雜誌. 這種情況我實在很難想 像誰會特地來看這「關於我」的文章. 至此, 我不打算寫一個太過沉長的自我介紹. 我現齡24歲, 活得不長也不短，但也足夠讓一個人回顧自己過往的經歷.
 故事一開始總是悲慘的, 從小我就是個極度悲觀的人, 既容易放棄, 也不懂的堅持. 不知道失敗跟成功的區別, 從小可能有一定的天資, 以為即使不努力也能拿到好的成績。 等再大一點的時候，不知不覺成績已經是倒數了. 在自己的兄弟姊妹面前總是抬不起頭， 裝得一副無所謂的樣子。直到國中，我的人生才有了劇烈的轉變. 上了國中, 我的成績 平平, 在我爸媽的鼓勵下我決定轉往我比較有興趣的發展, 就是體育方面. 國中第一年 我參加了我們國中的網球班，在教練極端嚴厲的指導下, 再加上我天生的身體不算太好, 我依然克服了種種的考驗. 在第一次充分有了自己的專長後, 讓我了解到了「忍耐」、 「不看重」和「自信」.
 最後一年, 我回到了普通的班級, 決定挑戰自己一直逃避的事情, 讀書. 當初真的很不容 易, 挑戰自己沒有興趣的東西真的很困難. 直到我在某種機緣之下了解到「人生不是都是 快樂的」和「某種意義上來說, 沒有人是愛讀書的」. 我才正式的開始了自己的挑戰, 挑戰自己不擅長的事物. 很神奇的是, 我的成績也真的爬上來了. 雖然依然不是前幾名, 但卻讓我體悟的人生最重要的事情. 「努力不會背棄你」和「領悟到成功的美好之後, 會讓自己覺得無所不能」, 這時候是我人生的最高潮.
@@ -386,17 +386,17 @@ JCS_BinGameData - 二進制格式 JCS_XMLGameData - XML格式 JCS_JSONGameData -
     </item>
     <item>
       <title>開始部落格!</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/announcement/start-blog-announcment/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/announcement/start-blog-announcment/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/announcement/start-blog-announcment/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/announcement/start-blog-announcment/</guid>
       <description>這是我個人的部落格, 我聽說了很多人寫部落格有許多好處. 所以我決定開始 寫這個部落格. 這裡我打算分享我在開發時遇到的事情,以及我認為成程序員 應該要是怎麼樣子,它們的工作有哪些, 而他們實際上又在做什麼呢?</description>
     </item>
     <item>
       <title>專案</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/projects/</link>
+      <link>https://www.jcs-profile.com/zh-tw/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/projects/</guid>
-      <description></description>
+      <guid>https://www.jcs-profile.com/zh-tw/projects/</guid>
+      <description>WIP</description>
     </item>
   </channel>
 </rss>

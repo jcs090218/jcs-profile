@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Dev on Jen-Chieh&#39;s Website</title>
-    <link>https://jcs090218.github.io/jcs-profile/zh-tw/tags/game-dev/</link>
+    <link>https://www.jcs-profile.com/zh-tw/tags/game-dev/</link>
     <description>Recent content in Game Dev on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Jam - 8月 2022</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/game-jam-aug-2022/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam-aug-2022/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/game-jam-aug-2022/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam-aug-2022/</guid>
       <description>時間為2022的夏季, 在7月中旬, 我一位大學朋友 (@henrykuh) 邀請我一同參與他所主辦的 Game Jam, 在其活動的主題為驚喜 Surprise. 同時他也邀請我回 火柴共作坊 擔任程式區塊的負責人. 所以實質上, 這個 Game Jam 是用來讓我與其他在同個社群裡面的指導員 互相熟識, 以及交流的一個媒介. 這時候的我, 剛好完成了我上一份專案的開發計畫, 在沒有其他特別安排的 時期, 所以也沒有推辭, 就此決定參加很久沒參加的 Game Jam.
 ❓ 關於Game Jam 這個 Game Jam 的全名為 第五屆 DIY Game Jam: 驚喜 Surprise. 主辦單位為 自製遊戲公會. 時間是一個月, 比一般的 COVID-19 前的 Game Jam 的時間來的長上許多. 以往 Game Jam 時間都是 24 - 48 小時, 也就是一到兩天的時間 限制. 這是這個 Game Jam 相對比較特別的地方.
 主題很明顯的, 名稱已經洩漏了, 是驚喜.
@@ -20,16 +20,16 @@
     </item>
     <item>
       <title>美術, 設計, 程式</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/art-design-programming/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/art-design-programming/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/art-design-programming/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/game-dev/art-design-programming/</guid>
       <description>WIP</description>
     </item>
     <item>
       <title>遊戲裡的編程</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/programming-in-game/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/programming-in-game/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/game-dev/programming-in-game/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/game-dev/programming-in-game/</guid>
       <description>遊戲裡的編程可能是因為我就讀藝術學校, 很多人覺得我計算機領域很厲害. 我很幸運在大學裡認識了各行各界的人, 有的是大公司來進修的，有的是從 別的領域過來的. 其中做遊戲的科系很特別，因為遊戲需要的人太雜, 主要 分成三類, 美術, 設計, 程式. 關於遊戲領域我會在特別寫一篇, 在此篇先不討論.
 程式一直都是我們學校的弱點, 我們學校美術總是多於程式, 因此我在程式 方面多下了很多功夫, 也因此愛上了計算機的領域.
 因為我非本科生, 所以我並不知道我的見解是否完全正確. 我只知道我的一些 計算機領域的朋友以及老師都十分贊同我的想法. 首先, 計算機是很複雜的東西, 所以就算自己有什麼不懂的地方, 那很正常. 計算機是我認為其中一個最難的科 學之一, 因為其精密程度之高. 更重要的是, 人類學習機器的語言本來就比人類 學習人類的語言要難. 這也是為什麼我時常不在我非本科的朋友面前很少提工作 的事情, 因為通常的反應就是沒反應. 時常剛解釋完一個名詞就是接著解釋另一 個名詞. 畢竟是機器的東西, 所以我也不在提了.

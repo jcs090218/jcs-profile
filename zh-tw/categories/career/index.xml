@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career on Jen-Chieh&#39;s Website</title>
-    <link>https://jcs090218.github.io/jcs-profile/zh-tw/categories/career/</link>
+    <link>https://www.jcs-profile.com/zh-tw/categories/career/</link>
     <description>Recent content in Career on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jcs090218.github.io/jcs-profile/zh-tw/categories/career/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jcs-profile.com/zh-tw/categories/career/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何使用 Eask 構建自己的 ELPA？</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/build-elpa/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/build-elpa/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/editor/build-elpa/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/build-elpa/</guid>
       <description>ELPA 是 Emacs Lisp Package Archive 的縮寫。它供 Emacs 用戶下載軟件包， 也是 Emacs Lisp 開發人員託管軟件包的地方。以下是著名 ELPA 的列表，請訪問他們的網站了解更多信息！
 GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為什麼要舉辦自己的 ELPA？這些 ELPA 還不夠嗎？
 是的，一般來說，您不需要自己託管 ELPA，因為您需要的大多數軟件包都可以在這些 ELPA 之一中獲得（軟件包可以在 ELPA 之間共存）。 以下是您可能想要構建自己的 ELPA 的幾個原因：
@@ -21,9 +21,9 @@ GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為�
     </item>
     <item>
       <title>學歷或許沒這麼重要?</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</guid>
       <description>前言, 這是要給我&amp;quot;老爸&amp;quot;看的.
 這種類似的文章, 實在很多. 所以我不會提及任何外面已經有的文章. 這文章將會是充滿我個人主觀 想法的文章. 歡迎你有不同的想法, 也可以完全不贊同我的想法! 👍
 根據我老媽的說詞, 大家認為碩士生總比學士生還要來的有競爭力. 我是來顛覆你部分想法的!
@@ -34,9 +34,9 @@ GNU Elpa (official) NonGNU Elpa (official) MELPA ❓ 為什麼? 那麼我們為�
     </item>
     <item>
       <title>為什麼離開雪梨大學?</title>
-      <link>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/why-i-left-usyd/</link>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/why-i-left-usyd/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://jcs090218.github.io/jcs-profile/zh-tw/posts/career/why-i-left-usyd/</guid>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/why-i-left-usyd/</guid>
       <description>亞洲父母時常把自己的小孩當作人生的第二生命，因此造成了傳承上的惡性循環。那為什麼不在自己的有 限生命裡做自己認為對的事情呢？這問題也時常困惑著我，到什麼什麼時候才是長大？時間？歲月？還是 說是經驗？
 我認為沒有所謂的「長大」，因為我們一生中都會有自己不知道的事情。先今2021年，人類平均壽命為79- 80歲，但我們需要學習的東西卻為人類2000多年來的歷史。也就是說，我們花費一生也沒辦法把所有東西 都學完！🤔
 我認為學校是好的開始，但卻不是人生最終的答案！學習不應該只僅限制於學校內，而是應該融入於在生活 之中。學歷確實很重要，他能為你帶來工作，但也能為你帶來絕望。
