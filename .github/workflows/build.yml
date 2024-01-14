@@ -32,7 +32,7 @@ jobs:
     - run: ls
 
     - name: Build doc artifacts with Hugo
-      run: hugo --destination ../gh-pages --minify
+      run: hugo --destination ./gh-pages --minify
 
     - run: cd ../ && ls
 
