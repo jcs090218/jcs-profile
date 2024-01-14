@@ -1,0 +1,96 @@
+body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
+}
+
+body#top:not(.dark) {
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+    border: 5px solid #292A2D;
+}
+
+.list .main .first-entry {
+    display: none;
+}
+
+.list .main .post-entry {
+    display: none;
+}
+
+.dark {
+    background-color: #292A2D;
+}
+
+.dark.list {
+    background-color: #292A2D;
+}
+
+not(.dark) {
+    background-color: #F5F5F5;
+}
+
+.main {
+    max-width: calc(var(--main-width) + var(--gap) * 2);
+}
+
+a:hover {
+	color: #FFFFFF;
+}
+
+.post-content a {
+    box-shadow: 0px 0px;
+}
+
+.list.dark .post-content a {
+	color: #55BDE2;
+}
+
+.list:not(.dark) .post-content a {
+	color: #2D96BD;
+}
+
+.list.dark .post-content a:hover {
+	color: #AFDAEA;
+}
+
+.list:not(.dark) .post-content a:hover {
+	color: #EF3982;
+}
+
+.post-content img {
+    border-radius: 0px;
+	margin: 0px;
+}
+
+.post-content blockquote {
+    border-left-color: #59c5ec;
+    background-color: rgba(89,197,236,0.2);
+    border-left: 0.5rem solid #6bd6fd;
+    padding: 0.25rem 0.75rem;
+    margin: 1rem 0;
+}
+
+.post-content blockquote p {
+    margin: 0.5rem 0;
+}
+
+/* Footer */
+
+.page-footer .pagination .prev {
+    display: none;
+}
+
+.page-footer .pagination .next {
+    display: none;
+}
+
+/* Button hl */
+
+h3:hover {
+    color: red;
+}
+
+.entry-hint-parent:hover {
+    color: red;
+}

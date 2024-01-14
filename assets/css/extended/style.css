@@ -1,0 +1,9 @@
+.my-img {
+    display: inline-block;
+}
+
+#my-avatar {
+    border-radius: 50%;
+	width: 25%;
+	margin: auto;
+}

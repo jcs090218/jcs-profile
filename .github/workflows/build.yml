@@ -1,0 +1,48 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  publish-doc:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        submodules: true
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.120.2'
+
+    - name: Check out gh-pages branch
+      uses: actions/checkout@v4
+      with:
+        ref: gh-pages
+        path: gh-pages
+
+    - name: Build doc artifacts with Hugo
+      run: hugo --destination ../gh-pages --minify
+
+    # TODO: Generate better commit message
+    - name: Publish doc artifacts
+      if: github.ref == 'refs/heads/master'
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -F- <<-_UBLT_COMMIT_MSG_
+        auto: ${{ github.event.head_commit.message }}
+
+        SourceCommit: https://github.com/jcs090218/jcs-profile/commit/${{ github.sha }}
+        _UBLT_COMMIT_MSG_
+        git push
+      working-directory: gh-pages
