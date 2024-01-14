@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/categories/web/</link>
+    <description>Recent content in Web on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First static site generator</title>
+      <link>https://www.jcs-profile.com/posts/web-dev/first-static-site-generator/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/web-dev/first-static-site-generator/</guid>
+      <description>I&amp;rsquo;m recently hooked by the static site generator, hence I have decided to create one for myself. Why not? The huge reason is that I could host the site using the GitHub&amp;rsquo;s static site hosting services, but the one I have previously created in 2018 API-Reference-Template. is server base, which is not generator base.
+The static site generator isn&amp;rsquo;t hard to create, the most valuable technology is the frontend and UI/UX.</description>
+    </item>
+    <item>
+      <title>Parallax Website</title>
+      <link>https://www.jcs-profile.com/posts/web-dev/parallax-website/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/web-dev/parallax-website/</guid>
+      <description>Link: MapleStory Survival Kit
+This is the final project from the first class of web development from our school. I joined this class as an elective class so I could have a peek of how web development works. A list below is few highlights I would like to show from this project.
+Parallax Effect Use of Sound Gashapon 👁️ Parallax Effect Most parallax effect I have seen aren&amp;rsquo;t quite satisfied to me.</description>
+    </item>
+  </channel>
+</rss>

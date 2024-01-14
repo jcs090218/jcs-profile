@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>generator on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/tags/generator/</link>
+    <description>Recent content in generator on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一個靜態網頁生產器</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/web-dev/first-static-site-generator/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/web-dev/first-static-site-generator/</guid>
+      <description>最近迷上的網頁生產器, 所以我決定為我自己造一個網頁生產器, 何不? 其中較大的原因是因為我可以運行我的 網站到免費的 GitHub 網頁運行服務. 不過我上一個2018的專案 API-Reference-Template. 的核心是服務器取向, 而不是生產器取向&amp;hellip; 😨
+製作一個靜態網頁生產器並不是很困難, 我認為一個靜態網頁的價值來自原前端和整體的使用體驗. 然而, 我已經有一個令我自己滿意的前端網頁. 所以我就沿用我之前寫的專案, 並直接提取其中的前端部分. 然後直接把服務器取向的核心改成生產器取向! 🎉🎉🎉 我直接把這個工具重新取名為 SiraDoc, 這樣一來我也能夠給其他的網頁當作模板使用! 🥳
+🔗 Link https://github.com/SiraDoc/SiraDoc </description>
+    </item>
+  </channel>
+</rss>

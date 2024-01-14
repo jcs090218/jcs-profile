@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/tags/ci/cd/</link>
+    <description>Recent content in CI/CD on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://www.jcs-profile.com/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Personal License Activation in Unity CI</title>
+      <link>https://www.jcs-profile.com/posts/unity/automate-personal-license-activation-in-unity-ci/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/unity/automate-personal-license-activation-in-unity-ci/</guid>
+      <description>&lt;p&gt;Following up the thread, &lt;a href=&#34;https://forum.unity.com/threads/my-disappointing-experience-using-unity-in-a-ci-pipeline.737678/&#34;&gt;My disappointing experience using Unity in a CI pipeline&lt;/a&gt;
+is also the biggest obstacle for me as well. Personal license (free version) of
+Unity will expire in a period of time depends on your region. The licensing system
+from Unity is partially contradict to the CI/CD concept since it will force
+the user to update their secret &lt;code&gt;UNITY_LICENSE&lt;/code&gt; on their GitHub Actions. (Notice
+this does not apply to Plus/Pro users because they use a different licensing system!)
+😖&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
