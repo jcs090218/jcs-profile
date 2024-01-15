@@ -396,7 +396,7 @@ JCS_BinGameData - 二進制格式 JCS_XMLGameData - XML格式 JCS_JSONGameData -
       <link>https://www.jcs-profile.com/zh-tw/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/projects/</guid>
-      <description>WIP</description>
+      <description>這裡什麼都沒有, 請參考其他語言!</description>
     </item>
   </channel>
 </rss>
