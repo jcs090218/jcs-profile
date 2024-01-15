@@ -19,7 +19,24 @@ This, my personal website.
 
 ## Tools, Framework, and Libraries
 
-- [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summur 2016 - Present):
+## Unity C# stuff
+
+- [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Summur 2023):
+A small library designed to fetch a list of EditorPrefs/PlayerPrefs.
+- [FlxCs](https://github.com/jcs090218/FlxCs) (Summur 2023):
+Rewrite [emacs-flx][] in C#. Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
+- [Unity.Mx](https://github.com/jcs090218/Unity.Mx) (Summur 2023):
+A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
+The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from Emacs.
+- [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 💸):
+Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in Unity to accomplish hot update/fix functionality.
+- [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summur 2018):
+Implementation of an Undo-Redo system in Unity using C# and uGUI.
+- [Unity_Toggle](https://github.com/jcs090218/Unity_Toggle) (Summur 2018):
+A little bit overkill toggle button UI for Unity Engine.
+- [PackageExporter](https://github.com/jcs090218/PackageExporter) (Winter 2017):
+An alternative approach to package management utilizing ignore files.
+- [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summur 2016 - Winter 2017):
 Quickly construct your game using multiple components and predefined default settings.
 
 ## Games
@@ -96,8 +113,13 @@ WIP
 <!-- Links -->
 
 [AAU]: https://www.academyart.edu/
+
 [Emacs]: https://www.gnu.org/software/emacs/
+[Unity]: https://unity.com/
+[Mono]: https://www.mono-project.com/
 [React.js]: https://react.dev/
+
+[emacs-flx]: https://github.com/lewang/flx
 
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
