@@ -77,9 +77,9 @@ working to unravel a mystery and identify the murderer. (7 weeks)
 ## AR/VR mobile apps
 
 - [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summur 2021 – Spring 2022 💸):
-TODO.
+An [augmented reality][AR] mobile app for learning history of Monument Avenue and Arthur Ashe Boulevard.
 - [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 💸):
-TODO.
+An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival..
 - [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 🏫):
 A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/en/products/vuforia)
 within the [Unity](https://unity.com/) platform.
@@ -165,6 +165,14 @@ The original [emacs-flx][] were written in pure [Emacs Lisp][].
 While their scoring engine is impressive, the performance is unbearable on Windows systems.
 Therefore, this package was developed and successfully increased the speed from 10x to 16x.
 
+## Technical utilities
+
+- [minify-dir](https://github.com/jcs090218/node-minify-dir) (Spring 2019):
+Minify all files within a directory.
+Another [Node.js][] website minifier created initially for the static site generator ––– [SiraDoc][].
+- [JCSBat_Util](https://github.com/jcs090218/JCSBat_Util) (Winter 2016 – Present):
+Some handy [batch][] files for my workflow as programmer. ([Windows][])
+
 ## Reverse engineering, hacking, and security
 
 - [reverse_shell](https://github.com/jcs090218/reverse_shell) (Spring 2019):
@@ -172,9 +180,20 @@ Reverse shell implemented in [Python][].
 
 ## Static site generators
 
-- [SiraDoc](https://gitlab.com/SiraDoc/SiraDoc) (Fall 2021):
+- [SiraDoc][] (Fall 2021):
 A static documentation generator for scripting manuals!
 This was initially developed for several of my game frameworks, including [JCSUnity][], [JCSEgret][], [CCosQuick][], etc.
+
+## On-hiatus projects (might be finished someday)
+
+- [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
+A plugin for interacting with AWS from Emacs editor.
+- [Prevo](https://github.com/jcs090218/Prevo) (Summur 2021):
+Preview `GameObject` using preview window.
+- [UCTooth](https://github.com/jcs090218/UCTooth) (Summur 2020 💸):
+A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
+- [CCosQuick][] (Winter 2019 – Summur 2020 💸):
+Prototype your game easily with component driven library built on top of Cocos Creator.
 
 ## Abandoned projects (will never be finished)
 
@@ -184,15 +203,6 @@ No reason to create this package anymore due to the advent of the [Language Serv
 - [JCSEgret][] (Winter 2018 💸):
 A library designed for efficient game production using the [Egret][] engine as its foundation.
 The project was initiated during the course of work but is no longer in use as the [Egret][] engine became obsolete following their bankruptcy.
-
-## On-hiatus projects (might be finished someday)
-
-- [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
-AWS Toolkit for Emacs - a plugin for interacting with AWS from Emacs editor.
-- [Prevo](https://github.com/jcs090218/Prevo) (Summur 2021):
-Preview `GameObject` using preview window.
-- [UCTooth](https://github.com/jcs090218/UCTooth) (Summur 2020 💸):
-A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
 
 
 <!-- Links -->
@@ -209,6 +219,7 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [Unity]: https://unity.com/
 [Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
+[Node.js]: https://nodejs.org/
 [React.js]: https://react.dev/
 [Django REST Framework]: https://www.django-rest-framework.org/
 
@@ -216,6 +227,7 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 
 [Python]: https://www.python.org/
 [Java]: https://www.java.com/en/
+[Batch]: https://en.wikipedia.org/wiki/Batch_file
 
 [eask/cli]: https://github.com/emacs-eask/cli
 [Cask]: https://github.com/cask/cask
@@ -230,6 +242,7 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
+[SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
 [searcher]: https://github.com/jcs-elpa/searcher
 [ag]: https://github.com/ggreer/the_silver_searcher
 [rg]: https://github.com/BurntSushi/ripgrep
@@ -248,6 +261,9 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
 
+[AR]: https://en.wikipedia.org/wiki/Augmented_reality
+[VR]: https://en.wikipedia.org/wiki/Virtual_reality
+[MR]: https://en.wikipedia.org/wiki/Mixed_reality
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
