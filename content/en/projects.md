@@ -106,7 +106,11 @@ My single page personal website implemented in basic HTML, CSS and JavaScript.
 
 ## Package Managers
 
-WIP
+- [Eask][eask/cli] (Spring 2022 – Winter 2023):
+[CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
+- [Cask][] (Spring 2021 – Spring 2022):
+Project management tool for [Emacs][].
+I'm the maintainer specifically responsible to [Windows][] platform.
 
 ## Language clients and servers
 
@@ -173,6 +177,8 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 
 [AAU]: https://www.academyart.edu/
 
+[Windows]: https://en.wikipedia.org/wiki/Microsoft_Windows
+
 [Emacs]: https://www.gnu.org/software/emacs/
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [VSCode]: https://code.visualstudio.com/
@@ -187,6 +193,9 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 
 [Python]: https://www.python.org/
 [Java]: https://www.java.com/en/
+
+[eask/cli]: https://github.com/emacs-eask/cli
+[Cask]: https://github.com/cask/cask
 
 [shader-language-server]: https://github.com/shader-ls/shader-language-server
 [ShaderLab]: https://docs.unity3d.com/Manual/SL-Reference.html
@@ -213,5 +222,6 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
 
+[CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
