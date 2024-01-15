@@ -236,7 +236,7 @@ Well, the dream always big and great, but when it get into reality it always not
       <guid>https://www.jcs-profile.com/projects/</guid>
       <description>This page lists some of my projects, work, and school projects.
 💸 = Professional work 🏫 = School work The rest are mostly open-source projects.
-Currently working on jcs-profile (Spring 2024 - Present): This, my personal website. Tools, Framework, and Libraries Unity C# stuff Unity.Prefs (Summur 2023): A small library designed to fetch a list of EditorPrefs/PlayerPrefs. FlxCs (Summur 2023): Rewrite emacs-flx in C#. Built on the Mono framework, you can utilize this in any environment compatible with Mono.</description>
+Currently working on jcs-profile (Spring 2024 – Present): This, my personal website. Tools, Framework, and Libraries N/A Unity C# stuff Unity.Prefs (Fall 2023): A small library designed to fetch a list of EditorPrefs/PlayerPrefs. FlxCs (Fall 2023): Rewrite emacs-flx in C#. Built on the Mono framework, you can utilize this in any environment compatible with Mono.</description>
     </item>
   </channel>
 </rss>
