@@ -92,6 +92,9 @@ An app for sharing music that works with illuminated piano keyboards – [Meteo 
 
 ## Web apps and services, browser extensions
 
+- [JCS-ELPA Website](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
+A homepage for [JCS-ELPA][] designed to showcase all packages in the archive.
+The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
 - [Pixisoft Website](https://gitlab.com/pixisoft/pixisoft.gitlab.io) (Summur 2021 – Winter 2021 💸):
 A small web application made using [React.js][], designed for use as a company's homepage.
 - [sherlock-web](https://github.com/jcs-legacy/sherlock-web) (Spring 2021):
@@ -102,7 +105,7 @@ API for the [sherlock][sherlock-project/sherlock] module implemented in Python u
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
-My single page personal website implemented in basic HTML, CSS and JavaScript.
+My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
 
 ## Package managers and build tools
 
@@ -225,9 +228,12 @@ The project was initiated during the course of work but is no longer in use as t
 
 [LSP]: https://microsoft.github.io/language-server-protocol/
 
-[Python]: https://www.python.org/
-[Java]: https://www.java.com/en/
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
+[Java]: https://www.java.com/en/
+[Python]: https://www.python.org/
+[HTML]: https://en.wikipedia.org/wiki/HTML
+[CSS]: https://en.wikipedia.org/wiki/CSS
+[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
 
 [eask/cli]: https://github.com/emacs-eask/cli
 [Cask]: https://github.com/cask/cask
@@ -243,6 +249,7 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
+[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
 [searcher]: https://github.com/jcs-elpa/searcher
 [ag]: https://github.com/ggreer/the_silver_searcher
 [rg]: https://github.com/BurntSushi/ripgrep
