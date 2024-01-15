@@ -104,6 +104,10 @@ I was one of the early contributors who took care of the ANSI color using [color
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
 My single page personal website implemented in basic HTML, CSS and JavaScript.
 
+## Package Managers
+
+WIP
+
 ## Language clients and servers
 
 - [vscode-ellsp](https://github.com/jcs090218/ellsp/tree/master/vscode) (Winter 2023):
@@ -127,17 +131,33 @@ It also provides support for various CG programming languages such as [HLSL][], 
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
+- [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
+Emacs [quelpa][] handler for leaf.
+- [quelpa][] (Fall 2020 – Present):
+The `package.el`-compatible package manager for Emacs uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
+I’ve been one of the maintainers since 2020.
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Summur 2020):
 Display files/directories in current directory on Dashboard.
+- [helm-searcher](https://github.com/emacs-helm/helm-searcher) (Summur 2020):
+[Helm][] interface to use [searcher][].
+- [ivy-searcher](https://github.com/jcs-legacy/ivy-searcher) (Summur 2020):
+[Ivy][] interface to use [searcher][].
+- [searcher][] (Summur 2020):
+An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
 - [dashboard][emacs-dashboard] (Summur 2019):
 An extensible Emacs startup screen showing you what’s most important.
+- [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
+Automatically organize imports in [Java][] code.
+It has been deprecated with the advent of the [Language Server Protocol][LSP].
 - [jcs-emacs](https://github.com/jcs-emacs/jcs-emacs) (Summur 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
 , delivering exceptional performance, especially on legacy Windows systems.
 
 ## Abandoned projects (will never be finished)
 
-WIP
+- [organize-imports-python](https://github.com/jcs-elpa/organize-imports-python) (Spring 2021):
+Automatically organize imports in [Python][] code.
+No reason to create this package anymore due to the advent of the [Language Server Protocol][LSP].
 
 ## On-hiatus projects (might be finished someday)
 
@@ -163,6 +183,11 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [React.js]: https://react.dev/
 [Django REST Framework]: https://www.django-rest-framework.org/
 
+[LSP]: https://microsoft.github.io/language-server-protocol/
+
+[Python]: https://www.python.org/
+[Java]: https://www.java.com/en/
+
 [shader-language-server]: https://github.com/shader-ls/shader-language-server
 [ShaderLab]: https://docs.unity3d.com/Manual/SL-Reference.html
 [HLSL]: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
@@ -170,10 +195,20 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [Cg]: https://en.wikipedia.org/wiki/Cg_(programming_language)
 
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
+[searcher]: https://github.com/jcs-elpa/searcher
+[ag]: https://github.com/ggreer/the_silver_searcher
+[rg]: https://github.com/BurntSushi/ripgrep
+[grep]: https://savannah.gnu.org/git/?group=grep
+[helm]: https://github.com/emacs-helm/helm
+[ivy]: https://github.com/abo-abo/swiper
+[counsel]: https://github.com/abo-abo/swiper
+[swiper]: https://github.com/abo-abo/swiper
 [emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
 [emacs-flx]: https://github.com/lewang/flx
 [lsp-mode]: https://github.com/emacs-lsp/lsp-mode
+[lsp-java]: https://github.com/emacs-lsp/lsp-java
 [eglot]: https://github.com/joaotavora/eglot
+[quelpa]: https://github.com/quelpa/quelpa
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
