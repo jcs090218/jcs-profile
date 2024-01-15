@@ -104,7 +104,7 @@ I was one of the early contributors who took care of the ANSI color using [color
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
 My single page personal website implemented in basic HTML, CSS and JavaScript.
 
-## Package Managers
+## Package managers and build tools
 
 - [Eask][eask/cli] (Spring 2022 – Winter 2023):
 [CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
@@ -157,11 +157,33 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 Emacs distribution that is designed to function smoothly across all operating systems,
 , delivering exceptional performance, especially on legacy Windows systems.
 
+## Rust packages
+
+- [flx-rs](https://github.com/jcs090218/flx-rs) (Winter 2021):
+Rewrite [emacs-flx][] in Rust for dynamic modules.
+The original [emacs-flx][] were written in pure [Emacs Lisp][].
+While their scoring engine is impressive, the performance is unbearable on Windows systems.
+Therefore, this package was developed and successfully increased the speed from 10x to 16x.
+
+## Reverse engineering, hacking, and security
+
+- [reverse_shell](https://github.com/jcs090218/reverse_shell) (Spring 2019):
+Reverse shell implemented in [Python][].
+
+## Static site generators
+
+- [SiraDoc](https://gitlab.com/SiraDoc/SiraDoc) (Fall 2021):
+A static documentation generator for scripting manuals!
+This was initially developed for several of my game frameworks, including [JCSUnity][], [JCSEgret][], [CCosQuick][], etc.
+
 ## Abandoned projects (will never be finished)
 
 - [organize-imports-python](https://github.com/jcs-elpa/organize-imports-python) (Spring 2021):
 Automatically organize imports in [Python][] code.
 No reason to create this package anymore due to the advent of the [Language Server Protocol][LSP].
+- [JCSEgret][] (Winter 2018 💸):
+A library designed for efficient game production using the [Egret][] engine as its foundation.
+The project was initiated during the course of work but is no longer in use as the [Egret][] engine became obsolete following their bankruptcy.
 
 ## On-hiatus projects (might be finished someday)
 
@@ -185,6 +207,7 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [Visual Studio]: https://visualstudio.microsoft.com/
 [LÖVE]: https://love2d.org/
 [Unity]: https://unity.com/
+[Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
 [React.js]: https://react.dev/
 [Django REST Framework]: https://www.django-rest-framework.org/
@@ -203,6 +226,9 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 [GLSL]: https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
 [Cg]: https://en.wikipedia.org/wiki/Cg_(programming_language)
 
+[CCosQuick]: https://github.com/jcs090218/CCosQuick
+[JCSUnity]: https://github.com/jcs090218/JCSUnity
+[JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
 [searcher]: https://github.com/jcs-elpa/searcher
 [ag]: https://github.com/ggreer/the_silver_searcher
