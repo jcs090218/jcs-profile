@@ -135,6 +135,13 @@ Shader languages support for [Visual Studio Code][VSCode].
 - [shader-language-server][] (Summur 2023 – Fall 2023):
 Language server implementation for [ShaderLab][].
 It also provides support for various CG programming languages such as [HLSL][], [GLSL][], [Cg][], and more.
+- [grammarly-language-server][] (Summur 2022 ✨🧑‍🔧):
+[Grammarly][] for [VS Code][VSCode].
+- [unofficial-grammarly-language-server][] (Spring 2021 ✨🧑‍🔧):
+Unofficial [Grammarly][] extension.
+Forked from the original repository and maintained a version to ensure compatibility with various editors.
+This language server is now deprecated as the upstream has transitioned to the official API in 2022.
+Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
@@ -158,6 +165,10 @@ Cucumber for [Emacs][].
 [Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+- [send-to-osx-grammarly](https://github.com/emacs-grammarly/send-to-osx-grammarly) (Spring 2021):
+An [Emacs][] extension to send a text to/from [Grammarly][].
+- [eglot-grammarly](https://github.com/emacs-grammarly/eglot-grammarly) (Spring 2021):
+[eglot][] client leveraging [grammarly-language-server][].
 - [flycheck-google-cpplint](https://github.com/flycheck/flycheck-google-cpplint) (Spring 2021 🧑‍🔧):
 [Google C++ Style checker][cpplint] for [Flycheck][].
 - [flymake-google-cpplint](https://github.com/flymake/flymake-google-cpplint) (Spring 2021 🧑‍🔧):
@@ -174,12 +185,18 @@ Glue to bind [Emacs][] [Flymake][] mode to [PHP_CodeSniffer][] static analysis..
 Display [flymake][] error for the current line on the minibuffer.
 - [fuzzy-el](https://github.com/auto-complete/fuzzy-el) (Spring 2021 – Present 🧑‍🔧):
 Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for [auto-complete][].
+- [keytar](https://github.com/emacs-grammarly/keytar) (Spring 2021):
+[Emacs Lisp][] interface for [keytar-cli][].
+- [lsp-grammarly][] (Spring 2021):
+[lsp-mode][] client leveraging [grammarly-language-server][].
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
 Emacs [quelpa][] handler for leaf.
 - [quelpa][] (Fall 2020 – Present 🧑‍🔧):
 The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
 - [auto-complete][] (Fall 2020 – Present 🧑‍🔧):
 An Intelligent auto-completion extension for [Emacs][].
+- [flymake-grammarly](https://github.com/emacs-grammarly/flymake-grammarly) (Fall 2020):
+[Flymake][] support for [Grammarly][].
 - [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present 🧑‍🔧):
 Visual Popup Interface Library for [Emacs][]. It's used with [auto-complete][].
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Summur 2020):
@@ -190,6 +207,10 @@ Display files/directories in current directory on [Dashboard][emacs-dashboard].
 [Ivy][] interface to use [searcher][].
 - [searcher][] (Summur 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
+- [flycheck-grammarly](https://github.com/emacs-grammarly/flycheck-grammarly) (Winter 2019):
+[Grammarly][] support for [Flycheck][].
+- [grammarly](https://github.com/emacs-grammarly/grammarly) (Winter 2019):
+[Grammarly][] API interface. (reverse-engineered solution)
 - [dashboard][emacs-dashboard] (Summur 2019 - Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
@@ -217,6 +238,9 @@ Some handy [batch][] files for my workflow as programmer. ([Windows][])
 
 ## Reverse engineering, hacking, and security
 
+- [keytar-cli][] (Spring 2021):
+[CLI][] for [keytar](https://github.com/atom/node-keytar).
+It was initially used with [lsp-grammarly][], but it became obsolete after the upstream [grammarly-language-server][] had adapted the official API.
 - [reverse_shell](https://github.com/jcs090218/reverse_shell) (Spring 2019):
 Reverse shell implemented in [Python][].
 
@@ -283,6 +307,7 @@ The project was initiated during the course of work but is no longer in use as t
 [React.js]: https://react.dev/
 [Django REST Framework]: https://www.django-rest-framework.org/
 [Nix]: https://nixos.org/
+[Grammarly]: https://www.grammarly.com/
 
 [GitHub Actions]: https://github.com/features/actions
 [GitHub Pages]: https://pages.github.com/
@@ -303,6 +328,9 @@ The project was initiated during the course of work but is no longer in use as t
 [HLSL]: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
 [GLSL]: https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
 [Cg]: https://en.wikipedia.org/wiki/Cg_(programming_language)
+
+[unofficial-grammarly-language-server]: https://github.com/emacs-grammarly/unofficial-grammarly-language-server
+[grammarly-language-server]: https://github.com/emacs-grammarly/grammarly-language-server
 
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
@@ -325,6 +353,8 @@ The project was initiated during the course of work but is no longer in use as t
 [flymake]: https://www.gnu.org/software/emacs/manual/html_mono/flymake.html
 [lsp-mode]: https://github.com/emacs-lsp/lsp-mode
 [lsp-java]: https://github.com/emacs-lsp/lsp-java
+[lsp-grammarly]: https://github.com/emacs-grammarly/lsp-grammarly
+[keytar-cli]: https://github.com/emacs-grammarly/keytar-cli
 [eglot]: https://github.com/joaotavora/eglot
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
