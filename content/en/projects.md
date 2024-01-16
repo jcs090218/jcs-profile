@@ -142,26 +142,45 @@ It also provides support for various CG programming languages such as [HLSL][], 
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
+- [flymake-elsa](https://github.com/flymake/flymake-elsa) (Spring 2023):
+[Flymake][] integration for [Elsa][] ––– [Emacs lisp][] static analyzer.
+- [espuds](https://github.com/ecukes/espuds) (Spring 2023 🧑‍🔧):
+Common step definitions for Ecukes.
+- [ecukes](https://github.com/ecukes/ecukes) (Spring 2023 🧑‍🔧):
+Cucumber for [Emacs][].
 - [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
-- [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
-[Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
+- [flymake-eask](https://github.com/flymake/flymake-eask) (Summur 2022):
+[Eask][eask/cli] support in [Flymake][].
 - [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summur 2022):
 [Eask][eask/cli] support in [Flycheck][].
+- [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
+[Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [flycheck-google-cpplint](https://github.com/flycheck/flycheck-google-cpplint) (Spring 2021 🧑‍🔧):
-[Google C++ Style checker](https://github.com/cpplint/cpplint) for [Flycheck][]. (only active maintainer)
-- [fuzzy-el](https://github.com/auto-complete/fuzzy-el) (Spring 2021 🧑‍🔧):
+[Google C++ Style checker][cpplint] for [Flycheck][].
+- [flymake-google-cpplint](https://github.com/flymake/flymake-google-cpplint) (Spring 2021 🧑‍🔧):
+Help to comply with the [Google C++ Style Guide][cpplint] on [Emacs][] with [flymake][].
+- [flymake-cppcheck](https://github.com/flymake/flymake-cppcheck) (Spring 2021 🧑‍🔧):
+[Cppcheck][] for [Emacs][] with [flymake][].
+- [emacs-flymake-perlcritic](https://github.com/flymake/emacs-flymake-perlcritic) (Spring 2021 🧑‍🔧):
+Run [Perl::Critic][] static analysis "While U Type" via [Emacs][] [Flymake][].
+- [flymake-phpcs](https://github.com/flymake/flymake-phpcs) (Spring 2021 🧑‍🔧):
+[PHP CodeSniffer][PHP_CodeSniffer] for [Emacs][] with [flymake][].
+- [emacs-flymake-phpcs](https://github.com/flymake/emacs-flymake-phpcs) (Spring 2021 🧑‍🔧):
+Glue to bind [Emacs][] [Flymake][] mode to [PHP_CodeSniffer][] static analysis..
+- [emacs-flymake-cursor](https://github.com/flymake/emacs-flymake-cursor) (Spring 2021 🧑‍🔧):
+Display [flymake][] error for the current line on the minibuffer.
+- [fuzzy-el](https://github.com/auto-complete/fuzzy-el) (Spring 2021 – Present 🧑‍🔧):
 Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for [auto-complete][].
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
 Emacs [quelpa][] handler for leaf.
 - [quelpa][] (Fall 2020 – Present 🧑‍🔧):
 The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
-I’ve been one of the maintainers since 2020.
 - [auto-complete][] (Fall 2020 – Present 🧑‍🔧):
 An Intelligent auto-completion extension for [Emacs][].
-- [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 - Present 🧑‍🔧):
+- [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present 🧑‍🔧):
 Visual Popup Interface Library for [Emacs][]. It's used with [auto-complete][].
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Summur 2020):
 Display files/directories in current directory on [Dashboard][emacs-dashboard].
@@ -207,6 +226,24 @@ Reverse shell implemented in [Python][].
 A static documentation generator for scripting manuals!
 This was initially developed for several of my game frameworks, including [JCSUnity][], [JCSEgret][], [CCosQuick][], etc.
 
+## CI/CD tools and automation
+
+- [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023):
+Install Lem for [GitHub Actions][] workflow.
+- [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 ✨):
+Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
+- [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summur 2022):
+Github action which installs a given [Emacs][] version.
+This project aims to replace [purcell/setup-emacs][] by combining the two GitHub Actions — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
+As a result, it now supports all commonly used operating systems.
+- [setup-emacs-windows][] (Fall 2022):
+A [Github Action][GitHub Actions] that installs a specific [emacs][] version.
+This project draws inspiration from [purcell/setup-emacs][] but is specifically dedicated to supporting legacy Windows systems.
+- [unity-verify-code](https://github.com/game-ci/unity-verify-code) (Fall 2021):
+An email parser to get 6 digit verification code to bypass [TFA][].
+- [unity-license-activate](https://github.com/game-ci/unity-license-activate) (Fall 2021):
+Activate [Unity][]'s personal license through [CLI][].
+
 ## On-hiatus projects (might be finished someday)
 
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
@@ -247,12 +284,16 @@ The project was initiated during the course of work but is no longer in use as t
 [Django REST Framework]: https://www.django-rest-framework.org/
 [Nix]: https://nixos.org/
 
+[GitHub Actions]: https://github.com/features/actions
+[GitHub Pages]: https://pages.github.com/
+
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
+[PHP]: https://www.php.net/
 
 [eask/cli]: https://github.com/emacs-eask/cli
 [Cask]: https://github.com/cask/cask
@@ -286,9 +327,17 @@ The project was initiated during the course of work but is no longer in use as t
 [lsp-java]: https://github.com/emacs-lsp/lsp-java
 [eglot]: https://github.com/joaotavora/eglot
 [quelpa]: https://github.com/quelpa/quelpa
+[Elsa]: https://github.com/emacs-elsa/Elsa
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
+[cpplint]: https://github.com/cpplint/cpplint
+[cppcheck]: https://cppcheck.sourceforge.io/
+[PHP_CodeSniffer]: https://github.com/squizlabs/PHP_CodeSniffer
+[Perl::Critic]: https://metacpan.org/pod/Perl::Critic
+
+[purcell/setup-emacs]: https://github.com/purcell/setup-emacs
+[setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
 
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
 [VR]: https://en.wikipedia.org/wiki/Virtual_reality
@@ -296,5 +345,6 @@ The project was initiated during the course of work but is no longer in use as t
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [LSP]: https://microsoft.github.io/language-server-protocol/
 
+[TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
