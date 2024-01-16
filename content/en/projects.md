@@ -7,8 +7,9 @@ This page lists some of my projects, work, and school projects.
 
 - 💸 = Professional work
 - 🏫 = School work
-- ✨ = Contributions
+- ✨ = Contributor
 - 🧑‍🔧 = Maintainer
+- 🔗 = Forked projects
 
 The rest are mostly open-source projects.
 
@@ -135,9 +136,9 @@ Shader languages support for [Visual Studio Code][VSCode].
 - [shader-language-server][] (Summur 2023 – Fall 2023):
 Language server implementation for [ShaderLab][].
 It also provides support for various CG programming languages such as [HLSL][], [GLSL][], [Cg][], and more.
-- [grammarly-language-server][] (Summur 2022 ✨🧑‍🔧):
+- [grammarly-language-server][] (Summur 2022 ✨🧑‍🔧🔗):
 [Grammarly][] for [VS Code][VSCode].
-- [unofficial-grammarly-language-server][] (Spring 2021 ✨🧑‍🔧):
+- [unofficial-grammarly-language-server][] (Spring 2021 ✨🧑‍🔧🔗):
 Unofficial [Grammarly][] extension.
 Forked from the original repository and maintained a version to ensure compatibility with various editors.
 This language server is now deprecated as the upstream has transitioned to the official API in 2022.
@@ -175,7 +176,10 @@ Cucumber for [Emacs][].
 A document string minor mode using [tree-sitter][].
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
-- [ts-fold](https://github.com/emacs-tree-sitter/ts-fold) (Fall 2021):
+- [company-box](https://github.com/elp-revive/company-box) (Fall 2021 🔗):
+A [company][] front-end with icons.
+Forked due to its challenging usability on [Windows][], incorporating numerous bug fixes, enhanced performance, and other improvements.
+- [ts-fold][] (Fall 2021):
 Code-folding using [tree-sitter][].
 - [eglot-languagetool](https://github.com/emacs-languagetool/eglot-languagetool) (Summur 2021):
 [eglot][] client leveraging [LanguageTool Language Server][languagetool-languageserver].
@@ -227,6 +231,11 @@ The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's form
 An Intelligent auto-completion extension for [Emacs][].
 - [flymake-grammarly](https://github.com/emacs-grammarly/flymake-grammarly) (Fall 2020):
 [Flymake][] support for [Grammarly][].
+- [auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) (Fall 2020 🧑‍🔧):
+Automatic highlighting current symbol minor mode.
+- [origami.el](https://github.com/elp-revive/origami.el) (Summur 2020 🔗):
+A folding minor mode for [Emacs][].
+This project is a [Regular Expression][regex]-based solution, but it became deprecated following the creation of [ts-fold][].
 - [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present 🧑‍🔧):
 Visual Popup Interface Library for [Emacs][]. It's used with [auto-complete][].
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Summur 2020):
@@ -388,6 +397,7 @@ The project was initiated during the course of work but is no longer in use as t
 [helm]: https://github.com/emacs-helm/helm
 [ivy]: https://github.com/abo-abo/swiper
 [counsel]: https://github.com/abo-abo/swiper
+[company]: https://github.com/company-mode/company-mode
 [swiper]: https://github.com/abo-abo/swiper
 [emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
 [emacs-flx]: https://github.com/lewang/flx
@@ -403,6 +413,7 @@ The project was initiated during the course of work but is no longer in use as t
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
 [ecukes]: https://github.com/ecukes/ecukes
+[ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
@@ -427,3 +438,4 @@ The project was initiated during the course of work but is no longer in use as t
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
 [CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
 [TSV]: https://en.wikipedia.org/wiki/Tab-separated_values
+[regex]: https://en.wikipedia.org/wiki/Regular_expression
