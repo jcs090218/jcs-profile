@@ -145,6 +145,14 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+[elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
+
+- [rainbow-csv](https://github.com/emacs-vs/rainbow-csv) (Winter 2023):
+🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
+- [elisp-tree-sitter][] (Fall 2023  🧑‍🔧):
+[Emacs Lisp][] bindings for [tree-sitter][].
+- [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
+Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package
 - [eglot-shader](https://github.com/shader-ls/eglot-shader) (Fall 2023):
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
@@ -152,8 +160,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 - [flymake-elsa](https://github.com/flymake/flymake-elsa) (Spring 2023):
 [Flymake][] integration for [Elsa][] ––– [Emacs lisp][] static analyzer.
 - [espuds](https://github.com/ecukes/espuds) (Spring 2023 🧑‍🔧):
-Common step definitions for Ecukes.
-- [ecukes](https://github.com/ecukes/ecukes) (Spring 2023 🧑‍🔧):
+Common step definitions for [Ecukes][].
+- [ecukes][] (Spring 2023 🧑‍🔧):
 Cucumber for [Emacs][].
 - [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
@@ -163,8 +171,24 @@ Cucumber for [Emacs][].
 [Eask][eask/cli] support in [Flycheck][].
 - [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
 [Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
+- [ts-docstr](https://github.com/emacs-vs/ts-docstr) (Fall 2022):
+A document string minor mode using [tree-sitter][].
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+- [ts-fold](https://github.com/emacs-tree-sitter/ts-fold) (Fall 2021):
+Code-folding using [tree-sitter][].
+- [eglot-languagetool](https://github.com/emacs-languagetool/eglot-languagetool) (Summur 2021):
+[eglot][] client leveraging [LanguageTool Language Server][languagetool-languageserver].
+- [lsp-languagetool](https://github.com/emacs-languagetool/lsp-languagetool) (Summur 2021):
+[lsp-mode][] client leveraging [LanguageTool Language Server][languagetool-languageserver].
+- [eglot-ltex](https://github.com/emacs-languagetool/eglot-ltex) (Summur 2021):
+[Eglot][] client leveraging [LTEX Language Server][ltex-ls].
+- [lsp-ltex](https://github.com/emacs-languagetool/lsp-ltex) (Summur 2021):
+[lsp-mode][] client leveraging [LTEX Language Server][ltex-ls].
+- [flymake-languagetool](https://github.com/emacs-languagetool/flymake-languagetool) (Summur 2021):
+[Flymake][] support for [LanguageTool][].
+- [flycheck-languagetool](https://github.com/emacs-languagetool/flycheck-languagetool) (Summur 2021):
+[Flycheck][] support for [LanguageTool][].
 - [auth-source-keytar](https://github.com/emacs-grammarly/auth-source-keytar) (Summur 2021):
 Integrate [auth-source][] with [keytar][].
 - [send-to-osx-grammarly](https://github.com/emacs-grammarly/send-to-osx-grammarly) (Spring 2021):
@@ -193,6 +217,8 @@ Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for
 [Emacs Lisp][] interface for [keytar-cli][].
 - [lsp-grammarly-un](https://github.com/emacs-grammarly/lsp-grammarly-un) (Spring 2021):
 [lsp-mode][] client leveraging [unofficial-grammarly-language-server][].
+- [docstr](https://github.com/emacs-vs/docstr) (Winter 2020):
+A document string minor mode.
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
 Emacs [quelpa][] handler for leaf.
 - [quelpa][] (Fall 2020 – Present 🧑‍🔧):
@@ -211,12 +237,22 @@ Display files/directories in current directory on [Dashboard][emacs-dashboard].
 [Ivy][] interface to use [searcher][].
 - [searcher][] (Summur 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
+- [vs-light-theme](https://github.com/emacs-vs/vs-light-theme) (Fall 2019):
+[Visual Studio IDE][Visual Studio] light theme.
+- [vs-dark-theme](https://github.com/emacs-vs/vs-dark-theme) (Fall 2019):
+[Visual Studio IDE][Visual Studio] dark theme.
 - [flycheck-grammarly](https://github.com/emacs-grammarly/flycheck-grammarly) (Winter 2019):
 [Grammarly][] support for [Flycheck][].
 - [grammarly](https://github.com/emacs-grammarly/grammarly) (Winter 2019):
 [Grammarly][] API interface. (reverse-engineered solution)
 - [dashboard][emacs-dashboard] (Summur 2019 - Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
+- [goto-char-preview](https://github.com/emacs-vs/goto-char-preview) (Summur 2019):
+Preview character when executing `goto-char` command.
+- [goto-line-preview](https://github.com/emacs-vs/goto-line-preview) (Spring 2019):
+Preview line when executing `goto-line` command.
+- [line-reminder](https://github.com/emacs-vs/line-reminder) (Summur 2018):
+Line annotation for changed and saved lines.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
 Automatically organize imports in [Java][] code.
 It has been deprecated with the advent of the [Language Server Protocol][LSP].
@@ -335,6 +371,8 @@ The project was initiated during the course of work but is no longer in use as t
 
 [unofficial-grammarly-language-server]: https://github.com/emacs-grammarly/unofficial-grammarly-language-server
 [grammarly-language-server]: https://github.com/emacs-grammarly/grammarly-language-server
+[ltex-ls]: https://github.com/valentjn/ltex-ls
+[languagetool-languageserver]: https://github.com/languagetool-language-server/languagetool-languageserver
 
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
@@ -360,9 +398,12 @@ The project was initiated during the course of work but is no longer in use as t
 [lsp-grammarly]: https://github.com/emacs-grammarly/lsp-grammarly
 [keytar-cli]: https://github.com/emacs-grammarly/keytar-cli
 [keytar]: https://github.com/emacs-grammarly/keytar
+[LanguageTool]: https://languagetool.org/
 [eglot]: https://github.com/joaotavora/eglot
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
+[ecukes]: https://github.com/ecukes/ecukes
+[tree-sitter]: https://tree-sitter.github.io/tree-sitter/
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
@@ -384,3 +425,5 @@ The project was initiated during the course of work but is no longer in use as t
 [TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
+[CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
+[TSV]: https://en.wikipedia.org/wiki/Tab-separated_values
