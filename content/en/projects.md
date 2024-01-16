@@ -81,7 +81,7 @@ working to unravel a mystery and identify the murderer. (7 weeks)
 - [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summur 2021 – Spring 2022 💸):
 An [augmented reality][AR] mobile app for learning history of Monument Avenue and Arthur Ashe Boulevard.
 - [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 💸):
-An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival..
+An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival.
 - [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 🏫):
 A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/en/products/vuforia)
 within the [Unity](https://unity.com/) platform.
@@ -165,6 +165,8 @@ Cucumber for [Emacs][].
 [Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+- [auth-source-keytar](https://github.com/emacs-grammarly/auth-source-keytar) (Summur 2021):
+Integrate [auth-source][] with [keytar][].
 - [send-to-osx-grammarly](https://github.com/emacs-grammarly/send-to-osx-grammarly) (Spring 2021):
 An [Emacs][] extension to send a text to/from [Grammarly][].
 - [eglot-grammarly](https://github.com/emacs-grammarly/eglot-grammarly) (Spring 2021):
@@ -180,12 +182,12 @@ Run [Perl::Critic][] static analysis "While U Type" via [Emacs][] [Flymake][].
 - [flymake-phpcs](https://github.com/flymake/flymake-phpcs) (Spring 2021 🧑‍🔧):
 [PHP CodeSniffer][PHP_CodeSniffer] for [Emacs][] with [flymake][].
 - [emacs-flymake-phpcs](https://github.com/flymake/emacs-flymake-phpcs) (Spring 2021 🧑‍🔧):
-Glue to bind [Emacs][] [Flymake][] mode to [PHP_CodeSniffer][] static analysis..
+Glue to bind [Emacs][] [Flymake][] mode to [PHP_CodeSniffer][] static analysis.
 - [emacs-flymake-cursor](https://github.com/flymake/emacs-flymake-cursor) (Spring 2021 🧑‍🔧):
 Display [flymake][] error for the current line on the minibuffer.
 - [fuzzy-el](https://github.com/auto-complete/fuzzy-el) (Spring 2021 – Present 🧑‍🔧):
 Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for [auto-complete][].
-- [keytar](https://github.com/emacs-grammarly/keytar) (Spring 2021):
+- [keytar][] (Spring 2021):
 [Emacs Lisp][] interface for [keytar-cli][].
 - [lsp-grammarly][] (Spring 2021):
 [lsp-mode][] client leveraging [grammarly-language-server][].
@@ -355,6 +357,7 @@ The project was initiated during the course of work but is no longer in use as t
 [lsp-java]: https://github.com/emacs-lsp/lsp-java
 [lsp-grammarly]: https://github.com/emacs-grammarly/lsp-grammarly
 [keytar-cli]: https://github.com/emacs-grammarly/keytar-cli
+[keytar]: https://github.com/emacs-grammarly/keytar
 [eglot]: https://github.com/joaotavora/eglot
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
@@ -375,6 +378,7 @@ The project was initiated during the course of work but is no longer in use as t
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [LSP]: https://microsoft.github.io/language-server-protocol/
 
+[auth-source]: https://www.gnu.org/software/emacs/manual/html_mono/auth.html
 [TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
