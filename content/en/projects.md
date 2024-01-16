@@ -7,6 +7,8 @@ This page lists some of my projects, work, and school projects.
 
 - 💸 = Professional work
 - 🏫 = School work
+- ✨ = Contributions
+- 🧑‍🔧 = Maintainer
 
 The rest are mostly open-source projects.
 
@@ -101,7 +103,7 @@ A small web application made using [React.js][], designed for use as a company's
 Website to interact [Sherlock API][sherlock-project/api].
 - [sherlock-project/api](https://github.com/sherlock-project/api) (Spring 2021):
 API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework][].
-- [sherlock][sherlock-project/sherlock] (Spring 2019):
+- [sherlock][sherlock-project/sherlock] (Spring 2019 ✨):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
@@ -109,9 +111,15 @@ My single page personal website implemented in basic [HTML][], [CSS][] and [Java
 
 ## Package managers and build tools
 
+- [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
+Convert [Eask][eask/cli] into [Nix][] expressions.
+- [nixpkgs](https://github.com/NixOS/nixpkgs) (Fall 2022 – Present ✨):
+[Nix][] Packages collection & [NixOS][Nix].
+I serve as the package maintainer for a small set of packages.
 - [Eask][eask/cli] (Spring 2022 – Winter 2023):
 [CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
-- [Cask][] (Spring 2021 – Spring 2022):
+This tool is the successor to [Cask][], offering enhanced stability, cross-platform capability, and extensibility.
+- [Cask][] (Spring 2021 – Spring 2022 🧑‍🔧):
 Project management tool for [Emacs][].
 I'm the maintainer specifically responsible to [Windows][] platform.
 
@@ -134,24 +142,36 @@ It also provides support for various CG programming languages such as [HLSL][], 
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
-- [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
-Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
+- [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
+[Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
+- [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summur 2022):
+[Eask][eask/cli] support in [Flycheck][].
+- [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
+Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+- [flycheck-google-cpplint](https://github.com/flycheck/flycheck-google-cpplint) (Spring 2021 🧑‍🔧):
+[Google C++ Style checker](https://github.com/cpplint/cpplint) for [Flycheck][]. (only active maintainer)
+- [fuzzy-el](https://github.com/auto-complete/fuzzy-el) (Spring 2021 🧑‍🔧):
+Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for [auto-complete][].
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
 Emacs [quelpa][] handler for leaf.
-- [quelpa][] (Fall 2020 – Present):
-The `package.el`-compatible package manager for Emacs uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
+- [quelpa][] (Fall 2020 – Present 🧑‍🔧):
+The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
 I’ve been one of the maintainers since 2020.
+- [auto-complete][] (Fall 2020 – Present 🧑‍🔧):
+An Intelligent auto-completion extension for [Emacs][].
+- [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 - Present 🧑‍🔧):
+Visual Popup Interface Library for [Emacs][]. It's used with [auto-complete][].
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Summur 2020):
-Display files/directories in current directory on Dashboard.
+Display files/directories in current directory on [Dashboard][emacs-dashboard].
 - [helm-searcher](https://github.com/emacs-helm/helm-searcher) (Summur 2020):
 [Helm][] interface to use [searcher][].
 - [ivy-searcher](https://github.com/jcs-legacy/ivy-searcher) (Summur 2020):
 [Ivy][] interface to use [searcher][].
 - [searcher][] (Summur 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
-- [dashboard][emacs-dashboard] (Summur 2019):
+- [dashboard][emacs-dashboard] (Summur 2019 - Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
 Automatically organize imports in [Java][] code.
@@ -225,8 +245,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Node.js]: https://nodejs.org/
 [React.js]: https://react.dev/
 [Django REST Framework]: https://www.django-rest-framework.org/
-
-[LSP]: https://microsoft.github.io/language-server-protocol/
+[Nix]: https://nixos.org/
 
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
 [Java]: https://www.java.com/en/
@@ -254,12 +273,15 @@ The project was initiated during the course of work but is no longer in use as t
 [ag]: https://github.com/ggreer/the_silver_searcher
 [rg]: https://github.com/BurntSushi/ripgrep
 [grep]: https://savannah.gnu.org/git/?group=grep
+[auto-complete]: https://github.com/auto-complete/auto-complete
 [helm]: https://github.com/emacs-helm/helm
 [ivy]: https://github.com/abo-abo/swiper
 [counsel]: https://github.com/abo-abo/swiper
 [swiper]: https://github.com/abo-abo/swiper
 [emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
 [emacs-flx]: https://github.com/lewang/flx
+[flycheck]: https://github.com/flycheck/flycheck
+[flymake]: https://www.gnu.org/software/emacs/manual/html_mono/flymake.html
 [lsp-mode]: https://github.com/emacs-lsp/lsp-mode
 [lsp-java]: https://github.com/emacs-lsp/lsp-java
 [eglot]: https://github.com/joaotavora/eglot
@@ -272,5 +294,7 @@ The project was initiated during the course of work but is no longer in use as t
 [VR]: https://en.wikipedia.org/wiki/Virtual_reality
 [MR]: https://en.wikipedia.org/wiki/Mixed_reality
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
+[LSP]: https://microsoft.github.io/language-server-protocol/
+
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
