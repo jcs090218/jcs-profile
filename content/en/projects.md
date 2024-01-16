@@ -171,6 +171,8 @@ Integrate [auth-source][] with [keytar][].
 An [Emacs][] extension to send a text to/from [Grammarly][].
 - [eglot-grammarly](https://github.com/emacs-grammarly/eglot-grammarly) (Spring 2021):
 [eglot][] client leveraging [grammarly-language-server][].
+- [lsp-grammarly][] (Spring 2021):
+[lsp-mode][] client leveraging [grammarly-language-server][].
 - [flycheck-google-cpplint](https://github.com/flycheck/flycheck-google-cpplint) (Spring 2021 🧑‍🔧):
 [Google C++ Style checker][cpplint] for [Flycheck][].
 - [flymake-google-cpplint](https://github.com/flymake/flymake-google-cpplint) (Spring 2021 🧑‍🔧):
@@ -189,8 +191,8 @@ Display [flymake][] error for the current line on the minibuffer.
 Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for [auto-complete][].
 - [keytar][] (Spring 2021):
 [Emacs Lisp][] interface for [keytar-cli][].
-- [lsp-grammarly][] (Spring 2021):
-[lsp-mode][] client leveraging [grammarly-language-server][].
+- [lsp-grammarly-un](https://github.com/emacs-grammarly/lsp-grammarly-un) (Spring 2021):
+[lsp-mode][] client leveraging [unofficial-grammarly-language-server][].
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
 Emacs [quelpa][] handler for leaf.
 - [quelpa][] (Fall 2020 – Present 🧑‍🔧):
