@@ -48,6 +48,8 @@ Afterimage VFX for [Unity][].
 A simple solution that work with 2D and 3D renderers, including UI components (Image, Text, Button, etc).
 - [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (Summur 2021 💸):
 Minimalistic good looking [hierarchy][HierarchyWindow].
+- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summur 2021):
+[WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
 - [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 💸):
 Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
 - [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summur 2018):
@@ -229,6 +231,12 @@ Hooks for faster [Emacs][] startup.
 Generic popup tip.
 - [doxygen-asterisk](https://github.com/emacs-vs/doxygen-asterisk) (Summur 2023):
 Minor mode that helps you insert pair `/*` and `*/`.
+- [codemetrics](https://github.com/jcs-elpa/codemetrics) (Spring 2023):
+Plugin shows complexity information.
+Inspired by [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) from the [VSCode][] community.
+This plugin implements live calculation of the **Cognitive Complexity** metric, which was proposed by G. Ann Campbell in
+[Cognitive Complexity - A new way of measuring understandability](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
+(c) SonarSource S.A. 2016-2021, Switzerland.
 - [jcs-echobar](https://github.com/jcs-emacs/jcs-echobar) (Spring 2023):
 An echo-bar for [jcs-emacs][].
 - [jcs-frametitle](https://github.com/jcs-emacs/jcs-frametitle) (Spring 2023):
@@ -321,7 +329,7 @@ Quick-peek inline-window library for [Emacs][].
 - [vs-revbuf](https://github.com/emacs-vs/vs-revbuf) (Spring 2022):
 Revert buffers like [Visual Studio][].
 - [eask-mode](https://github.com/emacs-eask/eask-mode) (Spring 2022):
-Major mode for editing [Eask][] files.
+Major mode for editing [Eask][eask/cli] files.
 - [electric-indent-sexp](https://github.com/emacs-vs/electric-indent-sexp) (Spring 2022):
 Automatically indent entire balanced expression block.
 - [fextern](https://github.com/emacs-vs/fextern) (Spring 2022):
@@ -331,6 +339,9 @@ Similar to [fuz.el][] but with precompiled binaries.
 I favor packages with precompiled binaries for an improved user experience.
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+- [flx-rs][jcs-elpa/flx-rs] (Winter 2021):
+[emacs-flx][] in [Rust][] using dynamic module.
+It packages the [Rust][] library [flx-rs][jcs090218/flx-rs] and includes precompiled binaries, which are built and uploaded as artifacts through [GitHub Actions][].
 - [flxy](https://github.com/jcs-legacy/flxy) (Winter 2021):
 [flxy][flxy-rs] in [Rust][] using dynamic module.
 - [sublime-fuzzy](https://github.com/jcs-legacy/sublime-fuzzy) (Winter 2021):
@@ -424,8 +435,8 @@ A folding minor mode for [Emacs][].
 This project is a [Regular Expression][regex]-based solution, but it became deprecated following the creation of [ts-fold][].
 - [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present 🧑‍🔧):
 Visual Popup Interface Library for [Emacs][]. It's used with [auto-complete][].
-- [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Summur 2020):
-Display files/directories in current directory on [Dashboard][emacs-dashboard].
+- [transwin](https://github.com/jcs-elpa/transwin) (Summur 2020):
+Make window/frame transparent.
 - [helm-searcher](https://github.com/emacs-helm/helm-searcher) (Summur 2020):
 [Helm][] interface to use [searcher][].
 - [ivy-searcher](https://github.com/jcs-legacy/ivy-searcher) (Summur 2020):
@@ -434,22 +445,34 @@ Display files/directories in current directory on [Dashboard][emacs-dashboard].
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
 - [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
 Theme styled after undersea imagery.
+- [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Spring 2020):
+Display files/directories in current directory on [Dashboard][emacs-dashboard].
 - [company-quickhelp-terminal](https://github.com/jcs-legacy/company-quickhelp-terminal) (Winter 2019):
 Terminal support for [company-quickhelp](https://github.com/company-mode/company-quickhelp).
 - [vs-light-theme](https://github.com/emacs-vs/vs-light-theme) (Fall 2019):
 [Visual Studio IDE][Visual Studio] light theme.
 - [vs-dark-theme](https://github.com/emacs-vs/vs-dark-theme) (Fall 2019):
 [Visual Studio IDE][Visual Studio] dark theme.
+- [ffmpeg-player](https://github.com/jcs-elpa/ffmpeg-player) (Winter 2019):
+Play video using [ffmpeg][].
+The performance is notably poor as it plays the video frame by frame, leading to significant file I/O (including memory) demands.
+However, this remains the sole solution for playing videos within [Emacs][]!
+- [parse-it](https://github.com/jcs-elpa/parse-it) (Winter 2019):
+Simple [Parser][] in [Emacs Lisp][].
+It provides support for over 25 languages (e.g. [C][], [C++][], [C#][], [Python][], [Lua][], etc),
+but its performance is noticeably slow as it operates on top of the [elisp][] interpreter.
 - [flycheck-grammarly](https://github.com/emacs-grammarly/flycheck-grammarly) (Winter 2019):
 [Grammarly][] support for [Flycheck][].
 - [grammarly](https://github.com/emacs-grammarly/grammarly) (Winter 2019):
 [Grammarly][] API interface. (reverse-engineered solution)
 - [tabulated-list-search](https://github.com/jcs-legacy/tabulated-list-search) (Winter 2019):
 Provide filtering/searching [tabulated-list][] interface.
-- [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
-An extensible Emacs startup screen showing you what’s most important.
+- [company-fuzzy](https://github.com/jcs-elpa/company-fuzzy) (Fall 2019):
+Fuzzy matching for [company-mode][].
 - [helm-fuzzy](https://github.com/jcs-legacy/helm-fuzzy) (Fall 2019):
 Fuzzy matching for [helm][] source.
+- [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
+An extensible Emacs startup screen showing you what’s most important.
 - [helm-file-preview](https://github.com/jcs-legacy/helm-file-preview) (Summur 2019):
 Preview the current [helm][] file selection.
 - [goto-char-preview](https://github.com/emacs-vs/goto-char-preview) (Summur 2019):
@@ -458,7 +481,10 @@ Preview character when executing `goto-char` command.
 Preview line when executing `goto-line` command.
 - [auto-close-tag](https://github.com/jcs-legacy/auto-close-tag) (Winter 2018):
 Automatically add HTML/XML close tag.
-Inspired by the [auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) from the [VSCode][] community.
+Inspired by the [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) from the [VSCode][] community.
+- [auto-rename-tag](https://github.com/jcs-elpa/auto-rename-tag) (Winter 2018):
+Automatically rename paired [HTML][]/[XML][] tag.
+Inspired by [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) from the [VSCode][] community.
 - [line-reminder](https://github.com/emacs-vs/line-reminder) (Summur 2018):
 Line annotation for changed and saved lines.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
@@ -470,7 +496,7 @@ Emacs distribution that is designed to function smoothly across all operating sy
 
 ## Rust packages
 
-- [flx-rs](https://github.com/jcs090218/flx-rs) (Winter 2021):
+- [flx-rs][jcs090218/flx-rs] (Winter 2021):
 Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
 The original [emacs-flx][] were written in pure [Emacs Lisp][].
 While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
@@ -505,12 +531,12 @@ This was initially developed for several of my game frameworks, including [JCSUn
 ## CI/CD tools and automation
 
 - [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023):
-Install Lem for [GitHub Actions][] workflow.
+Install [Lem][] for [GitHub Actions][] workflow.
 - [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 ✨🔗):
 Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summur 2022):
-Github action which installs a given [Emacs][] version.
-This project aims to replace [purcell/setup-emacs][] by combining the two GitHub Actions — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
+[Github action][GHA] which installs a given [Emacs][] version.
+This project aims to replace [purcell/setup-emacs][] by combining the two [GitHub Actions][] — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
 As a result, it now supports all commonly used operating systems.
 - [setup-eask](https://github.com/emacs-eask/setup-eask) (Spring 2022):
 Install [Eask][eask/cli] for [Github Actions][] workflow.
@@ -521,6 +547,10 @@ Activate [Unity][]'s personal license through [CLI][].
 - [setup-emacs-windows][] (Fall 2020):
 A [Github Action][GitHub Actions] that installs a specific [emacs][] version.
 This project draws inspiration from [purcell/setup-emacs][] but is specifically dedicated to supporting legacy Windows systems.
+- [package-bot](https://github.com/jcs-elpa/package-bot) (Spring 2020 – Fall 2020):
+Review new package PRs on [MELPA][] automatically.
+Requested by the community, refer to [melpa#6714](https://github.com/melpa/melpa/issues/6714).
+While it wasn't ultimately accepted, it propelled the community towards a better alternative — [melpazoid][].
 
 ## On-hiatus projects (might be finished someday)
 
@@ -556,6 +586,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [Emacs]: https://www.gnu.org/software/emacs/
 [VSCode]: https://code.visualstudio.com/
+[Lem]: https://lem-project.github.io/
 [Visual Studio]: https://visualstudio.microsoft.com/
 [LÖVE]: https://love2d.org/
 [Unity]: https://unity.com/
@@ -571,11 +602,13 @@ The project was initiated during the course of work but is no longer in use as t
 [Emmet]: https://emmet.io/
 [Docker]: https://www.docker.com/
 [Autoconf]: https://www.gnu.org/software/autoconf/
+[FFmpeg]: https://ffmpeg.org/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
 
 [GitHub Actions]: https://github.com/features/actions
+[GHA]: https://github.com/features/actions
 [GitHub Pages]: https://pages.github.com/
 
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
@@ -589,6 +622,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
 [Rust]: https://www.rust-lang.org/
+[Lua]: https://www.lua.org/
 [Make]: https://www.gnu.org/software/make/manual/make.html
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
@@ -623,6 +657,8 @@ The project was initiated during the course of work but is no longer in use as t
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
+[MELPA]: https://melpa.org/
+[melpazoid]: https://github.com/riscy/melpazoid
 [searcher]: https://github.com/jcs-elpa/searcher
 [ag]: https://github.com/ggreer/the_silver_searcher
 [rg]: https://github.com/BurntSushi/ripgrep
@@ -640,6 +676,8 @@ The project was initiated during the course of work but is no longer in use as t
 [emacs-flx]: https://github.com/lewang/flx
 [flxy-rs]: https://github.com/jcs-legacy/flxy-rs
 [fuz.el]: https://github.com/rustify-emacs/fuz.el
+[jcs-elpa/flx-rs]: https://github.com/jcs-elpa/flx-rs
+[jcs090218/flx-rs]: https://github.com/jcs090218/flx-rs
 [flycheck]: https://github.com/flycheck/flycheck
 [flymake]: https://www.gnu.org/software/emacs/manual/html_mono/flymake.html
 [lsp-mode]: https://github.com/emacs-lsp/lsp-mode
@@ -678,6 +716,8 @@ The project was initiated during the course of work but is no longer in use as t
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [LSP]: https://microsoft.github.io/language-server-protocol/
 
+[Parser]: https://en.wikipedia.org/wiki/Parsing
+[Parsing]: https://en.wikipedia.org/wiki/Parsing
 [auth-source]: https://www.gnu.org/software/emacs/manual/html_mono/auth.html
 [TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
