@@ -201,16 +201,22 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 - [rainbow-csv](https://github.com/emacs-vs/rainbow-csv) (Winter 2023):
 🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
+- [sideline-eglot](https://github.com/emacs-sideline/sideline-eglot) (Winter 2023):
+Show [eglot][] information with [sideline][].
 - [jcs-template](https://github.com/jcs-emacs/jcs-template) (Winter 2023):
 Template module for [jcs-emacs][].
 - [elisp-tree-sitter][] (Fall 2023  🧑‍🔧):
 [Emacs Lisp][] bindings for [tree-sitter][].
 - [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
-Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package
+Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
+- [chatgpt-sideline](https://github.com/emacs-openai/chatgpt-sideline) (Fall 2023):
+[Sideline][] support for [chatgpt][emacs-openai/chatgpt].
 - [eglot-shader](https://github.com/shader-ls/eglot-shader) (Fall 2023):
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
+- [deepl](https://github.com/emacs-openai/deepl) (Summur 2023):
+[Elisp][] library for the [DeepL][] API.
 - [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summur 2023):
 Generic popup tip.
 - [jcs-echobar](https://github.com/jcs-emacs/jcs-echobar) (Spring 2023):
@@ -219,6 +225,15 @@ An echo-bar for [jcs-emacs][].
 A frame title for [jcs-emacs][].
 - [flymake-elsa](https://github.com/flymake/flymake-elsa) (Spring 2023):
 [Flymake][] integration for [Elsa][] — [Emacs lisp][] static analyzer.
+- [dall-e](https://github.com/emacs-openai/dall-e) (Spring 2023):
+Use [DALL-E][] inside [Emacs][].
+- [chatgpt][] (Spring 2023):
+Use [ChatGPT][] inside [Emacs][].
+- [codegpt](https://github.com/emacs-openai/codegpt) (Spring 2023):
+Use [GPT-3](https://en.wikipedia.org/wiki/GPT-3) inside [Emacs][].
+This project is inspired by the [Code GPT: Chat & AI Agents](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) from the [VSCode][] community
+- [openai](https://github.com/emacs-openai/openai) (Spring 2023):
+[Elisp][] library for the [OpenAI][] API.
 - [espuds](https://github.com/ecukes/espuds) (Spring 2023 🧑‍🔧):
 Common step definitions for [Ecukes][].
 - [ecukes][] (Spring 2023 🧑‍🔧):
@@ -237,6 +252,18 @@ Control [Eask CLI][eask/cli] in [Emacs][].
 Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
 - [company-eask](https://github.com/emacs-eask/company-eask) (Winter 2022):
 [Company][] backend for Eask-file.
+- [sideline-color](https://github.com/emacs-sideline/sideline-color) (Fall 2022):
+Show color information with [sideline][].
+- [sideline-blame](https://github.com/emacs-sideline/sideline-blame) (Summur 2022):
+Show blame messages with [sideline][].
+- [sideline-lsp](https://github.com/emacs-sideline/sideline-lsp) (Summur 2022):
+Show [lsp-mode][] information with [sideline][].
+- [sideline-flymake](https://github.com/emacs-sideline/sideline-flymake) (Summur 2022):
+Show [flymake][] errors with [sideline][].
+- [sideline-flycheck](https://github.com/emacs-sideline/sideline-flycheck) (Summur 2022):
+Show [flycheck][] errors with [sideline][].
+- [sideline][] (Summur 2022):
+Show information on the side.
 - [flymake-eask](https://github.com/flymake/flymake-eask) (Summur 2022):
 [Eask][eask/cli] support in [Flymake][].
 - [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summur 2022):
@@ -366,7 +393,7 @@ Preview character when executing `goto-char` command.
 Preview line when executing `goto-line` command.
 - [auto-close-tag](https://github.com/jcs-legacy/auto-close-tag) (Winter 2018):
 Automatically add HTML/XML close tag.
-Inspired by the [auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) from the [VSCode][] marketplace.
+Inspired by the [auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) from the [VSCode][] community.
 - [line-reminder](https://github.com/emacs-vs/line-reminder) (Summur 2018):
 Line annotation for changed and saved lines.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
@@ -462,7 +489,6 @@ The project was initiated during the course of work but is no longer in use as t
 [Windows]: https://en.wikipedia.org/wiki/Microsoft_Windows
 
 [Emacs]: https://www.gnu.org/software/emacs/
-[Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [VSCode]: https://code.visualstudio.com/
 [Visual Studio]: https://visualstudio.microsoft.com/
 [LÖVE]: https://love2d.org/
@@ -484,6 +510,8 @@ The project was initiated during the course of work but is no longer in use as t
 
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
+[Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
 [Rust]: https://www.rust-lang.org/
@@ -551,6 +579,8 @@ The project was initiated during the course of work but is no longer in use as t
 [elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
 [ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
+[sideline]: https://github.com/emacs-sideline/sideline
+[emacs-openai/chatgpt]: https://github.com/emacs-openai/chatgpt
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
@@ -581,3 +611,7 @@ The project was initiated during the course of work but is no longer in use as t
 [InspectorWindow]: https://docs.unity3d.com/Manual/UsingTheInspector.html
 [HierarchyWindow]: https://docs.unity3d.com/Manual/Hierarchy.html
 [SSG]: https://en.wikipedia.org/wiki/Static_site_generator
+[OpenAI]: https://openai.com/
+[ChatGPT]: https://chat.openai.com/
+[DALL-E]: https://openai.com/dall-e-2
+[DEEPL]: https://www.deepl.com/en/translator
