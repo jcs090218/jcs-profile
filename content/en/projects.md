@@ -112,6 +112,8 @@ An app for sharing music that works with illuminated piano keyboards — [Meteo 
 
 - [jcs-profile](https://github.com/jcs090218/jcs-profile/) (Spring 2024 – Presented):
 My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+- [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
+Scripting manual website for [JCSGodot][] API.
 - [blog@v2](https://github.com/jcs090218/blog) (Fall 2022 – Spring 2024):
 My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
 - [Eask Manual](https://emacs-eask.github.io/) (Summur 2022 – Winter 2022):
@@ -140,6 +142,8 @@ API for the [sherlock][sherlock-project/sherlock] module implemented in Python u
 Initial attempt with [DRF][].
 - [Scripting_Manual_JCSUE](https://github.com/jcs-legacy/Scripting_Manual_JCSUE) (Summur 2020):
 Scripting manual for [JCSUE][] API.
+- [Scripting_Manual_CCosQuick](https://github.com/jcs-legacy/Scripting_Manual_CCosQuick) (Spring 2020):
+Scripting manual for [CCosQuick][] API.
 - [sherlock][sherlock-project/sherlock] (Spring 2019 ✨):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
@@ -149,6 +153,8 @@ I later shifted to a Static Site Generator (SSG) solution to minimize my server 
 - [Blog_Template][] (Winter 2018):
 A blog template that allows individuals to self-host their blogs!
 Constructed using [Node.js][] and [Express.js][]. (replaced with [SiraDoc][])
+- [Scripting_Manual_JCSEgret](https://github.com/jcs-legacy/Scripting_Manual_JCSEgret) (Winter 2018):
+Scripting manual website for [JCSEgret][] API.
 - [API_Reference_Template][] (Winter 2018):
 Simple API references webiste hoster. (replaced with [SiraDoc][])
 - [Scripting_Manual_JCSUnity](https://github.com/jcs-legacy/Scripting_Manual_JCSUnity) (Fall 2018):
@@ -297,6 +303,9 @@ Emacs [quelpa][] handler for leaf.
 The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
 - [auto-complete][] (Fall 2020 – Present 🧑‍🔧):
 An Intelligent auto-completion extension for [Emacs][].
+- [ivy-describe-modes](https://github.com/jcs-legacy/ivy-describe-modes) (Fall 2020):
+[Ivy][] interface to `describe-mode`.
+Inspired by [helm-describe-modes](https://github.com/emacs-helm/helm-describe-modes).
 - [flymake-grammarly](https://github.com/emacs-grammarly/flymake-grammarly) (Fall 2020):
 [Flymake][] support for [Grammarly][].
 - [auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) (Fall 2020 🧑‍🔧):
@@ -474,6 +483,7 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [JCSUE]: https://github.com/jcs090218/JCSUE
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
+[JCSGodot]: https://github.com/jcs090218/JCSGodot
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
 [API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
 [Blog_Template]: https://github.com/jcs-legacy/Blog_Template
