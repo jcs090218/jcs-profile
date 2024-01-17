@@ -203,6 +203,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
 - [sideline-eglot](https://github.com/emacs-sideline/sideline-eglot) (Winter 2023):
 Show [eglot][] information with [sideline][].
+- [company-emmet](https://github.com/emacs-vs/company-emmet) (Winter 2023):
+[Company][] completion for [emmet][].
 - [jcs-template](https://github.com/jcs-emacs/jcs-template) (Winter 2023):
 Template module for [jcs-emacs][].
 - [elisp-tree-sitter][] (Fall 2023  🧑‍🔧):
@@ -223,10 +225,14 @@ Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
 [Elisp][] library for the [DeepL][] API.
 - [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summur 2023):
 Generic popup tip.
+- [doxygen-asterisk](https://github.com/emacs-vs/doxygen-asterisk) (Summur 2023):
+Minor mode that helps you insert pair `/*` and `*/`.
 - [jcs-echobar](https://github.com/jcs-emacs/jcs-echobar) (Spring 2023):
 An echo-bar for [jcs-emacs][].
 - [jcs-frametitle](https://github.com/jcs-emacs/jcs-frametitle) (Spring 2023):
 A frame title for [jcs-emacs][].
+- [vs-comment-return](https://github.com/emacs-vs/vs-comment-return) (Spring 2023):
+Comment return like [Visual Studio][].
 - [flymake-elsa](https://github.com/flymake/flymake-elsa) (Spring 2023):
 [Flymake][] integration for [Elsa][] — [Emacs lisp][] static analyzer.
 - [dall-e](https://github.com/emacs-openai/dall-e) (Spring 2023):
@@ -252,12 +258,18 @@ A modeline for [jcs-emacs][].
 Control [Eask CLI][eask/cli] in [Emacs][].
 - [eldoc-eask](https://github.com/emacs-eask/eldoc-eask) (Winter 2022):
 [Eldoc][] support for Eask-file.
-- [eask](https://github.com/emacs-eask/eask) (Winter 2022):
-Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
 - [company-eask](https://github.com/emacs-eask/company-eask) (Winter 2022):
 [Company][] backend for Eask-file.
+- [eask](https://github.com/emacs-eask/eask) (Winter 2022):
+Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
+- [company-paths](https://github.com/emacs-vs/company-paths) (Winter 2022):
+A [company][] backend for paths.
+- [vs-electric-spacing](https://github.com/emacs-vs/vs-electric-spacing) (Winter 2022):
+Add spacing around operators like [Visual Studio][].
 - [sideline-color](https://github.com/emacs-sideline/sideline-color) (Fall 2022):
 Show color information with [sideline][].
+- [vsc-multiple-cursors](https://github.com/emacs-vs/vsc-multiple-cursors) (Summur 2022):
+[multiple-cursors][] integration behave like [VSCode][].
 - [sideline-blame](https://github.com/emacs-sideline/sideline-blame) (Summur 2022):
 Show blame messages with [sideline][].
 - [sideline-lsp](https://github.com/emacs-sideline/sideline-lsp) (Summur 2022):
@@ -274,8 +286,18 @@ Show information on the side.
 [Eask][eask/cli] support in [Flycheck][].
 - [ts-docstr](https://github.com/emacs-vs/ts-docstr) (Fall 2022):
 A document string minor mode using [tree-sitter][].
+- [vs-edit-mode](https://github.com/emacs-vs/vs-edit-mode) (Spring 2022):
+Minor mode accomplish editing experience in [Visual Studio][].
+- [quick-peek](https://github.com/emacs-vs/quick-peek) (Spring 2022 ✨🧑‍🔧):
+Quick-peek inline-window library for [Emacs][].
+- [vs-revbuf](https://github.com/emacs-vs/vs-revbuf) (Spring 2022):
+Revert buffers like [Visual Studio][].
 - [eask-mode](https://github.com/emacs-eask/eask-mode) (Spring 2022):
 Major mode for editing [Eask][] files.
+- [electric-indent-sexp](https://github.com/emacs-vs/electric-indent-sexp) (Spring 2022):
+Automatically indent entire balanced expression block.
+- [fextern](https://github.com/emacs-vs/fextern) (Spring 2022):
+Record file external stats.
 - [fuz-bin](https://github.com/jcs-legacy/fuz-bin) (Winter 2021):
 Similar to [fuz.el][] but with precompiled binaries.
 I favor packages with precompiled binaries for an improved user experience.
@@ -291,6 +313,17 @@ A [company][] front-end with icons.
 Forked due to its challenging usability on [Windows][], incorporating numerous bug fixes, enhanced performance, and other improvements.
 - [ts-fold][] (Fall 2021):
 Code-folding using [tree-sitter][].
+- [hl-preproc](https://github.com/emacs-vs/hl-preproc) (Fall 2021):
+Unhighlight invalid preprocessor region.
+This package uses [meta-net][] to parse all define constants inside a csproj file.
+- [eldoc-meta-net](https://github.com/emacs-vs/eldoc-meta-net) (Fall 2021):
+[Eldoc][] support for [meta-net][].
+- [meta-view](https://github.com/emacs-vs/meta-view) (Summur 2021):
+View metadata from [.NET][] assemblies.
+- [company-meta-net](https://github.com/emacs-vs/company-meta-net) (Summur 2021):
+[company-mode][] backend for [C#][] project.
+- [meta-net][] (Summur 2021):
+Parse [.NET][] assembly's [XML][].
 - [flex](https://github.com/jcs-legacy/flex) (Summur 2021):
 Flexible Matching Library.
 Algorithm is extracted from package [ido-better-flex](https://github.com/vic/ido-better-flex).
@@ -497,6 +530,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Visual Studio]: https://visualstudio.microsoft.com/
 [LÖVE]: https://love2d.org/
 [Unity]: https://unity.com/
+[.NET]: https://en.wikipedia.org/wiki/.NET
 [Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
 [Node.js]: https://nodejs.org/
@@ -505,6 +539,7 @@ The project was initiated during the course of work but is no longer in use as t
 [DRF]: https://www.django-rest-framework.org/
 [Nix]: https://nixos.org/
 [Grammarly]: https://www.grammarly.com/
+[Emmet]: https://emmet.io/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -563,6 +598,7 @@ The project was initiated during the course of work but is no longer in use as t
 [swiper]: https://github.com/abo-abo/swiper
 [tabulated-list]: https://www.gnu.org/software/emacs/manual/html_node/elisp/Tabulated-List-Mode.html
 [company]: https://github.com/company-mode/company-mode
+[company-mode]: https://github.com/company-mode/company-mode
 [ElDoc]: https://www.emacswiki.org/emacs/ElDoc
 [emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
 [emacs-flx]: https://github.com/lewang/flx
@@ -583,8 +619,10 @@ The project was initiated during the course of work but is no longer in use as t
 [elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
 [ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
+[meta-net]: https://github.com/emacs-vs/meta-net
 [sideline]: https://github.com/emacs-sideline/sideline
 [emacs-openai/chatgpt]: https://github.com/emacs-openai/chatgpt
+[multiple-cursors]: https://github.com/magnars/multiple-cursors.el
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
