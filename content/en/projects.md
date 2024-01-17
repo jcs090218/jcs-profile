@@ -106,7 +106,7 @@ Players can interact with objects in the scene by simply clicking on them.
 ## Music mobile apps
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 💸):
-An app for sharing music that works with illuminated piano keyboards – [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
+An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
 
 ## Web apps and services, browser extensions
 
@@ -114,13 +114,15 @@ An app for sharing music that works with illuminated piano keyboards – [Meteo 
 My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 - [blog@v2](https://github.com/jcs090218/blog) (Fall 2022 – Spring 2024):
 My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
-- [Eask Manual Website](https://emacs-eask.github.io/) (Summur 2022 – Winter 2022):
+- [Eask Manual](https://emacs-eask.github.io/) (Summur 2022 – Winter 2022):
 [Eask][eask/cli]'s documentation website.
-- [JCS-EMACS Webiste](https://jcs-emacs.github.io/) (Spring 2022):
+- [JCS-EMACS Homepage](https://jcs-emacs.github.io/) (Spring 2022):
 Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
-- [JCS-ELPA Website](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
+- [JCS-ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
 A homepage for [JCS-ELPA][] designed to showcase all packages in the archive.
 The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
+- [JCSUnity Manual](https://jcs090218.github.io/JCSUnity/) (Fall 2021):
+The documentation website for my game framework — JCSUnity
 - [blog@v1](https://github.com/jcs090218/blog/tree/v1) (Fall 2021 – Fall 2022):
 My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (Summur 2021 – Winter 2021 💸):
@@ -192,7 +194,7 @@ An echo-bar for [jcs-emacs][].
 - [jcs-frametitle](https://github.com/jcs-emacs/jcs-frametitle) (Spring 2023):
 A frame title for [jcs-emacs][].
 - [flymake-elsa](https://github.com/flymake/flymake-elsa) (Spring 2023):
-[Flymake][] integration for [Elsa][] ––– [Emacs lisp][] static analyzer.
+[Flymake][] integration for [Elsa][] — [Emacs lisp][] static analyzer.
 - [espuds](https://github.com/ecukes/espuds) (Spring 2023 🧑‍🔧):
 Common step definitions for [Ecukes][].
 - [ecukes][] (Spring 2023 🧑‍🔧):
@@ -326,7 +328,7 @@ Therefore, this package was developed and successfully increased the speed from 
 
 - [minify-dir](https://github.com/jcs090218/node-minify-dir) (Spring 2019):
 Minify all files within a directory.
-Another [Node.js][] website minifier created initially for the static site generator ––– [SiraDoc][].
+Another [Node.js][] website minifier created initially for the static site generator — [SiraDoc][].
 - [JCSBat_Util](https://github.com/jcs090218/JCSBat_Util) (Winter 2016 – Present):
 Some handy [batch][] files for my workflow as programmer. ([Windows][])
 
