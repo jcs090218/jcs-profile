@@ -250,11 +250,22 @@ Similar to [fuz.el][] but with precompiled binaries.
 I favor packages with precompiled binaries for an improved user experience.
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+- [flxy](https://github.com/jcs-legacy/flxy) (Winter 2021):
+[flxy][flxy-rs] in [Rust][] using dynamic module.
+- [sublime-fuzzy](https://github.com/jcs-legacy/sublime-fuzzy) (Winter 2021):
+Fuzzy matching algorithm based on Sublime Text's string search.
+Build [sublime_fuzzy](https://github.com/Schlechtwetterfront/fuzzy-rs) in [Rust][] to Emacs loadable binaries.
 - [company-box](https://github.com/elp-revive/company-box) (Fall 2021 🔗):
 A [company][] front-end with icons.
 Forked due to its challenging usability on [Windows][], incorporating numerous bug fixes, enhanced performance, and other improvements.
 - [ts-fold][] (Fall 2021):
 Code-folding using [tree-sitter][].
+- [flex](https://github.com/jcs-legacy/flex) (Summur 2021):
+Flexible Matching Library.
+Algorithm is extracted from package [ido-better-flex](https://github.com/vic/ido-better-flex).
+- [liquidmetal](https://github.com/jcs-legacy/liquidmetal) (Summur 2021):
+A mimetic poly-alloy of the Quicksilver scoring algorithm.
+Ported from [rmm5t/liquidmetal](https://github.com/rmm5t/liquidmetal).
 - [eglot-languagetool](https://github.com/emacs-languagetool/eglot-languagetool) (Summur 2021):
 [eglot][] client leveraging [LanguageTool Language Server][languagetool-languageserver].
 - [lsp-languagetool](https://github.com/emacs-languagetool/lsp-languagetool) (Summur 2021):
@@ -303,6 +314,12 @@ Emacs [quelpa][] handler for leaf.
 The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
 - [auto-complete][] (Fall 2020 – Present 🧑‍🔧):
 An Intelligent auto-completion extension for [Emacs][].
+- [scroll-text](https://github.com/jcs-legacy/scroll-text) (Winter 2020):
+An enjoyable endeavor for animating scrolling text within an [Emacs][] buffer.
+- [un-mini](https://github.com/jcs-legacy/un-mini) (Fall 2020):
+Automatically close minibuffer after it loses focus.
+- [ivy-file-preview](https://github.com/jcs-legacy/ivy-file-preview) (Fall 2020):
+Preview the current [ivy][] file selection.
 - [ivy-describe-modes](https://github.com/jcs-legacy/ivy-describe-modes) (Fall 2020):
 [Ivy][] interface to `describe-mode`.
 Inspired by [helm-describe-modes](https://github.com/emacs-helm/helm-describe-modes).
@@ -323,6 +340,10 @@ Display files/directories in current directory on [Dashboard][emacs-dashboard].
 [Ivy][] interface to use [searcher][].
 - [searcher][] (Summur 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
+- [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
+Theme styled after undersea imagery.
+- [company-quickhelp-terminal](https://github.com/jcs-legacy/company-quickhelp-terminal) (Winter 2019):
+Terminal support for [company-quickhelp](https://github.com/company-mode/company-quickhelp).
 - [vs-light-theme](https://github.com/emacs-vs/vs-light-theme) (Fall 2019):
 [Visual Studio IDE][Visual Studio] light theme.
 - [vs-dark-theme](https://github.com/emacs-vs/vs-dark-theme) (Fall 2019):
@@ -331,12 +352,21 @@ An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][
 [Grammarly][] support for [Flycheck][].
 - [grammarly](https://github.com/emacs-grammarly/grammarly) (Winter 2019):
 [Grammarly][] API interface. (reverse-engineered solution)
+- [tabulated-list-search](https://github.com/jcs-legacy/tabulated-list-search) (Winter 2019):
+Provide filtering/searching [tabulated-list][] interface.
 - [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
+- [helm-fuzzy](https://github.com/jcs-legacy/helm-fuzzy) (Fall 2019):
+Fuzzy matching for [helm][] source.
+- [helm-file-preview](https://github.com/jcs-legacy/helm-file-preview) (Summur 2019):
+Preview the current [helm][] file selection.
 - [goto-char-preview](https://github.com/emacs-vs/goto-char-preview) (Summur 2019):
 Preview character when executing `goto-char` command.
 - [goto-line-preview](https://github.com/emacs-vs/goto-line-preview) (Spring 2019):
 Preview line when executing `goto-line` command.
+- [auto-close-tag](https://github.com/jcs-legacy/auto-close-tag) (Winter 2018):
+Automatically add HTML/XML close tag.
+Inspired by the [auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) from the [VSCode][] marketplace.
 - [line-reminder](https://github.com/emacs-vs/line-reminder) (Summur 2018):
 Line annotation for changed and saved lines.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
@@ -353,7 +383,7 @@ Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
 The original [emacs-flx][] were written in pure [Emacs Lisp][].
 While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
 Therefore, this package was developed, leading to a speed increase ranging from 10x to 16x.
-- [flxy-rs](https://github.com/jcs-legacy/flxy-rs) (Winter 2021):
+- [flxy-rs][] (Winter 2021):
 Fast, character-based search library in [Rust][].
 This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
 Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
@@ -499,10 +529,12 @@ The project was initiated during the course of work but is no longer in use as t
 [ivy]: https://github.com/abo-abo/swiper
 [counsel]: https://github.com/abo-abo/swiper
 [swiper]: https://github.com/abo-abo/swiper
+[tabulated-list]: https://www.gnu.org/software/emacs/manual/html_node/elisp/Tabulated-List-Mode.html
 [company]: https://github.com/company-mode/company-mode
 [ElDoc]: https://www.emacswiki.org/emacs/ElDoc
 [emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
 [emacs-flx]: https://github.com/lewang/flx
+[flxy-rs]: https://github.com/jcs-legacy/flxy-rs
 [fuz.el]: https://github.com/rustify-emacs/fuz.el
 [flycheck]: https://github.com/flycheck/flycheck
 [flymake]: https://www.gnu.org/software/emacs/manual/html_mono/flymake.html
