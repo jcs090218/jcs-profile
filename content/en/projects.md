@@ -221,6 +221,8 @@ Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
+- [on.el](https://github.com/elp-revive/on.el) (Summur 2023 🔗):
+Hooks for faster [Emacs][] startup.
 - [deepl](https://github.com/emacs-openai/deepl) (Summur 2023):
 [Elisp][] library for the [DeepL][] API.
 - [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summur 2023):
@@ -266,8 +268,22 @@ Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
 A [company][] backend for paths.
 - [vs-electric-spacing](https://github.com/emacs-vs/vs-electric-spacing) (Winter 2022):
 Add spacing around operators like [Visual Studio][].
+- [balanced-windows](https://github.com/elp-revive/balanced-windows) (Winter 2022):
+Keep windows balanced.
 - [sideline-color](https://github.com/emacs-sideline/sideline-color) (Fall 2022):
 Show color information with [sideline][].
+- [company-autoconf](https://github.com/elp-revive/company-autoconf) (Fall 2022 🔗):
+Completion backend for editing [autoconf][] files in [Emacs][].
+- [kaomoji.el](https://github.com/elp-revive/kaomoji.el) (Fall 2022 🔗):
+Input kaomoji (顔文字) easily! ┌（┌ ＾o＾）┐ﾎﾓｫ
+- [company-makefile](https://github.com/elp-revive/company-makefile) (Fall 2022 🔗):
+[Emacs][] [company][] completion backend for [GNU Makefiles][Make].
+- [company-cmd](https://github.com/elp-revive/company-cmd) (Fall 2022 🔗):
+[Emacs][] [company-mode][] backend for windows [DOS][]/[batch][] scripts.
+- [company-powershell](https://github.com/elp-revive/company-powershell) (Fall 2022 🔗):
+Autocompletion backend for [powershell-mode][] in [Emacs][].
+- [company-dockerfile](https://github.com/elp-revive/company-dockerfile) (Fall 2022 🔗):
+Add [dockerfile][Docker] keywords to [company-mode][] keywords alist.
 - [vsc-multiple-cursors](https://github.com/emacs-vs/vsc-multiple-cursors) (Summur 2022):
 [multiple-cursors][] integration behave like [VSCode][].
 - [sideline-blame](https://github.com/emacs-sideline/sideline-blame) (Summur 2022):
@@ -280,6 +296,18 @@ Show [flymake][] errors with [sideline][].
 Show [flycheck][] errors with [sideline][].
 - [sideline][] (Summur 2022):
 Show information on the side.
+- [javap-mode](https://github.com/elp-revive/javap-mode) (Summur 2022 🔗):
+Show the ouput of [javap](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html) when opening a jvm class file in [Emacs][].
+- [company-coffee](https://github.com/elp-revive/company-coffee) (Summur 2022 🔗):
+[Emacs][] add [coffee][CoffeeScript] keywords to `company-keywords` for completion.
+- [company-c-headers](https://github.com/elp-revive/company-c-headers) (Summur 2022 🔗):
+Auto-completion for [C][]/[C++][] headers using [Company][].
+- [buffer-move](https://github.com/elp-revive/buffer-move) (Summur 2022 🔗):
+easily swap buffers.
+- [noflet](https://github.com/elp-revive/noflet) (Summur 2022 🔗):
+nic's overriding flet, for fleting functions for the purpose of decorating them.
+- [eping](https://github.com/elp-revive/eping) (Summur 2022 🔗):
+An [Emacs][] package that checks internet connectivity using [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)).
 - [flymake-eask](https://github.com/flymake/flymake-eask) (Summur 2022):
 [Eask][eask/cli] support in [Flymake][].
 - [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summur 2022):
@@ -288,7 +316,7 @@ Show information on the side.
 A document string minor mode using [tree-sitter][].
 - [vs-edit-mode](https://github.com/emacs-vs/vs-edit-mode) (Spring 2022):
 Minor mode accomplish editing experience in [Visual Studio][].
-- [quick-peek](https://github.com/emacs-vs/quick-peek) (Spring 2022 ✨🧑‍🔧):
+- [quick-peek](https://github.com/emacs-vs/quick-peek) (Spring 2022 🔗🧑‍🔧):
 Quick-peek inline-window library for [Emacs][].
 - [vs-revbuf](https://github.com/emacs-vs/vs-revbuf) (Spring 2022):
 Revert buffers like [Visual Studio][].
@@ -524,6 +552,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [macOS]: https://en.wikipedia.org/wiki/MacOS
 [Windows]: https://en.wikipedia.org/wiki/Microsoft_Windows
+[DOS]: https://en.wikipedia.org/wiki/DOS
 
 [Emacs]: https://www.gnu.org/software/emacs/
 [VSCode]: https://code.visualstudio.com/
@@ -540,6 +569,8 @@ The project was initiated during the course of work but is no longer in use as t
 [Nix]: https://nixos.org/
 [Grammarly]: https://www.grammarly.com/
 [Emmet]: https://emmet.io/
+[Docker]: https://www.docker.com/
+[Autoconf]: https://www.gnu.org/software/autoconf/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -548,12 +579,17 @@ The project was initiated during the course of work but is no longer in use as t
 [GitHub Pages]: https://pages.github.com/
 
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
+[C]: https://en.wikipedia.org/wiki/C_(programming_language)
+[C++]: https://en.wikipedia.org/wiki/C%2B%2B
+[CPP]: https://en.wikipedia.org/wiki/C%2B%2B
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[CoffeeScript]: https://coffeescript.org/
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
 [Rust]: https://www.rust-lang.org/
+[Make]: https://www.gnu.org/software/make/manual/make.html
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
@@ -623,6 +659,8 @@ The project was initiated during the course of work but is no longer in use as t
 [sideline]: https://github.com/emacs-sideline/sideline
 [emacs-openai/chatgpt]: https://github.com/emacs-openai/chatgpt
 [multiple-cursors]: https://github.com/magnars/multiple-cursors.el
+[powershell.el]: https://github.com/jschaf/powershell.el
+[powershell-mode]: https://github.com/jschaf/powershell.el
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
