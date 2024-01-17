@@ -27,18 +27,33 @@ This, my personal website.
 ## Unity C# stuff
 
 - [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
-A small library designed to fetch a list of EditorPrefs/PlayerPrefs.
+A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
 - [FlxCs](https://github.com/jcs090218/FlxCs) (Fall 2023):
 Rewrite [emacs-flx][] in C#. Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
 - [Unity.Mx](https://github.com/jcs090218/Unity.Mx) (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
-The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from Emacs.
+The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
+- [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summur 2021 – Fall 2021 💸):
+A dedicated tool that tracks variable over time.
+- [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 💸):
+An abstraction layer constructed atop the [AssetBundles][] system, aiming to streamline the [AssetBundles][] workflow, sparing users from delving into intricate system details.
+- [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (Summur 2021 💸):
+A dedicated and up to date [YAML][] editor inside the [Inspector][InspectorWindow] window.
+- [Inspect Xml](https://assetstore.unity.com/publishers/54455) (Summur 2021 💸):
+A dedicated and up to date [XML][] editor inside the [Inspector][InspectorWindow] window.
+- [Inspect Json](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543) (Summur 2021 💸):
+A dedicated and up to date [JSON][] editor inside the [Inspector][InspectorWindow] window.
+- [Afterimage](https://assetstore.unity.com/packages/vfx/afterimage-197173) (Summur 2021 💸):
+Afterimage VFX for [Unity][].
+A simple solution that work with 2D and 3D renderers, including UI components (Image, Text, Button, etc).
+- [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (Summur 2021 💸):
+Minimalistic good looking [hierarchy][HierarchyWindow].
 - [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 💸):
-Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in Unity to accomplish hot update/fix functionality.
+Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
 - [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summur 2018):
-Implementation of an Undo-Redo system in Unity using C# and uGUI.
+Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
 - [Unity_Toggle](https://github.com/jcs090218/Unity_Toggle) (Summur 2018):
-A little bit overkill toggle button UI for Unity Engine using uGUI.
+A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
 - [PackageExporter](https://github.com/jcs090218/PackageExporter) (Winter 2017):
 An alternative approach to package management utilizing ignore files.
 - [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summur 2016 – Winter 2017):
@@ -95,12 +110,22 @@ An app for sharing music that works with illuminated piano keyboards – [Meteo 
 
 ## Web apps and services, browser extensions
 
+- [jcs-profile](https://github.com/jcs090218/jcs-profile/) (Spring 2024 – Presented):
+My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+- [blog@v2](https://github.com/jcs090218/blog) (Fall 2022 – Spring 2024):
+My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
+- [Eask Manual Website](https://emacs-eask.github.io/) (Summur 2022 – Winter 2022):
+[Eask][eask/cli]'s documentation website.
+- [JCS-EMACS Webiste](https://jcs-emacs.github.io/) (Spring 2022):
+Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
 - [JCS-ELPA Website](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
 A homepage for [JCS-ELPA][] designed to showcase all packages in the archive.
 The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
-- [Pixisoft Website](https://gitlab.com/pixisoft/pixisoft.gitlab.io) (Summur 2021 – Winter 2021 💸):
+- [blog@v1](https://github.com/jcs090218/blog/tree/v1) (Fall 2021 – Fall 2022):
+My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
+- [Pixisoft Website](https://pixisoft.gitlab.io/) (Summur 2021 – Winter 2021 💸):
 A small web application made using [React.js][], designed for use as a company's homepage.
-- [sherlock-web](https://github.com/jcs-legacy/sherlock-web) (Spring 2021):
+- [sherlock-web](https://jcs-profile.com/public/sherlock-web/) (Spring 2021):
 Website to interact [Sherlock API][sherlock-project/api].
 - [sherlock-project/api](https://github.com/sherlock-project/api) (Spring 2021):
 API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework][].
@@ -150,6 +175,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 - [rainbow-csv](https://github.com/emacs-vs/rainbow-csv) (Winter 2023):
 🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
+- [jcs-template](https://github.com/jcs-emacs/jcs-template) (Winter 2023):
+Template module for [jcs-emacs][].
 - [elisp-tree-sitter][] (Fall 2023  🧑‍🔧):
 [Emacs Lisp][] bindings for [tree-sitter][].
 - [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
@@ -158,22 +185,40 @@ Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
+- [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summur 2023):
+Generic popup tip.
+- [jcs-echobar](https://github.com/jcs-emacs/jcs-echobar) (Spring 2023):
+An echo-bar for [jcs-emacs][].
+- [jcs-frametitle](https://github.com/jcs-emacs/jcs-frametitle) (Spring 2023):
+A frame title for [jcs-emacs][].
 - [flymake-elsa](https://github.com/flymake/flymake-elsa) (Spring 2023):
 [Flymake][] integration for [Elsa][] ––– [Emacs lisp][] static analyzer.
 - [espuds](https://github.com/ecukes/espuds) (Spring 2023 🧑‍🔧):
 Common step definitions for [Ecukes][].
 - [ecukes][] (Spring 2023 🧑‍🔧):
 Cucumber for [Emacs][].
+- [jcs-modeline](https://github.com/jcs-emacs/jcs-modeline) (Winter 2022):
+A modeline for [jcs-emacs][].
+- [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
+[Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
 - [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
+- [easky](https://github.com/emacs-eask/easky) (Winter 2022):
+Control [Eask CLI][eask/cli] in [Emacs][].
+- [eldoc-eask](https://github.com/emacs-eask/eldoc-eask) (Winter 2022):
+[Eldoc][] support for Eask-file.
+- [eask](https://github.com/emacs-eask/eask) (Winter 2022):
+Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
+- [company-eask](https://github.com/emacs-eask/company-eask) (Winter 2022):
+[Company][] backend for Eask-file.
 - [flymake-eask](https://github.com/flymake/flymake-eask) (Summur 2022):
 [Eask][eask/cli] support in [Flymake][].
 - [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summur 2022):
 [Eask][eask/cli] support in [Flycheck][].
-- [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
-[Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
 - [ts-docstr](https://github.com/emacs-vs/ts-docstr) (Fall 2022):
 A document string minor mode using [tree-sitter][].
+- [eask-mode](https://github.com/emacs-eask/eask-mode) (Spring 2022):
+Major mode for editing [Eask][] files.
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [company-box](https://github.com/elp-revive/company-box) (Fall 2021 🔗):
@@ -254,7 +299,7 @@ An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][
 [Grammarly][] support for [Flycheck][].
 - [grammarly](https://github.com/emacs-grammarly/grammarly) (Winter 2019):
 [Grammarly][] API interface. (reverse-engineered solution)
-- [dashboard][emacs-dashboard] (Summur 2019 - Present 🧑‍🔧):
+- [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
 - [goto-char-preview](https://github.com/emacs-vs/goto-char-preview) (Summur 2019):
 Preview character when executing `goto-char` command.
@@ -265,7 +310,7 @@ Line annotation for changed and saved lines.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
 Automatically organize imports in [Java][] code.
 It has been deprecated with the advent of the [Language Server Protocol][LSP].
-- [jcs-emacs](https://github.com/jcs-emacs/jcs-emacs) (Summur 2015 – Present):
+- [jcs-emacs][] (Summur 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
 , delivering exceptional performance, especially on legacy Windows systems.
 
@@ -303,19 +348,21 @@ This was initially developed for several of my game frameworks, including [JCSUn
 
 - [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023):
 Install Lem for [GitHub Actions][] workflow.
-- [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 ✨):
+- [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 ✨🔗):
 Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summur 2022):
 Github action which installs a given [Emacs][] version.
 This project aims to replace [purcell/setup-emacs][] by combining the two GitHub Actions — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
 As a result, it now supports all commonly used operating systems.
-- [setup-emacs-windows][] (Fall 2022):
-A [Github Action][GitHub Actions] that installs a specific [emacs][] version.
-This project draws inspiration from [purcell/setup-emacs][] but is specifically dedicated to supporting legacy Windows systems.
+- [setup-eask](https://github.com/emacs-eask/setup-eask) (Spring 2022):
+Install [Eask][eask/cli] for [Github Actions][] workflow.
 - [unity-verify-code](https://github.com/game-ci/unity-verify-code) (Fall 2021):
 An email parser to get 6 digit verification code to bypass [TFA][].
 - [unity-license-activate](https://github.com/game-ci/unity-license-activate) (Fall 2021):
 Activate [Unity][]'s personal license through [CLI][].
+- [setup-emacs-windows][] (Fall 2020):
+A [Github Action][GitHub Actions] that installs a specific [emacs][] version.
+This project draws inspiration from [purcell/setup-emacs][] but is specifically dedicated to supporting legacy Windows systems.
 
 ## On-hiatus projects (might be finished someday)
 
@@ -342,6 +389,8 @@ The project was initiated during the course of work but is no longer in use as t
 
 [AAU]: https://www.academyart.edu/
 
+[Linux]: https://en.wikipedia.org/wiki/Linux
+[macOS]: https://en.wikipedia.org/wiki/MacOS
 [Windows]: https://en.wikipedia.org/wiki/Microsoft_Windows
 
 [Emacs]: https://www.gnu.org/software/emacs/
@@ -358,16 +407,23 @@ The project was initiated during the course of work but is no longer in use as t
 [Nix]: https://nixos.org/
 [Grammarly]: https://www.grammarly.com/
 
+[Hexo]: https://hexo.io/index.html
+[Hugo]: https://gohugo.io/
+
 [GitHub Actions]: https://github.com/features/actions
 [GitHub Pages]: https://pages.github.com/
 
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
+[C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
+[JSON]: https://www.json.org/json-en.html
 [PHP]: https://www.php.net/
+[XML]: https://en.wikipedia.org/wiki/XML
+[YAML]: https://yaml.org/
 
 [eask/cli]: https://github.com/emacs-eask/cli
 [Cask]: https://github.com/cask/cask
@@ -388,6 +444,7 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
+[jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
 [searcher]: https://github.com/jcs-elpa/searcher
 [ag]: https://github.com/ggreer/the_silver_searcher
@@ -397,8 +454,9 @@ The project was initiated during the course of work but is no longer in use as t
 [helm]: https://github.com/emacs-helm/helm
 [ivy]: https://github.com/abo-abo/swiper
 [counsel]: https://github.com/abo-abo/swiper
-[company]: https://github.com/company-mode/company-mode
 [swiper]: https://github.com/abo-abo/swiper
+[company]: https://github.com/company-mode/company-mode
+[ElDoc]: https://www.emacswiki.org/emacs/ElDoc
 [emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
 [emacs-flx]: https://github.com/lewang/flx
 [flycheck]: https://github.com/flycheck/flycheck
@@ -439,3 +497,8 @@ The project was initiated during the course of work but is no longer in use as t
 [CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
 [TSV]: https://en.wikipedia.org/wiki/Tab-separated_values
 [regex]: https://en.wikipedia.org/wiki/Regular_expression
+[AssetBundles]: https://docs.unity3d.com/Manual/AssetBundlesIntro.html
+[EditorPrefs]: https://docs.unity3d.com/ScriptReference/EditorPrefs.html
+[PlayerPrefs]: https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
+[InspectorWindow]: https://docs.unity3d.com/Manual/UsingTheInspector.html
+[HierarchyWindow]: https://docs.unity3d.com/Manual/Hierarchy.html
