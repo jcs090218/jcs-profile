@@ -209,8 +209,12 @@ Template module for [jcs-emacs][].
 [Emacs Lisp][] bindings for [tree-sitter][].
 - [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
 Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
-- [chatgpt-sideline](https://github.com/emacs-openai/chatgpt-sideline) (Fall 2023):
+- [chatgpt-sideline](https://github.com/emacs-openai/chatgpt-sideline) (Fall 2023 ✨🧑‍🔧):
 [Sideline][] support for [chatgpt][emacs-openai/chatgpt].
+- [eglot-uniteai](https://github.com/emacs-openai/eglot-uniteai) (Fall 2023 ✨🧑‍🔧):
+[eglot][] client leveraging [uniteai][].
+- [lsp-uniteai](https://github.com/emacs-openai/lsp-uniteai) (Fall 2023):
+[lsp-mode][] client leveraging [uniteai][].
 - [eglot-shader](https://github.com/shader-ls/eglot-shader) (Fall 2023):
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
@@ -242,7 +246,7 @@ Cucumber for [Emacs][].
 A modeline for [jcs-emacs][].
 - [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
 [Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
-- [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022):
+- [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022 ✨🧑‍🔧):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
 - [easky](https://github.com/emacs-eask/easky) (Winter 2022):
 Control [Eask CLI][eask/cli] in [Emacs][].
@@ -615,3 +619,4 @@ The project was initiated during the course of work but is no longer in use as t
 [ChatGPT]: https://chat.openai.com/
 [DALL-E]: https://openai.com/dall-e-2
 [DEEPL]: https://www.deepl.com/en/translator
+[UniteAI]: https://github.com/freckletonj/uniteai
