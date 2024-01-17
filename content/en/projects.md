@@ -121,8 +121,14 @@ Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
 - [JCS-ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
 A homepage for [JCS-ELPA][] designed to showcase all packages in the archive.
 The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
+- [CCosQuick Manual](https://jcs090218.github.io/CCosQuick/) (Fall 2021):
+The documentation website for my game framework — [CCosQuick][].
+- [JCSEgret Manual](https://jcs090218.github.io/JCSEgret/) (Fall 2021):
+The documentation website for my game framework — [JCSEgret][].
+- [JCSUE Manual](https://jcs090218.github.io/JCSUE/) (Fall 2021):
+The documentation website for my game framework — [JCSUE][].
 - [JCSUnity Manual](https://jcs090218.github.io/JCSUnity/) (Fall 2021):
-The documentation website for my game framework — JCSUnity
+The documentation website for my game framework — [JCSUnity][].
 - [blog@v1](https://github.com/jcs090218/blog/tree/v1) (Fall 2021 – Fall 2022):
 My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (Summur 2021 – Winter 2021 💸):
@@ -130,10 +136,24 @@ A small web application made using [React.js][], designed for use as a company's
 - [sherlock-web](https://jcs-profile.com/public/sherlock-web/) (Spring 2021):
 Website to interact [Sherlock API][sherlock-project/api].
 - [sherlock-project/api](https://github.com/sherlock-project/api) (Spring 2021):
-API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework][].
+API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework (DRF)][DRF].
+Initial attempt with [DRF][].
+- [Scripting_Manual_JCSUE](https://github.com/jcs-legacy/Scripting_Manual_JCSUE) (Summur 2020):
+Scripting manual for [JCSUE][] API.
 - [sherlock][sherlock-project/sherlock] (Spring 2019 ✨):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
+- [Blog_JenChieh](https://github.com/jcs-legacy/Blog_JenChieh) (Winter 2018 - Winter 2020):
+The blog system I initiated during my university years was constructed using the [Blog_Template][].
+I later shifted to a Static Site Generator (SSG) solution to minimize my server costs.
+- [Blog_Template][] (Winter 2018):
+A blog template that allows individuals to self-host their blogs!
+Constructed using [Node.js][] and [Express.js][]. (replaced with [SiraDoc][])
+- [API_Reference_Template][] (Winter 2018):
+Simple API references webiste hoster. (replaced with [SiraDoc][])
+- [Scripting_Manual_JCSUnity](https://github.com/jcs-legacy/Scripting_Manual_JCSUnity) (Fall 2018):
+Scripting manual for [JCSUnity][] API.
+Later separated into [API_Reference_Template][] and subsequently reliant on it.
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
 My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
 
@@ -157,7 +177,7 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 [Emacs Lisp][] languages support for [Visual Studio Code][VSCode].
 - [ellsp](https://github.com/jcs090218/ellsp) (Winter 2023):
 Language server implementation for [Emacs Lisp][].
-The emacs client is also included; do `M-x ellsp-register` to enable it.
+The emacs client (using [lsp-mode][]) is also included; do `M-x ellsp-register` to enable it.
 - [vscode-shader](https://github.com/shader-ls/vscode-shader) (Fall 2023):
 Shader languages support for [Visual Studio Code][VSCode].
 - [shader-language-server][] (Summur 2023 – Fall 2023):
@@ -172,8 +192,6 @@ This language server is now deprecated as the upstream has transitioned to the o
 Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
-
-[elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
 
 - [rainbow-csv](https://github.com/emacs-vs/rainbow-csv) (Winter 2023):
 🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
@@ -221,6 +239,9 @@ Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
 A document string minor mode using [tree-sitter][].
 - [eask-mode](https://github.com/emacs-eask/eask-mode) (Spring 2022):
 Major mode for editing [Eask][] files.
+- [fuz-bin](https://github.com/jcs-legacy/fuz-bin) (Winter 2021):
+Similar to [fuz.el][] but with precompiled binaries.
+I favor packages with precompiled binaries for an improved user experience.
 - [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [company-box](https://github.com/elp-revive/company-box) (Fall 2021 🔗):
@@ -314,15 +335,19 @@ Automatically organize imports in [Java][] code.
 It has been deprecated with the advent of the [Language Server Protocol][LSP].
 - [jcs-emacs][] (Summur 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
-, delivering exceptional performance, especially on legacy Windows systems.
+, delivering exceptional performance, especially on legacy [Windows][] systems.
 
 ## Rust packages
 
 - [flx-rs](https://github.com/jcs090218/flx-rs) (Winter 2021):
-Rewrite [emacs-flx][] in Rust for dynamic modules.
+Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
 The original [emacs-flx][] were written in pure [Emacs Lisp][].
-While their scoring engine is impressive, the performance is unbearable on Windows systems.
-Therefore, this package was developed and successfully increased the speed from 10x to 16x.
+While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
+Therefore, this package was developed, leading to a speed increase ranging from 10x to 16x.
+- [flxy-rs](https://github.com/jcs-legacy/flxy-rs) (Winter 2021):
+Fast, character-based search library in [Rust][].
+This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
+Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
 
 ## Technical utilities
 
@@ -376,6 +401,8 @@ Preview `GameObject` using preview window.
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
 - [CCosQuick][] (Winter 2019 – Summur 2020 💸):
 Prototype your game easily with component driven library built on top of Cocos Creator.
+- [JCSUE][] (Fall 2017):
+Quickly construct your game by utilizing multiple components and predefined default settings.
 
 ## Abandoned projects (will never be finished)
 
@@ -404,8 +431,9 @@ The project was initiated during the course of work but is no longer in use as t
 [Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
 [Node.js]: https://nodejs.org/
+[Express.js]: https://expressjs.com/
 [React.js]: https://react.dev/
-[Django REST Framework]: https://www.django-rest-framework.org/
+[DRF]: https://www.django-rest-framework.org/
 [Nix]: https://nixos.org/
 [Grammarly]: https://www.grammarly.com/
 
@@ -419,6 +447,7 @@ The project was initiated during the course of work but is no longer in use as t
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
+[Rust]: https://www.rust-lang.org/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
@@ -443,8 +472,11 @@ The project was initiated during the course of work but is no longer in use as t
 
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
+[JCSUE]: https://github.com/jcs090218/JCSUE
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
+[API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
+[Blog_Template]: https://github.com/jcs-legacy/Blog_Template
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
@@ -461,6 +493,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ElDoc]: https://www.emacswiki.org/emacs/ElDoc
 [emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
 [emacs-flx]: https://github.com/lewang/flx
+[fuz.el]: https://github.com/rustify-emacs/fuz.el
 [flycheck]: https://github.com/flycheck/flycheck
 [flymake]: https://www.gnu.org/software/emacs/manual/html_mono/flymake.html
 [lsp-mode]: https://github.com/emacs-lsp/lsp-mode
@@ -473,6 +506,7 @@ The project was initiated during the course of work but is no longer in use as t
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
 [ecukes]: https://github.com/ecukes/ecukes
+[elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
 [ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
@@ -504,3 +538,4 @@ The project was initiated during the course of work but is no longer in use as t
 [PlayerPrefs]: https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
 [InspectorWindow]: https://docs.unity3d.com/Manual/UsingTheInspector.html
 [HierarchyWindow]: https://docs.unity3d.com/Manual/Hierarchy.html
+[SSG]: https://en.wikipedia.org/wiki/Static_site_generator
