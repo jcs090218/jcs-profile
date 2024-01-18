@@ -7,7 +7,7 @@ body#top:not(.dark) {
     background-color: #F5F5F5;
 }
 
-::-webkit-scrollbar-thumb {
+.dark::-webkit-scrollbar-thumb {
     border: 5px solid #292A2D;
 }
 
