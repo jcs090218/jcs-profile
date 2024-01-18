@@ -20,6 +20,20 @@ The rest are mostly open-source projects.
 - [jcs-profile](https://github.com/jcs090218/jcs-profile) (Spring 2024 – Present):
 This, my personal website.
 
+## Tools, Framework, and Libraries
+
+- [JCSCC_Engine](https://github.com/jcs090218/JCSCC_Engine) (Winter 2016 - Winter 2017):
+A game engine offering a straightforward programming interface for developing cross-platform native code games.
+It includes a resource manager with secure decoding and encoding algorithms.
+The project's goal is to gain insights into the construction of game engines, understand their architecture, and apply this knowledge to other modern game engines.
+- [JCSPyGm_Lib](https://github.com/jcs090218/JCSPyGm_Lib) (Winter 2016):
+A set of tools designed to boost the speed of game development with [Pygame][].
+- [JCSCos2x_Lib](https://github.com/jcs090218/JCSCos2x_Lib) (Fall 2016 – Winter 2016):
+A small library provides a fast, superficial, easy-to-implement layer for parallax effects and essential features for making a 2D game using [Cocos2d-x][].
+- [JCSLOVELua][] (Fall 2016 – Winter 2016):
+A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
+(animation, camera, input, rendering, simple physics, etc)
+
 ## Unity C# stuff
 
 - [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
@@ -46,6 +60,8 @@ A simple solution that work with 2D and 3D renderers, including UI components (I
 Minimalistic good looking [hierarchy][HierarchyWindow].
 - [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summur 2021):
 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
+- [32feet.Unity.Example](https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example) (Spring 2021):
+Example project to use [32feet][] inside [Unity][] ([Bluetooth][] Classic).
 - [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 💸):
 Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
 - [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summur 2018):
@@ -56,12 +72,6 @@ A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
 An alternative approach to package management utilizing ignore files.
 - [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summur 2016 – Winter 2017):
 Quickly construct your game using multiple components and predefined default settings.
-
-## Lua
-
-- [JCSLOVELua][] (Fall 2016 – Winter 2016):
-A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
-(animation, camera, input, rendering, simple physics, etc)
 
 ## Games
 
@@ -147,6 +157,8 @@ Scripting manual for [CCosQuick][] API.
 - [sherlock][sherlock-project/sherlock] (Spring 2019 ✨):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
+- [Links_Template](https://github.com/jcs090218/Links_Template) (Spring 2020):
+Rapidly build your link page.
 - [Blog_JenChieh](https://github.com/jcs-legacy/Blog_JenChieh) (Winter 2018 - Winter 2020):
 The blog system I initiated during my university years was constructed using the [Blog_Template][].
 I later shifted to a Static Site Generator (SSG) solution to minimize my server costs.
@@ -769,6 +781,9 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 Prototype your game easily with component driven library built on top of Cocos Creator.
 - [JCSUE][] (Fall 2017):
 Quickly construct your game by utilizing multiple components and predefined default settings.
+- [jcs-vim](https://github.com/jcs090218/jcs-vim) (Winter 2016):
+My personal [vim][] configuration files.
+This is my initial experience with [Vim][], and I'm interested in exploring [NeoVim][] in the future.
 
 ## Abandoned projects (will never be finished)
 
@@ -800,6 +815,8 @@ The project was initiated during the course of work but is no longer in use as t
 [DOS]: https://en.wikipedia.org/wiki/DOS
 
 [Emacs]: https://www.gnu.org/software/emacs/
+[Vim]: https://www.vim.org/
+[NeoVim]: https://neovim.io/
 [Atom]: https://atom-editor.cc/
 [VSCode]: https://code.visualstudio.com/
 [Visual Studio]: https://visualstudio.microsoft.com/
@@ -809,6 +826,7 @@ The project was initiated during the course of work but is no longer in use as t
 [LÖVE]: https://love2d.org/
 [Unity]: https://unity.com/
 [.NET]: https://en.wikipedia.org/wiki/.NET
+[Cocos2d-x]: https://www.cocos.com/en/cocos2d-x
 [Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
 [Node.js]: https://nodejs.org/
@@ -830,6 +848,8 @@ The project was initiated during the course of work but is no longer in use as t
 [Django]: https://www.djangoproject.com/
 [Anaconda]: https://www.anaconda.com/
 [Processing]: https://processing.org/
+[Bluetooth]: https://en.wikipedia.org/wiki/Bluetooth
+[Pygame]: https://en.wikipedia.org/wiki/Pygame
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -877,6 +897,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ltex-ls]: https://github.com/valentjn/ltex-ls
 [languagetool-languageserver]: https://github.com/languagetool-language-server/languagetool-languageserver
 
+[32feet]: https://github.com/inthehand/32feet
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [JCSUE]: https://github.com/jcs090218/JCSUE
