@@ -214,6 +214,8 @@ Pretty print to debug.
 Inspired by the [icecream](https://pypi.org/project/icecream/) package from the [Python][]/[PyPi][] community.
 - [jcs-template](https://github.com/jcs-emacs/jcs-template) (Winter 2023):
 Template module for [jcs-emacs][].
+- [dart-mode](https://github.com/emacsorphanage/dart-mode) (Fall 2023 🧑‍🔧):
+An [Emacs][] mode for the [Dart][] language
 - [elisp-tree-sitter][] (Fall 2023  🧑‍🔧):
 [Emacs Lisp][] bindings for [tree-sitter][].
 - [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
@@ -338,6 +340,8 @@ Utility functions help output the messages.
 Useful functions to interact with [profiler](https://www.gnu.org/software/emacs/manual/html_node/elisp/Profiling.html).
 - [sideline-color](https://github.com/emacs-sideline/sideline-color) (Fall 2022):
 Show color information with [sideline][].
+- [git-gutter](https://github.com/emacsorphanage/git-gutter) (Fall 2022 🧑‍🔧):
+[Emacs][] port of [GitGutter][] which is [Sublime Text][] Plugin.
 - [company-autoconf](https://github.com/elp-revive/company-autoconf) (Fall 2022 🔗):
 Completion backend for editing [autoconf][] files in [Emacs][].
 - [company-kaomoji](https://github.com/jcs-elpa/company-kaomoji) (Fall 2022):
@@ -399,6 +403,8 @@ Minor mode accomplish editing experience in [Visual Studio][].
 - [message-clean-mode](https://github.com/jcs-elpa/message-clean-mode) (Spring 2022):
 Keep messages buffer clean.
 For an [elisp][] developer, maintaining a clean `*Messages*` buffer is crucial for effectively tracking debug log information.
+- [fontawesome](https://github.com/emacsorphanage/fontawesome) (Spring 2022 🧑‍🔧):
+[FontAwesome][] utility.
 - [quick-peek](https://github.com/emacs-vs/quick-peek) (Spring 2022 🔗🧑‍🔧):
 Quick-peek inline-window library for [Emacs][].
 - [vs-revbuf](https://github.com/emacs-vs/vs-revbuf) (Spring 2022):
@@ -472,6 +478,8 @@ Log message with clickable links to context.
 [Flycheck][] support for [LanguageTool][].
 - [auth-source-keytar](https://github.com/emacs-grammarly/auth-source-keytar) (Summur 2021):
 Integrate [auth-source][] with [keytar][].
+- [applescript-mode](https://github.com/emacsorphanage/applescript-mode) (Spring 2021 🧑‍🔧):
+[Emacs][] mode for editing [AppleScript][].
 - [send-to-osx-grammarly](https://github.com/emacs-grammarly/send-to-osx-grammarly) (Spring 2021):
 An [Emacs][] extension to send a text to/from [Grammarly][].
 - [eglot-grammarly](https://github.com/emacs-grammarly/eglot-grammarly) (Spring 2021):
@@ -572,17 +580,37 @@ Make window/frame transparent.
 [Ivy][] interface to use [searcher][].
 - [searcher][] (Summur 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
+- [quickrun](https://github.com/emacsorphanage/quickrun) (Summur 2020 🧑‍🔧):
+Run command quickly. This packages is inspired [quickrun.vim](https://www.vim.org/scripts/script.php?script_id=3146).
+- [zoom-window](https://github.com/emacsorphanage/zoom-window) (Spring 2020 🧑‍🔧):
+Zoom and Unzoom window.
+- [sound-wav](https://github.com/emacsorphanage/sound-wav) (Spring 2020 🧑‍🔧):
+Play [wav][] file.
 - [emp](https://github.com/jcs-elpa/emp) (Spring 2020):
 [Emacs][] Music Playlist.
 - [manage-minor-mode-table](https://github.com/jcs-elpa/manage-minor-mode-table) (Spring 2020):
 Manage minor-modes in table.
 Expands on the functionality of the package [manage-minor-mode][].
+- [helm-themes](https://github.com/emacsorphanage/helm-themes) (Spring 2020 🧑‍🔧):
+[Emacs][] theme selection with [helm][] interface.
+- [helm-gtags](https://github.com/emacsorphanage/helm-gtags) (Spring 2020 🧑‍🔧):
+[GNU GLOBAL](https://www.gnu.org/software/global/) [helm][] interface.
+- [helm-ag](https://github.com/emacsorphanage/helm-ag) (Spring 2020 🧑‍🔧):
+The silver searcher with [helm][] interface.
 - [emoji-github](https://github.com/jcs-elpa/emoji-github) (Spring 2020):
 Display list of [GitHub][]'s emoji. (cheat sheet)
 - [buffer-wrap](https://github.com/jcs-elpa/buffer-wrap) (Spring 2020):
 Wrap the beginning and the end of buffer.
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Spring 2020):
 Display files/directories in current directory on [Dashboard][emacs-dashboard].
+- [manage-minor-mode](https://github.com/emacsorphanage/manage-minor-mode) (Spring 2020 🧑‍🔧):
+Manage your minor-mode on the dedicated interface buffer.
+- [popwin](https://github.com/emacsorphanage/popwin) (Spring 2020 🧑‍🔧):
+Popup Window Manager for [Emacs][].
+- [undohist](https://github.com/emacsorphanage/undohist) (Spring 2020 🧑‍🔧):
+Persistent Undo History for [GNU Emacs][Emacs].
+- [yascroll](https://github.com/emacsorphanage/yascroll) (Spring 2020 🧑‍🔧):
+Yet Another Scroll Bar Mode.
 - [company-quickhelp-terminal](https://github.com/jcs-legacy/company-quickhelp-terminal) (Winter 2019):
 Terminal support for [company-quickhelp](https://github.com/company-mode/company-quickhelp).
 - [vs-light-theme](https://github.com/emacs-vs/vs-light-theme) (Fall 2019):
@@ -620,6 +648,8 @@ Fuzzy matching for [helm][] source.
 Code interface for displaying marquee in header.
 - [alt-codes](https://github.com/jcs-elpa/alt-codes) (Fall 2019):
 Insert [alt codes][] using meta key.
+- [haxe-mode](https://github.com/emacsorphanage/haxe-mode) (Fall 2019):
+Major mode for editing [Haxe][] files.
 - [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
 - [indent-control](https://github.com/jcs-elpa/indent-control) (Summur 2019):
@@ -765,6 +795,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Atom]: https://atom-editor.cc/
 [VSCode]: https://code.visualstudio.com/
 [Visual Studio]: https://visualstudio.microsoft.com/
+[Sublime Text]: https://www.sublimetext.com/
 [Lem]: https://lem-project.github.io/
 [Notepad++]: https://notepad-plus-plus.org/
 [LÖVE]: https://love2d.org/
@@ -798,14 +829,17 @@ The project was initiated during the course of work but is no longer in use as t
 [GHA]: https://github.com/features/actions
 [GitHub Pages]: https://pages.github.com/
 
+[AppleScript]: https://en.wikipedia.org/wiki/AppleScript
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
 [C++]: https://en.wikipedia.org/wiki/C%2B%2B
 [CPP]: https://en.wikipedia.org/wiki/C%2B%2B
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [CoffeeScript]: https://coffeescript.org/
+[Dart]: https://dart.dev/
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
+[Haxe]: https://haxe.org/
 [Java]: https://www.java.com/en/
 [Python]: https://www.python.org/
 [PyPi]: https://pypi.org/
@@ -901,6 +935,7 @@ The project was initiated during the course of work but is no longer in use as t
 [cppcheck]: https://cppcheck.sourceforge.io/
 [PHP_CodeSniffer]: https://github.com/squizlabs/PHP_CodeSniffer
 [Perl::Critic]: https://metacpan.org/pod/Perl::Critic
+[GitGutter]: https://packagecontrol.io/packages/GitGutter
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
@@ -942,6 +977,8 @@ The project was initiated during the course of work but is no longer in use as t
 [DALL-E]: https://openai.com/dall-e-2
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
+[FontAwesome]: https://fontawesome.com/
+[WAV]: https://en.wikipedia.org/wiki/WAV
 
 [8comic]: https://v.comicabc.com/
 [kaomoji]: http://kaomoji.ru/en/
