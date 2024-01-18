@@ -228,6 +228,8 @@ Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
 [eglot][] client leveraging [shader-language-server][].
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
+- [nerd-icons-buffer-menu](https://github.com/jcs-elpa/nerd-icons-buffer-menu) (Summur 2023):
+Display [nerd icons][nerd-icons] in [buffer-menu][].
 - [on.el](https://github.com/elp-revive/on.el) (Summur 2023 🔗):
 Hooks for faster [Emacs][] startup.
 - [deepl](https://github.com/emacs-openai/deepl) (Summur 2023):
@@ -263,6 +265,8 @@ This project is inspired by the [Code GPT: Chat & AI Agents](https://marketplace
 Common step definitions for [Ecukes][].
 - [ecukes][] (Spring 2023 🧑‍🔧):
 Cucumber for [Emacs][].
+- [sound-async](https://github.com/jcs-elpa/sound-async) (Winter 2022):
+Play sound asynchronously.
 - [block-travel](https://github.com/jcs-elpa/block-travel) (Winter 2022):
 Move to previous/next blank line.
 Drawn inspiration from [Block Travel](https://atom.io/packages/block-travel) in the [Atom][] community and [Block Travel](https://marketplace.visualstudio.com/items?itemName=sashaweiss.block-travel) in the [VSCode][] community.
@@ -271,6 +275,8 @@ A modeline for [jcs-emacs][].
 - [pkg-dm](https://github.com/jcs-elpa/pkg-dm) (Winter 2022):
 Package dependencies management.
 [Emacs][] rarely encounters confusion regarding the dependency relationships between packages; this helps provide clarity.
+- [vc-refresh](https://github.com/jcs-elpa/vc-refresh) (Winter 2022):
+Refresh `vc-state` in certain events for better user experience.
 - [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
 [Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
 - [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022 ✨🧑‍🔧):
@@ -285,6 +291,10 @@ Control [Eask CLI][eask/cli] in [Emacs][].
 Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
 - [company-elisp-keywords](https://github.com/jcs-elpa/company-elisp-keywords) (Winter 2022):
 [Company][] completion for `finder-known-keywords`.
+- [cycle-case-style](https://github.com/jcs-elpa/cycle-case-style) (Winter 2022):
+Cycle through case style (PascalCase, camelCase, etc).
+- [cycle-slash](https://github.com/jcs-elpa/cycle-slash) (Winter 2022):
+Cycle through slash, backslash, and double backslash.
 - [helafy](https://github.com/jcs-elpa/helafy) (Winter 2022):
 minify/uglify/prettify contents.
 - [repos-window](https://github.com/jcs-elpa/repos-window) (Winter 2022):
@@ -293,18 +303,33 @@ Reposition window when needed.
 A [company][] backend for paths.
 - [vs-electric-spacing](https://github.com/emacs-vs/vs-electric-spacing) (Winter 2022):
 Add spacing around operators like [Visual Studio][].
+- [eval-mark](https://github.com/jcs-elpa/eval-mark) (Winter 2022):
+Evaluate then deactive mark.
+The behavior of [Emacs][] in this manner makes more sense to me.
 - [balanced-windows](https://github.com/elp-revive/balanced-windows) (Winter 2022):
 Keep windows balanced.
+- [ff-guard](https://github.com/jcs-elpa/ff-guard) (Winter 2022):
+Create parent directory for non-existent file.
 - [fof](https://github.com/jcs-elpa/fof) (Winter 2022)
 Default configuration for `ff-find-other-file`.
+- [ffpc](https://github.com/jcs-elpa/ffpc) (Winter 2022):
+Find file in project or current directory.
 - [elenv](https://github.com/jcs-elpa/elenv) (Winter 2022):
 Environment variable management.
+- [execrun](https://github.com/jcs-elpa/execrun) (Winter 2022):
+Run through [compilation-mode][].
+- [msgu](https://github.com/jcs-elpa/msgu) (Fall 2022):
+Utility functions help output the messages.
+- [toggle-profiler](https://github.com/jcs-elpa/toggle-profiler) (Fall 2022):
+Useful functions to interact with [profiler](https://www.gnu.org/software/emacs/manual/html_node/elisp/Profiling.html).
 - [sideline-color](https://github.com/emacs-sideline/sideline-color) (Fall 2022):
 Show color information with [sideline][].
 - [company-autoconf](https://github.com/elp-revive/company-autoconf) (Fall 2022 🔗):
 Completion backend for editing [autoconf][] files in [Emacs][].
+- [company-kaomoji](https://github.com/jcs-elpa/company-kaomoji) (Fall 2022):
+[Company][] backend for [Kaomoji][].
 - [kaomoji.el](https://github.com/elp-revive/kaomoji.el) (Fall 2022 🔗):
-Input kaomoji (顔文字) easily! ┌（┌ ＾o＾）┐ﾎﾓｫ
+Input [kaomoji][] (顔文字) easily! ┌（┌ ＾o＾）┐ﾎﾓｫ
 - [company-makefile](https://github.com/elp-revive/company-makefile) (Fall 2022 🔗):
 [Emacs][] [company][] completion backend for [GNU Makefiles][Make].
 - [company-cmd](https://github.com/elp-revive/company-cmd) (Fall 2022 🔗):
@@ -345,6 +370,10 @@ An [Emacs][] package that checks internet connectivity using [ping](https://en.w
 [Eask][eask/cli] support in [Flymake][].
 - [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summur 2022):
 [Eask][eask/cli] support in [Flycheck][].
+- [recentf-excl](https://github.com/jcs-elpa/recentf-excl) (Summur 2022):
+Exclude commands for recent files.
+Certain commands might inadvertently add files, resulting in unwanted entries in [recentf][].
+This package helps you address this issue.
 - [mbs](https://github.com/jcs-elpa/mbs) (Summur 2022):
 [Minibuffer][] stats.
 - [vertico-flx](https://github.com/jcs-elpa/vertico-flx) (Summur 2022):
@@ -362,10 +391,18 @@ Quick-peek inline-window library for [Emacs][].
 Revert buffers like [Visual Studio][].
 - [eask-mode](https://github.com/emacs-eask/eask-mode) (Spring 2022):
 Major mode for editing [Eask][eask/cli] files.
+- [buffer-menu-project](https://github.com/jcs-elpa/buffer-menu-project) (Spring 2022):
+List buffers relative to project.
+- [buffer-menu-filter](https://github.com/jcs-elpa/buffer-menu-filter) (Spring 2022):
+Filter [buffer-menu][] items using fake header.
+While [buffer-menu][] is a default method for switching between buffers, it lacks filtering capabilities.
+This package introduces that feature.
 - [electric-indent-sexp](https://github.com/emacs-vs/electric-indent-sexp) (Spring 2022):
 Automatically indent entire balanced expression block.
 - [fextern](https://github.com/emacs-vs/fextern) (Spring 2022):
 Record file external stats.
+- [auto-scroll-bar](https://github.com/jcs-elpa/auto-scroll-bar) (Spring 2022):
+Automatically show/hide scroll-bars as needed.
 - [fuz-bin](https://github.com/jcs-legacy/fuz-bin) (Winter 2021):
 Similar to [fuz.el][] but with precompiled binaries.
 I favor packages with precompiled binaries for an improved user experience.
@@ -391,6 +428,8 @@ Unhighlight invalid preprocessor region.
 This package uses [meta-net][] to parse all define constants inside a csproj file.
 - [eldoc-meta-net](https://github.com/emacs-vs/eldoc-meta-net) (Fall 2021):
 [Eldoc][] support for [meta-net][].
+- [company-emojify](https://github.com/jcs-elpa/company-emojify) (Fall 2021):
+[Company][] completion for [Emojify][].
 - [meta-view](https://github.com/emacs-vs/meta-view) (Summur 2021):
 View metadata from [.NET][] assemblies.
 - [company-meta-net](https://github.com/emacs-vs/company-meta-net) (Summur 2021):
@@ -445,18 +484,26 @@ Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for
 [Emacs Lisp][] interface for [keytar-cli][].
 - [lsp-grammarly-un](https://github.com/emacs-grammarly/lsp-grammarly-un) (Spring 2021):
 [lsp-mode][] client leveraging [unofficial-grammarly-language-server][].
+- [watch-cursor](https://github.com/jcs-elpa/watch-cursor) (Winter 2020):
+Display cursor from all live windows.
 - [docstr](https://github.com/emacs-vs/docstr) (Winter 2020):
 A document string minor mode.
+- [modablist](https://github.com/jcs-elpa/modablist) (Winter 2020):
+Modifiable [tabulated-list][] extension.
+- [scroll-text](https://github.com/jcs-legacy/scroll-text) (Winter 2020):
+An enjoyable endeavor for animating scrolling text within an [Emacs][] buffer.
+- [npm-pkgs](https://github.com/jcs-elpa/npm-pkgs) (Winter 2020):
+An npm packages client.
+- [preview-it](https://github.com/jcs-elpa/preview-it) (Winter 2020):
+Preview anything at point.
+- [undo-tree-vf](https://github.com/jcs-elpa/undo-tree-vf) (Winter 2020):
+Visualizer follow mode for [undo-tree][].
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
 Emacs [quelpa][] handler for leaf.
 - [quelpa][] (Fall 2020 – Present 🧑‍🔧):
 The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
 - [auto-complete][] (Fall 2020 – Present 🧑‍🔧):
 An Intelligent auto-completion extension for [Emacs][].
-- [scroll-text](https://github.com/jcs-legacy/scroll-text) (Winter 2020):
-An enjoyable endeavor for animating scrolling text within an [Emacs][] buffer.
-- [npm-pkgs](https://github.com/jcs-elpa/npm-pkgs) (Winter 2020):
-An npm packages client.
 - [un-mini](https://github.com/jcs-legacy/un-mini) (Fall 2020):
 Automatically close [minibuffer][] after it loses focus.
 - [ivy-file-preview](https://github.com/jcs-legacy/ivy-file-preview) (Fall 2020):
@@ -466,10 +513,24 @@ Preview the current [ivy][] file selection.
 Inspired by [helm-describe-modes](https://github.com/emacs-helm/helm-describe-modes).
 - [flymake-grammarly](https://github.com/emacs-grammarly/flymake-grammarly) (Fall 2020):
 [Flymake][] support for [Grammarly][].
+- [license-templates](https://github.com/jcs-elpa/license-templates) (Fall 2020):
+Create LICENSE using [GitHub][] API.
+- [atl-long-lines](https://github.com/jcs-elpa/atl-long-lines) (Fall 2020):
+Turn off [truncate-lines][] when the line is long.
+- [atl-markup](https://github.com/jcs-elpa/atl-markup) (Fall 2020):
+Automatically truncate lines for markup languages.
 - [cursor-preview](https://github.com/jcs-elpa/cursor-preview) (Fall 2020):
 Preivew cursor movement while executing command interactively.
+- [impatient-showdown](https://github.com/jcs-elpa/impatient-showdown) (Fall 2020):
+Preview markdown buffer live over [HTTP][].
 - [auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) (Fall 2020 🧑‍🔧):
 Automatic highlighting current symbol minor mode.
+- [better-scroll](https://github.com/jcs-elpa/better-scroll) (Fall 2020):
+Improve user experience when scrolling window.
+- [fill-page](https://github.com/jcs-elpa/fill-page) (Fall 2020):
+Fill the buffer so you don't see empty lines at the end.
+- [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
+Theme styled after undersea imagery.
 - [origami.el](https://github.com/elp-revive/origami.el) (Summur 2020 🔗):
 A folding minor mode for [Emacs][].
 This project is a [Regular Expression][regex]-based solution, but it became deprecated following the creation of [ts-fold][].
@@ -483,10 +544,15 @@ Make window/frame transparent.
 [Ivy][] interface to use [searcher][].
 - [searcher][] (Summur 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
-- [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
-Theme styled after undersea imagery.
 - [emp](https://github.com/jcs-elpa/emp) (Spring 2020):
 [Emacs][] Music Playlist.
+- [manage-minor-mode-table](https://github.com/jcs-elpa/manage-minor-mode-table) (Spring 2020):
+Manage minor-modes in table.
+Expands on the functionality of the package [manage-minor-mode][].
+- [emoji-github](https://github.com/jcs-elpa/emoji-github) (Spring 2020):
+Display list of [GitHub][]'s emoji. (cheat sheet)
+- [buffer-wrap](https://github.com/jcs-elpa/buffer-wrap) (Spring 2020):
+Wrap the beginning and the end of buffer.
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Spring 2020):
 Display files/directories in current directory on [Dashboard][emacs-dashboard].
 - [company-quickhelp-terminal](https://github.com/jcs-legacy/company-quickhelp-terminal) (Winter 2019):
@@ -509,14 +575,30 @@ but its performance is noticeably slow as it operates on top of the [elisp][] in
 [Grammarly][] API interface. (reverse-engineered solution)
 - [tabulated-list-search](https://github.com/jcs-legacy/tabulated-list-search) (Winter 2019):
 Provide filtering/searching [tabulated-list][] interface.
+- [reveal-in-folder](https://github.com/jcs-elpa/reveal-in-folder) (Winter 2019):
+Reveal current file/directory in folder.
+- [define-it](https://github.com/jcs-elpa/define-it) (Winter 2019):
+Define, translate, wiki the word.
+Inspired by [Amazon Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle)'s reading experiences.
+- [multi-shell](https://github.com/jcs-elpa/multi-shell) (Winter 2019):
+Managing multiple shell buffers.
+- [diminish-buffer](https://github.com/jcs-elpa/diminish-buffer) (Fall 2019):
+Diminish (hide) buffers from [buffer-menu][].
 - [company-fuzzy](https://github.com/jcs-elpa/company-fuzzy) (Fall 2019):
 Fuzzy matching for [company-mode][].
 - [helm-fuzzy](https://github.com/jcs-legacy/helm-fuzzy) (Fall 2019):
 Fuzzy matching for [helm][] source.
+- [marquee-header](https://github.com/jcs-elpa/marquee-header) (Fall 2019):
+Code interface for displaying marquee in header.
+- [alt-codes](https://github.com/jcs-elpa/alt-codes) (Fall 2019):
+Insert [alt codes][] using meta key.
 - [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
 - [indent-control](https://github.com/jcs-elpa/indent-control) (Summur 2019):
 Generic control the indentation level for each mode.
+- [show-eol](https://github.com/jcs-elpa/show-eol) (Summur 2019):
+Show end of line symbol in buffer.
+Derived inspiration from the built-in functionality of the editor [Notepad++][].
 - [helm-file-preview](https://github.com/jcs-legacy/helm-file-preview) (Summur 2019):
 Preview the current [helm][] file selection.
 - [goto-char-preview](https://github.com/emacs-vs/goto-char-preview) (Summur 2019):
@@ -525,6 +607,10 @@ Preview character when executing `goto-char` command.
 Preview line when executing `goto-line` command.
 - [isearch-project](https://github.com/jcs-elpa/isearch-project) (Spring 2019):
 Incremental search through the whole project.
+- [toggle-quotes-plus](https://github.com/jcs-elpa/toggle-quotes-plus) (Spring 2019):
+Simple quote toggler that cycle through `"`, `'`, and <code>\`</code>.
+- [file-header](https://github.com/jcs-elpa/file-header) (Winter 2018):
+Highly customizable self design file header.
 - [com-css-sort](https://github.com/jcs-elpa/com-css-sort) (Winter 2018):
 Common way of sorting the [CSS][] attributes.
 - [htmltagwrap](https://github.com/jcs-elpa/htmltagwrap) (Winter 2018):
@@ -536,6 +622,10 @@ Inspired by the [Auto Close Tag](https://marketplace.visualstudio.com/items?item
 - [auto-rename-tag](https://github.com/jcs-elpa/auto-rename-tag) (Winter 2018):
 Automatically rename paired [HTML][]/[XML][] tag.
 Inspired by [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) from the [VSCode][] community.
+- [use-ttf](https://github.com/jcs-elpa/use-ttf) (Summur 2018):
+Keep font consistency across different OSs.
+- [project-abbrev](https://github.com/jcs-elpa/project-abbrev) (Summur 2018):
+Customize your own abbreviation expansion in the project.
 - [line-reminder](https://github.com/emacs-vs/line-reminder) (Summur 2018):
 Line annotation for changed and saved lines.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
@@ -609,9 +699,8 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 A plugin for interacting with AWS from Emacs editor.
 - [Prevo](https://github.com/jcs090218/Prevo) (Summur 2021):
 Preview `GameObject` using preview window.
-- [work-time](https://github.com/jcs-elpa/work-time) (Spring 2021):
-How long have you been working?
-I'm uncertain about its current value, as it could potentially be substituted with [wakatime](https://wakatime.com/emacs) and [hammy.el](https://github.com/alphapapa/hammy.el).
+- [8comic](https://github.com/jcs-elpa/8comic) (Fall 2020):
+Use [8comic][] to read manga.
 - [UCTooth](https://github.com/jcs090218/UCTooth) (Summur 2020 💸):
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
 - [CCosQuick][] (Winter 2019 – Summur 2020 💸):
@@ -621,9 +710,15 @@ Quickly construct your game by utilizing multiple components and predefined defa
 
 ## Abandoned projects (will never be finished)
 
+- [work-time](https://github.com/jcs-legacy/work-time) (Spring 2021):
+How long have you been working?
+I'm uncertain about its current value, as it could potentially be substituted with [wakatime](https://wakatime.com/emacs) and [hammy.el](https://github.com/alphapapa/hammy.el).
 - [organize-imports-python](https://github.com/jcs-elpa/organize-imports-python) (Spring 2021):
 Automatically organize imports in [Python][] code.
 No reason to create this package anymore due to the advent of the [Language Server Protocol][LSP].
+- [vlc-player](https://github.com/jcs-legacy/vlc-player) (Winter 2019):
+Play video using [VLC][].
+I can't recall the precise reason for abandoning this. My best assumption is that [VLC][] doesn't support the necessary options for stopping the video, prompting me to opt for [ffmpeg][] instead.
 - [JCSEgret][] (Winter 2018 💸):
 A library designed for efficient game production using the [Egret][] engine as its foundation.
 The project was initiated during the course of work but is no longer in use as the [Egret][] engine became obsolete following their bankruptcy.
@@ -641,8 +736,9 @@ The project was initiated during the course of work but is no longer in use as t
 [Emacs]: https://www.gnu.org/software/emacs/
 [Atom]: https://atom-editor.cc/
 [VSCode]: https://code.visualstudio.com/
-[Lem]: https://lem-project.github.io/
 [Visual Studio]: https://visualstudio.microsoft.com/
+[Lem]: https://lem-project.github.io/
+[Notepad++]: https://notepad-plus-plus.org/
 [LÖVE]: https://love2d.org/
 [Unity]: https://unity.com/
 [.NET]: https://en.wikipedia.org/wiki/.NET
@@ -659,6 +755,7 @@ The project was initiated during the course of work but is no longer in use as t
 [GitHub]: https://github.com/
 [Docker]: https://www.docker.com/
 [Autoconf]: https://www.gnu.org/software/autoconf/
+[VLC]: https://www.videolan.org/
 [FFmpeg]: https://ffmpeg.org/
 
 [Hexo]: https://hexo.io/index.html
@@ -756,8 +853,11 @@ The project was initiated during the course of work but is no longer in use as t
 [sideline]: https://github.com/emacs-sideline/sideline
 [emacs-openai/chatgpt]: https://github.com/emacs-openai/chatgpt
 [multiple-cursors]: https://github.com/magnars/multiple-cursors.el
+[manage-minor-mode]: https://github.com/emacsorphanage/manage-minor-mode
+[Emojify]: https://github.com/iqbalansari/emacs-emojify
 [powershell.el]: https://github.com/jschaf/powershell.el
 [powershell-mode]: https://github.com/jschaf/powershell.el
+[nerd-icons]: https://github.com/rainstormstudio/nerd-icons.el
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
@@ -775,12 +875,18 @@ The project was initiated during the course of work but is no longer in use as t
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [LSP]: https://microsoft.github.io/language-server-protocol/
 
+[alt codes]: https://www.alt-codes.net/
 [Parser]: https://en.wikipedia.org/wiki/Parsing
 [Parsing]: https://en.wikipedia.org/wiki/Parsing
 [auth-source]: https://www.gnu.org/software/emacs/manual/html_mono/auth.html
 [completion styles]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Completion-Styles.html
+[compilation-mode]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Compilation-Mode.html
 [minibuffer]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Minibuffer.html
+[buffer-menu]: https://www.emacswiki.org/emacs/BufferMenu
 [isearch]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Incremental-Search.html
+[truncate-lines]: https://www.emacswiki.org/emacs/TruncateLines
+[recentf]: https://www.emacswiki.org/emacs/RecentFiles
+[undo-tree]: https://www.emacswiki.org/emacs/UndoTree
 [TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentication
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
@@ -793,8 +899,12 @@ The project was initiated during the course of work but is no longer in use as t
 [InspectorWindow]: https://docs.unity3d.com/Manual/UsingTheInspector.html
 [HierarchyWindow]: https://docs.unity3d.com/Manual/Hierarchy.html
 [SSG]: https://en.wikipedia.org/wiki/Static_site_generator
+[HTTP]: https://en.wikipedia.org/wiki/HTTP
 [OpenAI]: https://openai.com/
 [ChatGPT]: https://chat.openai.com/
 [DALL-E]: https://openai.com/dall-e-2
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
+
+[8comic]: https://v.comicabc.com/
+[kaomoji]: http://kaomoji.ru/en/
