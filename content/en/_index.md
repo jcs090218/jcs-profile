@@ -36,7 +36,7 @@ learn)!
 <a href="mailto:jcs090218@gmail.com" target=”_blank”>
 <img src="./images/icons/gmail.svg" width="50px" class="my-img"></a>
 
-<a href="https://jcs090218.github.io/blog/" target=”_blank”>
+<a href="./blog/">
 <img src="./images/icons/blog.svg" width="50px" class="my-img"></a>
 
 
