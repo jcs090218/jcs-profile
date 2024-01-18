@@ -6,7 +6,17 @@ My personal website.
 
 See the latest version in https://jcs090218.github.io/jcs-profile/.
 
-## How to deploy?
+## 🔨 Development
+
+To start the server:
+
+```
+$ hugo server
+```
+
+Then open the url http://localhost:1313/ to your browser!
+
+## ❓ How to deploy?
 
 **⚠️ This is a note for myself.**
 
