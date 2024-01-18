@@ -33,10 +33,10 @@ Rewrite [emacs-flx][] in C#. Built on the [Mono][] framework, you can utilize th
 - [Unity.Mx](https://github.com/jcs090218/Unity.Mx) (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
-- [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summur 2021 – Fall 2021 💸):
-A dedicated tool that tracks variable over time.
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 💸):
 An abstraction layer constructed atop the [AssetBundles][] system, aiming to streamline the [AssetBundles][] workflow, sparing users from delving into intricate system details.
+- [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summur 2021 – Fall 2021 💸):
+A dedicated tool that tracks variable over time.
 - [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (Summur 2021 💸):
 A dedicated and up to date [YAML][] editor inside the [Inspector][InspectorWindow] window.
 - [Inspect Xml](https://assetstore.unity.com/publishers/54455) (Summur 2021 💸):
@@ -218,6 +218,20 @@ Template module for [jcs-emacs][].
 [Emacs Lisp][] bindings for [tree-sitter][].
 - [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
 Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
+- [blacken](https://github.com/pythonic-emacs/blacken) (Fall 2023 🧑‍🔧):
+[Python][] [Black](https://pypi.org/project/black/) for [Emacs][].
+- [anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) (Fall 2023 🧑‍🔧):
+Code navigation, documentation lookup and completion for [Python][].
+- [company-anaconda](https://github.com/pythonic-emacs/company-anaconda) (Fall 2023 🧑‍🔧):
+[Anaconda][] backend for [company-mode][].
+- [pythonic](https://github.com/pythonic-emacs/pythonic) (Fall 2023 🧑‍🔧):
+Utility functions for writing pythonic [emacs][] package.
+- [djangonaut](https://github.com/pythonic-emacs/djangonaut) (Fall 2023 🧑‍🔧):
+[Emacs][] minor mode for [Django][].
+- [isortify](https://github.com/pythonic-emacs/isortify) (Fall 2023 🧑‍🔧):
+[Isort][] for [Emacs][].
+- [pyenv-mode](https://github.com/pythonic-emacs/pyenv-mode) (Fall 2023 🧑‍🔧):
+Integrate [pyenv][] with [python-mode][].
 - [chatgpt-sideline](https://github.com/emacs-openai/chatgpt-sideline) (Fall 2023 ✨🧑‍🔧):
 [Sideline][] support for [chatgpt][emacs-openai/chatgpt].
 - [eglot-uniteai](https://github.com/emacs-openai/eglot-uniteai) (Fall 2023 ✨🧑‍🔧):
@@ -226,8 +240,6 @@ Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
 [lsp-mode][] client leveraging [uniteai][].
 - [eglot-shader](https://github.com/shader-ls/eglot-shader) (Fall 2023):
 [eglot][] client leveraging [shader-language-server][].
-- [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
-[lsp-mode][] client leveraging [shader-language-server][].
 - [nerd-icons-buffer-menu](https://github.com/jcs-elpa/nerd-icons-buffer-menu) (Summur 2023):
 Display [nerd icons][nerd-icons] in [buffer-menu][].
 - [on.el](https://github.com/elp-revive/on.el) (Summur 2023 🔗):
@@ -238,6 +250,8 @@ Hooks for faster [Emacs][] startup.
 Generic popup tip.
 - [doxygen-asterisk](https://github.com/emacs-vs/doxygen-asterisk) (Summur 2023):
 Minor mode that helps you insert pair `/*` and `*/`.
+- [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
+[lsp-mode][] client leveraging [shader-language-server][].
 - [codemetrics](https://github.com/jcs-elpa/codemetrics) (Spring 2023):
 Plugin shows complexity information.
 Inspired by [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) from the [VSCode][] community.
@@ -757,6 +771,11 @@ The project was initiated during the course of work but is no longer in use as t
 [Autoconf]: https://www.gnu.org/software/autoconf/
 [VLC]: https://www.videolan.org/
 [FFmpeg]: https://ffmpeg.org/
+[pythonic]: https://www.udacity.com/blog/2020/09/what-is-pythonic-style.html
+[pyenv]: https://github.com/pyenv/pyenv
+[isort]: https://pycqa.github.io/isort/
+[Django]: https://www.djangoproject.com/
+[Anaconda]: https://www.anaconda.com/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -858,6 +877,7 @@ The project was initiated during the course of work but is no longer in use as t
 [powershell.el]: https://github.com/jschaf/powershell.el
 [powershell-mode]: https://github.com/jschaf/powershell.el
 [nerd-icons]: https://github.com/rainstormstudio/nerd-icons.el
+[python-mode]: https://gitlab.com/python-mode-devs/python-mode
 [sherlock-project/sherlock]: https://github.com/sherlock-project/sherlock
 [sherlock-project/api]: https://github.com/sherlock-project/api
 [colorama]: https://pypi.org/project/colorama/
