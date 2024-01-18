@@ -15,12 +15,15 @@ en:
       - name: Projects
         url: projects/
         weight: 10
+      - name: Art
+        url: https://www.artstation.com/jcs090218
+        weight: 15
       - name: Resume
         url: storage/Resume.pdf
-        weight: 15
+        weight: 20
       - name: Search
         url: search/
-        weight: 20
+        weight: 25
 
 zh-TW:
   languageName: "繁體中文"
@@ -38,9 +41,12 @@ zh-TW:
       - name: 專案
         url: projects/
         weight: 10
+      - name: 藝術
+        url: https://www.artstation.com/jcs090218
+        weight: 15
       - name: 履歷
         url: ../storage/Resume.pdf
-        weight: 15
+        weight: 20
       - name: 搜尋
         url: search/
-        weight: 20
+        weight: 25
