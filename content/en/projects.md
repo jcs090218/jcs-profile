@@ -22,7 +22,7 @@ This, my personal website.
 
 ## Tools, Framework, and Libraries
 
-- [JCSCC_Engine](https://github.com/jcs090218/JCSCC_Engine) (Winter 2016 - Winter 2017):
+- [JCSCC_Engine](https://github.com/jcs090218/JCSCC_Engine) (Winter 2016 – Winter 2017):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
 It includes a resource manager with secure decoding and encoding algorithms.
 The project's goal is to gain insights into the construction of game engines, understand their architecture, and apply this knowledge to other modern game engines.
@@ -159,7 +159,7 @@ Scripting manual for [CCosQuick][] API.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
 - [Links_Template](https://github.com/jcs090218/Links_Template) (Spring 2020):
 Rapidly build your link page.
-- [Blog_JenChieh](https://github.com/jcs-legacy/Blog_JenChieh) (Winter 2018 - Winter 2020):
+- [Blog_JenChieh](https://github.com/jcs-legacy/Blog_JenChieh) (Winter 2018 – Winter 2020):
 The blog system I initiated during my university years was constructed using the [Blog_Template][].
 I later shifted to a Static Site Generator (SSG) solution to minimize my server costs.
 - [Blog_Template][] (Winter 2018):
@@ -771,6 +771,9 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
 A plugin for interacting with AWS from Emacs editor.
+- [jcs-lem](https://github.com/jcs090218/jcs-lem) (Summur 2023 – Present):
+My personal [lem][] configuration files.
+[Lem][] is still in its early stages, particularly on [Windows][] systems.
 - [Prevo](https://github.com/jcs090218/Prevo) (Summur 2021):
 Preview `GameObject` using preview window.
 - [8comic](https://github.com/jcs-elpa/8comic) (Fall 2020):
