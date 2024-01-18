@@ -790,6 +790,10 @@ This is my initial experience with [Vim][], and I'm interested in exploring [Neo
 
 ## Abandoned projects (will never be finished)
 
+- [tree-sitter-actionscript](https://github.com/jcs090218/tree-sitter-actionscript) (Spring 2021):
+[ActionScript][] grammar for [tree-sitter][].
+[Rileran][] completed the project earlier — [Rileran/tree-sitter-actionscript](https://github.com/Rileran/tree-sitter-actionscript) — thus, there is no need to continue the project any further.
+For the record, [Rileran][]'s project takes inspiration from my project!
 - [work-time](https://github.com/jcs-legacy/work-time) (Spring 2021):
 How long have you been working?
 I'm uncertain about its current value, as it could potentially be substituted with [wakatime](https://wakatime.com/emacs) and [hammy.el](https://github.com/alphapapa/hammy.el).
@@ -805,6 +809,8 @@ The project was initiated during the course of work but is no longer in use as t
 
 
 <!-- Links -->
+
+[Rileran]: https://github.com/Rileran
 
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
@@ -861,6 +867,8 @@ The project was initiated during the course of work but is no longer in use as t
 [GHA]: https://github.com/features/actions
 [GitHub Pages]: https://pages.github.com/
 
+[ActionScript]: https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html
+[AS3]: https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html
 [AppleScript]: https://en.wikipedia.org/wiki/AppleScript
 [Batch]: https://en.wikipedia.org/wiki/Batch_file
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
