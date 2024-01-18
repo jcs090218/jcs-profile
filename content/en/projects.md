@@ -20,10 +20,6 @@ The rest are mostly open-source projects.
 - [jcs-profile](https://github.com/jcs090218/jcs-profile) (Spring 2024 – Present):
 This, my personal website.
 
-## Tools, Framework, and Libraries
-
-- N/A
-
 ## Unity C# stuff
 
 - [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
@@ -86,6 +82,8 @@ The concept is to emulate an aquarium experience.
 - [Might & Blade](https://www.youtube.com/watch?v=vPapMMxzNGg) (Fall 2016 – Winter 2016 🏫):
 A 3rd person hack and slash action game made in the Unity engine, developed by a team of 18 in
 the [Academy of Art University][AAU] within a span of 15 weeks.
+- [DJMax_Remake](https://github.com/jcs090218/DJMax_Remake) (Spring 2016 🏫):
+A clone of [DJMax][] implemented in [Processing][].
 - [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 🏫):
 An compact RPG fighting game designed for two players to engage in battles using
 pre-designed archer characters. Developed with the [Starling Framework](https://gamua.com/starling/)
@@ -164,6 +162,12 @@ Scripting manual for [JCSUnity][] API.
 Later separated into [API_Reference_Template][] and subsequently reliant on it.
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
 My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
+- [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summur 2017 🏫):
+A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]! 
+Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the final project from our first web design class at the [Academy of Art University][].
+- [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (Summur 2017 🏫):
+A website recommends a few boba tea places in San Francisco! 
+Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
 
 ## Package managers and build tools
 
@@ -785,6 +789,10 @@ The project was initiated during the course of work but is no longer in use as t
 <!-- Links -->
 
 [AAU]: https://www.academyart.edu/
+[Academy of Art University]: https://www.academyart.edu/
+
+[MapleStory]: https://en.wikipedia.org/wiki/MapleStory
+[DJMax]: https://en.wikipedia.org/wiki/DJMax
 
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [macOS]: https://en.wikipedia.org/wiki/MacOS
@@ -821,6 +829,7 @@ The project was initiated during the course of work but is no longer in use as t
 [isort]: https://pycqa.github.io/isort/
 [Django]: https://www.djangoproject.com/
 [Anaconda]: https://www.anaconda.com/
+[Processing]: https://processing.org/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -959,7 +968,9 @@ The project was initiated during the course of work but is no longer in use as t
 [truncate-lines]: https://www.emacswiki.org/emacs/TruncateLines
 [recentf]: https://www.emacswiki.org/emacs/RecentFiles
 [undo-tree]: https://www.emacswiki.org/emacs/UndoTree
-[TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentication
+[TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentica
+[MMO]: https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
+[RPG]: https://en.wikipedia.org/wiki/Role-playing_gametion
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
 [CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
