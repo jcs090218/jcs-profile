@@ -22,17 +22,17 @@ This, my personal website.
 
 ## Tools, Framework, and Libraries
 
-- [JCSCC_Engine](https://github.com/jcs090218/JCSCC_Engine) (Winter 2016 – Winter 2017):
+- [JCSPyGm_Lib](https://github.com/jcs090218/JCSPyGm_Lib) (Winter 2016 🏫):
+A set of tools designed to boost the speed of game development with [Pygame][].
+- [JCSCos2x_Lib](https://github.com/jcs090218/JCSCos2x_Lib) (Fall 2016 – Winter 2016 🏫):
+A small library provides a fast, superficial, easy-to-implement layer for parallax effects and essential features for making a 2D game using [Cocos2d-x][].
+- [JCSLOVELua][] (Fall 2016 – Winter 2016 🏫):
+A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
+(animation, camera, input, rendering, simple physics, etc)
+- [JCSCC_Engine](https://github.com/jcs090218/JCSCC_Engine) (Winter 2016 – Winter 2017 🏫):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
 It includes a resource manager with secure decoding and encoding algorithms.
 The project's goal is to gain insights into the construction of game engines, understand their architecture, and apply this knowledge to other modern game engines.
-- [JCSPyGm_Lib](https://github.com/jcs090218/JCSPyGm_Lib) (Winter 2016):
-A set of tools designed to boost the speed of game development with [Pygame][].
-- [JCSCos2x_Lib](https://github.com/jcs090218/JCSCos2x_Lib) (Fall 2016 – Winter 2016):
-A small library provides a fast, superficial, easy-to-implement layer for parallax effects and essential features for making a 2D game using [Cocos2d-x][].
-- [JCSLOVELua][] (Fall 2016 – Winter 2016):
-A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
-(animation, camera, input, rendering, simple physics, etc)
 
 ## Unity C# stuff
 
