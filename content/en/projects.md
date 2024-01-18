@@ -527,6 +527,20 @@ Preview the current [ivy][] file selection.
 Inspired by [helm-describe-modes](https://github.com/emacs-helm/helm-describe-modes).
 - [flymake-grammarly](https://github.com/emacs-grammarly/flymake-grammarly) (Fall 2020):
 [Flymake][] support for [Grammarly][].
+- [lsp-focus](https://github.com/emacs-lsp/lsp-focus) (Fall 2020 🧑‍🔧):
+[lsp-mode][] ❤️ [focus][].
+- [helm-lsp](https://github.com/emacs-lsp/helm-lsp) (Fall 2020 🧑‍🔧):
+[lsp-mode][] ❤️ [helm][].
+- [lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) (Fall 2020 🧑‍🔧):
+[lsp-mode][] ❤️ [ivy][].
+- [lsp-origami](https://github.com/emacs-lsp/lsp-origami) (Fall 2020 🧑‍🔧):
+[lsp-mode][] ❤️ [origami.el][].
+- [dap-mode](https://github.com/emacs-lsp/dap-mode) (Fall 2020 🧑‍🔧):
+[Emacs][] ❤️ [Debug Adapter Protocol][dap].
+- [lsp-ui](https://github.com/emacs-lsp/lsp-ui) (Fall 2020 🧑‍🔧):
+UI integrations for [lsp-mode][].
+- [lsp-mode](https://github.com/emacs-lsp/lsp-mode) (Fall 2020 🧑‍🔧):
+[Emacs][] client/library for the [Language Server Protocol][lsp].
 - [license-templates](https://github.com/jcs-elpa/license-templates) (Fall 2020):
 Create LICENSE using [GitHub][] API.
 - [atl-long-lines](https://github.com/jcs-elpa/atl-long-lines) (Fall 2020):
@@ -545,7 +559,7 @@ Improve user experience when scrolling window.
 Fill the buffer so you don't see empty lines at the end.
 - [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
 Theme styled after undersea imagery.
-- [origami.el](https://github.com/elp-revive/origami.el) (Summur 2020 🔗):
+- [origami.el][] (Summur 2020 🔗):
 A folding minor mode for [Emacs][].
 This project is a [Regular Expression][regex]-based solution, but it became deprecated following the creation of [ts-fold][].
 - [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present 🧑‍🔧):
@@ -865,6 +879,7 @@ The project was initiated during the course of work but is no longer in use as t
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
 [ecukes]: https://github.com/ecukes/ecukes
+[origami.el]: https://github.com/elp-revive/origami.el
 [elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
 [ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
@@ -873,6 +888,7 @@ The project was initiated during the course of work but is no longer in use as t
 [emacs-openai/chatgpt]: https://github.com/emacs-openai/chatgpt
 [multiple-cursors]: https://github.com/magnars/multiple-cursors.el
 [manage-minor-mode]: https://github.com/emacsorphanage/manage-minor-mode
+[focus]: https://github.com/larstvei/Focus
 [Emojify]: https://github.com/iqbalansari/emacs-emojify
 [powershell.el]: https://github.com/jschaf/powershell.el
 [powershell-mode]: https://github.com/jschaf/powershell.el
@@ -894,6 +910,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MR]: https://en.wikipedia.org/wiki/Mixed_reality
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [LSP]: https://microsoft.github.io/language-server-protocol/
+[DAP]: https://microsoft.github.io/debug-adapter-protocol/
 
 [alt codes]: https://www.alt-codes.net/
 [Parser]: https://en.wikipedia.org/wiki/Parsing
