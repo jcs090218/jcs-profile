@@ -83,6 +83,10 @@ A mini-game that combines the mechanics of [hack and slash][hack & slash] with [
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829).
 - [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 💸):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
+- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summur 2019):
+A multiplayer shooting [MOBA][] game on the mobile device.
+The project is created by the [T-NEXUS][] studio.
+I contributed to the backend engineering by writing the login server and designing its database schema.
 - [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (Fall 2017 – Winter 2017 🏫):
 A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.
 - [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 🏫):
@@ -821,6 +825,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
+[T-NEXUS]: https://github.com/T-nexus-Studio
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
@@ -1011,6 +1016,7 @@ The project was initiated during the course of work but is no longer in use as t
 [TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentica
 [MMO]: https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
 [RPG]: https://en.wikipedia.org/wiki/Role-playing_gametion
+[MOBA]: https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
 [CSV]: https://en.wikipedia.org/wiki/Comma-separated_values

@@ -5,6 +5,9 @@
 
 body#top:not(.dark) {
     background-color: #F5F5F5;
+    background-image: url('../../images/bg/light.png');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .dark::-webkit-scrollbar-thumb {
@@ -21,10 +24,16 @@ body#top:not(.dark) {
 
 .dark {
     background-color: #292A2D;
+    background-image: url('../../images/bg/dark.png');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .dark.list {
     background-color: #292A2D;
+    background-image: url('../../images/bg/dark.png');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 not(.dark) {
