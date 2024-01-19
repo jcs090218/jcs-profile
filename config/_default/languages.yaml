@@ -1,7 +1,5 @@
 ---
 en:
-  languageName: "English"
-  contentDir: 'content/en'
   weight: 100
   taxonomies:
     category: categories
@@ -26,8 +24,6 @@ en:
         weight: 25
 
 zh-TW:
-  languageName: "繁體中文"
-  contentDir: 'content/zh-TW'
   weight: 90
   taxonomies:
     category: categories

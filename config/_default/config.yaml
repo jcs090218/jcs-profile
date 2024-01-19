@@ -23,6 +23,12 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 markup:
   goldmark:
     renderer:
