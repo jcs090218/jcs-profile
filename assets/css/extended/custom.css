@@ -101,3 +101,13 @@ body:not(.dark) header a:hover {
 .post-content pre code {
     background: #272C34 !important;
 }
+
+/* Posts */
+
+.archive-month {
+    padding: 0px;
+}
+
+.archive-entry {
+    margin: 0px;
+}
