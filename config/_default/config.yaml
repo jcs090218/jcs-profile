@@ -18,10 +18,14 @@ minify:
   # minifyOutput: true
 
 params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  defaultTheme: auto # dark, light
+
   ShowReadingTime: true
   ShowToc: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  ShowWordCount: true
 
 outputs:
   home:

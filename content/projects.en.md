@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 ShowReadingTime: false
+ShowWordCount: false
 ---
 
 This page lists some of my projects, work, and school projects. 
@@ -126,7 +127,7 @@ An app for sharing music that works with illuminated piano keyboards — [Meteo 
 My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 - [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
 Scripting manual website for [JCSGodot][] API.
-- [blog@v2](https://github.com/jcs090218/blog) (Fall 2022 – Spring 2024):
+- [blog@v2](https://github.com/jcs-legacy/blog) (Fall 2022 – Spring 2024):
 My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
 - [Eask Manual](https://emacs-eask.github.io/) (Summur 2022 – Winter 2022):
 [Eask][eask/cli]'s documentation website.
@@ -234,6 +235,8 @@ Inspired by the [icecream](https://pypi.org/project/icecream/) package from the 
 Template module for [jcs-emacs][].
 - [dart-mode](https://github.com/emacsorphanage/dart-mode) (Fall 2023 🧑‍🔧):
 An [Emacs][] mode for the [Dart][] language
+- [php-mode](https://github.com/emacs-php/php-mode) (Fall 2023 🧑‍🔧):
+A powerful and flexible [Emacs][] major mode for editing [PHP][] scripts.
 - [elisp-tree-sitter][] (Fall 2023  🧑‍🔧):
 [Emacs Lisp][] bindings for [tree-sitter][].
 - [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
