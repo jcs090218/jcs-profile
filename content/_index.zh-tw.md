@@ -2,7 +2,7 @@
 title: 
 ---
 
-<a href="#"><img id="my-avatar" src="../images/v5.jpg"></a>
+<a href="#"><img id="my-avatar" src="../images/v6.png"></a>
 
 ## Hi, 我是人傑 👋
 
