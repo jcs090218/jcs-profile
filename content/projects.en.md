@@ -269,11 +269,11 @@ Utility functions for writing pythonic [emacs][] package.
 [Isort][] for [Emacs][].
 - [pyenv-mode](https://github.com/pythonic-emacs/pyenv-mode) (Fall 2023 🧑‍🔧):
 Integrate [pyenv][] with [python-mode][].
-- [chatgpt-sideline](https://github.com/emacs-openai/chatgpt-sideline) (Fall 2023 ✨🧑‍🔧):
+- [chatgpt-sideline](https://github.com/emacs-openai/chatgpt-sideline) (Fall 2023):
 [Sideline][] support for [chatgpt][emacs-openai/chatgpt].
 - [eglot-uniteai](https://github.com/emacs-openai/eglot-uniteai) (Fall 2023 ✨🧑‍🔧):
 [eglot][] client leveraging [uniteai][].
-- [lsp-uniteai](https://github.com/emacs-openai/lsp-uniteai) (Fall 2023):
+- [lsp-uniteai](https://github.com/emacs-openai/lsp-uniteai) (Fall 2023 ✨🧑‍🔧):
 [lsp-mode][] client leveraging [uniteai][].
 - [eglot-shader](https://github.com/shader-ls/eglot-shader) (Fall 2023):
 [eglot][] client leveraging [shader-language-server][].
