@@ -42,7 +42,7 @@ The project's goal is to gain insights into the construction of game engines, un
 - [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
 A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
 - [FlxCs](https://github.com/jcs090218/FlxCs) (Fall 2023):
-Rewrite [emacs-flx][] in C#. Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
+Rewrite [emacs-flx][] in [C#][]. Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
 - [Unity.Mx](https://github.com/jcs090218/Unity.Mx) (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
