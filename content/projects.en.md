@@ -124,6 +124,11 @@ Players can interact with objects in the scene by simply clicking on them.
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 💸):
 An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
 
+## Physics
+
+- [ImpulseEngine](https://github.com/jcs090218/ImpulseEngine) (Fall 2017 🏫):
+An unofficial port of [Impulse Engine][] written in [Python][].
+
 ## Web apps and services, browser extensions
 
 - [jcs-profile](https://github.com/jcs090218/jcs-profile/) (Spring 2024 – Presented):
@@ -934,6 +939,7 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSGodot]: https://github.com/jcs090218/JCSGodot
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
+[Impulse Engine]: https://github.com/tutsplus/ImpulseEngine
 [API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
 [Blog_Template]: https://github.com/jcs-legacy/Blog_Template
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
