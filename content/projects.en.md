@@ -282,7 +282,7 @@ Generic popup tip.
 Minor mode that helps you insert pair `/*` and `*/`.
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
-- [codemetrics](https://github.com/jcs-elpa/codemetrics) (Spring 2023):
+- [codemetrics](https://github.com/emacs-vs/codemetrics) (Spring 2023):
 Plugin shows complexity information.
 Inspired by [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) from the [VSCode][] community.
 This plugin implements live calculation of the **Cognitive Complexity** metric, which was proposed by G. Ann Campbell in
@@ -311,7 +311,7 @@ Common step definitions for [Ecukes][].
 Cucumber for [Emacs][].
 - [sound-async](https://github.com/jcs-elpa/sound-async) (Winter 2022):
 Play sound asynchronously.
-- [block-travel](https://github.com/jcs-elpa/block-travel) (Winter 2022):
+- [block-travel](https://github.com/emacs-vs/block-travel) (Winter 2022):
 Move to previous/next blank line.
 Drawn inspiration from [Block Travel](https://atom.io/packages/block-travel) in the [Atom][] community and [Block Travel](https://marketplace.visualstudio.com/items?itemName=sashaweiss.block-travel) in the [VSCode][] community.
 - [jcs-modeline](https://github.com/jcs-emacs/jcs-modeline) (Winter 2022):
@@ -701,13 +701,13 @@ Simple quote toggler that cycle through `"`, `'`, and <code>\`</code>.
 Highly customizable self design file header.
 - [com-css-sort](https://github.com/jcs-elpa/com-css-sort) (Winter 2018):
 Common way of sorting the [CSS][] attributes.
-- [htmltagwrap](https://github.com/jcs-elpa/htmltagwrap) (Winter 2018):
+- [htmltagwrap](https://github.com/emacs-vs/htmltagwrap) (Winter 2018):
 Wraps a chunk of [HTML][] code in tags.
 Inspired by the [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) from the [VSCode][] community.
 - [auto-close-tag](https://github.com/jcs-legacy/auto-close-tag) (Winter 2018):
 Automatically add [HTML][]/[XML][] close tag.
 Inspired by the [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) from the [VSCode][] community.
-- [auto-rename-tag](https://github.com/jcs-elpa/auto-rename-tag) (Winter 2018):
+- [auto-rename-tag](https://github.com/emacs-vs/auto-rename-tag) (Winter 2018):
 Automatically rename paired [HTML][]/[XML][] tag.
 Inspired by [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) from the [VSCode][] community.
 - [use-ttf](https://github.com/jcs-elpa/use-ttf) (Summur 2018):
