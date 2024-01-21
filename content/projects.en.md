@@ -164,6 +164,8 @@ Scripting manual for [CCosQuick][] API.
 - [box_server](https://gitlab.com/jcs-workspace/node.js/box_server) (Spring 2020 💸):
 A straightforward server designed to be compatible with any [WebSocket][] client utilizing the [ws][] library.
 This is a small demo I developed while working at [WISBET][]. There is no documentation as we moved on to the next project afterward.
+- [Unity_DataServer](https://gitlab.com/jcs-workspace/unity/Unity_DataServer) (Winter 2019 💸):
+A data server and a solution for the missing game data, including [in-app purchase (IAP)][IAP] history, when the game is uninstalled from a mobile device.
 - [sherlock][sherlock-project/sherlock] (Spring 2019 ✨):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
@@ -829,6 +831,7 @@ The project was initiated during the course of work but is no longer in use as t
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
 [T-NEXUS]: https://github.com/T-nexus-Studio
+[GameBarley]: http://barley.games/
 [WISBET]: http://www.wisbet.co/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
@@ -1027,6 +1030,7 @@ The project was initiated during the course of work but is no longer in use as t
 [CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
 [TSV]: https://en.wikipedia.org/wiki/Tab-separated_values
 [regex]: https://en.wikipedia.org/wiki/Regular_expression
+[IAP]: https://developer.apple.com/in-app-purchase/
 [AssetBundles]: https://docs.unity3d.com/Manual/AssetBundlesIntro.html
 [EditorPrefs]: https://docs.unity3d.com/ScriptReference/EditorPrefs.html
 [PlayerPrefs]: https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
