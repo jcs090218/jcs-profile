@@ -161,6 +161,9 @@ Initial attempt with [DRF][].
 Scripting manual for [JCSUE][] API.
 - [Scripting_Manual_CCosQuick](https://github.com/jcs-legacy/Scripting_Manual_CCosQuick) (Spring 2020):
 Scripting manual for [CCosQuick][] API.
+- [box_server](https://gitlab.com/jcs-workspace/node.js/box_server) (Spring 2020 💸):
+A straightforward server designed to be compatible with any [WebSocket][] client utilizing the [ws][] library.
+This is a small demo I developed while working at [WISBET][]. There is no documentation as we moved on to the next project afterward.
 - [sherlock][sherlock-project/sherlock] (Spring 2019 ✨):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
@@ -826,6 +829,7 @@ The project was initiated during the course of work but is no longer in use as t
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
 [T-NEXUS]: https://github.com/T-nexus-Studio
+[WISBET]: http://www.wisbet.co/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
@@ -990,6 +994,7 @@ The project was initiated during the course of work but is no longer in use as t
 [PHP_CodeSniffer]: https://github.com/squizlabs/PHP_CodeSniffer
 [Perl::Critic]: https://metacpan.org/pod/Perl::Critic
 [GitGutter]: https://packagecontrol.io/packages/GitGutter
+[ws]: https://www.npmjs.com/package/ws
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
@@ -1036,6 +1041,7 @@ The project was initiated during the course of work but is no longer in use as t
 [UniteAI]: https://github.com/freckletonj/uniteai
 [FontAwesome]: https://fontawesome.com/
 [WAV]: https://en.wikipedia.org/wiki/WAV
+[websocket]: https://en.wikipedia.org/wiki/WebSocket
 
 [8comic]: https://v.comicabc.com/
 [kaomoji]: http://kaomoji.ru/en/
