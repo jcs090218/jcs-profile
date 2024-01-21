@@ -838,6 +838,7 @@ The project was initiated during the course of work but is no longer in use as t
 [T-NEXUS]: https://github.com/T-nexus-Studio
 [GameBarley]: http://barley.games/
 [WISBET]: http://www.wisbet.co/
+[Novaby]: https://www.novaby.com/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
