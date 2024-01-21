@@ -20,8 +20,7 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 ## Currently working on
 
-- [jcs-profile](https://github.com/jcs090218/jcs-profile) (Spring 2024 – Present):
-This, my personal website.
+- [jayces][] (Winter 2023 – Presented): My first programming language.
 
 ## Tools, Framework, and Libraries
 
