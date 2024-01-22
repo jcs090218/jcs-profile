@@ -32,8 +32,10 @@ A compact framework that encapsulates [Qt Jami][] to expedite development.
 A dedicated network framework tailored for the creation of [MMO][] games, leveraging [Apache Mina][] and [MySQL][].
 - [JCSPyGm_Lib][] (Winter 2016 🏫):
 A set of tools designed to boost the speed of game development with [Pygame][].
+Please visit the demo project [ImpulseEngine][] for more detailed usage information.
 - [JCSCos2x_Lib][] (Fall 2016 – Winter 2016 🏫):
 A small library provides a fast, superficial, easy-to-implement layer for parallax effects and essential features for making a 2D game using [Cocos2d-x][].
+Watch a short video of the demo project [here](https://www.youtube.com/watch?v=SMMtxSFFqgo). (3 weeks; including the demo project)
 - [JCSLOVELua][] (Fall 2016 – Winter 2016 🏫):
 A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
 (animation, camera, input, rendering, simple physics, etc)
@@ -133,7 +135,7 @@ You can view a demonstration of the core mechanics [here](https://www.youtube.co
 
 ## Physics
 
-- [ImpulseEngine](https://github.com/jcs090218/ImpulseEngine) (Fall 2017 🏫):
+- [ImpulseEngine][] (Fall 2017 🏫):
 An unofficial port of [Impulse Engine][] written in [Python][].
 This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
@@ -960,8 +962,9 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSGodot]: https://github.com/jcs090218/JCSGodot
 [JCSPyGm_Lib]: https://github.com/jcs090218/JCSPyGm_Lib
+[ImpulseEngine]: https://github.com/jcs090218/ImpulseEngine
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
-[JCSCos2x_Lib]: https://github.com/jcs090218/JCSCos2x_Lib
+[JCSCos2x_Lib]: https://github.com/jcs090218/JCSCos2x_Lib_src
 [JCSCC_Engine]: https://github.com/jcs090218/JCSCC_Engine
 [JCSNetS]: https://github.com/jcs090218/JCSNetS
 [JCSQtJ]: https://github.com/jcs090218/JCSQtJ
