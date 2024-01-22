@@ -24,6 +24,12 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 ## Tools, Framework, and Libraries
 
+- [JCSNetP][] (Winter 2017):
+A framework is developed to improve efficiency in network programming using [C++][].
+- [JCSQtJ][] (Fall 2017):
+A compact framework that encapsulates [Qt Jami][] to expedite development.
+- [JCSNetS][] (Summur 2017):
+A dedicated network framework tailored for the creation of [MMO][] games, leveraging [Apache Mina][] and [MySQL][].
 - [JCSPyGm_Lib][] (Winter 2016 🏫):
 A set of tools designed to boost the speed of game development with [Pygame][].
 - [JCSCos2x_Lib][] (Fall 2016 – Winter 2016 🏫):
@@ -31,8 +37,6 @@ A small library provides a fast, superficial, easy-to-implement layer for parall
 - [JCSLOVELua][] (Fall 2016 – Winter 2016 🏫):
 A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
 (animation, camera, input, rendering, simple physics, etc)
-- [JCSQtJ][] (Fall 2017):
-A compact framework that encapsulates [Qt Jami][] to expedite development.
 - [JCSCC_Engine][] (Spring 2016 – Winter 2017 🏫):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
 It includes a resource manager with secure decoding and encoding algorithms.
@@ -893,6 +897,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Bluetooth]: https://en.wikipedia.org/wiki/Bluetooth
 [Pygame]: https://en.wikipedia.org/wiki/Pygame
 [Qt Jami]: https://wiki.qt.io/Qt_Jambi
+[Apache Mina]: https://mina.apache.org/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -921,6 +926,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Rust]: https://www.rust-lang.org/
 [Lua]: https://www.lua.org/
 [Make]: https://www.gnu.org/software/make/manual/make.html
+[MySQL]: https://www.mysql.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
@@ -953,7 +959,9 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
 [JCSCos2x_Lib]: https://github.com/jcs090218/JCSCos2x_Lib
 [JCSCC_Engine]: https://github.com/jcs090218/JCSCC_Engine
+[JCSNetS]: https://github.com/jcs090218/JCSNetS
 [JCSQtJ]: https://github.com/jcs090218/JCSQtJ
+[JCSNetP]: https://github.com/jcs090218/JCSNetP
 [Impulse Engine]: https://github.com/tutsplus/ImpulseEngine
 [API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
 [Blog_Template]: https://github.com/jcs-legacy/Blog_Template
