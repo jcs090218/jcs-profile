@@ -28,17 +28,20 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 A framework is developed to improve efficiency in network programming using [C++][].
 - [JCSQtJ][] (Fall 2017):
 A compact framework that encapsulates [Qt Jami][] to expedite development.
+Please checkout the demo project [Guild-Emblem-Simulator][] for more detailed usage information.
 - [JCSNetS][] (Summur 2017):
 A dedicated network framework tailored for the creation of [MMO][] games, leveraging [Apache Mina][] and [MySQL][].
+Please checkout the project [BB_Shoot][], which utilizes this framework.
 - [JCSPyGm_Lib][] (Winter 2016 🏫):
 A set of tools designed to boost the speed of game development with [Pygame][].
-Please visit the demo project [ImpulseEngine][] for more detailed usage information.
+Please visit the demo project [ImpulseEngine][] for more detailed usage information. (6 weeks; including the demo project)
 - [JCSCos2x_Lib][] (Fall 2016 – Winter 2016 🏫):
 A small library provides a fast, superficial, easy-to-implement layer for parallax effects and essential features for making a 2D game using [Cocos2d-x][].
-Watch a short video of the demo project [here](https://www.youtube.com/watch?v=SMMtxSFFqgo). (3 weeks; including the demo project)
+Watch a short video of the demo project [here](https://www.youtube.com/watch?v=SMMtxSFFqgo). (4 weeks; including the demo project)
 - [JCSLOVELua][] (Fall 2016 – Winter 2016 🏫):
-A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
-(animation, camera, input, rendering, simple physics, etc)
+A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented (animation, camera, input, rendering, simple physics, etc).
+Please checkout the demo project [PetShop][] for more detailed usage information.
+(5 weeks; including the demo project)
 - [JCSCC_Engine][] (Spring 2016 – Winter 2017 🏫):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
 It includes a resource manager with secure decoding and encoding algorithms.
@@ -96,10 +99,12 @@ The project is created by the [T-NEXUS][] studio.
 I contributed to the backend engineering by writing the login server and designing its database schema.
 - [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (Fall 2017 – Winter 2017 🏫):
 A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.
+- [BB_Shoot][] (Fall 2017):
+A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mechanics.
 - [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 🏫):
 Embark on an undersea adventure in this side-scrolling game!
 Published on [Google Play Store](https://play.google.com/store/). (15 weeks)
-- [PetShop](https://github.com/jcs090218/PetShop) (Winter 2016):
+- [PetShop][] (Winter 2016):
 An example project using [JCSLOVELua][] Framework.
 Players can use a left-click of the mouse to generate adorable animals, allowing them to reside within a sandbox.
 The concept is to emulate an aquarium experience.
@@ -127,11 +132,25 @@ A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/
 within the [Unity](https://unity.com/) platform.
 Players can interact with objects in the scene by simply clicking on them.
 
-## Music mobile apps
+## Music apps
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 💸):
 An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
 You can view a demonstration of the core mechanics [here](https://www.youtube.com/watch?v=63iJ5pnfVLQ) (please note that this demo is in its early stages and may appear rough).
+- [Music_Visualizer](https://gitlab.com/jcs-workspace/unity/Music_Visualizer) (Fall 2018):
+Implementation of a music visualizer in [Unity][]. Check out the demo [here](https://www.youtube.com/watch?v=BkKbOezO3Vs&t=158s).
+
+## Algorithms
+
+- [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summur 2023):
+Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
+
+## Animations, Shaders, and VFX
+
+- [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summur 2023):
+Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
+- [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summur 2023):
+Enhance the overall visual experience by adjusting various settings in [Unity][].
 
 ## Physics
 
@@ -799,7 +818,7 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 
 ## Creative projects
 
-- [Guild-Emblem-Simulator](https://github.com/jcs090218/Guild-Emblem-Simulator) (Fall 2017):
+- [Guild-Emblem-Simulator][] (Fall 2017):
 A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a PNG file.
 The application is developed in [Java][] and utilizes the [JCSQtJ][] framework.
 
@@ -964,10 +983,13 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSPyGm_Lib]: https://github.com/jcs090218/JCSPyGm_Lib
 [ImpulseEngine]: https://github.com/jcs090218/ImpulseEngine
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
+[PetShop]: https://github.com/jcs090218/PetShop
 [JCSCos2x_Lib]: https://github.com/jcs090218/JCSCos2x_Lib_src
 [JCSCC_Engine]: https://github.com/jcs090218/JCSCC_Engine
 [JCSNetS]: https://github.com/jcs090218/JCSNetS
+[BB_Shoot]: https://www.youtube.com/watch?v=99XotNo86wI
 [JCSQtJ]: https://github.com/jcs090218/JCSQtJ
+[Guild-Emblem-Simulator]: https://github.com/jcs090218/Guild-Emblem-Simulator
 [JCSNetP]: https://github.com/jcs090218/JCSNetP
 [Impulse Engine]: https://github.com/tutsplus/ImpulseEngine
 [API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
@@ -1065,6 +1087,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MMO]: https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
 [RPG]: https://en.wikipedia.org/wiki/Role-playing_gametion
 [MOBA]: https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena
+[TPS]: https://en.wikipedia.org/wiki/Third-person_shooter
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
 [IAP]: https://developer.apple.com/in-app-purchase/
@@ -1073,6 +1096,10 @@ The project was initiated during the course of work but is no longer in use as t
 [PlayerPrefs]: https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
 [InspectorWindow]: https://docs.unity3d.com/Manual/UsingTheInspector.html
 [HierarchyWindow]: https://docs.unity3d.com/Manual/Hierarchy.html
+[Shader Graph]: https://docs.unity3d.com/Manual/shader-graph.html
+[Built-in RP]: https://docs.unity3d.com/Manual/render-pipelines.html
+[URP]: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html
+[HDRP]: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html
 [FontAwesome]: https://fontawesome.com/
 [WAV]: https://en.wikipedia.org/wiki/WAV
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
