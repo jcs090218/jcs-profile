@@ -101,7 +101,7 @@ I contributed to the backend engineering by writing the login server and designi
 A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.
 - [BB_Shoot][] (Fall 2017):
 A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mechanics.
-- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 🏫):
+- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 🏫💸):
 Embark on an undersea adventure in this side-scrolling game!
 Published on [Google Play Store](https://play.google.com/store/). (15 weeks)
 - [PetShop][] (Winter 2016 🏫):
