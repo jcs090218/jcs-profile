@@ -31,6 +31,8 @@ A small library provides a fast, superficial, easy-to-implement layer for parall
 - [JCSLOVELua][] (Fall 2016 – Winter 2016 🏫):
 A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented.
 (animation, camera, input, rendering, simple physics, etc)
+- [JCSQtJ][] (Fall 2017):
+A compact framework that encapsulates [Qt Jami][] to expedite development.
 - [JCSCC_Engine][] (Spring 2016 – Winter 2017 🏫):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
 It includes a resource manager with secure decoding and encoding algorithms.
@@ -788,6 +790,12 @@ Review new package PRs on [MELPA][] automatically.
 Requested by the community, refer to [melpa#6714](https://github.com/melpa/melpa/issues/6714).
 While it wasn't ultimately accepted, it propelled the community towards a better alternative — [melpazoid][].
 
+## Creative projects
+
+- [Guild-Emblem-Simulator](https://github.com/jcs090218/Guild-Emblem-Simulator) (Fall 2017):
+A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a PNG file.
+The application is developed in [Java][] and utilizes the [JCSQtJ][] framework.
+
 ## On-hiatus projects (might be finished someday)
 
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
@@ -884,6 +892,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Processing]: https://processing.org/
 [Bluetooth]: https://en.wikipedia.org/wiki/Bluetooth
 [Pygame]: https://en.wikipedia.org/wiki/Pygame
+[Qt Jami]: https://wiki.qt.io/Qt_Jambi
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -944,6 +953,7 @@ The project was initiated during the course of work but is no longer in use as t
 [JCSLOVELua]: https://github.com/jcs090218/JCSLOVELua
 [JCSCos2x_Lib]: https://github.com/jcs090218/JCSCos2x_Lib
 [JCSCC_Engine]: https://github.com/jcs090218/JCSCC_Engine
+[JCSQtJ]: https://github.com/jcs090218/JCSQtJ
 [Impulse Engine]: https://github.com/tutsplus/ImpulseEngine
 [API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
 [Blog_Template]: https://github.com/jcs-legacy/Blog_Template
