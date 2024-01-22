@@ -113,6 +113,9 @@ A 3rd person hack and slash action game made in the Unity engine, developed by a
 the [Academy of Art University][AAU] within a span of 15 weeks.
 - [DJMax_Remake](https://github.com/jcs090218/DJMax_Remake) (Spring 2016 🏫):
 A clone of [DJMax][] implemented in [Processing][].
+- [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 🏫):
+A simple [ASCII][] [third-person shooter (TPS)][TPS] game coded in [C++][].
+View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
 - [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 🏫):
 An compact RPG fighting game designed for two players to engage in battles using
 pre-designed archer characters. Developed with the [Starling Framework](https://gamua.com/starling/)
@@ -1071,6 +1074,7 @@ The project was initiated during the course of work but is no longer in use as t
 [SSG]: https://en.wikipedia.org/wiki/Static_site_generator
 [HTTP]: https://en.wikipedia.org/wiki/HTTP
 
+[ASCII]: https://en.wikipedia.org/wiki/ASCII
 [alt codes]: https://www.alt-codes.net/
 [Parser]: https://en.wikipedia.org/wiki/Parsing
 [Parsing]: https://en.wikipedia.org/wiki/Parsing
