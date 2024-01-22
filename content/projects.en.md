@@ -93,7 +93,7 @@ A mini-game that combines the mechanics of [hack and slash][hack & slash] with [
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829).
 - [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 💸):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
-- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summur 2019):
+- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summur 2019 💸):
 A multiplayer shooting [MOBA][] game on the mobile device.
 The project is created by the [T-NEXUS][] studio.
 I contributed to the backend engineering by writing the login server and designing its database schema.
@@ -104,7 +104,7 @@ A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mec
 - [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 🏫):
 Embark on an undersea adventure in this side-scrolling game!
 Published on [Google Play Store](https://play.google.com/store/). (15 weeks)
-- [PetShop][] (Winter 2016):
+- [PetShop][] (Winter 2016 🏫):
 An example project using [JCSLOVELua][] Framework.
 Players can use a left-click of the mouse to generate adorable animals, allowing them to reside within a sandbox.
 The concept is to emulate an aquarium experience.
