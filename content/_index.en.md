@@ -6,20 +6,16 @@ title:
 
 ## Hi, I am Jen-Chieh 👋
 
-Welcome to my site! I've created many kinds of
-software in various fields. I know <b>25+</b> programming languages, and I
-have over **5,000+** contributions on [GitHub][] and [GitLab][].
-I used to code **8+** hours a day, and it has been <b>5</b> years 
-non-stop (now **5+** hours a day). I've spent a tremendous amount of 
-time on programming and software study. Just to show how much I love this
-field! 😊
+A software engineer who aims to evolve, innovate, and inspire through technology.
 
-In my experience, I was either a programming lead, technical consultant,
-or senior software engineer. But unfortunately, I don't have enough
-experience with management roles. One of my goals is to get better at
-management roles (if I ever get a chance). Other than that, I would love
-to continue my computer journey (there are still so many things to
-learn)!
+Previously, I was a Unity Developer at [Novaby][], working as a mobile full-stack engineer.
+My responsibilities centered around [AR][] technology in conjunction with [Unity][]'s [AR Foundation][].
+
+Prior to that, my experience includes working as a Software Engineer, primarily using [Unity][],
+at various game companies such as [T-Nexus][], [imi tech][], [GameBarley][], etc.
+My primary areas of focus were gameplay, system architecture, tools, and automation.
+
+Outside of work, I've created over 200 tools (see [Projects][]) that people used and over 1 million downloads.
 
 <a href="https://github.com/jcs090218" target=”_blank”>
 <img src="./images/icons/github.svg" width="50px" class="my-img"></a>
@@ -40,5 +36,17 @@ learn)!
 <img src="./images/icons/blog.svg" width="50px" class="my-img"></a>
 
 
-[GitHub]: https://github.com/jcs090218
-[GitLab]: https://gitlab.com/jcs090218
+<!-- Links -->
+
+[Projects]: ./projects/
+
+[Unity]: https://unity.com/
+[AR Foundation]: https://unity.com/unity/features/arfoundation
+
+[T-NEXUS]: https://github.com/T-nexus-Studio
+[imi tech]: http://www.imi-tech.com.tw/
+[GameBarley]: http://barley.games/
+[WISBET]: http://www.wisbet.co/
+[Novaby]: https://www.novaby.com/
+
+[AR]: https://en.wikipedia.org/wiki/Augmented_reality

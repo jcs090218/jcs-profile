@@ -6,14 +6,15 @@ title:
 
 ## Hi, 我是人傑 👋
 
-歡迎來到我的網站！我在各個領域創建了多種軟體。我了解 25 種以上的程式語言，
-並且在 [GitHub][] 和 [GitLab][] 上做出了超過 5,000 項貢獻。我曾經每天編碼 
-8 小時以上，現在已經連續 5 年不間斷了（現在每天 5 小時以上）。
-我花了大量的時間在程式設 計和軟體研究上。只是為了表明我對這個領域的熱愛！
+一位致力於透過科技發展、創新和激發靈感的軟體工程師。
 
-根據我的經驗，我不是程式主管、技術顧問，就是高級軟體工程師。
-但不幸的是，我沒有足夠的管理經驗。我的目標之一是更好地擔任管理職務
-（如果有機會的話）。除此之外，我很想繼續我的電腦之旅（還有很多東西要學）！
+在此之前，我是 [Novaby][] 的 [Unity][] 開發人員，擔任行動全端工程師。
+我的職責主要是與 [Unity][] 的 [AR Foundation][] 相關開發 [AR][] 技術。
+
+在此之前，我的經驗包括在 [T-Nexus][]、[imi tech][]、[GameBarley][] 等多家遊戲公司擔任軟體工程師，主要使用 [Unity][]。
+我主要關注的領域是遊戲玩法、系統架構、工具和自動化。
+
+工作之餘，我創建了 200 多個人們使用的工具（請參閱 [Projects][]），下載量超過 100 萬次。
 
 <a href="https://github.com/jcs090218" target=”_blank”>
 <img src="../images/icons/github.svg" width="50px" class="my-img"></a>
@@ -34,5 +35,17 @@ title:
 <img src="../images/icons/blog.svg" width="50px" class="my-img"></a>
 
 
-[GitHub]: https://github.com/jcs090218
-[GitLab]: https://gitlab.com/jcs090218
+<!-- Links -->
+
+[Projects]: ./projects/
+
+[Unity]: https://unity.com/
+[AR Foundation]: https://unity.com/unity/features/arfoundation
+
+[T-NEXUS]: https://github.com/T-nexus-Studio
+[imi tech]: http://www.imi-tech.com.tw/
+[GameBarley]: http://barley.games/
+[WISBET]: http://www.wisbet.co/
+[Novaby]: https://www.novaby.com/
+
+[AR]: https://en.wikipedia.org/wiki/Augmented_reality

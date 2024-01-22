@@ -1018,6 +1018,11 @@ The project was initiated during the course of work but is no longer in use as t
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [LSP]: https://microsoft.github.io/language-server-protocol/
 [DAP]: https://microsoft.github.io/debug-adapter-protocol/
+[regex]: https://en.wikipedia.org/wiki/Regular_expression
+[CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
+[TSV]: https://en.wikipedia.org/wiki/Tab-separated_values
+[SSG]: https://en.wikipedia.org/wiki/Static_site_generator
+[HTTP]: https://en.wikipedia.org/wiki/HTTP
 
 [alt codes]: https://www.alt-codes.net/
 [Parser]: https://en.wikipedia.org/wiki/Parsing
@@ -1037,25 +1042,21 @@ The project was initiated during the course of work but is no longer in use as t
 [MOBA]: https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
-[CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
-[TSV]: https://en.wikipedia.org/wiki/Tab-separated_values
-[regex]: https://en.wikipedia.org/wiki/Regular_expression
 [IAP]: https://developer.apple.com/in-app-purchase/
 [AssetBundles]: https://docs.unity3d.com/Manual/AssetBundlesIntro.html
 [EditorPrefs]: https://docs.unity3d.com/ScriptReference/EditorPrefs.html
 [PlayerPrefs]: https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
 [InspectorWindow]: https://docs.unity3d.com/Manual/UsingTheInspector.html
 [HierarchyWindow]: https://docs.unity3d.com/Manual/Hierarchy.html
-[SSG]: https://en.wikipedia.org/wiki/Static_site_generator
-[HTTP]: https://en.wikipedia.org/wiki/HTTP
+[FontAwesome]: https://fontawesome.com/
+[WAV]: https://en.wikipedia.org/wiki/WAV
+[websocket]: https://en.wikipedia.org/wiki/WebSocket
+
 [OpenAI]: https://openai.com/
 [ChatGPT]: https://chat.openai.com/
 [DALL-E]: https://openai.com/dall-e-2
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
-[FontAwesome]: https://fontawesome.com/
-[WAV]: https://en.wikipedia.org/wiki/WAV
-[websocket]: https://en.wikipedia.org/wiki/WebSocket
 
 [8comic]: https://v.comicabc.com/
 [kaomoji]: http://kaomoji.ru/en/
