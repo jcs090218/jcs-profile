@@ -129,6 +129,7 @@ Players can interact with objects in the scene by simply clicking on them.
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 💸):
 An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
+You can view a demonstration of the core mechanics [here](https://www.youtube.com/watch?v=63iJ5pnfVLQ) (please note that this demo is in its early stages and may appear rough).
 
 ## Physics
 
