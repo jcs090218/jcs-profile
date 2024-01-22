@@ -116,6 +116,10 @@ A clone of [DJMax][] implemented in [Processing][].
 - [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 🏫):
 A simple [ASCII][] [third-person shooter (TPS)][TPS] game coded in [C++][].
 View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
+- [Project S](#) (Summur 2015 – Winter 2015 💸):
+Action game (ACT) with [RPG][] elements and a locked top-down perspective.
+I worked on the [minimum viable product (MVP)][MVP] of a game under [NDA][] as the sole software engineer.
+The game wasn't completed due to its 7+ years project timeline, so I passed it on to the next team.
 - [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 🏫):
 An compact RPG fighting game designed for two players to engage in battles using
 pre-designed archer characters. Developed with the [Starling Framework](https://gamua.com/starling/)
@@ -1097,6 +1101,8 @@ The project was initiated during the course of work but is no longer in use as t
 [truncate-lines]: https://www.emacswiki.org/emacs/TruncateLines
 [recentf]: https://www.emacswiki.org/emacs/RecentFiles
 [undo-tree]: https://www.emacswiki.org/emacs/UndoTree
+[NDA]: https://en.wikipedia.org/wiki/Non-disclosure_agreement
+[MVP]: https://en.wikipedia.org/wiki/Minimum_viable_product
 [TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentica
 [MMO]: https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
 [RPG]: https://en.wikipedia.org/wiki/Role-playing_gametion
