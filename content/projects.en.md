@@ -128,6 +128,15 @@ Rhythm punks is a competitive two player game that will have the player fighting
 The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
 The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)
 
+## Desktop apps
+
+- [MagicCardTool](https://gitlab.com/artugam-jcs/MagicCardTool) (Summur 2017 🏫):
+A small desktop application that generates an image of a card for the [Magic: The Gathering][] card game.
+Initial attempt to develop a desktop application with [Windows Forms][] using [Visual C#][].
+- [Guild-Emblem-Simulator][] (Fall 2017):
+A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a PNG file.
+The application is developed in [Java][] and utilizes the [JCSQtJ][] framework.
+
 ## AR/VR mobile apps
 
 - [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summur 2021 – Spring 2022 💸):
@@ -823,12 +832,6 @@ Review new package PRs on [MELPA][] automatically.
 Requested by the community, refer to [melpa#6714](https://github.com/melpa/melpa/issues/6714).
 While it wasn't ultimately accepted, it propelled the community towards a better alternative — [melpazoid][].
 
-## Creative projects
-
-- [Guild-Emblem-Simulator][] (Fall 2017):
-A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a PNG file.
-The application is developed in [Java][] and utilizes the [JCSQtJ][] framework.
-
 ## On-hiatus projects (might be finished someday)
 
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
@@ -885,6 +888,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
+[Magic: The Gathering]: https://magic.wizards.com/en
 
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [macOS]: https://en.wikipedia.org/wiki/MacOS
@@ -903,6 +907,8 @@ The project was initiated during the course of work but is no longer in use as t
 [LÖVE]: https://love2d.org/
 [Unity]: https://unity.com/
 [.NET]: https://en.wikipedia.org/wiki/.NET
+[Visual C#]: https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022
+[Windows Forms]: https://learn.microsoft.com/en-us/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-8.0
 [Cocos2d-x]: https://www.cocos.com/en/cocos2d-x
 [Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
