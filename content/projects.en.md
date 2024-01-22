@@ -123,6 +123,10 @@ and [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/in
 - [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (Fall 2014 🏫):
 A compact visual novel game where the player assumes the role of a detective,
 working to unravel a mystery and identify the murderer. (7 weeks)
+- [Rhythm Punks!](https://www.youtube.com/watch?v=FmsYq4y_W24) (Fall 2014 – Winter 2014 🏫):
+Rhythm punks is a competitive two player game that will have the player fighting one another for victory.
+The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
+The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)
 
 ## AR/VR mobile apps
 
