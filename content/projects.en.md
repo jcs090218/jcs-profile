@@ -815,6 +815,8 @@ Use [8comic][] to read manga.
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
 - [CCosQuick][] (Winter 2019 – Summur 2020 💸):
 Prototype your game easily with component driven library built on top of Cocos Creator.
+- [swagger-it](https://github.com/jcs090218/swagger-it) (Spring 2020):
+Automatically generate the [swagger.io][] yaml file for your project.
 - [JCSUE][] (Fall 2017):
 Quickly construct your game by utilizing multiple components and predefined default settings.
 - [jcs-vim](https://github.com/jcs090218/jcs-vim) (Winter 2016):
@@ -898,6 +900,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Pygame]: https://en.wikipedia.org/wiki/Pygame
 [Qt Jami]: https://wiki.qt.io/Qt_Jambi
 [Apache Mina]: https://mina.apache.org/
+[swagger.io]: https://swagger.io/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
