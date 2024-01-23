@@ -11,7 +11,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts"]
-# googleAnalytics: UA-123-45
+googleAnalytics: G-3MLWCB75D6
 
 minify:
   disableXML: true
