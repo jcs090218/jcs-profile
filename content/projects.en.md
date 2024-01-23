@@ -140,8 +140,10 @@ An univseral software installer by one click.
 A small desktop application that generates an image of a card for the [Magic: The Gathering][] card game.
 Initial attempt to develop a desktop application with [Windows Forms][] using [Visual C#][].
 - [Guild-Emblem-Simulator][] (Fall 2017):
-A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a PNG file.
-The application is developed in [Java][] and utilizes the [JCSQtJ][] framework.
+A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a [PNG][] file.
+- [Skycrap Client/Server](https://www.youtube.com/watch?v=bwiOMgQ7xHU) (Spring 2017 – Summur 2017):
+A small and enjoyable project that transmits webcam data using the server/client model.
+Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 
 ## AR/VR mobile apps
 
@@ -182,7 +184,7 @@ This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
 ## Web apps and services, browser extensions
 
-- [jcs-profile](https://github.com/jcs090218/jcs-profile/) (Spring 2024 – Presented):
+- [jcs-profile][] (Spring 2024 – Presented):
 My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 - [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
 Scripting manual website for [JCSGodot][] API.
@@ -816,6 +818,13 @@ This was initially developed for several of my game frameworks, including [JCSUn
 
 ## CI/CD tools and automation
 
+- [update_submodules.yml](https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc) (Spring 2024):
+Automatically update all the submodules within the repository and update the repository by opening a [pull request (PR)][PR].
+This workflow is used across several projects, such as [eask/cli][], [jcs-profile][] (this website), and more.
+- [setup-emacs-windows/update-stable.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-stable.yml) (Spring 2024):
+Automatically locate the latest Emacs' version and update the code through a [pull request (PR)][PR].
+- [setup-emacs-windows/update-snapshot.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-snapshot.yml) (Spring 2024):
+Automatically locate the most recent Emacs' snapshot and update the code through a [pull request (PR)][PR].
 - [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023):
 Install [Lem][] for [GitHub Actions][] workflow.
 - [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 ✨🔗):
@@ -1016,6 +1025,7 @@ The project was initiated during the course of work but is no longer in use as t
 [API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
 [Blog_Template]: https://github.com/jcs-legacy/Blog_Template
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
+[jcs-profile]: https://github.com/jcs090218/jcs-profile/
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
 [MELPA]: https://melpa.org/
@@ -1094,6 +1104,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [ASCII]: https://en.wikipedia.org/wiki/ASCII
 [alt codes]: https://www.alt-codes.net/
+[PNG]: https://en.wikipedia.org/wiki/PNG
 [Parser]: https://en.wikipedia.org/wiki/Parsing
 [Parsing]: https://en.wikipedia.org/wiki/Parsing
 [auth-source]: https://www.gnu.org/software/emacs/manual/html_mono/auth.html
@@ -1105,6 +1116,7 @@ The project was initiated during the course of work but is no longer in use as t
 [truncate-lines]: https://www.emacswiki.org/emacs/TruncateLines
 [recentf]: https://www.emacswiki.org/emacs/RecentFiles
 [undo-tree]: https://www.emacswiki.org/emacs/UndoTree
+[PR]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 [NDA]: https://en.wikipedia.org/wiki/Non-disclosure_agreement
 [MVP]: https://en.wikipedia.org/wiki/Minimum_viable_product
 [TFA]: https://en.wikipedia.org/wiki/Multi-factor_authentica
