@@ -261,7 +261,10 @@ Convert [Eask][eask/cli] into [Nix][] expressions.
 - [nixpkgs](https://github.com/NixOS/nixpkgs) (Fall 2022 – Present ✨):
 [Nix][] Packages collection & [NixOS][Nix].
 I serve as the package maintainer for a small set of packages.
-- [Eask][eask/cli] (Spring 2022 – Winter 2023):
+- [eask/archives][] (Spring 2022 – Winter 2023):
+Back up the `archive-contents` to avoid potential failures when refreshing the package archive.
+This is a factor that enhances the stability of [Eask][eask/cli].
+- [Eask][eask/cli] or [eask/cli][] (Spring 2022 – Winter 2023):
 [CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
 This tool is the successor to [Cask][], offering enhanced stability, cross-platform capability, and extensibility.
 - [Cask][] (Spring 2021 – Spring 2022 🧑‍🔧):
@@ -995,6 +998,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [Cask]: https://github.com/cask/cask
 [eask/cli]: https://github.com/emacs-eask/cli
+[eask/archives]: https://github.com/emacs-eask/archives
 [eask/packaging]: https://github.com/emacs-eask/packaging
 [Chocolatey]: https://chocolatey.org/
 [Scoop]: https://scoop.sh/
