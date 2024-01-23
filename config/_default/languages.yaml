@@ -19,8 +19,8 @@ en:
       - name: Resume
         url: storage/Resume.pdf
         weight: 20
-      - name: Search
-        url: search/
+      - name: Contact
+        url: contact/
         weight: 25
 
 zh-TW:
@@ -43,6 +43,6 @@ zh-TW:
       - name: 履歷
         url: ../storage/Resume.pdf
         weight: 20
-      - name: 搜尋
-        url: search/
+      - name: 聯絡
+        url: contact/
         weight: 25
