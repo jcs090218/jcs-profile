@@ -252,7 +252,7 @@ Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this i
 
 ## Package managers and build tools
 
-- [packaging][eask/packaging] (Fall 2023 – Winter 2023):
+- [eask/packaging][] (Fall 2023 – Winter 2023):
 Packaging for [Eask CLI][eask/cli].
 I've actively contributed to diverse package managers such as [Chocolatey][], [Snapcraft][], [MacPorts][], etc.
 Furthermore, I've established my own package repositories for [Scoop][], [Homebrew][], [Personal Package Archive (PPA)][PPA], and more.
