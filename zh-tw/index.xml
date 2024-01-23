@@ -398,5 +398,12 @@ JCS_BinGameData - 二進制格式 JCS_XMLGameData - XML格式 JCS_JSONGameData -
       <guid>https://www.jcs-profile.com/zh-tw/projects/</guid>
       <description>這裡什麼都沒有, 請參考其他語言!</description>
     </item>
+    <item>
+      <title>聯絡</title>
+      <link>https://www.jcs-profile.com/zh-tw/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/contact/</guid>
+      <description>您有一個項目嗎？想僱用我嗎？或只是想聊天？請隨意安排會議。</description>
+    </item>
   </channel>
 </rss>

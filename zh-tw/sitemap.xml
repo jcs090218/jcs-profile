@@ -922,5 +922,17 @@
                 hreflang="zh-tw"
                 href="https://www.jcs-profile.com/zh-tw/search/"
                 />
+  </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/contact/"
+                />
   </url>
 </urlset>

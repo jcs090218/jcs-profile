@@ -845,6 +845,18 @@
                 href="https://www.jcs-profile.com/tags/ci/cd/"
                 />
   </url><url>
+    <loc>https://www.jcs-profile.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/contact/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/projects/</loc>
     <xhtml:link
                 rel="alternate"
