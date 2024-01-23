@@ -285,7 +285,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 - [rainbow-csv](https://github.com/emacs-vs/rainbow-csv) (Winter 2023):
 🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
 - [qss-mode](https://github.com/jcs-elpa/qss-mode) (Winter 2023):
-Major mode for Qt Style Sheets.
+Major mode for [Qt Style Sheets][].
 - [sideline-eglot](https://github.com/emacs-sideline/sideline-eglot) (Winter 2023):
 Show [eglot][] information with [sideline][].
 - [company-emmet](https://github.com/emacs-vs/company-emmet) (Winter 2023):
@@ -974,6 +974,7 @@ The project was initiated during the course of work but is no longer in use as t
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
 [JSON]: https://www.json.org/json-en.html
 [PHP]: https://www.php.net/
+[Qt Style Sheets]: https://doc.qt.io/qt-6/stylesheet-reference.html
 [XML]: https://en.wikipedia.org/wiki/XML
 [YAML]: https://yaml.org/
 
