@@ -28,7 +28,7 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 A framework is developed to improve efficiency in network programming using [C++][].
 - [JCSQtJ][] (Fall 2017):
 A compact framework that encapsulates [Qt Jami][] to expedite development.
-Please checkout the demo project [Guild-Emblem-Simulator][] for more detailed usage information.
+Explore additional projects that have utilized this framework, such as [Guild-Emblem-Simulator][], [OC_Install][], and more.
 - [JCSNetS][] (Summur 2017):
 A dedicated network framework tailored for the creation of [MMO][] games, leveraging [Apache Mina][] and [MySQL][].
 Please checkout the project [BB_Shoot][], which utilizes this framework.
@@ -134,6 +134,8 @@ The 3rd stage will be a boss fight, where the player who does the most damage wi
 
 ## Desktop apps
 
+- [OC_Install][] (Summur 2018):
+An univseral software installer by one click.
 - [MagicCardTool](https://gitlab.com/artugam-jcs/MagicCardTool) (Summur 2017 🏫):
 A small desktop application that generates an image of a card for the [Magic: The Gathering][] card game.
 Initial attempt to develop a desktop application with [Windows Forms][] using [Visual C#][].
@@ -1008,6 +1010,7 @@ The project was initiated during the course of work but is no longer in use as t
 [BB_Shoot]: https://www.youtube.com/watch?v=99XotNo86wI
 [JCSQtJ]: https://github.com/jcs090218/JCSQtJ
 [Guild-Emblem-Simulator]: https://github.com/jcs090218/Guild-Emblem-Simulator
+[OC_Install]: https://gitlab.com/jcs-workspace/Java/OC_Install
 [JCSNetP]: https://github.com/jcs090218/JCSNetP
 [Impulse Engine]: https://github.com/tutsplus/ImpulseEngine
 [API_Reference_Template]: https://github.com/jcs-legacy/API_Reference_Template
