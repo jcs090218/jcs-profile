@@ -252,6 +252,10 @@ Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this i
 
 ## Package managers and build tools
 
+- [packaging][eask/packaging] (Fall 2023 – Winter 2023):
+Packaging for [Eask CLI][eask/cli].
+I've actively contributed to diverse package managers such as [Chocolatey][], [Snapcraft][], [MacPorts][], etc.
+Furthermore, I've established my own package repositories for [Scoop][], [Homebrew][], [Personal Package Archive (PPA)][PPA], and more.
 - [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
 Convert [Eask][eask/cli] into [Nix][] expressions.
 - [nixpkgs](https://github.com/NixOS/nixpkgs) (Fall 2022 – Present ✨):
@@ -989,8 +993,15 @@ The project was initiated during the course of work but is no longer in use as t
 [XML]: https://en.wikipedia.org/wiki/XML
 [YAML]: https://yaml.org/
 
-[eask/cli]: https://github.com/emacs-eask/cli
 [Cask]: https://github.com/cask/cask
+[eask/cli]: https://github.com/emacs-eask/cli
+[eask/packaging]: https://github.com/emacs-eask/packaging
+[Chocolatey]: https://chocolatey.org/
+[Scoop]: https://scoop.sh/
+[Homebrew]: https://brew.sh/
+[MacPorts]: https://www.macports.org/
+[Snapcraft]: https://snapcraft.io/store
+[PPA]: https://help.ubuntu.com/stable/ubuntu-help/addremove-ppa.html
 
 [shader-language-server]: https://github.com/shader-ls/shader-language-server
 [ShaderLab]: https://docs.unity3d.com/Manual/SL-Reference.html
