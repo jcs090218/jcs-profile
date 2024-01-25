@@ -148,7 +148,8 @@ Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 ## AR/VR mobile apps
 
 - [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summur 2021 – Spring 2022 💸):
-An [augmented reality][AR] mobile app for learning history of Monument Avenue and Arthur Ashe Boulevard.
+An [augmented reality][AR] mobile app for learning history of [Monument Avenue](https://en.wikipedia.org/wiki/Monument_Avenue) and [Arthur Ashe Boulevard](https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard).
+This project was featured in [CODAworx][]'s magazine's [Art for Social Change](https://www.codaworx.com/projects/monumental-conversations/) edition.
 - [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 💸):
 An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival.
 - [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 🏫):
@@ -907,6 +908,7 @@ The project was initiated during the course of work but is no longer in use as t
 [GameBarley]: http://barley.games/
 [WISBET]: http://www.wisbet.co/
 [Novaby]: https://www.novaby.com/
+[CODAworx]: https://www.codaworx.com/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
