@@ -455,6 +455,8 @@ Add [dockerfile][Docker] keywords to [company-mode][] keywords alist.
 A document string minor mode using [tree-sitter][].
 - [prt](https://github.com/jcs-elpa/prt) (Fall 2022):
 Progress Reporter Library.
+- [fussy](https://github.com/jojojames/fussy) (Summur 2022 🧑‍🔧):
+[Emacs][] [completion-style][] leveraging [flx][emacs-flx].
 - [vsc-multiple-cursors](https://github.com/emacs-vs/vsc-multiple-cursors) (Summur 2022):
 [multiple-cursors][] integration behave like [VSCode][].
 - [sideline-blame](https://github.com/emacs-sideline/sideline-blame) (Summur 2022):
@@ -708,10 +710,6 @@ Persistent Undo History for [GNU Emacs][Emacs].
 Yet Another Scroll Bar Mode.
 - [company-quickhelp-terminal](https://github.com/jcs-legacy/company-quickhelp-terminal) (Winter 2019):
 Terminal support for [company-quickhelp](https://github.com/company-mode/company-quickhelp).
-- [vs-light-theme](https://github.com/emacs-vs/vs-light-theme) (Fall 2019):
-[Visual Studio IDE][Visual Studio] light theme.
-- [vs-dark-theme](https://github.com/emacs-vs/vs-dark-theme) (Fall 2019):
-[Visual Studio IDE][Visual Studio] dark theme.
 - [ffmpeg-player](https://github.com/jcs-elpa/ffmpeg-player) (Winter 2019):
 Play video using [ffmpeg][].
 The performance is notably poor as it plays the video frame by frame, leading to significant file I/O (including memory) demands.
@@ -733,6 +731,10 @@ Define, translate, wiki the word.
 Inspired by [Amazon Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle)'s reading experiences.
 - [multi-shell](https://github.com/jcs-elpa/multi-shell) (Winter 2019):
 Managing multiple shell buffers.
+- [vs-light-theme](https://github.com/emacs-vs/vs-light-theme) (Fall 2019):
+[Visual Studio IDE][Visual Studio] light theme.
+- [vs-dark-theme](https://github.com/emacs-vs/vs-dark-theme) (Fall 2019):
+[Visual Studio IDE][Visual Studio] dark theme.
 - [diminish-buffer](https://github.com/jcs-elpa/diminish-buffer) (Fall 2019):
 Diminish (hide) buffers from [buffer-menu][].
 - [company-fuzzy](https://github.com/jcs-elpa/company-fuzzy) (Fall 2019):
@@ -747,12 +749,14 @@ Insert [alt codes][] using meta key.
 Major mode for editing [Haxe][] files.
 - [jayces-mode](https://github.com/jayces-lang/jayces-mode) (Fall 2019):
 Major mode for editing [JayCeS][] file.
+- [csharp-mode](https://github.com/emacs-csharp/csharp-mode) (Fall 2019 ✨):
+A [major-mode][] for editing [C#][] in [emacs][].
 - [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
 An extensible Emacs startup screen showing you what’s most important.
 - [indent-control](https://github.com/jcs-elpa/indent-control) (Summur 2019):
 Generic control the indentation level for each mode.
 - [show-eol](https://github.com/jcs-elpa/show-eol) (Summur 2019):
-Show end of line symbol in buffer.
+Show [end of line (EOL)][EOL] symbol in buffer.
 Derived inspiration from the built-in functionality of the editor [Notepad++][].
 - [helm-file-preview](https://github.com/jcs-legacy/helm-file-preview) (Summur 2019):
 Preview the current [helm][] file selection.
@@ -1121,12 +1125,15 @@ The project was initiated during the course of work but is no longer in use as t
 
 [ASCII]: https://en.wikipedia.org/wiki/ASCII
 [alt codes]: https://www.alt-codes.net/
+[EOL]: https://en.wikipedia.org/wiki/Newline
 [PNG]: https://en.wikipedia.org/wiki/PNG
 [Parser]: https://en.wikipedia.org/wiki/Parsing
 [Parsing]: https://en.wikipedia.org/wiki/Parsing
 [auth-source]: https://www.gnu.org/software/emacs/manual/html_mono/auth.html
+[completion-style]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Completion-Styles.html
 [completion styles]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Completion-Styles.html
 [compilation-mode]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Compilation-Mode.html
+[major-mode]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Major-Modes.html
 [minibuffer]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Minibuffer.html
 [buffer-menu]: https://www.emacswiki.org/emacs/BufferMenu
 [isearch]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Incremental-Search.html
