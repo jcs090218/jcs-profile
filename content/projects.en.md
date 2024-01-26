@@ -11,6 +11,7 @@ This page lists some of my projects, work, and school projects.
 - ✨ = Contributor
 - 🧑‍🔧 = Maintainer
 - 🔗 = Forked projects
+- 🏅 = Reward
 
 The rest are mostly open-source projects.
 
@@ -32,17 +33,21 @@ Explore additional projects that have utilized this framework, such as [Guild-Em
 - [JCSNetS][] (Summur 2017):
 A dedicated network framework tailored for the creation of [MMO][] games, leveraging [Apache Mina][] and [MySQL][].
 Please checkout the project [BB_Shoot][], which utilizes this framework.
-- [JCSPyGm_Lib][] (Winter 2016 🏫):
+- [JCSPyGm_Lib][] (Winter 2016 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A set of tools designed to boost the speed of game development with [Pygame][].
 Please visit the demo project [ImpulseEngine][] for more detailed usage information. (6 weeks; including the demo project)
-- [JCSCos2x_Lib][] (Fall 2016 – Winter 2016 🏫):
+- [JCSCos2x_Lib][] (Fall 2016 – Winter 2016 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A small library provides a fast, superficial, easy-to-implement layer for parallax effects and essential features for making a 2D game using [Cocos2d-x][].
 Watch a short video of the demo project [here](https://www.youtube.com/watch?v=SMMtxSFFqgo). (4 weeks; including the demo project)
-- [JCSLOVELua][] (Fall 2016 – Winter 2016 🏫):
+- [JCSLOVELua][] (Fall 2016 – Winter 2016 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented (animation, camera, input, rendering, simple physics, etc).
 Please checkout the demo project [PetShop][] for more detailed usage information.
 (5 weeks; including the demo project)
-- [JCSCC_Engine][] (Spring 2016 – Winter 2017 🏫):
+- [JCSCC_Engine][] (Spring 2016 – Winter 2017 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
 It includes a resource manager with secure decoding and encoding algorithms.
 The project's goal is to gain insights into the construction of game engines, understand their architecture, and apply this knowledge to other modern game engines.
@@ -56,26 +61,34 @@ Rewrite [emacs-flx][] in [C#][]. Built on the [Mono][] framework, you can utiliz
 - [Unity.Mx](https://github.com/jcs090218/Unity.Mx) (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
-- [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 💸):
+- [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 An abstraction layer constructed atop the [AssetBundles][] system, aiming to streamline the [AssetBundles][] workflow, sparing users from delving into intricate system details.
-- [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summur 2021 – Fall 2021 💸):
+- [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summur 2021 – Fall 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A dedicated tool that tracks variable over time.
-- [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (Summur 2021 💸):
+- [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (Summur 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A dedicated and up to date [YAML][] editor inside the [Inspector][InspectorWindow] window.
-- [Inspect Xml](https://assetstore.unity.com/publishers/54455) (Summur 2021 💸):
+- [Inspect Xml](https://assetstore.unity.com/publishers/54455) (Summur 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A dedicated and up to date [XML][] editor inside the [Inspector][InspectorWindow] window.
-- [Inspect Json](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543) (Summur 2021 💸):
+- [Inspect Json](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543) (Summur 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A dedicated and up to date [JSON][] editor inside the [Inspector][InspectorWindow] window.
-- [Afterimage](https://assetstore.unity.com/packages/vfx/afterimage-197173) (Summur 2021 💸):
+- [Afterimage](https://assetstore.unity.com/packages/vfx/afterimage-197173) (Summur 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 Afterimage VFX for [Unity][].
 A simple solution that work with 2D and 3D renderers, including UI components (Image, Text, Button, etc).
-- [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (Summur 2021 💸):
+- [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (Summur 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 Minimalistic good looking [hierarchy][HierarchyWindow].
 - [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summur 2021):
 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
 - [32feet.Unity.Example](https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example) (Spring 2021):
 Example project to use [32feet][] inside [Unity][] ([Bluetooth][] Classic).
-- [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 💸):
+- [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
 - [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summur 2018):
 Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
@@ -91,43 +104,58 @@ Quickly construct your game using multiple components and predefined default set
 - [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (Summur 2022):
 A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829).
-- [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 💸):
+- [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
-- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summur 2019 💸):
+- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summur 2019 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A multiplayer shooting [MOBA][] game on the mobile device.
 The project is created by the [T-NEXUS][] studio.
 I contributed to the backend engineering by writing the login server and designing its database schema.
-- [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (Fall 2017 – Winter 2017 🏫):
+- [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (Fall 2017 – Winter 2017 <span aria-label="School work"
+data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2018 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏅</span><span aria-label="Presented at E3 College Game Competition (E3 CGC) 2018 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏅</span>):
 A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.
 - [BB_Shoot][] (Fall 2017):
 A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mechanics.
-- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 🏫💸):
+- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 <span aria-label="School work"
+data-balloon-pos="up">🏫</span><span aria-label="The company Hasbro is interested in investing in this game."
+data-balloon-pos="up">💸</span>):
 Embark on an undersea adventure in this side-scrolling game!
 Published on [Google Play Store](https://play.google.com/store/). (15 weeks)
-- [PetShop][] (Winter 2016 🏫):
+- [PetShop][] (Winter 2016 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 An example project using [JCSLOVELua][] Framework.
 Players can use a left-click of the mouse to generate adorable animals, allowing them to reside within a sandbox.
 The concept is to emulate an aquarium experience.
-- [Might & Blade](https://www.youtube.com/watch?v=vPapMMxzNGg) (Fall 2016 – Winter 2016 🏫):
+- [Might & Blade](https://www.youtube.com/watch?v=vPapMMxzNGg) (Fall 2016 – Winter 2016 <span aria-label="School work"
+data-balloon-pos="up">🏫</span><span aria-label="Presented at GDC 2017 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏅</span>):
 A 3rd person hack and slash action game made in the Unity engine, developed by a team of 18 in
 the [Academy of Art University][AAU] within a span of 15 weeks.
-- [DJMax_Remake](https://github.com/jcs090218/DJMax_Remake) (Spring 2016 🏫):
+- [DJMax_Remake](https://github.com/jcs090218/DJMax_Remake) (Spring 2016 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A clone of [DJMax][] implemented in [Processing][].
-- [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 🏫):
+- [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A simple [ASCII][] [third-person shooter (TPS)][TPS] game coded in [C++][].
 View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
-- [Project S](#) (Summur 2015 – Winter 2015 💸):
+- [Project S](#) (Summur 2015 – Winter 2015 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 Action game (ACT) with [RPG][] elements and a locked top-down perspective.
 I worked on the [minimum viable product (MVP)][MVP] of a game under [NDA][] as the sole software engineer.
 The game wasn't completed due to its 7+ years project timeline, so I passed it on to the next team.
-- [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 🏫):
+- [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 <span aria-label="School work"
+data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏅</span>):
 An compact RPG fighting game designed for two players to engage in battles using
 pre-designed archer characters. Developed with the [Starling Framework](https://gamua.com/starling/)
 and [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html). (7 weeks)
-- [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (Fall 2014 🏫):
+- [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (Fall 2014 <span aria-label="School work"
+data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏅</span>):
 A compact visual novel game where the player assumes the role of a detective,
 working to unravel a mystery and identify the murderer. (7 weeks)
-- [Rhythm Punks!](https://www.youtube.com/watch?v=FmsYq4y_W24) (Fall 2014 – Winter 2014 🏫):
+- [Rhythm Punks!](https://www.youtube.com/watch?v=FmsYq4y_W24) (Fall 2014 – Winter 2014 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 Rhythm punks is a competitive two player game that will have the player fighting one another for victory.
 The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
 The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)
@@ -136,7 +164,8 @@ The 3rd stage will be a boss fight, where the player who does the most damage wi
 
 - [OC_Install][] (Summur 2018):
 An univseral software installer by one click.
-- [MagicCardTool](https://gitlab.com/artugam-jcs/MagicCardTool) (Summur 2017 🏫):
+- [MagicCardTool](https://gitlab.com/artugam-jcs/MagicCardTool) (Summur 2017 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A small desktop application that generates an image of a card for the [Magic: The Gathering][] card game.
 Initial attempt to develop a desktop application with [Windows Forms][] using [Visual C#][].
 - [Guild-Emblem-Simulator][] (Fall 2017):
@@ -147,19 +176,24 @@ Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 
 ## AR/VR mobile apps
 
-- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summur 2021 – Spring 2022 💸):
+- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summur 2021 – Spring 2022 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span><span aria-label="This project was featured in CODAworx’s magazine’s Art for Social Change edition"
+data-balloon-pos="up">🏅</span>):
 An [augmented reality][AR] mobile app for learning history of [Monument Avenue](https://en.wikipedia.org/wiki/Monument_Avenue) and [Arthur Ashe Boulevard](https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard).
 This project was featured in [CODAworx][]'s magazine's [Art for Social Change](https://www.codaworx.com/projects/monumental-conversations/) edition.
-- [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 💸):
+- [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival.
-- [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 🏫):
+- [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/en/products/vuforia)
 within the [Unity](https://unity.com/) platform.
 Players can interact with objects in the scene by simply clicking on them.
 
 ## Music apps
 
-- [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 💸):
+- [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
 You can view a demonstration of the core mechanics [here](https://www.youtube.com/watch?v=63iJ5pnfVLQ) (please note that this demo is in its early stages and may appear rough).
 - [Music_Visualizer](https://gitlab.com/jcs-workspace/unity/Music_Visualizer) (Fall 2018):
@@ -179,7 +213,8 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 
 ## Physics
 
-- [ImpulseEngine][] (Fall 2017 🏫):
+- [ImpulseEngine][] (Fall 2017 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 An unofficial port of [Impulse Engine][] written in [Python][].
 This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
@@ -208,7 +243,8 @@ The documentation website for my game framework — [JCSUE][].
 The documentation website for my game framework — [JCSUnity][].
 - [blog@v1](https://github.com/jcs090218/blog/tree/v1) (Fall 2021 – Fall 2022):
 My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
-- [Pixisoft Website](https://pixisoft.gitlab.io/) (Summur 2021 – Winter 2021 💸):
+- [Pixisoft Website](https://pixisoft.gitlab.io/) (Summur 2021 – Winter 2021 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A small web application made using [React.js][], designed for use as a company's homepage.
 - [sherlock-web](https://jcs-profile.com/public/sherlock-web/) (Spring 2021):
 Website to interact [Sherlock API][sherlock-project/api].
@@ -219,12 +255,15 @@ Initial attempt with [DRF][].
 Scripting manual for [JCSUE][] API.
 - [Scripting_Manual_CCosQuick](https://github.com/jcs-legacy/Scripting_Manual_CCosQuick) (Spring 2020):
 Scripting manual for [CCosQuick][] API.
-- [box_server](https://gitlab.com/jcs-workspace/node.js/box_server) (Spring 2020 💸):
+- [box_server](https://gitlab.com/jcs-workspace/node.js/box_server) (Spring 2020 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A straightforward server designed to be compatible with any [WebSocket][] client utilizing the [ws][] library.
 This is a small demo I developed while working at [WISBET][]. There is no documentation as we moved on to the next project afterward.
-- [Unity_DataServer](https://gitlab.com/jcs-workspace/unity/Unity_DataServer) (Winter 2019 💸):
+- [Unity_DataServer](https://gitlab.com/jcs-workspace/unity/Unity_DataServer) (Winter 2019 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A data server and a solution for the missing game data, including [in-app purchase (IAP)][IAP] history, when the game is uninstalled from a mobile device.
-- [sherlock][sherlock-project/sherlock] (Spring 2019 ✨):
+- [sherlock][sherlock-project/sherlock] (Spring 2019 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span>):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
 - [Links_Template](https://github.com/jcs090218/Links_Template) (Spring 2020):
@@ -244,10 +283,12 @@ Scripting manual for [JCSUnity][] API.
 Later separated into [API_Reference_Template][] and subsequently reliant on it.
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
 My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
-- [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summur 2017 🏫):
+- [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summur 2017 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]! 
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the final project from our first web design class at the [Academy of Art University][].
-- [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (Summur 2017 🏫):
+- [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (Summur 2017 <span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
 A website recommends a few boba tea places in San Francisco! 
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
 
@@ -259,7 +300,8 @@ I've actively contributed to diverse package managers such as [Chocolatey][], [S
 Furthermore, I've established my own package repositories for [Scoop][], [Homebrew][], [Personal Package Archive (PPA)][PPA], and more.
 - [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
 Convert [Eask][eask/cli] into [Nix][] expressions.
-- [nixpkgs](https://github.com/NixOS/nixpkgs) (Fall 2022 – Present ✨):
+- [nixpkgs](https://github.com/NixOS/nixpkgs) (Fall 2022 – Present <span aria-label="Contributor"
+data-balloon-pos="up">✨</span>):
 [Nix][] Packages collection & [NixOS][Nix].
 I serve as the package maintainer for a small set of packages.
 - [eask/archives][] (Spring 2022 – Winter 2023):
@@ -268,7 +310,8 @@ This is a factor that enhances the stability of [Eask][eask/cli].
 - [Eask][eask/cli] or [eask/cli][] (Spring 2022 – Winter 2023):
 [CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
 This tool is the successor to [Cask][], offering enhanced stability, cross-platform capability, and extensibility.
-- [Cask][] (Spring 2021 – Spring 2022 🧑‍🔧):
+- [Cask][] (Spring 2021 – Spring 2022 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Project management tool for [Emacs][].
 I'm the maintainer specifically responsible to [Windows][] platform.
 
@@ -284,9 +327,15 @@ Shader languages support for [Visual Studio Code][VSCode].
 - [shader-language-server][] (Summur 2023 – Fall 2023):
 Language server implementation for [ShaderLab][].
 It also provides support for various CG programming languages such as [HLSL][], [GLSL][], [Cg][], and more.
-- [grammarly-language-server][] (Summur 2022 ✨🧑‍🔧🔗):
+- [grammarly-language-server][] (Summur 2022 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span><span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 [Grammarly][] for [VS Code][VSCode].
-- [unofficial-grammarly-language-server][] (Spring 2021 ✨🧑‍🔧🔗):
+- [unofficial-grammarly-language-server][] (Spring 2021 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span><span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Unofficial [Grammarly][] extension.
 Forked from the original repository and maintained a version to ensure compatibility with various editors.
 This language server is now deprecated as the upstream has transitioned to the official API in 2022.
@@ -307,39 +356,55 @@ Pretty print to debug.
 Inspired by the [icecream](https://pypi.org/project/icecream/) package from the [Python][]/[PyPi][] community.
 - [jcs-template](https://github.com/jcs-emacs/jcs-template) (Winter 2023):
 Template module for [jcs-emacs][].
-- [dart-mode](https://github.com/emacsorphanage/dart-mode) (Fall 2023 🧑‍🔧):
+- [dart-mode](https://github.com/emacsorphanage/dart-mode) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 An [Emacs][] mode for the [Dart][] language
-- [php-mode](https://github.com/emacs-php/php-mode) (Fall 2023 🧑‍🔧):
+- [php-mode](https://github.com/emacs-php/php-mode) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 A powerful and flexible [Emacs][] major mode for editing [PHP][] scripts.
-- [elisp-tree-sitter][] (Fall 2023  🧑‍🔧):
+- [elisp-tree-sitter][] (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs Lisp][] bindings for [tree-sitter][].
-- [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 🧑‍🔧):
+- [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
-- [blacken](https://github.com/pythonic-emacs/blacken) (Fall 2023 🧑‍🔧):
+- [blacken](https://github.com/pythonic-emacs/blacken) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Python][] [Black](https://pypi.org/project/black/) for [Emacs][].
-- [anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) (Fall 2023 🧑‍🔧):
+- [anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Code navigation, documentation lookup and completion for [Python][].
-- [company-anaconda](https://github.com/pythonic-emacs/company-anaconda) (Fall 2023 🧑‍🔧):
+- [company-anaconda](https://github.com/pythonic-emacs/company-anaconda) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Anaconda][] backend for [company-mode][].
-- [pythonic](https://github.com/pythonic-emacs/pythonic) (Fall 2023 🧑‍🔧):
+- [pythonic](https://github.com/pythonic-emacs/pythonic) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Utility functions for writing pythonic [emacs][] package.
-- [djangonaut](https://github.com/pythonic-emacs/djangonaut) (Fall 2023 🧑‍🔧):
+- [djangonaut](https://github.com/pythonic-emacs/djangonaut) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs][] minor mode for [Django][].
-- [isortify](https://github.com/pythonic-emacs/isortify) (Fall 2023 🧑‍🔧):
+- [isortify](https://github.com/pythonic-emacs/isortify) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Isort][] for [Emacs][].
-- [pyenv-mode](https://github.com/pythonic-emacs/pyenv-mode) (Fall 2023 🧑‍🔧):
+- [pyenv-mode](https://github.com/pythonic-emacs/pyenv-mode) (Fall 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Integrate [pyenv][] with [python-mode][].
 - [chatgpt-sideline](https://github.com/emacs-openai/chatgpt-sideline) (Fall 2023):
 [Sideline][] support for [chatgpt][emacs-openai/chatgpt].
-- [eglot-uniteai](https://github.com/emacs-openai/eglot-uniteai) (Fall 2023 ✨🧑‍🔧):
+- [eglot-uniteai](https://github.com/emacs-openai/eglot-uniteai) (Fall 2023 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [eglot][] client leveraging [uniteai][].
-- [lsp-uniteai](https://github.com/emacs-openai/lsp-uniteai) (Fall 2023 ✨🧑‍🔧):
+- [lsp-uniteai](https://github.com/emacs-openai/lsp-uniteai) (Fall 2023 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [lsp-mode][] client leveraging [uniteai][].
 - [eglot-shader](https://github.com/shader-ls/eglot-shader) (Fall 2023):
 [eglot][] client leveraging [shader-language-server][].
 - [nerd-icons-buffer-menu](https://github.com/jcs-elpa/nerd-icons-buffer-menu) (Summur 2023):
 Display [nerd icons][nerd-icons] in [buffer-menu][].
-- [on.el](https://github.com/elp-revive/on.el) (Summur 2023 🔗):
+- [on.el](https://github.com/elp-revive/on.el) (Summur 2023 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Hooks for faster [Emacs][] startup.
 - [deepl](https://github.com/emacs-openai/deepl) (Summur 2023):
 [Elisp][] library for the [DeepL][] API.
@@ -372,9 +437,11 @@ Use [GPT-3](https://en.wikipedia.org/wiki/GPT-3) inside [Emacs][].
 This project is inspired by the [Code GPT: Chat & AI Agents](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) from the [VSCode][] community
 - [openai](https://github.com/emacs-openai/openai) (Spring 2023):
 [Elisp][] library for the [OpenAI][] API.
-- [espuds](https://github.com/ecukes/espuds) (Spring 2023 🧑‍🔧):
+- [espuds](https://github.com/ecukes/espuds) (Spring 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Common step definitions for [Ecukes][].
-- [ecukes][] (Spring 2023 🧑‍🔧):
+- [ecukes][] (Spring 2023 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Cucumber for [Emacs][].
 - [sound-async](https://github.com/jcs-elpa/sound-async) (Winter 2022):
 Play sound asynchronously.
@@ -390,7 +457,9 @@ Package dependencies management.
 Refresh `vc-state` in certain events for better user experience.
 - [flycheck-deno](https://github.com/flycheck/flycheck-deno) (Winter 2022):
 [Flycheck][] for [deno-lint](https://docs.deno.com/runtime/manual/tools/linter).
-- [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022 ✨🧑‍🔧):
+- [ace-link-dashboard](https://github.com/emacs-dashboard/ace-link-dashboard) (Winter 2022 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
 - [easky](https://github.com/emacs-eask/easky) (Winter 2022):
 Control [Eask CLI][eask/cli] in [Emacs][].
@@ -429,7 +498,8 @@ Find file in project or current directory.
 Environment variable management.
 - [execrun](https://github.com/jcs-elpa/execrun) (Winter 2022):
 Run through [compilation-mode][].
-- [editorconfig-emacs](https://github.com/editorconfig/editorconfig-emacs) (Fall 2022 🧑‍🔧):
+- [editorconfig-emacs](https://github.com/editorconfig/editorconfig-emacs) (Fall 2022 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [EditorConfig][] plugin for [Emacs][].
 - [msgu](https://github.com/jcs-elpa/msgu) (Fall 2022):
 Utility functions help output the messages.
@@ -437,27 +507,35 @@ Utility functions help output the messages.
 Useful functions to interact with [profiler](https://www.gnu.org/software/emacs/manual/html_node/elisp/Profiling.html).
 - [sideline-color](https://github.com/emacs-sideline/sideline-color) (Fall 2022):
 Show color information with [sideline][].
-- [git-gutter](https://github.com/emacsorphanage/git-gutter) (Fall 2022 🧑‍🔧):
+- [git-gutter](https://github.com/emacsorphanage/git-gutter) (Fall 2022 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs][] port of [GitGutter][] which is [Sublime Text][] Plugin.
-- [company-autoconf](https://github.com/elp-revive/company-autoconf) (Fall 2022 🔗):
+- [company-autoconf](https://github.com/elp-revive/company-autoconf) (Fall 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Completion backend for editing [autoconf][] files in [Emacs][].
 - [company-kaomoji](https://github.com/jcs-elpa/company-kaomoji) (Fall 2022):
 [Company][] backend for [Kaomoji][].
-- [kaomoji.el](https://github.com/elp-revive/kaomoji.el) (Fall 2022 🔗):
+- [kaomoji.el](https://github.com/elp-revive/kaomoji.el) (Fall 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Input [kaomoji][] (顔文字) easily! ┌（┌ ＾o＾）┐ﾎﾓｫ
-- [company-makefile](https://github.com/elp-revive/company-makefile) (Fall 2022 🔗):
+- [company-makefile](https://github.com/elp-revive/company-makefile) (Fall 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 [Emacs][] [company][] completion backend for [GNU Makefiles][Make].
-- [company-cmd](https://github.com/elp-revive/company-cmd) (Fall 2022 🔗):
+- [company-cmd](https://github.com/elp-revive/company-cmd) (Fall 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 [Emacs][] [company-mode][] backend for windows [DOS][]/[batch][] scripts.
-- [company-powershell](https://github.com/elp-revive/company-powershell) (Fall 2022 🔗):
+- [company-powershell](https://github.com/elp-revive/company-powershell) (Fall 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Autocompletion backend for [powershell-mode][] in [Emacs][].
-- [company-dockerfile](https://github.com/elp-revive/company-dockerfile) (Fall 2022 🔗):
+- [company-dockerfile](https://github.com/elp-revive/company-dockerfile) (Fall 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Add [dockerfile][Docker] keywords to [company-mode][] keywords alist.
 - [ts-docstr](https://github.com/emacs-vs/ts-docstr) (Fall 2022):
 A document string minor mode using [tree-sitter][].
 - [prt](https://github.com/jcs-elpa/prt) (Fall 2022):
 Progress Reporter Library.
-- [fussy](https://github.com/jojojames/fussy) (Summur 2022 🧑‍🔧):
+- [fussy](https://github.com/jojojames/fussy) (Summur 2022 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs][] [completion-style][] leveraging [flx][emacs-flx].
 - [vsc-multiple-cursors](https://github.com/emacs-vs/vsc-multiple-cursors) (Summur 2022):
 [multiple-cursors][] integration behave like [VSCode][].
@@ -471,19 +549,26 @@ Show [flymake][] errors with [sideline][].
 Show [flycheck][] errors with [sideline][].
 - [sideline][] (Summur 2022):
 Show information on the side.
-- [gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) (Summur 2022 🧑‍🔧):
+- [gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) (Summur 2022 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 An [Emacs][] package to get [GDScript][] support and syntax highlighting.
-- [javap-mode](https://github.com/elp-revive/javap-mode) (Summur 2022 🔗):
+- [javap-mode](https://github.com/elp-revive/javap-mode) (Summur 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Show the ouput of [javap](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html) when opening a jvm class file in [Emacs][].
-- [company-coffee](https://github.com/elp-revive/company-coffee) (Summur 2022 🔗):
+- [company-coffee](https://github.com/elp-revive/company-coffee) (Summur 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 [Emacs][] add [coffee][CoffeeScript] keywords to `company-keywords` for completion.
-- [company-c-headers](https://github.com/elp-revive/company-c-headers) (Summur 2022 🔗):
+- [company-c-headers](https://github.com/elp-revive/company-c-headers) (Summur 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Auto-completion for [C][]/[C++][] headers using [Company][].
-- [buffer-move](https://github.com/elp-revive/buffer-move) (Summur 2022 🔗):
+- [buffer-move](https://github.com/elp-revive/buffer-move) (Summur 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 easily swap buffers.
-- [noflet](https://github.com/elp-revive/noflet) (Summur 2022 🔗):
+- [noflet](https://github.com/elp-revive/noflet) (Summur 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 nic's overriding flet, for fleting functions for the purpose of decorating them.
-- [eping](https://github.com/elp-revive/eping) (Summur 2022 🔗):
+- [eping](https://github.com/elp-revive/eping) (Summur 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 An [Emacs][] package that checks internet connectivity using [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)).
 - [flymake-eask](https://github.com/flymake/flymake-eask) (Summur 2022):
 [Eask][eask/cli] support in [Flymake][].
@@ -504,9 +589,12 @@ Minor mode accomplish editing experience in [Visual Studio][].
 - [message-clean-mode](https://github.com/jcs-elpa/message-clean-mode) (Spring 2022):
 Keep messages buffer clean.
 For an [elisp][] developer, maintaining a clean `*Messages*` buffer is crucial for effectively tracking debug log information.
-- [fontawesome](https://github.com/emacsorphanage/fontawesome) (Spring 2022 🧑‍🔧):
+- [fontawesome](https://github.com/emacsorphanage/fontawesome) (Spring 2022 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [FontAwesome][] utility.
-- [quick-peek](https://github.com/emacs-vs/quick-peek) (Spring 2022 🔗🧑‍🔧):
+- [quick-peek](https://github.com/emacs-vs/quick-peek) (Spring 2022 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span><span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Quick-peek inline-window library for [Emacs][].
 - [vs-revbuf](https://github.com/emacs-vs/vs-revbuf) (Spring 2022):
 Revert buffers like [Visual Studio][].
@@ -539,7 +627,8 @@ Fuzzy matching algorithm based on Sublime Text's string search.
 Build [sublime_fuzzy](https://github.com/Schlechtwetterfront/fuzzy-rs) in [Rust][] to Emacs loadable binaries.
 - [github-tags](https://github.com/jcs-elpa/github-tags) (Fall 2021):
 Retrieve tags information through [GitHub][] API.
-- [company-box](https://github.com/elp-revive/company-box) (Fall 2021 🔗):
+- [company-box](https://github.com/elp-revive/company-box) (Fall 2021 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 A [company][] front-end with icons.
 Forked due to its challenging usability on [Windows][], incorporating numerous bug fixes, enhanced performance, and other improvements.
 - [ts-fold][] (Fall 2021):
@@ -579,7 +668,8 @@ Log message with clickable links to context.
 [Flycheck][] support for [LanguageTool][].
 - [auth-source-keytar](https://github.com/emacs-grammarly/auth-source-keytar) (Summur 2021):
 Integrate [auth-source][] with [keytar][].
-- [applescript-mode](https://github.com/emacsorphanage/applescript-mode) (Spring 2021 🧑‍🔧):
+- [applescript-mode](https://github.com/emacsorphanage/applescript-mode) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs][] mode for editing [AppleScript][].
 - [send-to-osx-grammarly](https://github.com/emacs-grammarly/send-to-osx-grammarly) (Spring 2021):
 An [Emacs][] extension to send a text to/from [Grammarly][].
@@ -587,21 +677,29 @@ An [Emacs][] extension to send a text to/from [Grammarly][].
 [eglot][] client leveraging [grammarly-language-server][].
 - [lsp-grammarly][] (Spring 2021):
 [lsp-mode][] client leveraging [grammarly-language-server][].
-- [flycheck-google-cpplint](https://github.com/flycheck/flycheck-google-cpplint) (Spring 2021 🧑‍🔧):
+- [flycheck-google-cpplint](https://github.com/flycheck/flycheck-google-cpplint) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Google C++ Style checker][cpplint] for [Flycheck][].
-- [flymake-google-cpplint](https://github.com/flymake/flymake-google-cpplint) (Spring 2021 🧑‍🔧):
+- [flymake-google-cpplint](https://github.com/flymake/flymake-google-cpplint) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Help to comply with the [Google C++ Style Guide][cpplint] on [Emacs][] with [flymake][].
-- [flymake-cppcheck](https://github.com/flymake/flymake-cppcheck) (Spring 2021 🧑‍🔧):
+- [flymake-cppcheck](https://github.com/flymake/flymake-cppcheck) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Cppcheck][] for [Emacs][] with [flymake][].
-- [emacs-flymake-perlcritic](https://github.com/flymake/emacs-flymake-perlcritic) (Spring 2021 🧑‍🔧):
+- [emacs-flymake-perlcritic](https://github.com/flymake/emacs-flymake-perlcritic) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Run [Perl::Critic][] static analysis "While U Type" via [Emacs][] [Flymake][].
-- [flymake-phpcs](https://github.com/flymake/flymake-phpcs) (Spring 2021 🧑‍🔧):
+- [flymake-phpcs](https://github.com/flymake/flymake-phpcs) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [PHP CodeSniffer][PHP_CodeSniffer] for [Emacs][] with [flymake][].
-- [emacs-flymake-phpcs](https://github.com/flymake/emacs-flymake-phpcs) (Spring 2021 🧑‍🔧):
+- [emacs-flymake-phpcs](https://github.com/flymake/emacs-flymake-phpcs) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Glue to bind [Emacs][] [Flymake][] mode to [PHP_CodeSniffer][] static analysis.
-- [emacs-flymake-cursor](https://github.com/flymake/emacs-flymake-cursor) (Spring 2021 🧑‍🔧):
+- [emacs-flymake-cursor](https://github.com/flymake/emacs-flymake-cursor) (Spring 2021 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Display [flymake][] error for the current line on the [minibuffer][].
-- [fuzzy-el](https://github.com/auto-complete/fuzzy-el) (Spring 2021 – Present 🧑‍🔧):
+- [fuzzy-el](https://github.com/auto-complete/fuzzy-el) (Spring 2021 – Present <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Fuzzy matching utilities designed for [GNU Emacs][Emacs], originally created for [auto-complete][].
 - [keytar][] (Spring 2021):
 [Emacs Lisp][] interface for [keytar-cli][].
@@ -623,9 +721,11 @@ Preview anything at point.
 Visualizer follow mode for [undo-tree][].
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
 Emacs [quelpa][] handler for leaf.
-- [quelpa][] (Fall 2020 – Present 🧑‍🔧):
+- [quelpa][] (Fall 2020 – Present <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
-- [auto-complete][] (Fall 2020 – Present 🧑‍🔧):
+- [auto-complete][] (Fall 2020 – Present <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 An Intelligent auto-completion extension for [Emacs][].
 - [un-mini](https://github.com/jcs-legacy/un-mini) (Fall 2020):
 Automatically close [minibuffer][] after it loses focus.
@@ -636,19 +736,26 @@ Preview the current [ivy][] file selection.
 Inspired by [helm-describe-modes](https://github.com/emacs-helm/helm-describe-modes).
 - [flymake-grammarly](https://github.com/emacs-grammarly/flymake-grammarly) (Fall 2020):
 [Flymake][] support for [Grammarly][].
-- [lsp-focus](https://github.com/emacs-lsp/lsp-focus) (Fall 2020 🧑‍🔧):
+- [lsp-focus](https://github.com/emacs-lsp/lsp-focus) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [lsp-mode][] ❤️ [focus][].
-- [helm-lsp](https://github.com/emacs-lsp/helm-lsp) (Fall 2020 🧑‍🔧):
+- [helm-lsp](https://github.com/emacs-lsp/helm-lsp) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [lsp-mode][] ❤️ [helm][].
-- [lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) (Fall 2020 🧑‍🔧):
+- [lsp-ivy](https://github.com/emacs-lsp/lsp-ivy) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [lsp-mode][] ❤️ [ivy][].
-- [lsp-origami](https://github.com/emacs-lsp/lsp-origami) (Fall 2020 🧑‍🔧):
+- [lsp-origami](https://github.com/emacs-lsp/lsp-origami) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [lsp-mode][] ❤️ [origami.el][].
-- [dap-mode](https://github.com/emacs-lsp/dap-mode) (Fall 2020 🧑‍🔧):
+- [dap-mode](https://github.com/emacs-lsp/dap-mode) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs][] ❤️ [Debug Adapter Protocol][dap].
-- [lsp-ui](https://github.com/emacs-lsp/lsp-ui) (Fall 2020 🧑‍🔧):
+- [lsp-ui](https://github.com/emacs-lsp/lsp-ui) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 UI integrations for [lsp-mode][].
-- [lsp-mode](https://github.com/emacs-lsp/lsp-mode) (Fall 2020 🧑‍🔧):
+- [lsp-mode](https://github.com/emacs-lsp/lsp-mode) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs][] client/library for the [Language Server Protocol][lsp].
 - [license-templates](https://github.com/jcs-elpa/license-templates) (Fall 2020):
 Create LICENSE using [GitHub][] API.
@@ -660,21 +767,25 @@ Automatically truncate lines for markup languages.
 Preivew cursor movement while executing command interactively.
 - [impatient-showdown](https://github.com/jcs-elpa/impatient-showdown) (Fall 2020):
 Preview markdown buffer live over [HTTP][].
-- [auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) (Fall 2020 🧑‍🔧):
+- [auto-highlight-symbol](https://github.com/elp-revive/auto-highlight-symbol) (Fall 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Automatic highlighting current symbol minor mode.
 - [better-scroll](https://github.com/jcs-elpa/better-scroll) (Fall 2020):
 Improve user experience when scrolling window.
 - [fill-page](https://github.com/jcs-elpa/fill-page) (Fall 2020):
 Fill the buffer so you don't see empty lines at the end.
-- [melpa][] (Fall 2020 ✨):
+- [melpa][] (Fall 2020 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span>):
 Recipes and build machinery for the biggest [Emacs][] package repo.
 [MELPA][] stands for "[Milkypostman][]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
 - [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
 Theme styled after undersea imagery.
-- [origami.el][] (Summur 2020 🔗):
+- [origami.el][] (Summur 2020 <span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 A folding minor mode for [Emacs][].
 This project is a [Regular Expression][regex]-based solution, but it became deprecated following the creation of [ts-fold][].
-- [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present 🧑‍🔧):
+- [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Visual Popup Interface Library for [Emacs][]. It's used with [auto-complete][].
 - [transwin](https://github.com/jcs-elpa/transwin) (Summur 2020):
 Make window/frame transparent.
@@ -684,22 +795,28 @@ Make window/frame transparent.
 [Ivy][] interface to use [searcher][].
 - [searcher][] (Summur 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
-- [quickrun](https://github.com/emacsorphanage/quickrun) (Summur 2020 🧑‍🔧):
+- [quickrun](https://github.com/emacsorphanage/quickrun) (Summur 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Run command quickly. This packages is inspired [quickrun.vim](https://www.vim.org/scripts/script.php?script_id=3146).
-- [zoom-window](https://github.com/emacsorphanage/zoom-window) (Spring 2020 🧑‍🔧):
+- [zoom-window](https://github.com/emacsorphanage/zoom-window) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Zoom and Unzoom window.
-- [sound-wav](https://github.com/emacsorphanage/sound-wav) (Spring 2020 🧑‍🔧):
+- [sound-wav](https://github.com/emacsorphanage/sound-wav) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Play [wav][] file.
 - [emp](https://github.com/jcs-elpa/emp) (Spring 2020):
 [Emacs][] Music Playlist.
 - [manage-minor-mode-table](https://github.com/jcs-elpa/manage-minor-mode-table) (Spring 2020):
 Manage minor-modes in table.
 Expands on the functionality of the package [manage-minor-mode][].
-- [helm-themes](https://github.com/emacsorphanage/helm-themes) (Spring 2020 🧑‍🔧):
+- [helm-themes](https://github.com/emacsorphanage/helm-themes) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [Emacs][] theme selection with [helm][] interface.
-- [helm-gtags](https://github.com/emacsorphanage/helm-gtags) (Spring 2020 🧑‍🔧):
+- [helm-gtags](https://github.com/emacsorphanage/helm-gtags) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 [GNU GLOBAL](https://www.gnu.org/software/global/) [helm][] interface.
-- [helm-ag](https://github.com/emacsorphanage/helm-ag) (Spring 2020 🧑‍🔧):
+- [helm-ag](https://github.com/emacsorphanage/helm-ag) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 The silver searcher with [helm][] interface.
 - [emoji-github](https://github.com/jcs-elpa/emoji-github) (Spring 2020):
 Display list of [GitHub][]'s emoji. (cheat sheet)
@@ -707,13 +824,17 @@ Display list of [GitHub][]'s emoji. (cheat sheet)
 Wrap the beginning and the end of buffer.
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Spring 2020):
 Display files/directories in current directory on [Dashboard][emacs-dashboard].
-- [manage-minor-mode](https://github.com/emacsorphanage/manage-minor-mode) (Spring 2020 🧑‍🔧):
+- [manage-minor-mode](https://github.com/emacsorphanage/manage-minor-mode) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Manage your minor-mode on the dedicated interface buffer.
-- [popwin](https://github.com/emacsorphanage/popwin) (Spring 2020 🧑‍🔧):
+- [popwin](https://github.com/emacsorphanage/popwin) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Popup Window Manager for [Emacs][].
-- [undohist](https://github.com/emacsorphanage/undohist) (Spring 2020 🧑‍🔧):
+- [undohist](https://github.com/emacsorphanage/undohist) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Persistent Undo History for [GNU Emacs][Emacs].
-- [yascroll](https://github.com/emacsorphanage/yascroll) (Spring 2020 🧑‍🔧):
+- [yascroll](https://github.com/emacsorphanage/yascroll) (Spring 2020 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 Yet Another Scroll Bar Mode.
 - [company-quickhelp-terminal](https://github.com/jcs-legacy/company-quickhelp-terminal) (Winter 2019):
 Terminal support for [company-quickhelp](https://github.com/company-mode/company-quickhelp).
@@ -756,9 +877,11 @@ Insert [alt codes][] using meta key.
 Major mode for editing [Haxe][] files.
 - [jayces-mode](https://github.com/jayces-lang/jayces-mode) (Fall 2019):
 Major mode for editing [JayCeS][] file.
-- [csharp-mode](https://github.com/emacs-csharp/csharp-mode) (Fall 2019 ✨):
+- [csharp-mode](https://github.com/emacs-csharp/csharp-mode) (Fall 2019 <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 A [major-mode][] for editing [C#][] in [emacs][].
-- [dashboard][emacs-dashboard] (Summur 2019 – Present 🧑‍🔧):
+- [dashboard][emacs-dashboard] (Summur 2019 – Present <span aria-label="Maintainer"
+data-balloon-pos="up">🧑‍🔧</span>):
 An extensible Emacs startup screen showing you what’s most important.
 - [indent-control](https://github.com/jcs-elpa/indent-control) (Summur 2019):
 Generic control the indentation level for each mode.
@@ -846,7 +969,9 @@ Automatically locate the latest Emacs' version and update the code through a [pu
 Automatically locate the most recent Emacs' snapshot and update the code through a [pull request (PR)][PR].
 - [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023):
 Install [Lem][] for [GitHub Actions][] workflow.
-- [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 ✨🔗):
+- [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Forked"
+data-balloon-pos="up">🔗</span>):
 Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summur 2022):
 [Github action][GHA] which installs a given [Emacs][] version.
@@ -877,9 +1002,11 @@ My personal [lem][] configuration files.
 Preview `GameObject` using preview window.
 - [8comic](https://github.com/jcs-elpa/8comic) (Fall 2020):
 Use [8comic][] to read manga.
-- [UCTooth](https://github.com/jcs090218/UCTooth) (Summur 2020 💸):
+- [UCTooth](https://github.com/jcs090218/UCTooth) (Summur 2020 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
-- [CCosQuick][] (Winter 2019 – Summur 2020 💸):
+- [CCosQuick][] (Winter 2019 – Summur 2020 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 Prototype your game easily with component driven library built on top of Cocos Creator.
 - [swagger-it](https://github.com/jcs090218/swagger-it) (Spring 2020):
 Automatically generate the [swagger.io][] yaml file for your project.
@@ -904,7 +1031,8 @@ No reason to create this package anymore due to the advent of the [Language Serv
 - [vlc-player](https://github.com/jcs-legacy/vlc-player) (Winter 2019):
 Play video using [VLC][].
 I can't recall the precise reason for abandoning this. My best assumption is that [VLC][] doesn't support the necessary options for stopping the video, prompting me to opt for [ffmpeg][] instead.
-- [JCSEgret][] (Winter 2018 💸):
+- [JCSEgret][] (Winter 2018 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
 A library designed for efficient game production using the [Egret][] engine as its foundation.
 The project was initiated during the course of work but is no longer in use as the [Egret][] engine became obsolete following their bankruptcy.
 
@@ -921,6 +1049,9 @@ The project was initiated during the course of work but is no longer in use as t
 [WISBET]: http://www.wisbet.co/
 [Novaby]: https://www.novaby.com/
 [CODAworx]: https://www.codaworx.com/
+[Hasbro]: https://shop.hasbro.com/
+[GDC]: https://gdconf.com/
+[E3 CGC]: https://e3expo.com/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax

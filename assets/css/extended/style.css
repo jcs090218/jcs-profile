@@ -7,3 +7,18 @@
 	width: 25%;
 	margin: auto;
 }
+
+/* Balloon CSS */
+
+.dark [aria-label][data-balloon-pos]:after {
+  color: #024;
+  background: #DEF;
+}
+
+.dark [aria-label][data-balloon-pos]:before {
+  border-top-color: #DEF;
+}
+
+.dark [aria-label][data-balloon-pos][data-balloon-pos="down"]:before {
+  border-bottom-color: #DEF;
+}
