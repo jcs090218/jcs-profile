@@ -666,6 +666,9 @@ Automatic highlighting current symbol minor mode.
 Improve user experience when scrolling window.
 - [fill-page](https://github.com/jcs-elpa/fill-page) (Fall 2020):
 Fill the buffer so you don't see empty lines at the end.
+- [melpa][] (Fall 2020 ✨):
+Recipes and build machinery for the biggest [Emacs][] package repo.
+[MELPA][] stands for "[Milkypostman][]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
 - [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
 Theme styled after undersea imagery.
 - [origami.el][] (Summur 2020 🔗):
@@ -908,6 +911,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 <!-- Links -->
 
+[Milkypostman]: https://github.com/milkypostman
 [Rileran]: https://github.com/Rileran
 
 [AAU]: https://www.academyart.edu/
@@ -1055,6 +1059,7 @@ The project was initiated during the course of work but is no longer in use as t
 [jcs-profile]: https://github.com/jcs090218/jcs-profile/
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
+[ELPA]: https://www.emacswiki.org/emacs/ELPA
 [MELPA]: https://melpa.org/
 [melpazoid]: https://github.com/riscy/melpazoid
 [searcher]: https://github.com/jcs-elpa/searcher
