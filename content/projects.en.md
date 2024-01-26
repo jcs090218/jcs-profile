@@ -429,6 +429,8 @@ Find file in project or current directory.
 Environment variable management.
 - [execrun](https://github.com/jcs-elpa/execrun) (Winter 2022):
 Run through [compilation-mode][].
+- [editorconfig-emacs](https://github.com/editorconfig/editorconfig-emacs) (Fall 2022 🧑‍🔧):
+[EditorConfig][] plugin for [Emacs][].
 - [msgu](https://github.com/jcs-elpa/msgu) (Fall 2022):
 Utility functions help output the messages.
 - [toggle-profiler](https://github.com/jcs-elpa/toggle-profiler) (Fall 2022):
@@ -469,6 +471,8 @@ Show [flymake][] errors with [sideline][].
 Show [flycheck][] errors with [sideline][].
 - [sideline][] (Summur 2022):
 Show information on the side.
+- [gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) (Summur 2022 🧑‍🔧):
+An [Emacs][] package to get [GDScript][] support and syntax highlighting.
 - [javap-mode](https://github.com/elp-revive/javap-mode) (Summur 2022 🔗):
 Show the ouput of [javap](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html) when opening a jvm class file in [Emacs][].
 - [company-coffee](https://github.com/elp-revive/company-coffee) (Summur 2022 🔗):
@@ -964,6 +968,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Qt Jami]: https://wiki.qt.io/Qt_Jambi
 [Apache Mina]: https://mina.apache.org/
 [swagger.io]: https://swagger.io/
+[EditorConfig]: https://editorconfig.org/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
@@ -984,6 +989,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Dart]: https://dart.dev/
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
+[GDScript]: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
 [Haxe]: https://haxe.org/
 [JayCeS]: https://github.com/jayces-lang/jayces
 [Java]: https://www.java.com/en/
