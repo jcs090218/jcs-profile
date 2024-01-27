@@ -1006,11 +1006,19 @@ Use [8comic][] to read manga.
 - [UCTooth](https://github.com/jcs090218/UCTooth) (Summur 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
+- [swagger-it](https://github.com/jcs090218/swagger-it) (Spring 2020):
+Automatically generate the [swagger.io][] yaml file for your project.
 - [CCosQuick][] (Winter 2019 – Summur 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Prototype your game easily with component driven library built on top of Cocos Creator.
-- [swagger-it](https://github.com/jcs090218/swagger-it) (Spring 2020):
-Automatically generate the [swagger.io][] yaml file for your project.
+- [MGDP][] (Fall 2019 – Winter 2019):
+[Quaver][] is essentially a [DJMax][] clone; hence, I'm uncertain whether to proceed with this project.
+  - [Client](https://gitlab.com/MGDP/Client) (closed-source):
+  Utilizing the [Unity][] Engine, this game client aims to implement the gameplay aspect of the [MGDP][] project.
+  - [DevTool](https://gitlab.com/MGDP/DevTool) (closed-source):
+  A simple desktop application assists me in generating music archive, which are then deployed on the server.
+  - [DevelopmentKit](https://www.youtube.com/watch?v=II5uaw-S6u4) (closed source):
+  Empower [MGDP][] game developers with the capability to create their own music games and publish them on the [MGDP][] platform.
 - [JCSUE][] (Fall 2017):
 Quickly construct your game by utilizing multiple components and predefined default settings.
 - [jcs-vim](https://github.com/jcs090218/jcs-vim) (Winter 2016):
@@ -1029,13 +1037,6 @@ I'm uncertain about its current value, as it could potentially be substituted wi
 - [organize-imports-python](https://github.com/jcs-elpa/organize-imports-python) (Spring 2021):
 Automatically organize imports in [Python][] code.
 No reason to create this package anymore due to the advent of the [Language Server Protocol][LSP].
-- [MGDP][] (Fall 2019 – Winter 2019):
-  - [Client](https://gitlab.com/MGDP/Client) (closed-source):
-  Utilizing the [Unity][] Engine, this game client aims to implement the gameplay aspect of the [MGDP][] project.
-  - [DevTool](https://gitlab.com/MGDP/DevTool) (closed-source):
-  A simple desktop application assists me in generating music archive, which are then deployed on the server.
-  - [DevelopmentKit](https://www.youtube.com/watch?v=II5uaw-S6u4) (closed source):
-  Empower [MGDP][] game developers with the capability to create their own music games and publish them on the [MGDP][] platform.
 - [vlc-player](https://github.com/jcs-legacy/vlc-player) (Winter 2019):
 Play video using [VLC][].
 I can't recall the precise reason for abandoning this. My best assumption is that [VLC][] doesn't support the necessary options for stopping the video, prompting me to opt for [ffmpeg][] instead.
@@ -1067,6 +1068,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
 [MGDP]: https://gitlab.com/MGDP
+[Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
 
 [Linux]: https://en.wikipedia.org/wiki/Linux
