@@ -11,7 +11,7 @@ This page lists some of my projects, work, and school projects.
 - ✨ = Contributor
 - 🧑‍🔧 = Maintainer
 - 🔗 = Forked projects
-- 🏅 = Reward
+- 🏅 = Reward or Achievement
 
 The rest are mostly open-source projects.
 
@@ -193,7 +193,8 @@ Players can interact with objects in the scene by simply clicking on them.
 ## Music apps
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Achieved a total of 812,970 USD on the 嘖嘖zeczec donation platform"
+data-balloon-pos="up">🏅</span>):
 An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
 You can view a demonstration of the core mechanics [here](https://www.youtube.com/watch?v=63iJ5pnfVLQ) (please note that this demo is in its early stages and may appear rough).
 - [Music_Visualizer](https://gitlab.com/jcs-workspace/unity/Music_Visualizer) (Fall 2018):
@@ -1047,7 +1048,11 @@ The project was initiated during the course of work but is no longer in use as t
 [T-NEXUS]: https://github.com/T-nexus-Studio
 [GameBarley]: http://barley.games/
 [WISBET]: http://www.wisbet.co/
+[Meteo]: https://meteo.com.tw/
 [Novaby]: https://www.novaby.com/
+[嘖嘖]: https://www.zeczec.com/
+[zeczec]: https://www.zeczec.com/
+[zeczec/meteo]: https://www.zeczec.com/projects/meteo
 [CODAworx]: https://www.codaworx.com/
 [Hasbro]: https://shop.hasbro.com/
 [GDC]: https://gdconf.com/
