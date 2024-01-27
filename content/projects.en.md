@@ -1029,6 +1029,13 @@ I'm uncertain about its current value, as it could potentially be substituted wi
 - [organize-imports-python](https://github.com/jcs-elpa/organize-imports-python) (Spring 2021):
 Automatically organize imports in [Python][] code.
 No reason to create this package anymore due to the advent of the [Language Server Protocol][LSP].
+- [MGDP][] (Fall 2019 – Winter 2019):
+  - [Client](https://gitlab.com/MGDP/Client) (closed-source):
+  Utilizing the [Unity][] Engine, this game client aims to implement the gameplay aspect of the [MGDP][] project.
+  - [DevTool](https://gitlab.com/MGDP/DevTool) (closed-source):
+  A simple desktop application assists me in generating music archive, which are then deployed on the server.
+  - [DevelopmentKit](https://www.youtube.com/watch?v=II5uaw-S6u4) (closed source):
+  Empower [MGDP][] game developers with the capability to create their own music games and publish them on the [MGDP][] platform.
 - [vlc-player](https://github.com/jcs-legacy/vlc-player) (Winter 2019):
 Play video using [VLC][].
 I can't recall the precise reason for abandoning this. My best assumption is that [VLC][] doesn't support the necessary options for stopping the video, prompting me to opt for [ffmpeg][] instead.
@@ -1036,7 +1043,6 @@ I can't recall the precise reason for abandoning this. My best assumption is tha
 data-balloon-pos="up">💸</span>):
 A library designed for efficient game production using the [Egret][] engine as its foundation.
 The project was initiated during the course of work but is no longer in use as the [Egret][] engine became obsolete following their bankruptcy.
-
 
 <!-- Links -->
 
@@ -1060,6 +1066,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
+[MGDP]: https://gitlab.com/MGDP
 [Magic: The Gathering]: https://magic.wizards.com/en
 
 [Linux]: https://en.wikipedia.org/wiki/Linux
