@@ -81,6 +81,10 @@ body:not(.dark) .post-content a:hover {
     margin: 0.5rem 0;
 }
 
+.post-content ul ul {
+    margin-bottom: 0px;
+}
+
 /* Footer */
 
 .page-footer .pagination .prev {
