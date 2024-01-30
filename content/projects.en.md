@@ -284,6 +284,9 @@ Scripting manual for [JCSUnity][] API.
 Later separated into [API_Reference_Template][] and subsequently reliant on it.
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
 My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
+- [RandomCookMenu](https://gitlab.com/jcs-workspace/php/RandomCookMenu) (Winter 2017):
+A small application that enables you to create cooking menus and randomly selects one for you.
+This was originally designed for my mom, who often struggled with deciding what to cook every day.
 - [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summur 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]! 
