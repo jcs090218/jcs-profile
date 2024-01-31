@@ -347,6 +347,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [copilot.el](https://github.com/copilot-emacs/copilot.el) (Spring 2024 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span>):
+An unofficial [Copilot][] plugin for [Emacs][].
 - [rainbow-csv](https://github.com/emacs-vs/rainbow-csv) (Winter 2023):
 🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
 - [qss-mode](https://github.com/jcs-elpa/qss-mode) (Winter 2023):
@@ -1323,6 +1326,7 @@ The project was initiated during the course of work but is no longer in use as t
 [WAV]: https://en.wikipedia.org/wiki/WAV
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
 
+[Copilot]: https://github.com/features/copilot
 [OpenAI]: https://openai.com/
 [ChatGPT]: https://chat.openai.com/
 [DALL-E]: https://openai.com/dall-e-2
