@@ -56,9 +56,7 @@ The project's goal is to gain insights into the construction of game engines, un
 
 - [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
 A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
-- [FlxCs](https://github.com/jcs090218/FlxCs) (Fall 2023):
-Rewrite [emacs-flx][] in [C#][]. Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
-- [Unity.Mx](https://github.com/jcs090218/Unity.Mx) (Fall 2023):
+- [Unity.Mx][] (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 <span aria-label="Professional work"
@@ -202,6 +200,12 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 ## Algorithms
 
+- [flx-ts](https://github.com/jcs090218/flx-ts) (Spring 2024):
+Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
+- [FlxCs](https://github.com/jcs090218/FlxCs) (Fall 2023):
+Rewrite [emacs-flx][] in [C#][].
+Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
+This is utilized within the [Unity.Mx][] tool.
 - [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summur 2023):
 Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
 
@@ -1158,6 +1162,7 @@ The project was initiated during the course of work but is no longer in use as t
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
 [JSON]: https://www.json.org/json-en.html
+[TypeScript]: https://www.typescriptlang.org/
 [PHP]: https://www.php.net/
 [Qt Style Sheets]: https://doc.qt.io/qt-6/stylesheet-reference.html
 [XML]: https://en.wikipedia.org/wiki/XML
@@ -1188,6 +1193,7 @@ The project was initiated during the course of work but is no longer in use as t
 [32feet]: https://github.com/inthehand/32feet
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
+[Unity.Mx]: https://github.com/jcs090218/Unity.Mx
 [JCSUE]: https://github.com/jcs090218/JCSUE
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSGodot]: https://github.com/jcs090218/JCSGodot
