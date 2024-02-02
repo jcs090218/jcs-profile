@@ -51,6 +51,8 @@ data-balloon-pos="up">🏫</span>):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
 It includes a resource manager with secure decoding and encoding algorithms.
 The project's goal is to gain insights into the construction of game engines, understand their architecture, and apply this knowledge to other modern game engines.
+- [JCSStarling][] (Spring 2015):
+This is a programming interface layered on top of the [Starling][] framework, transforming the event-driven system into a component-driven system.
 
 ## Unity C# stuff
 
@@ -146,7 +148,7 @@ The game wasn't completed due to its 7+ years project timeline, so I passed it o
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span>):
 An compact RPG fighting game designed for two players to engage in battles using
-pre-designed archer characters. Developed with the [Starling Framework](https://gamua.com/starling/)
+pre-designed archer characters. Developed with the [Starling][] framework.
 and [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html). (7 weeks)
 - [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (Fall 2014 <span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
@@ -1100,6 +1102,7 @@ The project was initiated during the course of work but is no longer in use as t
 [.NET]: https://en.wikipedia.org/wiki/.NET
 [Visual C#]: https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022
 [Windows Forms]: https://learn.microsoft.com/en-us/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-8.0
+[Starling]: https://gamua.com/starling/
 [Cocos2d-x]: https://www.cocos.com/en/cocos2d-x
 [Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
@@ -1194,6 +1197,7 @@ The project was initiated during the course of work but is no longer in use as t
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [Unity.Mx]: https://github.com/jcs090218/Unity.Mx
+[JCSStarling]: https://gitlab.com/jcs-workspace/as3/JCSStarling
 [JCSUE]: https://github.com/jcs090218/JCSUE
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
 [JCSGodot]: https://github.com/jcs090218/JCSGodot
