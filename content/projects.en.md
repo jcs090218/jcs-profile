@@ -227,7 +227,9 @@ This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
 ## Web apps and services, browser extensions
 
-- [jcs-profile][] (Spring 2024 – Presented):
+- [browser-statistic](https://github.com/jcs090218/browser-statistic) (Spring 2024):
+This is a small extension that presents statistical charts indicating the websites you frequently visit.
+- [jcs-profile][] (Spring 2024):
 My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 - [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
 Scripting manual website for [JCSGodot][] API.
@@ -1131,6 +1133,8 @@ The project was initiated during the course of work but is no longer in use as t
 [Apache Mina]: https://mina.apache.org/
 [swagger.io]: https://swagger.io/
 [EditorConfig]: https://editorconfig.org/
+[Chrome]: https://www.google.com/chrome/
+[Brave]: https://brave.com/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
