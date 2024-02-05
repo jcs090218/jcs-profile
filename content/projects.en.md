@@ -355,6 +355,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [flycheck-rust](https://github.com/flycheck/flycheck-rust) (Spring 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+Better [Rust][]/[Cargo][] support for [Flycheck][].
 - [copilot.el](https://github.com/copilot-emacs/copilot.el) (Spring 2024 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
 An unofficial [Copilot][] plugin for [Emacs][].
@@ -1162,6 +1165,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Python]: https://www.python.org/
 [PyPi]: https://pypi.org/
 [Rust]: https://www.rust-lang.org/
+[Cargo]: https://crates.io/
 [Lua]: https://www.lua.org/
 [Make]: https://www.gnu.org/software/make/manual/make.html
 [MySQL]: https://www.mysql.com/
