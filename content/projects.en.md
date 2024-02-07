@@ -358,8 +358,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 - [flycheck-rust](https://github.com/flycheck/flycheck-rust) (Spring 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Better [Rust][]/[Cargo][] support for [Flycheck][].
-- [copilot.el](https://github.com/copilot-emacs/copilot.el) (Spring 2024 <span aria-label="Contributor"
-data-balloon-pos="up">✨</span>):
+- [copilot.el](https://github.com/copilot-emacs/copilot.el) (Spring 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
 An unofficial [Copilot][] plugin for [Emacs][].
 - [rainbow-csv](https://github.com/emacs-vs/rainbow-csv) (Winter 2023):
 🌈 Highlight [CSV][] and [TSV][] spreadsheet files in different rainbow colors.
