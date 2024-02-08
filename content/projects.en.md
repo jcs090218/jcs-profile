@@ -225,10 +225,8 @@ data-balloon-pos="up">🏫</span>):
 An unofficial port of [Impulse Engine][] written in [Python][].
 This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
-## Web apps and services, browser extensions
+## Web apps and services
 
-- [browser-statistic](https://github.com/jcs090218/browser-statistic) (Spring 2024):
-This is a small extension that presents statistical charts indicating the websites you frequently visit.
 - [jcs-profile][] (Spring 2024):
 My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 - [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
@@ -303,6 +301,13 @@ Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this i
 data-balloon-pos="up">🏫</span>):
 A website recommends a few boba tea places in San Francisco! 
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
+
+## Browser extensions
+
+- [eyny-video-downloader](https://github.com/jcs-chromews/eyny-video-downloader) (Spring 2024):
+An extension that integrates a download button for [EYNY Video][] site.
+- [browser-statistic](https://github.com/jcs-chromews/browser-statistic) (Spring 2024):
+This is a small extension that presents statistical charts indicating the websites you frequently visit.
 
 ## Package managers and build tools
 
@@ -1081,6 +1086,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Hasbro]: https://shop.hasbro.com/
 [GDC]: https://gdconf.com/
 [E3 CGC]: https://e3expo.com/
+[EYNY Video]: https://video.eyny.com/video
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
