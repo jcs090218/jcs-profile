@@ -23,6 +23,7 @@ jobs:
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         title: 'Update submodules'
         body: ''
         commit-message: 'Update all submodules'
