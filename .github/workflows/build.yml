@@ -34,6 +34,7 @@ jobs:
 
     # TODO: Generate better commit message
     - name: Publish doc artifacts
+      continue-on-error: true
       if: github.ref == 'refs/heads/master'
       run: |
         git config user.name github-actions
