@@ -360,6 +360,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [google-gemini](https://github.com/emacs-openai/google-gemini) (Spring 2024):
+Elisp library for the [Google Gemini][] API.
 - [flycheck-rust](https://github.com/flycheck/flycheck-rust) (Spring 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Better [Rust][]/[Cargo][] support for [Flycheck][].
@@ -983,6 +985,10 @@ This was initially developed for several of my game frameworks, including [JCSUn
 
 ## CI/CD tools and automation
 
+- [review-pr.yml](https://gist.github.com/jcs090218/cbbdc32ae5a1e434a434c87e7263be5a) (Spring 2024):
+Automatically review and comment on new package pull requests on [MELPA][]. 
+This is the second attempt to address the issue from [melpa#6714](https://github.com/melpa/melpa/issues/6714).
+This solution is considerably simpler, relying solely on [GitHub Actions][], increasing the likelihood of it being merged.
 - [update_submodules.yml](https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc) (Spring 2024):
 Automatically update all the submodules within the repository and update the repository by opening a [pull request (PR)][PR].
 This workflow is used across several projects, such as [eask/cli][], [jcs-profile][] (this website), and more.
@@ -1354,6 +1360,7 @@ The project was initiated during the course of work but is no longer in use as t
 [OpenAI]: https://openai.com/
 [ChatGPT]: https://chat.openai.com/
 [DALL-E]: https://openai.com/dall-e-2
+[Google Gemini]: https://gemini.google.com/
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
 
