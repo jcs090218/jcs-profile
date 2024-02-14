@@ -985,10 +985,11 @@ This was initially developed for several of my game frameworks, including [JCSUn
 
 ## CI/CD tools and automation
 
-- [review-pr.yml](https://gist.github.com/jcs090218/cbbdc32ae5a1e434a434c87e7263be5a) (Spring 2024):
-Automatically review and comment on new package pull requests on [MELPA][]. 
-This is the second attempt to address the issue from [melpa#6714](https://github.com/melpa/melpa/issues/6714).
-This solution is considerably simpler, relying solely on [GitHub Actions][], increasing the likelihood of it being merged.
+- [melpa/review-pr.yml](https://gist.github.com/jcs090218/cbbdc32ae5a1e434a434c87e7263be5a) (Spring 2024):
+Automatically review and comment on new package pull requests on [MELPA][].
+I've submitted the pull request in [melpa#8904](https://github.com/melpa/melpa/pull/8904).
+This marks the second attempt to resolve the issue in [melpa#6714](https://github.com/melpa/melpa/issues/6714).
+This solution is significantly simpler, relying solely on [GitHub Actions][], which improves the chances of it being merged.
 - [update_submodules.yml](https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc) (Spring 2024):
 Automatically update all the submodules within the repository and update the repository by opening a [pull request (PR)][PR].
 This workflow is used across several projects, such as [eask/cli][], [jcs-profile][] (this website), and more.
