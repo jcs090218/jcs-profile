@@ -6,12 +6,12 @@ ShowWordCount: false
 
 This page lists some of my projects, work, and school projects. 
 
-- 💸 = Professional work
-- 🏫 = School work
-- ✨ = Contributor
-- 👷 = Maintainer
-- 🔗 = Forked projects
-- 🏅 = Reward or Achievement
+- <span aria-label="Professional work" data-balloon-pos="up">💸</span> = Professional work
+- <span aria-label="School work" data-balloon-pos="up">🏫</span> = School work
+- <span aria-label="Contributor" data-balloon-pos="up">✨</span> = Contributor
+- <span aria-label="Maintainer" data-balloon-pos="up">👷</span> = Maintainer
+- <span aria-label="Forked projects" data-balloon-pos="up">🔗</span> = Forked projects
+- <span aria-label="Reward or Achievement" data-balloon-pos="up">🏅</span> = Reward or Achievement
 
 The rest are mostly open-source projects.
 
