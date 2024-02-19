@@ -360,6 +360,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [gptscript-mode](https://github.com/emacs-openai/gptscript-mode) (Spring 2024):
+Major mode for editing [GPTScript][] natural language.
 - [dashboard-bm](https://github.com/emacs-dashboard/dashboard-bm) (Spring 2024 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
@@ -1368,6 +1370,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Google Gemini]: https://gemini.google.com/
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
+[GPTScript]: https://github.com/gptscript-ai/gptscript
 
 [8comic]: https://v.comicabc.com/
 [kaomoji]: http://kaomoji.ru/en/
