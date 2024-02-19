@@ -360,6 +360,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [dashboard-bm](https://github.com/emacs-dashboard/dashboard-bm) (Spring 2024 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+Visual Bookmarks ([bm.el](https://github.com/joodland/bm)) for [Dashboard][emacs-dashboard].
 - [google-gemini](https://github.com/emacs-openai/google-gemini) (Spring 2024):
 Elisp library for the [Google Gemini][] API.
 - [flycheck-rust](https://github.com/flycheck/flycheck-rust) (Spring 2024 <span aria-label="Maintainer"
