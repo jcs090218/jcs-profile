@@ -991,13 +991,16 @@ This was initially developed for several of my game frameworks, including [JCSUn
 
 ## CI/CD tools and automation
 
+- [tree-sitter-langs/update-grammars.yml](https://github.com/emacs-tree-sitter/tree-sitter-langs/blob/master/.github/workflows/update-grammars.yml) (Spring 2024):
+Automatically update the [TreeSitter][] grammars (submodules) by opening [pull requests][PR].
+Unlike the typical [update_submodules.yml][] process, updating individual grammars is more complex, hence the importance of splitting it into separate modules.
 - [melpa/review-pr.yml](https://gist.github.com/jcs090218/cbbdc32ae5a1e434a434c87e7263be5a) (Spring 2024):
 Automatically review and comment on new package pull requests on [MELPA][].
 I've submitted the pull request in [melpa#8904](https://github.com/melpa/melpa/pull/8904).
 This marks the second attempt to resolve the issue in [melpa#6714](https://github.com/melpa/melpa/issues/6714).
 This solution is significantly simpler, relying solely on [GitHub Actions][], which improves the chances of it being merged.
-- [update_submodules.yml](https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc) (Spring 2024):
-Automatically update all the submodules within the repository and update the repository by opening a [pull request (PR)][PR].
+- [update_submodules.yml][] (Spring 2024):
+Automatically update all the submodules within the repository and update the repository by opening a [pull request][PR].
 This workflow is used across several projects, such as [eask/cli][], [jcs-profile][] (this website), and more.
 - [setup-emacs-windows/update-stable.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-stable.yml) (Spring 2024):
 Automatically locate the latest Emacs' version and update the code through a [pull request (PR)][PR].
@@ -1285,6 +1288,7 @@ The project was initiated during the course of work but is no longer in use as t
 [origami.el]: https://github.com/elp-revive/origami.el
 [elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
 [ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
+[TreeSitter]: https://tree-sitter.github.io/tree-sitter/
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
 [meta-net]: https://github.com/emacs-vs/meta-net
 [sideline]: https://github.com/emacs-sideline/sideline
@@ -1371,6 +1375,8 @@ The project was initiated during the course of work but is no longer in use as t
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
 [GPTScript]: https://github.com/gptscript-ai/gptscript
+
+[update_submodules.yml]: https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc
 
 [8comic]: https://v.comicabc.com/
 [kaomoji]: http://kaomoji.ru/en/
