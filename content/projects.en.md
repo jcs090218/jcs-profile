@@ -360,7 +360,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
-- [gptscript-mode](https://github.com/emacs-openai/gptscript-mode) (Spring 2024):
+- [zig-mode](https://github.com/ziglang/zig-mode) (Spring 2024):
+[Zig][] mode for [Emacs][].
+- [gptscript-mode](https://github.com/emacs-openai/gptscript-mode) (Spring 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
 Major mode for editing [GPTScript][] natural language.
 - [dashboard-bm](https://github.com/emacs-dashboard/dashboard-bm) (Spring 2024 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Maintainer"
@@ -1200,6 +1203,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Qt Style Sheets]: https://doc.qt.io/qt-6/stylesheet-reference.html
 [XML]: https://en.wikipedia.org/wiki/XML
 [YAML]: https://yaml.org/
+[Zig]: https://ziglang.org/
 
 [Cask]: https://github.com/cask/cask
 [eask/cli]: https://github.com/emacs-eask/cli
