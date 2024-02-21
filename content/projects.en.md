@@ -360,10 +360,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
-- [zig-mode](https://github.com/ziglang/zig-mode) (Spring 2024):
-[Zig][] mode for [Emacs][].
-- [gptscript-mode](https://github.com/emacs-openai/gptscript-mode) (Spring 2024 <span aria-label="Maintainer"
+- [zig-mode](https://github.com/ziglang/zig-mode) (Spring 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
+[Zig][] mode for [Emacs][].
+- [gptscript-mode](https://github.com/emacs-openai/gptscript-mode) (Spring 2024):
 Major mode for editing [GPTScript][] natural language.
 - [dashboard-bm](https://github.com/emacs-dashboard/dashboard-bm) (Spring 2024 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Maintainer"
