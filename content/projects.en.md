@@ -360,6 +360,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [flymake-dart](https://github.com/flymake/flymake-dart) (Spring 2024):
+[Flymake][] support for [dart][] analyze.
+- [flycheck-dart](https://github.com/flycheck/flycheck-dart) (Spring 2024):
+[Flycheck][] for [dart][] analyze.
 - [zig-mode](https://github.com/ziglang/zig-mode) (Spring 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Zig][] mode for [Emacs][].
