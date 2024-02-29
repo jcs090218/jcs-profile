@@ -360,6 +360,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [flymake-ziglint](https://github.com/flymake/flymake-ziglint) (Spring 2024):
+[Flymake][] for [ziglint][].
+- [flycheck-ziglint](https://github.com/flycheck/flycheck-ziglint) (Spring 2024):
+[Flycheck][] for [ziglint][].
 - [flymake-dart](https://github.com/flymake/flymake-dart) (Spring 2024):
 [Flymake][] support for [dart][] analyze.
 - [flycheck-dart](https://github.com/flycheck/flycheck-dart) (Spring 2024):
@@ -1318,6 +1322,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Perl::Critic]: https://metacpan.org/pod/Perl::Critic
 [GitGutter]: https://packagecontrol.io/packages/GitGutter
 [ws]: https://www.npmjs.com/package/ws
+[ziglint]: https://github.com/nektro/ziglint
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
