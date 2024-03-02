@@ -30,7 +30,7 @@ A framework is developed to improve efficiency in network programming using [C++
 - [JCSQtJ][] (Fall 2017):
 A compact framework that encapsulates [Qt Jami][] to expedite development.
 Explore additional projects that have utilized this framework, such as [Guild-Emblem-Simulator][], [OC_Install][], and more.
-- [JCSNetS][] (Summur 2017):
+- [JCSNetS][] (Summer 2017):
 A dedicated network framework tailored for the creation of [MMO][] games, leveraging [Apache Mina][] and [MySQL][].
 Please checkout the project [BB_Shoot][], which utilizes this framework.
 - [JCSPyGm_Lib][] (Winter 2016 <span aria-label="School work"
@@ -64,50 +64,50 @@ The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_nod
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 An abstraction layer constructed atop the [AssetBundles][] system, aiming to streamline the [AssetBundles][] workflow, sparing users from delving into intricate system details.
-- [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summur 2021 – Fall 2021 <span aria-label="Professional work"
+- [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summer 2021 – Fall 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A dedicated tool that tracks variable over time.
-- [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (Summur 2021 <span aria-label="Professional work"
+- [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (Summer 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A dedicated and up to date [YAML][] editor inside the [Inspector][InspectorWindow] window.
-- [Inspect Xml](https://assetstore.unity.com/publishers/54455) (Summur 2021 <span aria-label="Professional work"
+- [Inspect Xml](https://assetstore.unity.com/publishers/54455) (Summer 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A dedicated and up to date [XML][] editor inside the [Inspector][InspectorWindow] window.
-- [Inspect Json](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543) (Summur 2021 <span aria-label="Professional work"
+- [Inspect Json](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543) (Summer 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A dedicated and up to date [JSON][] editor inside the [Inspector][InspectorWindow] window.
-- [Afterimage](https://assetstore.unity.com/packages/vfx/afterimage-197173) (Summur 2021 <span aria-label="Professional work"
+- [Afterimage](https://assetstore.unity.com/packages/vfx/afterimage-197173) (Summer 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Afterimage VFX for [Unity][].
 A simple solution that work with 2D and 3D renderers, including UI components (Image, Text, Button, etc).
-- [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (Summur 2021 <span aria-label="Professional work"
+- [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (Summer 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Minimalistic good looking [hierarchy][HierarchyWindow].
-- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summur 2021):
+- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summer 2021):
 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
 - [32feet.Unity.Example](https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example) (Spring 2021):
 Example project to use [32feet][] inside [Unity][] ([Bluetooth][] Classic).
 - [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
-- [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summur 2018):
+- [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summer 2018):
 Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
-- [Unity_Toggle](https://github.com/jcs090218/Unity_Toggle) (Summur 2018):
+- [Unity_Toggle](https://github.com/jcs090218/Unity_Toggle) (Summer 2018):
 A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
 - [PackageExporter](https://github.com/jcs090218/PackageExporter) (Winter 2017):
 An alternative approach to package management utilizing ignore files.
-- [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summur 2016 – Winter 2017):
+- [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summer 2016 – Winter 2017):
 Quickly construct your game using multiple components and predefined default settings.
 
 ## Games
 
-- [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (Summur 2022):
+- [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (Summer 2022):
 A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829).
 - [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
-- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summur 2019 <span aria-label="Professional work"
+- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summer 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A multiplayer shooting [MOBA][] game on the mobile device.
 The project is created by the [T-NEXUS][] studio.
@@ -119,7 +119,7 @@ data-balloon-pos="up">🏅</span>):
 A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.
 - [BB_Shoot][] (Fall 2017):
 A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mechanics.
-- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summur 2017 <span aria-label="School work"
+- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="The company Hasbro is interested in investing in this game."
 data-balloon-pos="up">💸</span>):
 Embark on an undersea adventure in this side-scrolling game!
@@ -139,7 +139,7 @@ A clone of [DJMax][] implemented in [Processing][].
 - [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A simple [ASCII][] [third-person shooter (TPS)][TPS] game coded in [C++][].
 View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
-- [Project S](#) (Summur 2015 – Winter 2015 <span aria-label="Professional work"
+- [Project S](#) (Summer 2015 – Winter 2015 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Action game (ACT) with [RPG][] elements and a locked top-down perspective.
 I worked on the [minimum viable product (MVP)][MVP] of a game under [NDA][] as the sole software engineer.
@@ -162,21 +162,21 @@ The 3rd stage will be a boss fight, where the player who does the most damage wi
 
 ## Desktop apps
 
-- [OC_Install][] (Summur 2018):
+- [OC_Install][] (Summer 2018):
 An univseral software installer by one click.
-- [MagicCardTool](https://gitlab.com/artugam-jcs/MagicCardTool) (Summur 2017 <span aria-label="School work"
+- [MagicCardTool](https://gitlab.com/artugam-jcs/MagicCardTool) (Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 A small desktop application that generates an image of a card for the [Magic: The Gathering][] card game.
 Initial attempt to develop a desktop application with [Windows Forms][] using [Visual C#][].
 - [Guild-Emblem-Simulator][] (Fall 2017):
 A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a [PNG][] file.
-- [Skycrap Client/Server](https://www.youtube.com/watch?v=bwiOMgQ7xHU) (Spring 2017 – Summur 2017):
+- [Skycrap Client/Server](https://www.youtube.com/watch?v=bwiOMgQ7xHU) (Spring 2017 – Summer 2017):
 A small and enjoyable project that transmits webcam data using the server/client model.
 Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 
 ## AR/VR mobile apps
 
-- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summur 2021 – Spring 2022 <span aria-label="Professional work"
+- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summer 2021 – Spring 2022 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="This project was featured in CODAworx’s magazine’s Art for Social Change edition"
 data-balloon-pos="up">🏅</span>):
 An [augmented reality][AR] mobile app for learning history of [Monument Avenue](https://en.wikipedia.org/wiki/Monument_Avenue) and [Arthur Ashe Boulevard](https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard).
@@ -208,14 +208,14 @@ Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
 Rewrite [emacs-flx][] in [C#][].
 Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
 This is utilized within the [Unity.Mx][] tool.
-- [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summur 2023):
+- [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
 Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
 
 ## Animations, Shaders, and VFX
 
-- [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summur 2023):
+- [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summer 2023):
 Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
-- [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summur 2023):
+- [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summer 2023):
 Enhance the overall visual experience by adjusting various settings in [Unity][].
 
 ## Physics
@@ -233,7 +233,7 @@ My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/
 Scripting manual website for [JCSGodot][] API.
 - [blog@v2](https://github.com/jcs-legacy/blog) (Fall 2022 – Spring 2024):
 My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
-- [Eask Manual](https://emacs-eask.github.io/) (Summur 2022 – Winter 2022):
+- [Eask Manual](https://emacs-eask.github.io/) (Summer 2022 – Winter 2022):
 [Eask][eask/cli]'s documentation website.
 - [JCS-EMACS Homepage](https://jcs-emacs.github.io/) (Spring 2022):
 Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
@@ -250,7 +250,7 @@ The documentation website for my game framework — [JCSUE][].
 The documentation website for my game framework — [JCSUnity][].
 - [blog@v1](https://github.com/jcs090218/blog/tree/v1) (Fall 2021 – Fall 2022):
 My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
-- [Pixisoft Website](https://pixisoft.gitlab.io/) (Summur 2021 – Winter 2021 <span aria-label="Professional work"
+- [Pixisoft Website](https://pixisoft.gitlab.io/) (Summer 2021 – Winter 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A small web application made using [React.js][], designed for use as a company's homepage.
 - [sherlock-web](https://jcs-profile.com/public/sherlock-web/) (Spring 2021):
@@ -258,7 +258,7 @@ Website to interact [Sherlock API][sherlock-project/api].
 - [sherlock-project/api](https://github.com/sherlock-project/api) (Spring 2021):
 API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework (DRF)][DRF].
 Initial attempt with [DRF][].
-- [Scripting_Manual_JCSUE](https://github.com/jcs-legacy/Scripting_Manual_JCSUE) (Summur 2020):
+- [Scripting_Manual_JCSUE](https://github.com/jcs-legacy/Scripting_Manual_JCSUE) (Summer 2020):
 Scripting manual for [JCSUE][] API.
 - [Scripting_Manual_CCosQuick](https://github.com/jcs-legacy/Scripting_Manual_CCosQuick) (Spring 2020):
 Scripting manual for [CCosQuick][] API.
@@ -293,11 +293,11 @@ My single page personal website implemented in basic [HTML][], [CSS][] and [Java
 - [RandomCookMenu](https://gitlab.com/jcs-workspace/php/RandomCookMenu) (Winter 2017):
 A small application that enables you to create cooking menus and randomly selects one for you.
 This was originally designed for my mom, who often struggled with deciding what to cook every day.
-- [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summur 2017 <span aria-label="School work"
+- [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]! 
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the final project from our first web design class at the [Academy of Art University][].
-- [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (Summur 2017 <span aria-label="School work"
+- [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 A website recommends a few boba tea places in San Francisco! 
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
@@ -341,10 +341,10 @@ Language server implementation for [Emacs Lisp][].
 The emacs client (using [lsp-mode][]) is also included; do `M-x ellsp-register` to enable it.
 - [vscode-shader](https://github.com/shader-ls/vscode-shader) (Fall 2023):
 Shader languages support for [Visual Studio Code][VSCode].
-- [shader-language-server][] (Summur 2023 – Fall 2023):
+- [shader-language-server][] (Summer 2023 – Fall 2023):
 Language server implementation for [ShaderLab][].
 It also provides support for various CG programming languages such as [HLSL][], [GLSL][], [Cg][], and more.
-- [grammarly-language-server][] (Summur 2022 <span aria-label="Contributor"
+- [grammarly-language-server][] (Summer 2022 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Maintainer"
 data-balloon-pos="up">👷</span><span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
@@ -443,18 +443,18 @@ data-balloon-pos="up">👷</span>):
 [lsp-mode][] client leveraging [uniteai][].
 - [eglot-shader](https://github.com/shader-ls/eglot-shader) (Fall 2023):
 [eglot][] client leveraging [shader-language-server][].
-- [nerd-icons-buffer-menu](https://github.com/jcs-elpa/nerd-icons-buffer-menu) (Summur 2023):
+- [nerd-icons-buffer-menu](https://github.com/jcs-elpa/nerd-icons-buffer-menu) (Summer 2023):
 Display [nerd icons][nerd-icons] in [buffer-menu][].
-- [on.el](https://github.com/elp-revive/on.el) (Summur 2023 <span aria-label="Forked"
+- [on.el](https://github.com/elp-revive/on.el) (Summer 2023 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 Hooks for faster [Emacs][] startup.
-- [deepl](https://github.com/emacs-openai/deepl) (Summur 2023):
+- [deepl](https://github.com/emacs-openai/deepl) (Summer 2023):
 [Elisp][] library for the [DeepL][] API.
-- [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summur 2023):
+- [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summer 2023):
 Generic popup tip.
-- [doxygen-asterisk](https://github.com/emacs-vs/doxygen-asterisk) (Summur 2023):
+- [doxygen-asterisk](https://github.com/emacs-vs/doxygen-asterisk) (Summer 2023):
 Minor mode that helps you insert pair `/*` and `*/`.
-- [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summur 2023):
+- [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summer 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
 - [codemetrics](https://github.com/emacs-vs/codemetrics) (Spring 2023):
 Plugin shows complexity information.
@@ -576,53 +576,53 @@ Add [dockerfile][Docker] keywords to [company-mode][] keywords alist.
 A document string minor mode using [tree-sitter][].
 - [prt](https://github.com/jcs-elpa/prt) (Fall 2022):
 Progress Reporter Library.
-- [fussy](https://github.com/jojojames/fussy) (Summur 2022 <span aria-label="Maintainer"
+- [fussy](https://github.com/jojojames/fussy) (Summer 2022 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Emacs][] [completion-style][] leveraging [flx][emacs-flx].
-- [vsc-multiple-cursors](https://github.com/emacs-vs/vsc-multiple-cursors) (Summur 2022):
+- [vsc-multiple-cursors](https://github.com/emacs-vs/vsc-multiple-cursors) (Summer 2022):
 [multiple-cursors][] integration behave like [VSCode][].
-- [sideline-blame](https://github.com/emacs-sideline/sideline-blame) (Summur 2022):
+- [sideline-blame](https://github.com/emacs-sideline/sideline-blame) (Summer 2022):
 Show blame messages with [sideline][].
-- [sideline-lsp](https://github.com/emacs-sideline/sideline-lsp) (Summur 2022):
+- [sideline-lsp](https://github.com/emacs-sideline/sideline-lsp) (Summer 2022):
 Show [lsp-mode][] information with [sideline][].
-- [sideline-flymake](https://github.com/emacs-sideline/sideline-flymake) (Summur 2022):
+- [sideline-flymake](https://github.com/emacs-sideline/sideline-flymake) (Summer 2022):
 Show [flymake][] errors with [sideline][].
-- [sideline-flycheck](https://github.com/emacs-sideline/sideline-flycheck) (Summur 2022):
+- [sideline-flycheck](https://github.com/emacs-sideline/sideline-flycheck) (Summer 2022):
 Show [flycheck][] errors with [sideline][].
-- [sideline][] (Summur 2022):
+- [sideline][] (Summer 2022):
 Show information on the side.
-- [gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) (Summur 2022 <span aria-label="Maintainer"
+- [gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) (Summer 2022 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 An [Emacs][] package to get [GDScript][] support and syntax highlighting.
-- [javap-mode](https://github.com/elp-revive/javap-mode) (Summur 2022 <span aria-label="Forked"
+- [javap-mode](https://github.com/elp-revive/javap-mode) (Summer 2022 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 Show the ouput of [javap](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html) when opening a jvm class file in [Emacs][].
-- [company-coffee](https://github.com/elp-revive/company-coffee) (Summur 2022 <span aria-label="Forked"
+- [company-coffee](https://github.com/elp-revive/company-coffee) (Summer 2022 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 [Emacs][] add [coffee][CoffeeScript] keywords to `company-keywords` for completion.
-- [company-c-headers](https://github.com/elp-revive/company-c-headers) (Summur 2022 <span aria-label="Forked"
+- [company-c-headers](https://github.com/elp-revive/company-c-headers) (Summer 2022 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 Auto-completion for [C][]/[C++][] headers using [Company][].
-- [buffer-move](https://github.com/elp-revive/buffer-move) (Summur 2022 <span aria-label="Forked"
+- [buffer-move](https://github.com/elp-revive/buffer-move) (Summer 2022 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 easily swap buffers.
-- [noflet](https://github.com/elp-revive/noflet) (Summur 2022 <span aria-label="Forked"
+- [noflet](https://github.com/elp-revive/noflet) (Summer 2022 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 nic's overriding flet, for fleting functions for the purpose of decorating them.
-- [eping](https://github.com/elp-revive/eping) (Summur 2022 <span aria-label="Forked"
+- [eping](https://github.com/elp-revive/eping) (Summer 2022 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 An [Emacs][] package that checks internet connectivity using [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)).
-- [flymake-eask](https://github.com/flymake/flymake-eask) (Summur 2022):
+- [flymake-eask](https://github.com/flymake/flymake-eask) (Summer 2022):
 [Eask][eask/cli] support in [Flymake][].
-- [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summur 2022):
+- [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summer 2022):
 [Eask][eask/cli] support in [Flycheck][].
-- [recentf-excl](https://github.com/jcs-elpa/recentf-excl) (Summur 2022):
+- [recentf-excl](https://github.com/jcs-elpa/recentf-excl) (Summer 2022):
 Exclude commands for recent files.
 Certain commands might inadvertently add files, resulting in unwanted entries in [recentf][].
 This package helps you address this issue.
-- [mbs](https://github.com/jcs-elpa/mbs) (Summur 2022):
+- [mbs](https://github.com/jcs-elpa/mbs) (Summer 2022):
 [Minibuffer][] stats.
-- [vertico-flx](https://github.com/jcs-elpa/vertico-flx) (Summur 2022):
+- [vertico-flx](https://github.com/jcs-elpa/vertico-flx) (Summer 2022):
 [flx][emacs-flx] integration for [vertico][].
 - [flx-style](https://github.com/jcs-elpa/flx-style) (Spring 2022):
 [Completion style][completion styles] for [emacs-flx][].
@@ -682,33 +682,33 @@ This package uses [meta-net][] to parse all define constants inside a csproj fil
 [Eldoc][] support for [meta-net][].
 - [company-emojify](https://github.com/jcs-elpa/company-emojify) (Fall 2021):
 [Company][] completion for [Emojify][].
-- [meta-view](https://github.com/emacs-vs/meta-view) (Summur 2021):
+- [meta-view](https://github.com/emacs-vs/meta-view) (Summer 2021):
 View metadata from [.NET][] assemblies.
-- [company-meta-net](https://github.com/emacs-vs/company-meta-net) (Summur 2021):
+- [company-meta-net](https://github.com/emacs-vs/company-meta-net) (Summer 2021):
 [company-mode][] backend for [C#][] project.
-- [meta-net][] (Summur 2021):
+- [meta-net][] (Summer 2021):
 Parse [.NET][] assembly's [XML][].
-- [flex](https://github.com/jcs-legacy/flex) (Summur 2021):
+- [flex](https://github.com/jcs-legacy/flex) (Summer 2021):
 Flexible Matching Library.
 Algorithm is extracted from package [ido-better-flex](https://github.com/vic/ido-better-flex).
-- [liquidmetal](https://github.com/jcs-legacy/liquidmetal) (Summur 2021):
+- [liquidmetal](https://github.com/jcs-legacy/liquidmetal) (Summer 2021):
 A mimetic poly-alloy of the Quicksilver scoring algorithm.
 Ported from [rmm5t/liquidmetal](https://github.com/rmm5t/liquidmetal).
-- [logms](https://github.com/jcs-elpa/logms) (Summur 2021):
+- [logms](https://github.com/jcs-elpa/logms) (Summer 2021):
 Log message with clickable links to context.
-- [eglot-languagetool](https://github.com/emacs-languagetool/eglot-languagetool) (Summur 2021):
+- [eglot-languagetool](https://github.com/emacs-languagetool/eglot-languagetool) (Summer 2021):
 [eglot][] client leveraging [LanguageTool Language Server][languagetool-languageserver].
-- [lsp-languagetool](https://github.com/emacs-languagetool/lsp-languagetool) (Summur 2021):
+- [lsp-languagetool](https://github.com/emacs-languagetool/lsp-languagetool) (Summer 2021):
 [lsp-mode][] client leveraging [LanguageTool Language Server][languagetool-languageserver].
-- [eglot-ltex](https://github.com/emacs-languagetool/eglot-ltex) (Summur 2021):
+- [eglot-ltex](https://github.com/emacs-languagetool/eglot-ltex) (Summer 2021):
 [Eglot][] client leveraging [LTEX Language Server][ltex-ls].
-- [lsp-ltex](https://github.com/emacs-languagetool/lsp-ltex) (Summur 2021):
+- [lsp-ltex](https://github.com/emacs-languagetool/lsp-ltex) (Summer 2021):
 [lsp-mode][] client leveraging [LTEX Language Server][ltex-ls].
-- [flymake-languagetool](https://github.com/emacs-languagetool/flymake-languagetool) (Summur 2021):
+- [flymake-languagetool](https://github.com/emacs-languagetool/flymake-languagetool) (Summer 2021):
 [Flymake][] support for [LanguageTool][].
-- [flycheck-languagetool](https://github.com/emacs-languagetool/flycheck-languagetool) (Summur 2021):
+- [flycheck-languagetool](https://github.com/emacs-languagetool/flycheck-languagetool) (Summer 2021):
 [Flycheck][] support for [LanguageTool][].
-- [auth-source-keytar](https://github.com/emacs-grammarly/auth-source-keytar) (Summur 2021):
+- [auth-source-keytar](https://github.com/emacs-grammarly/auth-source-keytar) (Summer 2021):
 Integrate [auth-source][] with [keytar][].
 - [applescript-mode](https://github.com/emacsorphanage/applescript-mode) (Spring 2021 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
@@ -822,22 +822,22 @@ Recipes and build machinery for the biggest [Emacs][] package repo.
 [MELPA][] stands for "[Milkypostman][]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
 - [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
 Theme styled after undersea imagery.
-- [origami.el][] (Summur 2020 <span aria-label="Forked"
+- [origami.el][] (Summer 2020 <span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 A folding minor mode for [Emacs][].
 This project is a [Regular Expression][regex]-based solution, but it became deprecated following the creation of [ts-fold][].
-- [popup-el](https://github.com/auto-complete/popup-el) (Summur 2020 – Present <span aria-label="Maintainer"
+- [popup-el](https://github.com/auto-complete/popup-el) (Summer 2020 – Present <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Visual Popup Interface Library for [Emacs][]. It's used with [auto-complete][].
-- [transwin](https://github.com/jcs-elpa/transwin) (Summur 2020):
+- [transwin](https://github.com/jcs-elpa/transwin) (Summer 2020):
 Make window/frame transparent.
-- [helm-searcher](https://github.com/emacs-helm/helm-searcher) (Summur 2020):
+- [helm-searcher](https://github.com/emacs-helm/helm-searcher) (Summer 2020):
 [Helm][] interface to use [searcher][].
-- [ivy-searcher](https://github.com/jcs-legacy/ivy-searcher) (Summur 2020):
+- [ivy-searcher](https://github.com/jcs-legacy/ivy-searcher) (Summer 2020):
 [Ivy][] interface to use [searcher][].
-- [searcher][] (Summur 2020):
+- [searcher][] (Summer 2020):
 An alternative to [ag][], [rg][], [grep][], and others, written in pure [elisp][Emacs Lisp] for enhanced portability.
-- [quickrun](https://github.com/emacsorphanage/quickrun) (Summur 2020 <span aria-label="Maintainer"
+- [quickrun](https://github.com/emacsorphanage/quickrun) (Summer 2020 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Run command quickly. This packages is inspired [quickrun.vim](https://www.vim.org/scripts/script.php?script_id=3146).
 - [zoom-window](https://github.com/emacsorphanage/zoom-window) (Spring 2020 <span aria-label="Maintainer"
@@ -922,17 +922,17 @@ Major mode for editing [JayCeS][] file.
 - [csharp-mode](https://github.com/emacs-csharp/csharp-mode) (Fall 2019 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 A [major-mode][] for editing [C#][] in [emacs][].
-- [dashboard][emacs-dashboard] (Summur 2019 – Present <span aria-label="Maintainer"
+- [dashboard][emacs-dashboard] (Summer 2019 – Present <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 An extensible Emacs startup screen showing you what’s most important.
-- [indent-control](https://github.com/jcs-elpa/indent-control) (Summur 2019):
+- [indent-control](https://github.com/jcs-elpa/indent-control) (Summer 2019):
 Generic control the indentation level for each mode.
-- [show-eol](https://github.com/jcs-elpa/show-eol) (Summur 2019):
+- [show-eol](https://github.com/jcs-elpa/show-eol) (Summer 2019):
 Show [end of line (EOL)][EOL] symbol in buffer.
 Derived inspiration from the built-in functionality of the editor [Notepad++][].
-- [helm-file-preview](https://github.com/jcs-legacy/helm-file-preview) (Summur 2019):
+- [helm-file-preview](https://github.com/jcs-legacy/helm-file-preview) (Summer 2019):
 Preview the current [helm][] file selection.
-- [goto-char-preview](https://github.com/emacs-vs/goto-char-preview) (Summur 2019):
+- [goto-char-preview](https://github.com/emacs-vs/goto-char-preview) (Summer 2019):
 Preview character when executing `goto-char` command.
 - [goto-line-preview](https://github.com/emacs-vs/goto-line-preview) (Spring 2019):
 Preview line when executing `goto-line` command.
@@ -953,16 +953,16 @@ Inspired by the [Auto Close Tag](https://marketplace.visualstudio.com/items?item
 - [auto-rename-tag](https://github.com/emacs-vs/auto-rename-tag) (Winter 2018):
 Automatically rename paired [HTML][]/[XML][] tag.
 Inspired by [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) from the [VSCode][] community.
-- [use-ttf](https://github.com/jcs-elpa/use-ttf) (Summur 2018):
+- [use-ttf](https://github.com/jcs-elpa/use-ttf) (Summer 2018):
 Keep font consistency across different OSs.
-- [project-abbrev](https://github.com/jcs-elpa/project-abbrev) (Summur 2018):
+- [project-abbrev](https://github.com/jcs-elpa/project-abbrev) (Summer 2018):
 Customize your own abbreviation expansion in the project.
-- [line-reminder](https://github.com/emacs-vs/line-reminder) (Summur 2018):
+- [line-reminder](https://github.com/emacs-vs/line-reminder) (Summer 2018):
 Line annotation for changed and saved lines.
-- [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summur 2018):
+- [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summer 2018):
 Automatically organize imports in [Java][] code.
 It has been deprecated with the advent of the [Language Server Protocol][LSP].
-- [jcs-emacs][] (Summur 2015 – Present):
+- [jcs-emacs][] (Summer 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
 , delivering exceptional performance, especially on legacy [Windows][] systems.
 
@@ -1019,11 +1019,11 @@ Automatically locate the latest Emacs' version and update the code through a [pu
 Automatically locate the most recent Emacs' snapshot and update the code through a [pull request (PR)][PR].
 - [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023):
 Install [Lem][] for [GitHub Actions][] workflow.
-- [github-push-action](https://github.com/jcs090218/github-push-action) (Summur 2022 <span aria-label="Contributor"
+- [github-push-action](https://github.com/jcs090218/github-push-action) (Summer 2022 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Forked"
 data-balloon-pos="up">🔗</span>):
 Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
-- [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summur 2022):
+- [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summer 2022):
 [Github action][GHA] which installs a given [Emacs][] version.
 This project aims to replace [purcell/setup-emacs][] by combining the two [GitHub Actions][] — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
 As a result, it now supports all commonly used operating systems.
@@ -1045,19 +1045,19 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
 A plugin for interacting with AWS from Emacs editor.
-- [jcs-lem](https://github.com/jcs090218/jcs-lem) (Summur 2023 – Present):
+- [jcs-lem](https://github.com/jcs090218/jcs-lem) (Summer 2023 – Present):
 My personal [lem][] configuration files.
 [Lem][] is still in its early stages, particularly on [Windows][] systems.
-- [Prevo](https://github.com/jcs090218/Prevo) (Summur 2021):
+- [Prevo](https://github.com/jcs090218/Prevo) (Summer 2021):
 Preview `GameObject` using preview window.
 - [8comic](https://github.com/jcs-elpa/8comic) (Fall 2020):
 Use [8comic][] to read manga.
-- [UCTooth](https://github.com/jcs090218/UCTooth) (Summur 2020 <span aria-label="Professional work"
+- [UCTooth](https://github.com/jcs090218/UCTooth) (Summer 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
 - [swagger-it](https://github.com/jcs090218/swagger-it) (Spring 2020):
 Automatically generate the [swagger.io][] yaml file for your project.
-- [CCosQuick][] (Winter 2019 – Summur 2020 <span aria-label="Professional work"
+- [CCosQuick][] (Winter 2019 – Summer 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Prototype your game easily with component driven library built on top of Cocos Creator.
 - [MGDP][] (Fall 2019 – Winter 2019):
