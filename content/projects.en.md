@@ -202,6 +202,8 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 ## Algorithms
 
+- [flx-c](https://github.com/jcs090218/flx-c) (Spring 2024):
+Rewrite [emacs-flx][] in [C][].
 - [flx-ts](https://github.com/jcs090218/flx-ts) (Spring 2024):
 Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
 - [FlxCs](https://github.com/jcs090218/FlxCs) (Fall 2023):
