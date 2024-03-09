@@ -202,7 +202,14 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 ## Algorithms
 
-- [flx-c](https://github.com/jcs090218/flx-c) (Spring 2024):
+- [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
+Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
+
+### Fuzzy Matching
+
+- [zig-flx](https://github.com/jcs090218/zig-flx) (Spring 2024):
+[Zig][] bindings for [flx-c][].
+- [flx-c][] (Spring 2024):
 Rewrite [emacs-flx][] in [C][].
 - [flx-ts](https://github.com/jcs090218/flx-ts) (Spring 2024):
 Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
@@ -210,8 +217,15 @@ Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
 Rewrite [emacs-flx][] in [C#][].
 Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
 This is utilized within the [Unity.Mx][] tool.
-- [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
-Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
+- [flx-rs][jcs090218/flx-rs] (Winter 2021):
+Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
+The original [emacs-flx][] were written in pure [Emacs Lisp][].
+While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
+Therefore, this package was developed, leading to a speed increase ranging from 10x to 16x.
+- [flxy-rs][] (Winter 2021):
+Fast, character-based search library in [Rust][].
+This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
+Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
 
 ## Animations, Shaders, and VFX
 
@@ -968,18 +982,6 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 Emacs distribution that is designed to function smoothly across all operating systems,
 , delivering exceptional performance, especially on legacy [Windows][] systems.
 
-## Rust packages
-
-- [flx-rs][jcs090218/flx-rs] (Winter 2021):
-Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
-The original [emacs-flx][] were written in pure [Emacs Lisp][].
-While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
-Therefore, this package was developed, leading to a speed increase ranging from 10x to 16x.
-- [flxy-rs][] (Winter 2021):
-Fast, character-based search library in [Rust][].
-This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
-Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
-
 ## Technical utilities
 
 - [minify-dir](https://github.com/jcs090218/node-minify-dir) (Spring 2019):
@@ -1214,6 +1216,8 @@ The project was initiated during the course of work but is no longer in use as t
 [XML]: https://en.wikipedia.org/wiki/XML
 [YAML]: https://yaml.org/
 [Zig]: https://ziglang.org/
+
+[flx-c]: https://github.com/jcs090218/flx-c
 
 [Cask]: https://github.com/cask/cask
 [eask/cli]: https://github.com/emacs-eask/cli
