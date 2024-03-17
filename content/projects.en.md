@@ -207,6 +207,8 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 ### Fuzzy Matching
 
+- [flx-zig](https://github.com/jcs090218/flx-zig) (Spring 2024):
+Rewrite [emacs-flx][] in [Zig][].
 - [zig-flx](https://github.com/jcs090218/zig-flx) (Spring 2024):
 [Zig][] bindings for [flx-c][].
 - [flx-c][] (Spring 2024):
