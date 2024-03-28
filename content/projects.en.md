@@ -378,6 +378,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [guard-lf](https://github.com/jcs-elpa/guard-lf) (Spring 2024):
+Guard large files.
 - [flymake-ziglint](https://github.com/flymake/flymake-ziglint) (Spring 2024):
 [Flymake][] for [ziglint][].
 - [flycheck-ziglint](https://github.com/flycheck/flycheck-ziglint) (Spring 2024):
