@@ -378,6 +378,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [sideline-load-cost](https://github.com/emacs-sideline/sideline-load-cost) (Spring 2024):
+Display load/require module size with [sideline][].
 - [guard-lf](https://github.com/jcs-elpa/guard-lf) (Spring 2024):
 Guard large files.
 - [flymake-ziglint](https://github.com/flymake/flymake-ziglint) (Spring 2024):
