@@ -1004,6 +1004,11 @@ It was initially used with [lsp-grammarly][], but it became obsolete after the u
 - [reverse_shell](https://github.com/jcs090218/reverse_shell) (Spring 2019):
 Reverse shell implemented in [Python][].
 
+## AI & Machine Learning
+
+- [shakespeare-monkey](https://gitlab.com/jcs-workspace/ai/shakespeare-monkey) (Spring 2024 – Summer 2024):
+First attempt on [Genetic Algorithm][] to demostrate [Infinite monkey theorem][].
+
 ## Static site generators
 
 - [SiraDoc][] (Fall 2021):
@@ -1391,6 +1396,9 @@ The project was initiated during the course of work but is no longer in use as t
 [FontAwesome]: https://fontawesome.com/
 [WAV]: https://en.wikipedia.org/wiki/WAV
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
+
+[Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
+[Genetic Algorithm]: https://en.wikipedia.org/wiki/Genetic_algorithm
 
 [Copilot]: https://github.com/features/copilot
 [OpenAI]: https://openai.com/
