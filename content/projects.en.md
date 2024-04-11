@@ -378,6 +378,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [auto-close-block](https://github.com/emacs-vs/auto-close-block) (Summer 2024):
+Automatically close block.
 - [sideline-load-cost](https://github.com/emacs-sideline/sideline-load-cost) (Spring 2024):
 Display load/require module size with [sideline][].
 - [guard-lf](https://github.com/jcs-elpa/guard-lf) (Spring 2024):
@@ -474,7 +476,7 @@ Hooks for faster [Emacs][] startup.
 [Elisp][] library for the [DeepL][] API.
 - [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summer 2023):
 Generic popup tip.
-- [doxygen-asterisk](https://github.com/emacs-vs/doxygen-asterisk) (Summer 2023):
+- [doxygen-asterisk](https://github.com/jcs-legacy/doxygen-asterisk) (Summer 2023):
 Minor mode that helps you insert pair `/*` and `*/`.
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summer 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
