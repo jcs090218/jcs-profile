@@ -378,7 +378,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
-- [auto-close-block](https://github.com/emacs-vs/auto-close-block) (Summer 2024):
+- [auto-close-block][] (Summer 2024):
 Automatically close block.
 - [sideline-load-cost](https://github.com/emacs-sideline/sideline-load-cost) (Spring 2024):
 Display load/require module size with [sideline][].
@@ -478,6 +478,7 @@ Hooks for faster [Emacs][] startup.
 Generic popup tip.
 - [doxygen-asterisk](https://github.com/jcs-legacy/doxygen-asterisk) (Summer 2023):
 Minor mode that helps you insert pair `/*` and `*/`.
+This package is no longer supported as it has been superseded by the [auto-close-block][] package.
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summer 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
 - [codemetrics](https://github.com/emacs-vs/codemetrics) (Spring 2023):
@@ -1321,6 +1322,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
 [TreeSitter]: https://tree-sitter.github.io/tree-sitter/
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
+[auto-close-block]: https://github.com/emacs-vs/auto-close-block
 [meta-net]: https://github.com/emacs-vs/meta-net
 [sideline]: https://github.com/emacs-sideline/sideline
 [emacs-openai/chatgpt]: https://github.com/emacs-openai/chatgpt
