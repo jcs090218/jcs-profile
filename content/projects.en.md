@@ -378,6 +378,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [centaur-tabs](https://github.com/ema2159/centaur-tabs) (Summer 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+[Emacs][] plugin aiming to become an aesthetic, modern looking tabs plugin.
 - [auto-close-block][] (Summer 2024):
 Automatically close block.
 - [sideline-load-cost](https://github.com/emacs-sideline/sideline-load-cost) (Spring 2024):
