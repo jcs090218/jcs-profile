@@ -4,7 +4,7 @@ ShowReadingTime: false
 ShowWordCount: false
 ---
 
-This page lists some of my projects, work, and school projects. 
+This page lists some of my projects, work, and school projects.
 
 - <span aria-label="Professional work" data-balloon-pos="up">💸</span> = Professional work
 - <span aria-label="School work" data-balloon-pos="up">🏫</span> = School work
@@ -313,11 +313,11 @@ A small application that enables you to create cooking menus and randomly select
 This was originally designed for my mom, who often struggled with deciding what to cook every day.
 - [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
-A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]! 
+A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]!
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the final project from our first web design class at the [Academy of Art University][].
 - [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
-A website recommends a few boba tea places in San Francisco! 
+A website recommends a few boba tea places in San Francisco!
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
 
 ## Browser extensions
@@ -378,11 +378,15 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [region-occurrences-highlighter](https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter) (Summer 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+This [emacs][] package implements a local minor mode that highlights occurrences
+of the current selected region.
 - [ansi-colorful](https://github.com/jcs-elpa/ansi-colorful) (Summer 2024):
 Toggle render `ansi-color`.
 - [centaur-tabs](https://github.com/ema2159/centaur-tabs) (Summer 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
-[Emacs][] plugin aiming to become an aesthetic, modern looking tabs plugin.
+[Emacs][] plugin aiming to become an aesthetic, modern-looking tabs plugin.
 - [auto-close-block][] (Summer 2024):
 Automatically close block.
 - [sideline-load-cost](https://github.com/emacs-sideline/sideline-load-cost) (Spring 2024):
