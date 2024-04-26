@@ -378,6 +378,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ## Emacs stuff
 
+- [treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) (Summer 2024):
+Code folding using `treesit.el`.
 - [region-occurrences-highlighter](https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter) (Summer 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 This [emacs][] package implements a local minor mode that highlights occurrences
