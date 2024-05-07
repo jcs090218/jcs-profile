@@ -101,6 +101,9 @@ Quickly construct your game using multiple components and predefined default set
 
 ## Games
 
+- [Crypt Adventure](https://jcs090218.itch.io/cryptadv) (Summer 2024):
+A 2D pixel horror game, players strive to evade monsters while searching for an escape route.
+This game participates in the [机核GCORES][] [2024 Game Creation Challenge](https://site.gcores.com/booom2024/). (3 weeks)
 - [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (Summer 2022):
 A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829).
@@ -1143,6 +1146,7 @@ The project was initiated during the course of work but is no longer in use as t
 [GDC]: https://gdconf.com/
 [E3 CGC]: https://e3expo.com/
 [EYNY Video]: https://video.eyny.com/video
+[机核GCORES]: https://www.gcores.com/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
