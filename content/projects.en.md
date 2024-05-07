@@ -106,7 +106,7 @@ A 2D pixel horror game, players strive to evade monsters while searching for an 
 This game participates in the [机核GCORES][] [2024 Game Creation Challenge](https://site.gcores.com/booom2024/). (3 weeks)
 - [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (Summer 2022):
 A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
-The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829).
+The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829). (4 weeks)
 - [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
