@@ -205,6 +205,8 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 ## Algorithms
 
+- [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (Summer 2024):
+Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibility/) in [Unity][] using [C#][].
 - [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
 Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
 
