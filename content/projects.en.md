@@ -21,9 +21,18 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 ## Currently working on
 
+<details open>
+  <summary>See details</summary>
+
+- [cogru][] (Summer 2024): Where the collaboration start!?
 - [jayces][] (Winter 2023 – Presented): My first programming language.
 
+</details>
+
 ## Tools, Framework, and Libraries
+
+<details>
+  <summary>See details</summary>
 
 - [JCSNetP][] (Winter 2017):
 A framework is developed to improve efficiency in network programming using [C++][].
@@ -54,7 +63,12 @@ The project's goal is to gain insights into the construction of game engines, un
 - [JCSStarling][] (Spring 2015):
 This is a programming interface layered on top of the [Starling][] framework, transforming the event-driven system into a component-driven system.
 
+</details>
+
 ## Unity C# stuff
+
+<details>
+  <summary>See details</summary>
 
 - [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
 A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
@@ -99,7 +113,12 @@ An alternative approach to package management utilizing ignore files.
 - [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summer 2016 – Winter 2017):
 Quickly construct your game using multiple components and predefined default settings.
 
+</details>
+
 ## Games
+
+<details>
+  <summary>See details</summary>
 
 - [You Have An Order](https://jcs090218.itch.io/you-have-an-order) (Summer 2024):
 A 2D pixel horror game, players strive to evade monsters while searching for an escape route.
@@ -163,7 +182,12 @@ A competitive two player game that will have the player fighting one another for
 The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
 The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)
 
+</details>
+
 ## Desktop apps
+
+<details>
+  <summary>See details</summary>
 
 - [OC_Install][] (Summer 2018):
 An univseral software installer by one click.
@@ -177,7 +201,12 @@ A small program that allows you to customize your guild emblem just like in the 
 A small and enjoyable project that transmits webcam data using the server/client model.
 Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 
+</details>
+
 ## AR/VR mobile apps
+
+<details>
+  <summary>See details</summary>
 
 - [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summer 2021 – Spring 2022 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="This project was featured in CODAworx’s magazine’s Art for Social Change edition"
@@ -193,7 +222,12 @@ A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/
 within the [Unity](https://unity.com/) platform.
 Players can interact with objects in the scene by simply clicking on them.
 
+</details>
+
 ## Music apps
+
+<details>
+  <summary>See details</summary>
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Achieved a total of 812,970 USD on the 嘖嘖zeczec donation platform"
@@ -203,7 +237,12 @@ You can view a demonstration of the core mechanics [here](https://www.youtube.co
 - [Music_Visualizer](https://gitlab.com/jcs-workspace/unity/Music_Visualizer) (Fall 2018):
 Implementation of a music visualizer in [Unity][]. Check out the demo [here](https://www.youtube.com/watch?v=BkKbOezO3Vs&t=158s).
 
+</details>
+
 ## Algorithms
+
+<details>
+  <summary>See details</summary>
 
 - [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (Summer 2024):
 Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibility/) in [Unity][] using [C#][].
@@ -234,21 +273,36 @@ Fast, character-based search library in [Rust][].
 This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
 Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
 
+</details>
+
 ## Animations, Shaders, and VFX
+
+<details>
+  <summary>See details</summary>
 
 - [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summer 2023):
 Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
 - [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summer 2023):
 Enhance the overall visual experience by adjusting various settings in [Unity][].
 
+</details>
+
 ## Physics
+
+<details>
+  <summary>See details</summary>
 
 - [ImpulseEngine][] (Fall 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 An unofficial port of [Impulse Engine][] written in [Python][].
 This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
+</details>
+
 ## Web apps and services
+
+<details>
+  <summary>See details</summary>
 
 - [jcs-profile][] (Spring 2024):
 My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
@@ -325,14 +379,24 @@ data-balloon-pos="up">🏫</span>):
 A website recommends a few boba tea places in San Francisco!
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
 
+</details>
+
 ## Browser extensions
+
+<details>
+  <summary>See details</summary>
 
 - [eyny-video-downloader](https://github.com/jcs-chromews/eyny-video-downloader) (Spring 2024):
 An extension that integrates a download button for [EYNY Video][] site.
 - [browser-statistic](https://github.com/jcs-chromews/browser-statistic) (Spring 2024):
 This is a small extension that presents statistical charts indicating the websites you frequently visit.
 
+</details>
+
 ## Package managers and build tools
+
+<details>
+  <summary>See details</summary>
 
 - [eask/packaging][] (Fall 2023 – Winter 2023):
 Packaging for [Eask CLI][eask/cli].
@@ -355,7 +419,12 @@ data-balloon-pos="up">👷</span>):
 Project management tool for [Emacs][].
 I'm the maintainer specifically responsible to [Windows][] platform.
 
+</details>
+
 ## Language clients and servers
+
+<details>
+  <summary>See details</summary>
 
 - [vscode-ellsp](https://github.com/jcs090218/ellsp/tree/master/vscode) (Winter 2023):
 [Emacs Lisp][] languages support for [Visual Studio Code][VSCode].
@@ -381,8 +450,14 @@ Forked from the original repository and maintained a version to ensure compatibi
 This language server is now deprecated as the upstream has transitioned to the official API in 2022.
 Users are encouraged to use the newer [grammarly-language-server][] instead.
 
+</details>
+
 ## Emacs stuff
 
+<details>
+  <summary>See details</summary>
+
+- [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024): [Cogru][] plugin for [Emacs][].
 - [treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) (Summer 2024):
 Code folding using `treesit.el`.
 - [region-occurrences-highlighter](https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter) (Summer 2024 <span aria-label="Maintainer"
@@ -1007,7 +1082,12 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 Emacs distribution that is designed to function smoothly across all operating systems,
 , delivering exceptional performance, especially on legacy [Windows][] systems.
 
+</details>
+
 ## Technical utilities
+
+<details>
+  <summary>See details</summary>
 
 - [minify-dir](https://github.com/jcs090218/node-minify-dir) (Spring 2019):
 Minify all files within a directory.
@@ -1015,7 +1095,12 @@ Another [Node.js][] website minifier created initially for the static site gener
 - [JCSBat_Util](https://github.com/jcs090218/JCSBat_Util) (Winter 2016 – Present):
 Some handy [batch][] files for my workflow as programmer. ([Windows][])
 
+</details>
+
 ## Reverse engineering, hacking, and security
+
+<details>
+  <summary>See details</summary>
 
 - [keytar-cli][] (Spring 2021):
 [CLI][] for [keytar](https://github.com/atom/node-keytar).
@@ -1023,18 +1108,33 @@ It was initially used with [lsp-grammarly][], but it became obsolete after the u
 - [reverse_shell](https://github.com/jcs090218/reverse_shell) (Spring 2019):
 Reverse shell implemented in [Python][].
 
+</details>
+
 ## AI & Machine Learning
+
+<details>
+  <summary>See details</summary>
 
 - [shakespeare-monkey](https://gitlab.com/jcs-workspace/ai/shakespeare-monkey) (Spring 2024 – Summer 2024):
 First attempt on [Genetic Algorithm][] to demostrate [Infinite monkey theorem][].
 
+</details>
+
 ## Static site generators
+
+<details>
+  <summary>See details</summary>
 
 - [SiraDoc][] (Fall 2021):
 A static documentation generator for scripting manuals!
 This was initially developed for several of my game frameworks, including [JCSUnity][], [JCSEgret][], [CCosQuick][], etc.
 
+</details>
+
 ## CI/CD tools and automation
+
+<details>
+  <summary>See details</summary>
 
 - [tree-sitter-langs/update-grammars.yml](https://github.com/emacs-tree-sitter/tree-sitter-langs/blob/master/.github/workflows/update-grammars.yml) (Spring 2024):
 Automatically update the [TreeSitter][] grammars (submodules) by opening [pull requests][PR].
@@ -1075,7 +1175,12 @@ Review new package PRs on [MELPA][] automatically.
 Requested by the community, refer to [melpa#6714](https://github.com/melpa/melpa/issues/6714).
 While it wasn't ultimately accepted, it propelled the community towards a better alternative — [melpazoid][].
 
+</details>
+
 ## On-hiatus projects (might be finished someday)
+
+<details>
+  <summary>See details</summary>
 
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
 A plugin for interacting with AWS from Emacs editor.
@@ -1108,7 +1213,12 @@ Quickly construct your game by utilizing multiple components and predefined defa
 My personal [vim][] configuration files.
 This is my initial experience with [Vim][], and I'm interested in exploring [NeoVim][] in the future.
 
+</details>
+
 ## Abandoned projects (will never be finished)
+
+<details>
+  <summary>See details</summary>
 
 - [tree-sitter-actionscript](https://github.com/jcs090218/tree-sitter-actionscript) (Spring 2021):
 [ActionScript][] grammar for [tree-sitter][].
@@ -1127,6 +1237,9 @@ I can't recall the precise reason for abandoning this. My best assumption is tha
 data-balloon-pos="up">💸</span>):
 A library designed for efficient game production using the [Egret][] engine as its foundation.
 The project was initiated during the course of work but is no longer in use as the [Egret][] engine became obsolete following their bankruptcy.
+
+</details>
+
 
 <!-- Links -->
 
@@ -1271,6 +1384,7 @@ The project was initiated during the course of work but is no longer in use as t
 [grammarly-language-server]: https://github.com/emacs-grammarly/grammarly-language-server
 [ltex-ls]: https://github.com/valentjn/ltex-ls
 [languagetool-languageserver]: https://github.com/languagetool-language-server/languagetool-languageserver
+[Cogru]: https://github.com/Cogru/cogru
 
 [32feet]: https://github.com/inthehand/32feet
 [CCosQuick]: https://github.com/jcs090218/CCosQuick

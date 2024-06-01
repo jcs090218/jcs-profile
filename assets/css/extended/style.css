@@ -8,6 +8,23 @@
 	margin: auto;
 }
 
+/* Details */
+
+details {
+  background: rgba(1, 1, 1, 0.05);
+  border-radius: 8px;
+  padding: 8px;
+}
+
+details > summary {
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+details[open] summary {
+  margin-bottom: 10px;
+}
+
 /* Balloon CSS */
 
 .dark [aria-label][data-balloon-pos]:after {
