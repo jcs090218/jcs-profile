@@ -19,9 +19,9 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 ---
 
-## Currently working on
+## 🚧 Currently working on
 
-<details open>
+<details class="my-details" open>
   <summary>See details</summary>
 
 - [cogru][] (Summer 2024): Where the collaboration start!?
@@ -29,9 +29,9 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 </details>
 
-## Tools, Framework, and Libraries
+## 🧰 Tools, Framework, and Libraries
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [JCSNetP][] (Winter 2017):
@@ -65,9 +65,9 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 
 </details>
 
-## Unity C# stuff
+## 🧩 Unity C# stuff
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
@@ -115,9 +115,9 @@ Quickly construct your game using multiple components and predefined default set
 
 </details>
 
-## Games
+## 🎮 Games
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [You Have An Order](https://jcs090218.itch.io/you-have-an-order) (Summer 2024):
@@ -184,9 +184,9 @@ The 3rd stage will be a boss fight, where the player who does the most damage wi
 
 </details>
 
-## Desktop apps
+## 🖥️ Desktop apps
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [OC_Install][] (Summer 2018):
@@ -203,9 +203,9 @@ Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 
 </details>
 
-## AR/VR mobile apps
+## 🪞 AR/VR mobile apps
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summer 2021 – Spring 2022 <span aria-label="Professional work"
@@ -224,9 +224,9 @@ Players can interact with objects in the scene by simply clicking on them.
 
 </details>
 
-## Music apps
+## 🎼 Music apps
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 <span aria-label="Professional work"
@@ -239,9 +239,9 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 </details>
 
-## Algorithms
+## 📐 Algorithms
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (Summer 2024):
@@ -275,9 +275,9 @@ Although it remains usable, the results in terms of fuzzy matching were not as i
 
 </details>
 
-## Animations, Shaders, and VFX
+## 🖌️ Animations, Shaders, and VFX
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summer 2023):
@@ -287,9 +287,9 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 
 </details>
 
-## Physics
+## 🧲 Physics
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [ImpulseEngine][] (Fall 2017 <span aria-label="School work"
@@ -299,9 +299,9 @@ This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
 </details>
 
-## Web apps and services
+## 🌐 Web apps and services
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [jcs-profile][] (Spring 2024):
@@ -381,9 +381,9 @@ Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this i
 
 </details>
 
-## Browser extensions
+## 🔎 Browser extensions
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [eyny-video-downloader](https://github.com/jcs-chromews/eyny-video-downloader) (Spring 2024):
@@ -393,9 +393,9 @@ This is a small extension that presents statistical charts indicating the websit
 
 </details>
 
-## Package managers and build tools
+## 📦 Package managers and build tools
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [eask/packaging][] (Fall 2023 – Winter 2023):
@@ -421,9 +421,9 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 
 </details>
 
-## Language clients and servers
+## 🖇 Language clients and servers
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [vscode-ellsp](https://github.com/jcs090218/ellsp/tree/master/vscode) (Winter 2023):
@@ -452,9 +452,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 </details>
 
-## Emacs stuff
+## ⛏ Emacs stuff
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024): [Cogru][] plugin for [Emacs][].
@@ -1084,9 +1084,9 @@ Emacs distribution that is designed to function smoothly across all operating sy
 
 </details>
 
-## Technical utilities
+## ⚙️ Technical utilities
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [minify-dir](https://github.com/jcs090218/node-minify-dir) (Spring 2019):
@@ -1097,9 +1097,9 @@ Some handy [batch][] files for my workflow as programmer. ([Windows][])
 
 </details>
 
-## Reverse engineering, hacking, and security
+## 🔓 Reverse engineering, hacking, and security
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [keytar-cli][] (Spring 2021):
@@ -1110,9 +1110,9 @@ Reverse shell implemented in [Python][].
 
 </details>
 
-## AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [shakespeare-monkey](https://gitlab.com/jcs-workspace/ai/shakespeare-monkey) (Spring 2024 – Summer 2024):
@@ -1120,9 +1120,9 @@ First attempt on [Genetic Algorithm][] to demostrate [Infinite monkey theorem][]
 
 </details>
 
-## Static site generators
+## ⚙️ Static site generators
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [SiraDoc][] (Fall 2021):
@@ -1131,9 +1131,9 @@ This was initially developed for several of my game frameworks, including [JCSUn
 
 </details>
 
-## CI/CD tools and automation
+## 🏭 CI/CD tools and automation
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [tree-sitter-langs/update-grammars.yml](https://github.com/emacs-tree-sitter/tree-sitter-langs/blob/master/.github/workflows/update-grammars.yml) (Spring 2024):
@@ -1177,9 +1177,9 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 
 </details>
 
-## On-hiatus projects (might be finished someday)
+## ⏸️ On-hiatus projects (might be finished someday)
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
@@ -1215,9 +1215,9 @@ This is my initial experience with [Vim][], and I'm interested in exploring [Neo
 
 </details>
 
-## Abandoned projects (will never be finished)
+## 🛑 Abandoned projects (will never be finished)
 
-<details>
+<details class="my-details">
   <summary>See details</summary>
 
 - [tree-sitter-actionscript](https://github.com/jcs090218/tree-sitter-actionscript) (Spring 2021):
