@@ -386,6 +386,8 @@ Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this i
 <details class="my-details">
   <summary>See details</summary>
 
+- [password-toggle](https://github.com/jcs-chromews/password-toggle) (Summer 2024):
+Show/Hide passwords on the page.
 - [eyny-video-downloader](https://github.com/jcs-chromews/eyny-video-downloader) (Spring 2024):
 An extension that integrates a download button for [EYNY Video][] site.
 - [browser-statistic](https://github.com/jcs-chromews/browser-statistic) (Spring 2024):
