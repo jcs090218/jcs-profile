@@ -473,6 +473,9 @@ data-balloon-pos="up">👷</span>):
 [Emacs][] plugin aiming to become an aesthetic, modern-looking tabs plugin.
 - [auto-close-block][] (Summer 2024):
 Automatically close block.
+- [doom-dashboard](https://github.com/emacs-dashboard/doom-dashboard) (Spring 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+[Doom][doomemacs] Like style for [emacs][] [dashboard][emacs-dashboard].
 - [sideline-load-cost](https://github.com/emacs-sideline/sideline-load-cost) (Spring 2024):
 Display load/require module size with [sideline][].
 - [guard-lf](https://github.com/jcs-elpa/guard-lf) (Spring 2024):
@@ -1480,6 +1483,8 @@ The project was initiated during the course of work but is no longer in use as t
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
+
+[doomemacs]: https://github.com/doomemacs/doomemacs
 
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
 [VR]: https://en.wikipedia.org/wiki/Virtual_reality
