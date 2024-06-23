@@ -459,6 +459,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+- [responsive-window](https://github.com/jcs-elpa/responsive-window) (Summer 2024):
+Adapt to different screen sizes automatically.
 - [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024): [Cogru][] plugin for [Emacs][].
 - [treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) (Summer 2024):
 Code folding using `treesit.el`.
@@ -773,7 +775,7 @@ This package introduces that feature.
 Automatically indent entire balanced expression block.
 - [fextern](https://github.com/emacs-vs/fextern) (Spring 2022):
 Record file external stats.
-- [auto-scroll-bar](https://github.com/jcs-elpa/auto-scroll-bar) (Spring 2022):
+- [auto-scroll-bar](https://github.com/emacs-vs/auto-scroll-bar) (Spring 2022):
 Automatically show/hide scroll-bars as needed.
 - [fuz-bin](https://github.com/jcs-legacy/fuz-bin) (Winter 2021):
 Similar to [fuz.el][] but with precompiled binaries.
