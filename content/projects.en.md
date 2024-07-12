@@ -459,6 +459,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+- [colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) (Summer 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+🎨Preview any color in your buffer.
 - [responsive-window](https://github.com/jcs-elpa/responsive-window) (Summer 2024):
 Adapt to different screen sizes automatically.
 - [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024): [Cogru][] plugin for [Emacs][].
