@@ -460,7 +460,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
   <summary>See details</summary>
 
 - [treesit-langs](https://github.com/emacs-tree-sitter/treesit-langs) (Summer 2024):
-Language bundle for [Emacs][]'s treesit.el
+Language bundle for [Emacs][]'s `treesit.el`.
 - [colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) (Summer 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 🎨Preview any color in your buffer.
