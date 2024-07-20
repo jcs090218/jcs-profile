@@ -459,8 +459,13 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+- [cognitive-complexity](https://github.com/emacs-vs/cognitive-complexity) (Summer 2024):
+Show [cognitive complexity][Cognitive Complexity] of code in [Emacs][] 29+ (treesit-based).
+This package is based on [codemetrics][] but is designed to support the built-in `treesit.el`.
+(ported by [@abougouffa][Abdelhak Bougouffa] ❤️)
 - [treesit-langs](https://github.com/emacs-tree-sitter/treesit-langs) (Summer 2024):
 Language bundle for [Emacs][]'s `treesit.el`.
+This package is based on [tree-sitter-langs][] but is designed to support the built-in `treesit.el`.
 - [colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) (Summer 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 🎨Preview any color in your buffer.
@@ -469,6 +474,7 @@ Adapt to different screen sizes automatically.
 - [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024): [Cogru][] plugin for [Emacs][].
 - [treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) (Summer 2024):
 Code folding using `treesit.el`.
+(ported by [@DevelopmentCool2449][Elijah Gabe] ❤️)
 - [region-occurrences-highlighter](https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter) (Summer 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 This [emacs][] package implements a local minor mode that highlights occurrences
@@ -534,7 +540,7 @@ A powerful and flexible [Emacs][] major mode for editing [PHP][] scripts.
 - [elisp-tree-sitter][] (Fall 2023 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Emacs Lisp][] bindings for [tree-sitter][].
-- [tree-sitter-langs](https://github.com/emacs-tree-sitter/tree-sitter-langs) (Fall 2023 <span aria-label="Maintainer"
+- [tree-sitter-langs][] (Fall 2023 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Language bundle for Emacs's [tree-sitter][elisp-tree-sitter] package.
 - [blacken](https://github.com/pythonic-emacs/blacken) (Fall 2023 <span aria-label="Maintainer"
@@ -584,11 +590,11 @@ Minor mode that helps you insert pair `/*` and `*/`.
 This package is no longer supported as it has been superseded by the [auto-close-block][] package.
 - [lsp-shader](https://github.com/shader-ls/lsp-shader) (Spring 2023 – Summer 2023):
 [lsp-mode][] client leveraging [shader-language-server][].
-- [codemetrics](https://github.com/emacs-vs/codemetrics) (Spring 2023):
+- [codemetrics][] (Spring 2023):
 Plugin shows complexity information.
 Inspired by [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) from the [VSCode][] community.
 This plugin implements live calculation of the **Cognitive Complexity** metric, which was proposed by G. Ann Campbell in
-[Cognitive Complexity - A new way of measuring understandability](https://www.sonarsource.com/docs/CognitiveComplexity.pdf)
+[Cognitive Complexity - A new way of measuring understandability][Cognitive Complexity]
 (c) SonarSource S.A. 2016-2021, Switzerland.
 - [jcs-echobar](https://github.com/jcs-emacs/jcs-echobar) (Spring 2023):
 An echo-bar for [jcs-emacs][].
@@ -1257,6 +1263,8 @@ The project was initiated during the course of work but is no longer in use as t
 
 [Milkypostman]: https://github.com/milkypostman
 [Rileran]: https://github.com/Rileran
+[Elijah Gabe]: https://github.com/DevelopmentCool2449
+[Abdelhak Bougouffa]: https://github.com/abougouffa
 
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
@@ -1462,7 +1470,9 @@ The project was initiated during the course of work but is no longer in use as t
 [ecukes]: https://github.com/ecukes/ecukes
 [origami.el]: https://github.com/elp-revive/origami.el
 [elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
+[tree-sitter-langs]: https://github.com/emacs-tree-sitter/tree-sitter-langs
 [ts-fold]:https://github.com/emacs-tree-sitter/ts-fold
+[codemetrics]: https://github.com/emacs-vs/codemetrics
 [TreeSitter]: https://tree-sitter.github.io/tree-sitter/
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
 [auto-close-block]: https://github.com/emacs-vs/auto-close-block
@@ -1546,6 +1556,7 @@ The project was initiated during the course of work but is no longer in use as t
 [WAV]: https://en.wikipedia.org/wiki/WAV
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
 
+[Cognitive Complexity]: https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
 [Genetic Algorithm]: https://en.wikipedia.org/wiki/Genetic_algorithm
 
