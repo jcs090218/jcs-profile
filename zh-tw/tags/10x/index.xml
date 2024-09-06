@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>10x on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/tags/10x/</link>
+    <description>Recent content in 10x on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.120.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/10x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在第一份工作中成為 10x 的工程師</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/being-10x-engineer-in-my-first-job/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/being-10x-engineer-in-my-first-job/</guid>
+      <description>這件事發生在我人生中的第一份工作, 這份工作是在 imi technology (應該已經倒閉) 擔任 Unity 軟體工程師. 主要工作為開發棋牌遊戲 (就是博弈). 當初選擇這間公司單純是因為離家很近, 薪水可以接受, 也就沒有想太多了. 有些人可能會對博弈的工作感到反感或有興趣. 但這次的主題跟這個產業沒有掛鉤, 只單純講軟體業的一些親身經歷. 🤔
+✏️ 概況 這個團隊總共為 8 人團隊, 有 5 名超過 10 年經驗的資深工程師, 1 名初級, 剩下 2 名入門級. 我們的分工為下:
+3 名資深 + 1 名初級使用 Java 開發服務端 1 名資深使用 Phaser 開發 Web 遊戲客戶端 1 名資深 + 1 名入門級 (我) 開發 Unity 遊戲客戶端 1 名入門級學習 (不太知道他是做什麼的) 如上所示, 我負責的和另一名資深的工程師共同開發 Unity 遊戲客戶端.說來好笑, 我們這個團隊已經面臨瀕死邊緣了. 好像是老闆對我們的成績不滿意, 開發時程過長, 所以準備要裁掉整個部門 (當時我並不知道). 😒
+📊 比較 在我們團隊內, 我自獨立開發了一整套完整的遊戲內容, 另外一位則是負責 UI 部分.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- 0.120.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Being 10x engineer in my first job</title>
+      <link>https://www.jcs-profile.com/posts/career/being-10x-engineer-in-my-first-job/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/career/being-10x-engineer-in-my-first-job/</guid>
+      <description>This took place during my very first job as a Unity software engineer at IMI Technology (which, by now, should have shut down). My primary responsibility was to develop board games.I joined the company mainly because it was conveniently close to home and the pay was reasonable, so I didn’t give it much thought. While some might find game development either intriguing or off-putting, this post isn’t about that industry. It’s purely a reflection of my own experience in software development.</description>
+    </item>
     <item>
       <title>Elisp Language Server</title>
       <link>https://www.jcs-profile.com/posts/editor/elisp-ls/</link>
