@@ -19,7 +19,7 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 ---
 
-## 🚧 Currently working on
+### 🚧 Currently working on
 
 <details class="my-details" open>
   <summary>See details</summary>
@@ -29,7 +29,7 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 </details>
 
-## 🧰 Tools, Framework, and Libraries
+### 🧰 Tools, Framework, and Libraries
 
 <details class="my-details">
   <summary>See details</summary>
@@ -67,7 +67,7 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 
 </details>
 
-## 🧩 Unity C# stuff
+### 🧩 Unity C# stuff
 
 <details class="my-details">
   <summary>See details</summary>
@@ -115,7 +115,7 @@ An alternative approach to package management utilizing ignore files.
 
 </details>
 
-## 🎮 Games
+### 🎮 Games
 
 <details class="my-details">
   <summary>See details</summary>
@@ -184,7 +184,7 @@ The 3rd stage will be a boss fight, where the player who does the most damage wi
 
 </details>
 
-## 🖥️ Desktop apps
+### 🖥️ Desktop apps
 
 <details class="my-details">
   <summary>See details</summary>
@@ -203,7 +203,7 @@ Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 
 </details>
 
-## 🪞 AR/VR mobile apps
+### 🪞 AR/VR mobile apps
 
 <details class="my-details">
   <summary>See details</summary>
@@ -224,7 +224,7 @@ Players can interact with objects in the scene by simply clicking on them.
 
 </details>
 
-## 🎼 Music apps
+### 🎼 Music apps
 
 <details class="my-details">
   <summary>See details</summary>
@@ -239,7 +239,7 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 </details>
 
-## 📐 Algorithms
+### 📐 Algorithms
 
 <details class="my-details">
   <summary>See details</summary>
@@ -249,7 +249,7 @@ Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibili
 - [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
 Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
 
-### Fuzzy Matching
+#### Fuzzy Matching
 
 - [flx-zig](https://github.com/jcs090218/flx-zig) (Spring 2024):
 Rewrite [emacs-flx][] in [Zig][].
@@ -275,7 +275,7 @@ Although it remains usable, the results in terms of fuzzy matching were not as i
 
 </details>
 
-## 🖌️ Animations, Shaders, and VFX
+### 🖌️ Animations, Shaders, and VFX
 
 <details class="my-details">
   <summary>See details</summary>
@@ -287,7 +287,7 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 
 </details>
 
-## 🧲 Physics
+### 🧲 Physics
 
 <details class="my-details">
   <summary>See details</summary>
@@ -299,7 +299,7 @@ This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 
 </details>
 
-## 🌐 Web apps and services
+### 🌐 Web apps and services
 
 <details class="my-details">
   <summary>See details</summary>
@@ -381,7 +381,7 @@ Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this i
 
 </details>
 
-## 🔎 Browser extensions
+### 🔎 Browser extensions
 
 <details class="my-details">
   <summary>See details</summary>
@@ -395,7 +395,7 @@ This is a small extension that presents statistical charts indicating the websit
 
 </details>
 
-## 📦 Package managers and build tools
+### 📦 Package managers and build tools
 
 <details class="my-details">
   <summary>See details</summary>
@@ -423,7 +423,7 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 
 </details>
 
-## 🖇 Language clients and servers
+### 🖇 Language clients and servers
 
 <details class="my-details">
   <summary>See details</summary>
@@ -454,7 +454,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 </details>
 
-## ⛏ Emacs stuff
+### ⛏ Emacs stuff
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1102,7 +1102,7 @@ Emacs distribution that is designed to function smoothly across all operating sy
 
 </details>
 
-## ⚙️ Technical utilities
+### ⚙️ Technical utilities
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1115,7 +1115,7 @@ Some handy [batch][] files for my workflow as programmer. ([Windows][])
 
 </details>
 
-## 🔓 Reverse engineering, hacking, and security
+### 🔓 Reverse engineering, hacking, and security
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1128,7 +1128,7 @@ Reverse shell implemented in [Python][].
 
 </details>
 
-## 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1138,7 +1138,7 @@ First attempt on [Genetic Algorithm][] to demostrate [Infinite monkey theorem][]
 
 </details>
 
-## ⚙️ Static site generators
+### ⚙️ Static site generators
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1149,7 +1149,7 @@ This was initially developed for several of my game frameworks, including [JCSUn
 
 </details>
 
-## 🏭 CI/CD tools and automation
+### 🏭 CI/CD tools and automation
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1195,7 +1195,7 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 
 </details>
 
-## ⏸️ On-hiatus projects (might be finished someday)
+### ⏸️ On-hiatus projects (might be finished someday)
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1233,7 +1233,7 @@ This is my initial experience with [Vim][], and I'm interested in exploring [Neo
 
 </details>
 
-## 🛑 Abandoned projects (will never be finished)
+### 🛑 Abandoned projects (will never be finished)
 
 <details class="my-details">
   <summary>See details</summary>
