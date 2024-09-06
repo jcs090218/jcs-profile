@@ -124,3 +124,7 @@ body:not(.dark) header a:hover {
 .archive-entry {
     margin: 0px;
 }
+
+.archive-year-header > .archive-header-link {
+    font-size: 1.8rem;
+}
