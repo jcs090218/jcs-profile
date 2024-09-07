@@ -1,0 +1,22 @@
+/* Simpleicons */
+
+.simpleicons {
+    display: inline-block;
+    margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 5px;
+    width: 19px;
+    height: 19px;
+}
+
+#si-unity {
+    background-image: url('https://cdn.simpleicons.org/unity');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#si-emacs {
+    background-image: url('https://cdn.simpleicons.org/gnuemacs');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

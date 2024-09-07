@@ -67,7 +67,7 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 
 </details>
 
-### 🧩 Unity C# stuff
+### <div class="simpleicons" id="si-unity" ></div> Unity C# stuff
 
 <details class="my-details">
   <summary>See details</summary>
@@ -406,7 +406,7 @@ I've actively contributed to diverse package managers such as [Chocolatey][], [S
 Furthermore, I've established my own package repositories for [Scoop][], [Homebrew][], [Personal Package Archive (PPA)][PPA], and more.
 - [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
 Convert [Eask][eask/cli] into [Nix][] expressions.
-- [nixpkgs](https://github.com/NixOS/nixpkgs) (Fall 2022 – Present <span aria-label="Contributor"
+- [nixpkgs][] (Fall 2022 – Present <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
 [Nix][] Packages collection & [NixOS][Nix].
 I serve as the package maintainer for a small set of packages.
@@ -454,7 +454,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 </details>
 
-### ⛏ Emacs stuff
+### <div class="simpleicons" id="si-emacs" ></div> Emacs stuff
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1318,6 +1318,7 @@ The project was initiated during the course of work but is no longer in use as t
 [React.js]: https://react.dev/
 [DRF]: https://www.django-rest-framework.org/
 [Nix]: https://nixos.org/
+[nixpkgs]: https://github.com/NixOS/nixpkgs
 [Grammarly]: https://www.grammarly.com/
 [Emmet]: https://emmet.io/
 [GitHub]: https://github.com/
