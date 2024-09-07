@@ -2,21 +2,26 @@
 
 .simpleicons {
     display: inline-block;
-    margin-top: auto;
-	margin-bottom: auto;
 	margin-right: 5px;
-    width: 19px;
-    height: 19px;
-}
-
-#si-unity {
-    background-image: url('https://cdn.simpleicons.org/unity');
-    background-size: cover;
-    background-repeat: no-repeat;
+	margin-left: 5px;
+    width: 20px;
+    height: 20px;
 }
 
 #si-emacs {
     background-image: url('https://cdn.simpleicons.org/gnuemacs');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#si-nix {
+    background-image: url('https://cdn.simpleicons.org/nixos');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#si-unity {
+    background-image: url('https://cdn.simpleicons.org/unity');
     background-size: cover;
     background-repeat: no-repeat;
 }

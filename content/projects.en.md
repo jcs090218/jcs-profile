@@ -67,7 +67,7 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 
 </details>
 
-### <div class="simpleicons" id="si-unity" ></div> Unity C# stuff
+### <div class="simpleicons" id="si-unity"></div> Unity C# stuff
 
 <details class="my-details">
   <summary>See details</summary>
@@ -311,7 +311,7 @@ Scripting manual website for [JCSGodot][] API.
 - [blog@v2](https://github.com/jcs-legacy/blog) (Fall 2022 – Spring 2024):
 My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
 - [Eask Manual](https://emacs-eask.github.io/) (Summer 2022 – Winter 2022):
-[Eask][eask/cli]'s documentation website.
+[Eask][emacs-eask/cli]'s documentation website.
 - [JCS-EMACS Homepage](https://jcs-emacs.github.io/) (Spring 2022):
 Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
 - [JCS-ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
@@ -400,26 +400,36 @@ This is a small extension that presents statistical charts indicating the websit
 <details class="my-details">
   <summary>See details</summary>
 
-- [eask/packaging][] (Fall 2023 – Winter 2023):
-Packaging for [Eask CLI][eask/cli].
+- [emacs-eask/packaging][] (Fall 2023 – Winter 2023):
+Packaging for [Eask CLI][emacs-eask/cli].
 I've actively contributed to diverse package managers such as [Chocolatey][], [Snapcraft][], [MacPorts][], etc.
 Furthermore, I've established my own package repositories for [Scoop][], [Homebrew][], [Personal Package Archive (PPA)][PPA], and more.
 - [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
-Convert [Eask][eask/cli] into [Nix][] expressions.
+Convert [Eask][emacs-eask/cli] into [Nix][] expressions.
 - [nixpkgs][] (Fall 2022 – Present <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
 [Nix][] Packages collection & [NixOS][Nix].
 I serve as the package maintainer for a small set of packages.
-- [eask/archives][] (Spring 2022 – Winter 2023):
+- [emacs-eask/archives][] (Spring 2022 – Winter 2023):
 Back up the `archive-contents` to avoid potential failures when refreshing the package archive.
-This is a factor that enhances the stability of [Eask][eask/cli].
-- [Eask][eask/cli] or [eask/cli][] (Spring 2022 – Winter 2023):
+This is a factor that enhances the stability of [Eask][emacs-eask/cli].
+- [Eask][emacs-eask/cli] or [emacs-eask/cli][] (Spring 2022 – Winter 2023):
 [CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
 This tool is the successor to [Cask][], offering enhanced stability, cross-platform capability, and extensibility.
 - [Cask][] (Spring 2021 – Spring 2022 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Project management tool for [Emacs][].
 I'm the maintainer specifically responsible to [Windows][] platform.
+
+</details>
+
+### <div class="simpleicons" id="si-nix"></div> Nix stuff
+
+<details class="my-details">
+  <summary>See details</summary>
+
+- [nur](https://github.com/jcs090218/nur) (Fall 2024):
+Jen-Chieh's [Nix][] User Repository
 
 </details>
 
@@ -454,7 +464,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 </details>
 
-### <div class="simpleicons" id="si-emacs" ></div> Emacs stuff
+### <div class="simpleicons" id="si-emacs"></div> Emacs stuff
 
 <details class="my-details">
   <summary>See details</summary>
@@ -638,13 +648,13 @@ data-balloon-pos="up">✨</span><span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Ace-link](https://github.com/abo-abo/ace-link) for [emacs-dashboard][].
 - [easky](https://github.com/emacs-eask/easky) (Winter 2022):
-Control [Eask CLI][eask/cli] in [Emacs][].
+Control [Eask CLI][emacs-eask/cli] in [Emacs][].
 - [eldoc-eask](https://github.com/emacs-eask/eldoc-eask) (Winter 2022):
 [Eldoc][] support for Eask-file.
 - [company-eask](https://github.com/emacs-eask/company-eask) (Winter 2022):
 [Company][] backend for Eask-file.
 - [eask](https://github.com/emacs-eask/eask) (Winter 2022):
-Core [Eask][eask/cli] APIs, for [Eask CLI][eask/cli] development.
+Core [Eask][emacs-eask/cli] APIs, for [Eask CLI][emacs-eask/cli] development.
 - [company-elisp-keywords](https://github.com/jcs-elpa/company-elisp-keywords) (Winter 2022):
 [Company][] completion for `finder-known-keywords`.
 - [cycle-case-style](https://github.com/jcs-elpa/cycle-case-style) (Winter 2022):
@@ -747,9 +757,9 @@ nic's overriding flet, for fleting functions for the purpose of decorating them.
 data-balloon-pos="up">🔗</span>):
 An [Emacs][] package that checks internet connectivity using [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)).
 - [flymake-eask](https://github.com/flymake/flymake-eask) (Summer 2022):
-[Eask][eask/cli] support in [Flymake][].
+[Eask][emacs-eask/cli] support in [Flymake][].
 - [flycheck-eask](https://github.com/flycheck/flycheck-eask) (Summer 2022):
-[Eask][eask/cli] support in [Flycheck][].
+[Eask][emacs-eask/cli] support in [Flycheck][].
 - [recentf-excl](https://github.com/jcs-elpa/recentf-excl) (Summer 2022):
 Exclude commands for recent files.
 Certain commands might inadvertently add files, resulting in unwanted entries in [recentf][].
@@ -775,7 +785,7 @@ Quick-peek inline-window library for [Emacs][].
 - [vs-revbuf](https://github.com/emacs-vs/vs-revbuf) (Spring 2022):
 Revert buffers like [Visual Studio][].
 - [eask-mode](https://github.com/emacs-eask/eask-mode) (Spring 2022):
-Major mode for editing [Eask][eask/cli] files.
+Major mode for editing [Eask][emacs-eask/cli] files.
 - [buffer-menu-project](https://github.com/jcs-elpa/buffer-menu-project) (Spring 2022):
 List buffers relative to project.
 - [buffer-menu-filter](https://github.com/jcs-elpa/buffer-menu-filter) (Spring 2022):
@@ -1164,7 +1174,7 @@ This marks the second attempt to resolve the issue in [melpa#6714](https://githu
 This solution is significantly simpler, relying solely on [GitHub Actions][], which improves the chances of it being merged.
 - [update_submodules.yml][] (Spring 2024):
 Automatically update all the submodules within the repository and update the repository by opening a [pull request][PR].
-This workflow is used across several projects, such as [eask/cli][], [jcs-profile][] (this website), and more.
+This workflow is used across several projects, such as [emacs-eask/cli][], [jcs-profile][] (this website), and more.
 - [setup-emacs-windows/update-stable.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-stable.yml) (Spring 2024):
 Automatically locate the latest Emacs' version and update the code through a [pull request (PR)][PR].
 - [setup-emacs-windows/update-snapshot.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-snapshot.yml) (Spring 2024):
@@ -1180,7 +1190,7 @@ Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action
 This project aims to replace [purcell/setup-emacs][] by combining the two [GitHub Actions][] — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
 As a result, it now supports all commonly used operating systems.
 - [setup-eask](https://github.com/emacs-eask/setup-eask) (Spring 2022):
-Install [Eask][eask/cli] for [Github Actions][] workflow.
+Install [Eask][emacs-eask/cli] for [Github Actions][] workflow.
 - [unity-verify-code](https://github.com/game-ci/unity-verify-code) (Fall 2021):
 An email parser to get 6 digit verification code to bypass [TFA][].
 - [unity-license-activate](https://github.com/game-ci/unity-license-activate) (Fall 2021):
@@ -1385,9 +1395,9 @@ The project was initiated during the course of work but is no longer in use as t
 [flx-c]: https://github.com/jcs090218/flx-c
 
 [Cask]: https://github.com/cask/cask
-[eask/cli]: https://github.com/emacs-eask/cli
-[eask/archives]: https://github.com/emacs-eask/archives
-[eask/packaging]: https://github.com/emacs-eask/packaging
+[emacs-eask/cli]: https://github.com/emacs-eask/cli
+[emacs-eask/archives]: https://github.com/emacs-eask/archives
+[emacs-eask/packaging]: https://github.com/emacs-eask/packaging
 [Chocolatey]: https://chocolatey.org/
 [Scoop]: https://scoop.sh/
 [Homebrew]: https://brew.sh/
