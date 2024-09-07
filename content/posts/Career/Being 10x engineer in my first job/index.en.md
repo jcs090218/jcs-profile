@@ -48,7 +48,7 @@ For comparison, it took the senior engineer 10 months to finish the web client.
 Of course, this is an unfair comparison. The web client engineer had to learn [Phaser][] from scratch and develop the first version,
 which led to higher communication overhead. I just had to replicate what was already built. 🤔
 
-Still, when looking at the total development time alone (without diving into the nuances), it was a striking difference: 1 month vs. 10 months! 😬
+Still, when looking at the total development time alone (without diving into the nuances), it was a striking difference: **1 month** vs. **10 months**! 😬
 
 ## 💬 Conclusion
 
