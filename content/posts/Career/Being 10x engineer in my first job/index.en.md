@@ -16,14 +16,14 @@ managed to fix a bunch of complex bugs in a short amount of time, which left the
 
 But is that really what defines a 10x engineer? It brought back memories of my own experience as a so-called 10x engineer during my **first job**!
 
+<!-- more -->
+
 ## 🗯️ Preamble
 
 This took place during my very first job as a Unity software engineer at IMI Technology (which, by now, should have shut down).
 My primary responsibility was to develop board games.I joined the company mainly because it was conveniently close to home and the pay was reasonable,
 so I didn’t give it much thought. While some might find game development either intriguing or off-putting, this post isn’t about that industry.
 It’s purely a reflection of my own experience in software development.
-
-<!-- more -->
 
 ## ✏️ Overview
 
@@ -57,6 +57,7 @@ Despite that, I wanted to document the experience because it’s unlikely I’ll
 
 I also want to stress that my former colleagues were extremely skilled, and I never questioned their professionalism.
 From what I saw, they were absolutely top-tier in their fields! 💯
+
 
 <!-- Links -->
 
