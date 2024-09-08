@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rant on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/tags/rant/</link>
+    <description>Recent content in Rant on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.120.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem with LeetCode and SWE jobs</title>
+      <link>https://www.jcs-profile.com/posts/career/problem-with-leetcode-and-swe-jobs/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/career/problem-with-leetcode-and-swe-jobs/</guid>
+      <description>This is a rant about software engineering interviews and LeetCode.
+🗯️ Preamble In 2024, hundreds of thousands of people worldwide are grinding through LeetCode, aiming to break into the tech industry, drawn by the high salaries it offers.
+🤔 What does LeetCode actually bring? LeetCode offers little more than these benefits:
+Algorithm exercises and data structure knowledge Coding under pressure (Why though? Are we in a war zone now?) Passing coding interviews However, completing LeetCode doesn&amp;rsquo;t prove you&amp;rsquo;re a good software engineer.</description>
+    </item>
+  </channel>
+</rss>

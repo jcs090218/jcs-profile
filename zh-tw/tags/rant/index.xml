@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rant on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/tags/rant/</link>
+    <description>Recent content in Rant on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.120.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeetCode 與 SWE 工作的問題</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/problem-with-leetcode-and-swe-jobs/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/problem-with-leetcode-and-swe-jobs/</guid>
+      <description>這是一篇關於軟體工程面試和 LeetCode 的怒罵。
+🗯️ 序言 2024 年，全球數十萬人都在努力學習 LeetCode，目標是在高薪的吸引下打入科技產業。
+🤔 What does LeetCode actually bring? LeetCode 提供的好處不外乎這些：
+[演算法][] 練習與 [資料結構][] 知識 在壓力下編碼（為什麼呢？ 我們現在是在戰區嗎？） 通過編碼面試 然而，完成 LeetCode 並不能證明您是一位優秀的軟體工程師。 它只顯示您可以編寫基本演算法和解決程式設計難題。 它並不能測試基本技能，例如協作、溝通、文件、設計模式、系統架構、低階程式設計或核心電腦科學知識。
+如果LeetCode只測試這些基本技能，那麼雇主要聘請的是什麼？入門級的程式設計師？ 這就像雇用一名醫生，但只測試他們的基本化學知識 - 而這些知識在現實世界的情況下很少會用到。
+⁉️ 真正的問題是什麼？ LeetCode練習與學習無關。您不會獲得對電腦科學或系統設計的深入瞭解；相反地，您只會學習如何通過編碼面試。 如果問題還不太明顯，我們可以從另一個角度來看：這就像在學校裡，學習並不是重點，通過考試並取得好成績才是重點。 這種心態也許可以解釋，為什麼有些人儘管被標籤為「受過教育」，但行為或想法仍然不佳。 現在，我們在科技面試中也在做同樣的事情。
+LeetCode 不是軟體工程。 😕
+💡 有哪些更好的解決方案？ 有許多更有成效的事情可以做。 貢獻 Nix/NixOS、改善 Emacs 的生態系統、強化 Java 套件管理、研究 C 與 CMake 工作流程、改善 Godot Assets 商店，或是練習撰寫解析器與語言伺服器。 有這麼多東西仍未完善，但人們卻在 LeetCode 上浪費時間。 😢
+研究其他人的程式碼、與他們交談、學習他們如何解決現實世界中的程式設計問題，才是更好的方法。
+這個產業之所以受苦，就是因為我們採取了懶惰的方式，只使用軟體來篩選候選人，而不評估真正的人才。 😞
+😤 我並不孤單 只要在 Google 上快速搜尋，就會發現無數的怒罵：</description>
+    </item>
+  </channel>
+</rss>
