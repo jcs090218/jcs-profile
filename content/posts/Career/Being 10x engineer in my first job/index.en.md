@@ -61,4 +61,5 @@ From what I saw, they were absolutely top-tier in their fields! 💯
 
 <!-- Links -->
 
+[LinkedIn]: https://linkedin.com/
 [Phaser]: https://phaser.io/
