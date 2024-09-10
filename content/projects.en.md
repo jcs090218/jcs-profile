@@ -423,12 +423,12 @@ I'm the maintainer specifically responsible to [Windows][] platform.
   <summary>See details</summary>
 
 - [jcs090218/nur](https://github.com/jcs090218/nur) (Fall 2024):
-Jen-Chieh's [Nix][] User Repository
+Jen-Chieh's [Nix User Repository (NUR)][NUR].
 - [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
 Convert [Eask][emacs-eask/cli] into [Nix][] expressions.
 - [nixpkgs][] (Fall 2022 – Present <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
-[Nix][] Packages collection & [NixOS][Nix].
+[Nix][] Packages collection & [NixOS][].
 I serve as the package maintainer for a small set of packages.
 
 </details>
@@ -1328,7 +1328,9 @@ The project was initiated during the course of work but is no longer in use as t
 [React.js]: https://react.dev/
 [DRF]: https://www.django-rest-framework.org/
 [Nix]: https://nixos.org/
+[NixOS]: https://nixos.org/
 [nixpkgs]: https://github.com/NixOS/nixpkgs
+[NUR]: https://github.com/nix-community/NUR
 [Grammarly]: https://www.grammarly.com/
 [Emmet]: https://emmet.io/
 [GitHub]: https://github.com/
