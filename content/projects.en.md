@@ -404,12 +404,6 @@ This is a small extension that presents statistical charts indicating the websit
 Packaging for [Eask CLI][emacs-eask/cli].
 I've actively contributed to diverse package managers such as [Chocolatey][], [Snapcraft][], [MacPorts][], etc.
 Furthermore, I've established my own package repositories for [Scoop][], [Homebrew][], [Personal Package Archive (PPA)][PPA], and more.
-- [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
-Convert [Eask][emacs-eask/cli] into [Nix][] expressions.
-- [nixpkgs][] (Fall 2022 – Present <span aria-label="Contributor"
-data-balloon-pos="up">✨</span>):
-[Nix][] Packages collection & [NixOS][Nix].
-I serve as the package maintainer for a small set of packages.
 - [emacs-eask/archives][] (Spring 2022 – Winter 2023):
 Back up the `archive-contents` to avoid potential failures when refreshing the package archive.
 This is a factor that enhances the stability of [Eask][emacs-eask/cli].
@@ -428,8 +422,14 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 <details class="my-details">
   <summary>See details</summary>
 
-- [nur](https://github.com/jcs090218/nur) (Fall 2024):
+- [jcs090218/nur](https://github.com/jcs090218/nur) (Fall 2024):
 Jen-Chieh's [Nix][] User Repository
+- [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
+Convert [Eask][emacs-eask/cli] into [Nix][] expressions.
+- [nixpkgs][] (Fall 2022 – Present <span aria-label="Contributor"
+data-balloon-pos="up">✨</span>):
+[Nix][] Packages collection & [NixOS][Nix].
+I serve as the package maintainer for a small set of packages.
 
 </details>
 
