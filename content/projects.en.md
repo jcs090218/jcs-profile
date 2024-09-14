@@ -25,7 +25,9 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
   <summary>See details</summary>
 
 - [cogru][] (Summer 2024): Where the collaboration start!?
-- [jayces][] (Winter 2023 – Presented): My first programming language.
+I've implemented the [Operational Transformation (OT)][] in [Rust][]
+using the [client-server model][].
+- [jayces][] (Winter 2023 – Presented): Programming language I've created to learn the to write one my own.
 
 </details>
 
@@ -1553,6 +1555,8 @@ The project was initiated during the course of work but is no longer in use as t
 [RPG]: https://en.wikipedia.org/wiki/Role-playing_gametion
 [MOBA]: https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena
 [TPS]: https://en.wikipedia.org/wiki/Third-person_shooter
+[client-server model]: https://en.wikipedia.org/wiki/Client%E2%80%93server_model
+[Operational Transformation (OT)]: https://en.wikipedia.org/wiki/Operational_transformation
 [hack & slash]: https://en.wikipedia.org/wiki/Hack_and_slash
 [tile-matching]: https://en.wikipedia.org/wiki/Tile-matching_video_game
 [IAP]: https://developer.apple.com/in-app-purchase/
