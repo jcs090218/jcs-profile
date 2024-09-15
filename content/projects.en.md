@@ -24,7 +24,7 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
-- [cogru][] (Summer 2024): Where the collaboration start!?
+- [cogru][] (Summer 2024 – Fall 2024): Where the collaboration start!?
 I've implemented the [Operational Transformation (OT)][] in [Rust][]
 using the [client-server model][].
 - [jayces][] (Winter 2023 – Presented): Programming language I've created to learn the to write one my own.
