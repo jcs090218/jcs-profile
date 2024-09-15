@@ -331,7 +331,7 @@ data-balloon-pos="up">✨</span>):
 🔎 Hunt down social media accounts by username across social networks.
 I was one of the early contributors who took care of the ANSI color using [colorama][].
 - [Links_Template](https://github.com/jcs090218/Links_Template) (Spring 2020):
-Rapidly build your link page.
+Rapidly build your link page to marketing your games!
 - [RandomCookMenu](https://gitlab.com/jcs-workspace/php/RandomCookMenu) (Winter 2017):
 A small application that enables you to create cooking menus and randomly selects one for you.
 This was originally designed for my mom, who often struggled with deciding what to cook every day.
