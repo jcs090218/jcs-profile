@@ -366,7 +366,7 @@ Constructed using [Node.js][] and [Express.js][]. (replaced with [SiraDoc][])
 - [collaboration-server-protocol][CSP] (Summer 2024 – Fall 2024):
 Defines a common protocol for collaboration servers.
 Built with [docsy](https://www.docsy.dev/).
-- [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
+- [Scripting_Manual_JCSGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSGodot) (Winter 2023):
 Scripting manual website for [JCSGodot][] [API][].
 - [Eask Manual](https://emacs-eask.github.io/) (Summer 2022 – Winter 2022):
 [Eask][emacs-eask/cli]'s documentation website.
