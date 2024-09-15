@@ -306,29 +306,11 @@ This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 <details class="my-details">
   <summary>See details</summary>
 
-- [jcs-profile][] (Spring 2024):
-My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
-- [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
-Scripting manual website for [JCSGodot][] API.
-- [blog@v2](https://github.com/jcs-legacy/blog) (Fall 2022 – Spring 2024):
-My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
-- [Eask Manual](https://emacs-eask.github.io/) (Summer 2022 – Winter 2022):
-[Eask][emacs-eask/cli]'s documentation website.
 - [JCS-EMACS Homepage](https://jcs-emacs.github.io/) (Spring 2022):
 Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
 - [JCS-ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
 A homepage for [JCS-ELPA][] designed to showcase all packages in the archive.
 The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
-- [CCosQuick Manual](https://jcs090218.github.io/CCosQuick/) (Fall 2021):
-The documentation website for my game framework — [CCosQuick][].
-- [JCSEgret Manual](https://jcs090218.github.io/JCSEgret/) (Fall 2021):
-The documentation website for my game framework — [JCSEgret][].
-- [JCSUE Manual](https://jcs090218.github.io/JCSUE/) (Fall 2021):
-The documentation website for my game framework — [JCSUE][].
-- [JCSUnity Manual](https://jcs090218.github.io/JCSUnity/) (Fall 2021):
-The documentation website for my game framework — [JCSUnity][].
-- [blog@v1](https://github.com/jcs090218/blog/tree/v1) (Fall 2021 – Fall 2022):
-My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (Summer 2021 – Winter 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A small web application made using [React.js][], designed for use as a company's homepage.
@@ -337,10 +319,6 @@ Website to interact [Sherlock API][sherlock-project/api].
 - [sherlock-project/api](https://github.com/sherlock-project/api) (Spring 2021):
 API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework (DRF)][DRF].
 Initial attempt with [DRF][].
-- [Scripting_Manual_JCSUE](https://github.com/jcs-legacy/Scripting_Manual_JCSUE) (Summer 2020):
-Scripting manual for [JCSUE][] API.
-- [Scripting_Manual_CCosQuick](https://github.com/jcs-legacy/Scripting_Manual_CCosQuick) (Spring 2020):
-Scripting manual for [CCosQuick][] API.
 - [box_server](https://gitlab.com/jcs-workspace/node.js/box_server) (Spring 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A straightforward server designed to be compatible with any [WebSocket][] client utilizing the [ws][] library.
@@ -354,21 +332,6 @@ data-balloon-pos="up">✨</span>):
 I was one of the early contributors who took care of the ANSI color using [colorama][].
 - [Links_Template](https://github.com/jcs090218/Links_Template) (Spring 2020):
 Rapidly build your link page.
-- [Blog_JenChieh](https://github.com/jcs-legacy/Blog_JenChieh) (Winter 2018 – Winter 2020):
-The blog system I initiated during my university years was constructed using the [Blog_Template][].
-I later shifted to a Static Site Generator (SSG) solution to minimize my server costs.
-- [Blog_Template][] (Winter 2018):
-A blog template that allows individuals to self-host their blogs!
-Constructed using [Node.js][] and [Express.js][]. (replaced with [SiraDoc][])
-- [Scripting_Manual_JCSEgret](https://github.com/jcs-legacy/Scripting_Manual_JCSEgret) (Winter 2018):
-Scripting manual website for [JCSEgret][] API.
-- [API_Reference_Template][] (Winter 2018):
-Simple API references webiste hoster. (replaced with [SiraDoc][])
-- [Scripting_Manual_JCSUnity](https://github.com/jcs-legacy/Scripting_Manual_JCSUnity) (Fall 2018):
-Scripting manual for [JCSUnity][] API.
-Later separated into [API_Reference_Template][] and subsequently reliant on it.
-- [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
-My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
 - [RandomCookMenu](https://gitlab.com/jcs-workspace/php/RandomCookMenu) (Winter 2017):
 A small application that enables you to create cooking menus and randomly selects one for you.
 This was originally designed for my mom, who often struggled with deciding what to cook every day.
@@ -380,6 +343,54 @@ Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this i
 data-balloon-pos="up">🏫</span>):
 A website recommends a few boba tea places in San Francisco!
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
+
+#### 👤 Blog and personal websites
+
+- [jcs-profile][] (Spring 2024):
+My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+- [blog@v2](https://github.com/jcs-legacy/blog) (Fall 2022 – Spring 2024):
+My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
+- [blog@v1](https://github.com/jcs090218/blog/tree/v1) (Fall 2021 – Fall 2022):
+My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
+- [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (Winter 2018 – Spring 2024):
+My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
+- [Blog_JenChieh](https://github.com/jcs-legacy/Blog_JenChieh) (Winter 2018 – Winter 2020):
+The blog system I initiated during my university years was constructed using the [Blog_Template][].
+I later shifted to a Static Site Generator (SSG) solution to minimize my server costs.
+- [Blog_Template][] (Winter 2018):
+A blog template that allows individuals to self-host their blogs!
+Constructed using [Node.js][] and [Express.js][]. (replaced with [SiraDoc][])
+
+#### 📚 Documentations and manuals
+
+- [collaboration-server-protocol][CSP] (Summer 2024 – Fall 2024):
+Defines a common protocol for collaboration servers.
+Built with [docsy](https://www.docsy.dev/).
+- [Scripting_Manual_JCSUGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSUGodot) (Winter 2023):
+Scripting manual website for [JCSGodot][] [API][].
+- [Eask Manual](https://emacs-eask.github.io/) (Summer 2022 – Winter 2022):
+[Eask][emacs-eask/cli]'s documentation website.
+- [CCosQuick Manual](https://jcs090218.github.io/CCosQuick/) (Fall 2021):
+The documentation website for my game framework — [CCosQuick][].
+- [JCSEgret Manual](https://jcs090218.github.io/JCSEgret/) (Fall 2021):
+The documentation website for my game framework — [JCSEgret][].
+- [JCSUE Manual](https://jcs090218.github.io/JCSUE/) (Fall 2021):
+The documentation website for my game framework — [JCSUE][].
+- [JCSUnity Manual](https://jcs090218.github.io/JCSUnity/) (Fall 2021):
+The documentation website for my game framework — [JCSUnity][].
+- [SiraDoc/demo](https://gitlab.com/SiraDoc/demo) (Fall 2021):
+Demo website for [SiraDoc][].
+- [Scripting_Manual_JCSUE](https://github.com/jcs-legacy/Scripting_Manual_JCSUE) (Summer 2020):
+Scripting manual for [JCSUE][] [API][].
+- [Scripting_Manual_CCosQuick](https://github.com/jcs-legacy/Scripting_Manual_CCosQuick) (Spring 2020):
+Scripting manual for [CCosQuick][] [API][].
+- [Scripting_Manual_JCSEgret](https://github.com/jcs-legacy/Scripting_Manual_JCSEgret) (Winter 2018):
+Scripting manual website for [JCSEgret][] [API][].
+- [API_Reference_Template][] (Winter 2018):
+Simple API references webiste hoster. (replaced with [SiraDoc][])
+- [Scripting_Manual_JCSUnity](https://github.com/jcs-legacy/Scripting_Manual_JCSUnity) (Fall 2018):
+Scripting manual for [JCSUnity][] [API][].
+Later separated into [API_Reference_Template][] and subsequently reliant on it.
 
 </details>
 
@@ -1518,12 +1529,14 @@ The project was initiated during the course of work but is no longer in use as t
 
 [doomemacs]: https://github.com/doomemacs/doomemacs
 
+[API]: https://en.wikipedia.org/wiki/API
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
 [VR]: https://en.wikipedia.org/wiki/Virtual_reality
 [MR]: https://en.wikipedia.org/wiki/Mixed_reality
 [CLI]: https://en.wikipedia.org/wiki/Command-line_interface
 [LSP]: https://microsoft.github.io/language-server-protocol/
 [DAP]: https://microsoft.github.io/debug-adapter-protocol/
+[CSP]: https://cogru.github.io/collaboration-server-protocol/
 [regex]: https://en.wikipedia.org/wiki/Regular_expression
 [CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
 [TSV]: https://en.wikipedia.org/wiki/Tab-separated_values
