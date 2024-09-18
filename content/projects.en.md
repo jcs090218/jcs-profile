@@ -482,6 +482,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+- [rust-mode](https://github.com/rust-lang/rust-mode) (Fall 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+[Emacs][] configuration for [Rust][].
 - [cognitive-complexity](https://github.com/emacs-vs/cognitive-complexity) (Summer 2024):
 Show [cognitive complexity][Cognitive Complexity] of code in [Emacs][] 29+ (treesit-based).
 This package is based on [codemetrics][] but is designed to support the built-in `treesit.el`.
