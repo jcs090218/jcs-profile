@@ -1160,7 +1160,7 @@ Reverse shell implemented in [Python][].
   <summary>See details</summary>
 
 - [shakespeare-monkey](https://gitlab.com/jcs-workspace/ai/shakespeare-monkey) (Spring 2024 – Summer 2024):
-First attempt on [Genetic Algorithm][] to demostrate [Infinite monkey theorem][].
+First attempt at implementing a [Genetic Algorithm][] to demonstrate the [Infinite Monkey Theorem][] in [Rust][].
 
 </details>
 
