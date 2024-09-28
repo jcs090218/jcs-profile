@@ -255,19 +255,19 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 - [cl-flx](https://github.com/the-flx/cl-flx) (Fall 2024):
 Rewrite [emacs-flx][] in [Common Lisp][].
-- [flx-zig](https://github.com/jcs090218/flx-zig) (Spring 2024):
+- [flx-zig](https://github.com/the-flx/flx-zig) (Spring 2024):
 Rewrite [emacs-flx][] in [Zig][].
-- [zig-flx](https://github.com/jcs090218/zig-flx) (Spring 2024):
+- [zig-flx](https://github.com/the-flx/zig-flx) (Spring 2024):
 [Zig][] bindings for [flx-c][].
 - [flx-c][] (Spring 2024):
 Rewrite [emacs-flx][] in [C][].
-- [flx-ts](https://github.com/jcs090218/flx-ts) (Spring 2024):
+- [flx-ts](https://github.com/the-flx/flx-ts) (Spring 2024):
 Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
-- [FlxCs](https://github.com/jcs090218/FlxCs) (Fall 2023):
+- [FlxCs](https://github.com/the-flx/FlxCs) (Fall 2023):
 Rewrite [emacs-flx][] in [C#][].
 Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
 This is utilized within the [Unity.Mx][] tool.
-- [flx-rs][jcs090218/flx-rs] (Winter 2021):
+- [flx-rs][the-flx/flx-rs] (Winter 2021):
 Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
 The original [emacs-flx][] were written in pure [Emacs Lisp][].
 While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
@@ -823,7 +823,7 @@ I favor packages with precompiled binaries for an improved user experience.
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [flx-rs][jcs-elpa/flx-rs] (Winter 2021):
 [emacs-flx][] in [Rust][] using dynamic module.
-It packages the [Rust][] library [flx-rs][jcs090218/flx-rs] and includes precompiled binaries, which are built and uploaded as artifacts through [GitHub Actions][].
+It packages the [Rust][] library [flx-rs][the-flx/flx-rs] and includes precompiled binaries, which are built and uploaded as artifacts through [GitHub Actions][].
 - [flxy](https://github.com/jcs-legacy/flxy) (Winter 2021):
 [flxy][flxy-rs] in [Rust][] using dynamic module.
 - [sublime-fuzzy](https://github.com/jcs-legacy/sublime-fuzzy) (Winter 2021):
@@ -1488,7 +1488,7 @@ The project was initiated during the course of work but is no longer in use as t
 [flxy-rs]: https://github.com/jcs-legacy/flxy-rs
 [fuz.el]: https://github.com/rustify-emacs/fuz.el
 [jcs-elpa/flx-rs]: https://github.com/jcs-elpa/flx-rs
-[jcs090218/flx-rs]: https://github.com/jcs090218/flx-rs
+[the-flx/flx-rs]: https://github.com/the-flx/flx-rs
 [flycheck]: https://github.com/flycheck/flycheck
 [flymake]: https://www.gnu.org/software/emacs/manual/html_mono/flymake.html
 [lsp-mode]: https://github.com/emacs-lsp/lsp-mode
