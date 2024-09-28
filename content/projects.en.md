@@ -253,6 +253,8 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### Fuzzy Matching
 
+- [cl-flx](https://github.com/the-flx/cl-flx) (Fall 2024):
+Rewrite [emacs-flx][] in [Common Lisp][].
 - [flx-zig](https://github.com/jcs090218/flx-zig) (Spring 2024):
 Rewrite [emacs-flx][] in [Zig][].
 - [zig-flx](https://github.com/jcs090218/zig-flx) (Spring 2024):
@@ -1396,6 +1398,8 @@ The project was initiated during the course of work but is no longer in use as t
 [PyPi]: https://pypi.org/
 [Rust]: https://www.rust-lang.org/
 [Cargo]: https://crates.io/
+[Lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
+[Common Lisp]: https://en.wikipedia.org/wiki/Common_Lisp
 [Lua]: https://www.lua.org/
 [Make]: https://www.gnu.org/software/make/manual/make.html
 [MySQL]: https://www.mysql.com/
