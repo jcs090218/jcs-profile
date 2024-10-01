@@ -484,6 +484,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+- [rustic](https://github.com/emacs-rustic/rustic) (Winter 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+[Rust][] development environment.
 - [rust-mode](https://github.com/rust-lang/rust-mode) (Fall 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Emacs][] configuration for [Rust][].
