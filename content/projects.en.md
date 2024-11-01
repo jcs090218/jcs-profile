@@ -24,6 +24,8 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
+- [Qob][] or [cl-qob/cli][] (Fall 2024 – Present):
+CLI for building, running, testing, and managing your Common Lisp dependencies.
 - [cogru][] (Summer 2024 – Present): Where the collaboration start!?
 I've implemented the [Operational Transformation (OT)][] in [Rust][]
 using the [client-server model][].
@@ -370,7 +372,7 @@ Defines a common protocol for collaboration servers.
 Built with [docsy](https://www.docsy.dev/).
 - [Scripting_Manual_JCSGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSGodot) (Winter 2023):
 Scripting manual website for [JCSGodot][] [API][].
-- [Eask Manual](https://emacs-eask.github.io/) (Summer 2022 – Winter 2022):
+- [Eask Manual][Eask] (Summer 2022 – Winter 2022):
 [Eask][emacs-eask/cli]'s documentation website.
 - [CCosQuick Manual](https://jcs090218.github.io/CCosQuick/) (Fall 2021):
 The documentation website for my game framework — [CCosQuick][].
@@ -1391,6 +1393,7 @@ The project was initiated during the course of work but is no longer in use as t
 [C++]: https://en.wikipedia.org/wiki/C%2B%2B
 [CPP]: https://en.wikipedia.org/wiki/C%2B%2B
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[Common Lisp]: https://lisp-lang.org/
 [CoffeeScript]: https://coffeescript.org/
 [Dart]: https://dart.dev/
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
@@ -1422,6 +1425,7 @@ The project was initiated during the course of work but is no longer in use as t
 [flx-c]: https://github.com/jcs090218/flx-c
 
 [Cask]: https://github.com/cask/cask
+[Eask]: https://emacs-eask.github.io/
 [emacs-eask/cli]: https://github.com/emacs-eask/cli
 [emacs-eask/archives]: https://github.com/emacs-eask/archives
 [emacs-eask/packaging]: https://github.com/emacs-eask/packaging
@@ -1429,6 +1433,8 @@ The project was initiated during the course of work but is no longer in use as t
 [Scoop]: https://scoop.sh/
 [Homebrew]: https://brew.sh/
 [MacPorts]: https://www.macports.org/
+[Qob]: https://cl-qob.github.io/
+[cl-qob/cli]: https://github.com/cl-qob/cli
 [Snapcraft]: https://snapcraft.io/store
 [PPA]: https://help.ubuntu.com/stable/ubuntu-help/addremove-ppa.html
 
