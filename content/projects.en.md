@@ -1189,6 +1189,8 @@ This was initially developed for several of my game frameworks, including [JCSUn
 <details class="my-details">
   <summary>See details</summary>
 
+- [setup-qob](https://github.com/cl-qob/setup-qob) (Winter 2024):
+Install [Qob][] for [GitHub Actions][] workflow.
 - [tree-sitter-langs/update-grammars.yml](https://github.com/emacs-tree-sitter/tree-sitter-langs/blob/master/.github/workflows/update-grammars.yml) (Spring 2024):
 Automatically update the [TreeSitter][] grammars (submodules) by opening [pull requests][PR].
 Unlike the typical [update_submodules.yml][] process, updating individual grammars is more complex, hence the importance of splitting it into separate modules.
@@ -1221,7 +1223,7 @@ An email parser to get 6 digit verification code to bypass [TFA][].
 - [unity-license-activate](https://github.com/game-ci/unity-license-activate) (Fall 2021):
 Activate [Unity][]'s personal license through [CLI][].
 - [setup-emacs-windows][] (Fall 2020):
-A [Github Action][GitHub Actions] that installs a specific [emacs][] version.
+A [Github Action][] that installs a specific [emacs][] version.
 This project draws inspiration from [purcell/setup-emacs][] but is specifically dedicated to supporting legacy Windows systems.
 - [package-bot](https://github.com/jcs-elpa/package-bot) (Spring 2020 – Fall 2020):
 Review new package PRs on [MELPA][] automatically.
