@@ -367,7 +367,9 @@ Constructed using [Node.js][] and [Express.js][]. (replaced with [SiraDoc][])
 
 #### 📚 Documentations and manuals
 
-- [collaboration-server-protocol][CSP] (Summer 2024 – Fall 2024):
+- [Qob Manual][Qob] (Fall 2024 — Winter 2024):
+[Qob][cl-qob/cli]'s documentation website.
+- [collaboration-server-protocol][CSP] (Summer 2024 — Fall 2024):
 Defines a common protocol for collaboration servers.
 Built with [docsy](https://www.docsy.dev/).
 - [Scripting_Manual_JCSGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSGodot) (Winter 2023):
