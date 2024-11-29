@@ -488,7 +488,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
-
+- [markdown-toc](https://github.com/ardumont/markdown-toc) (Winter 2024 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+Generate a TOC in [markdown][] file.
 - [ueval](https://github.com/jcs-elpa/ueval) (Winter 2024):
 Universal Evaluation Utilities.
 - [rustic](https://github.com/emacs-rustic/rustic) (Winter 2024 <span aria-label="Maintainer"
