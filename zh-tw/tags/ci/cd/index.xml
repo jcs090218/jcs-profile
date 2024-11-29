@@ -4,18 +4,33 @@
     <title>CI/CD on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/zh-tw/tags/ci/cd/</link>
     <description>Recent content in CI/CD on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.120.2</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>zh-tw</language>
+    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unity CI自動化個人版授權</title>
       <link>https://www.jcs-profile.com/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/unity/automate-personal-license-activation-in-unity-ci/</guid>
-      <description>追蹤了這篇 My disappointing experience using Unity in a CI pipeline, 我也認為這是我目前遇到的最大問題. 個人版本(免費)的授權系統是部分衝突到CI/CD的概念的, 原因是, 我們還是得手動更新授權至 UNITY_LICENSE 這個 GitHub secret (環境變數)裡面. 也導致了 我們全部的CI/CD並不是全部自動化的流程, 非常麻煩! 至於Plus/Pro使用者則沒有影響, 因為他們分 別使用了不同的授權系統! 😖
-我們直接切至問題點, 我們應該要怎麼做? 要怎麼讓這流程更順暢? 我的方法就是自動化整個授權的驗證過程! 長話短說, 我開發了一個 node 包 unity-license-activate, 原開發者是 Mizo Take. 這個包使用了 Puppeteer 來完成整個驗證步驟, 讓我可以使用JavaScript操控瀏覽器, 非常方便且正是我們需要的解決方法! 😁
-下一步, 我們只剩下要更新我們的 secret 至 UNITY_LICENSE 這個環境變數就好! 這些任務非常簡單, 我 們只需要下列的 GitHub actions 即可辦到.
-read-file-action, by Julian Gruber actions-set-secret, by Habid Enrique Manzur Restrepo 我們可以使用 read-file-action 來讀取下載好的 .ulf 檔案, 然後使用這個檔案的值給 actions-set-secrets.</description>
+      <description>&lt;p&gt;追蹤了這篇 &lt;a href=&#34;https://forum.unity.com/threads/my-disappointing-experience-using-unity-in-a-ci-pipeline.737678/&#34;&gt;My disappointing experience using Unity in a CI pipeline&lt;/a&gt;,
+我也認為這是我目前遇到的最大問題. 個人版本(免費)的授權系統是部分衝突到CI/CD的概念的, 原因是,
+我們還是得手動更新授權至 &lt;code&gt;UNITY_LICENSE&lt;/code&gt; 這個 GitHub secret (環境變數)裡面. 也導致了
+我們全部的CI/CD並不是全部自動化的流程, 非常麻煩! 至於Plus/Pro使用者則沒有影響, 因為他們分
+別使用了不同的授權系統! 😖&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;我們直接切至問題點, 我們應該要怎麼做? 要怎麼讓這流程更順暢? 我的方法就是自動化整個授權的驗證過程!
+長話短說, 我開發了一個 node 包 &lt;a href=&#34;https://github.com/jcs090218/unity-license-activate&#34;&gt;unity-license-activate&lt;/a&gt;,
+原開發者是 &lt;a href=&#34;https://github.com/MizoTake&#34;&gt;Mizo Take&lt;/a&gt;. 這個包使用了 &lt;a href=&#34;https://github.com/puppeteer/puppeteer&#34;&gt;Puppeteer&lt;/a&gt;
+來完成整個驗證步驟, 讓我可以使用JavaScript操控瀏覽器, 非常方便且正是我們需要的解決方法! 😁&lt;/p&gt;
+&lt;p&gt;下一步, 我們只剩下要更新我們的 secret 至 &lt;code&gt;UNITY_LICENSE&lt;/code&gt; 這個環境變數就好! 這些任務非常簡單, 我
+們只需要下列的 GitHub actions 即可辦到.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/juliangruber/read-file-action&#34;&gt;read-file-action&lt;/a&gt;, by &lt;a href=&#34;https://github.com/juliangruber&#34;&gt;Julian Gruber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hmanzur/actions-set-secret&#34;&gt;actions-set-secret&lt;/a&gt;, by &lt;a href=&#34;https://github.com/hmanzur&#34;&gt;Habid Enrique Manzur Restrepo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我們可以使用 &lt;code&gt;read-file-action&lt;/code&gt; 來讀取下載好的 &lt;code&gt;.ulf&lt;/code&gt; 檔案, 然後使用這個檔案的值給 &lt;code&gt;actions-set-secrets&lt;/code&gt;.
+記得要設置 &lt;code&gt;ACCESS_TOKEN&lt;/code&gt; 到你的GitHub secret裡面. 這是用來從你的 workflow 更新和製造 GitHub secret 的.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

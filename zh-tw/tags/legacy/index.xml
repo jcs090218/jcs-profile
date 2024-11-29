@@ -4,7 +4,7 @@
     <title>Legacy on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/zh-tw/tags/legacy/</link>
     <description>Recent content in Legacy on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.120.2</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/tags/legacy/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,26 @@
       <link>https://www.jcs-profile.com/zh-tw/posts/legacy/api-reference-template/</link>
       <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/legacy/api-reference-template/</guid>
-      <description>Demo: http://www.jcs-profile.com:3000/Manual/index.html
-GitHub Repo: https://github.com/jcs090218/API-Reference-Template
-因為平時很常寫很多的工具, 最常寫的就是API. 為了解決每次寫一個工具就 必須從頭建立檔案的問題, 決定花時間來寫一個專門給別人閱讀API用的網站. 以下是使用的技術資訊.
-前端 Basic HTML/CSS Basic JavaScript and jQuery 後端 Express.js 範例 JCSUnity Scripting Reference JCSEgret Scripting Reference </description>
+      <description>&lt;p&gt;&lt;strong&gt;Demo:&lt;/strong&gt; &lt;a href=&#34;http://www.jcs-profile.com:3000/Manual/index.html&#34;&gt;http://www.jcs-profile.com:3000/Manual/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub Repo:&lt;/strong&gt; &lt;a href=&#34;https://github.com/jcs090218/API-Reference-Template&#34;&gt;https://github.com/jcs090218/API-Reference-Template&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;因為平時很常寫很多的工具, 最常寫的就是API. 為了解決每次寫一個工具就
+必須從頭建立檔案的問題,  決定花時間來寫一個專門給別人閱讀API用的網站.
+以下是使用的技術資訊.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h3 id=&#34;前端&#34;&gt;前端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic HTML/CSS&lt;/li&gt;
+&lt;li&gt;Basic JavaScript and jQuery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;後端&#34;&gt;後端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Express.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;範例&#34;&gt;範例&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jcs-profile.com:3001/Manual/index.html&#34;&gt;JCSUnity Scripting Reference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jcs-profile.com:3002/Manual/index.html&#34;&gt;JCSEgret Scripting Reference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

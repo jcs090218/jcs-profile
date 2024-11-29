@@ -4,7 +4,7 @@
     <title>Server on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/tags/server/</link>
     <description>Recent content in Server on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.120.2</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/tags/server/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,20 @@
       <link>https://www.jcs-profile.com/posts/server/first-server-migration/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/server/first-server-migration/</guid>
-      <description>I have always been using AWS as my main web hosting choice. But I have come to the point that I reckon the price and services aren&amp;rsquo;t something that I need. Therefore, I have decided to switch to another web hosting company just for another taste.
-The main reasons are listed below:
-AWS charges you money when you click on their services without notifying the user. I dislike how it functions.</description>
+      <description>&lt;p&gt;I have always been using AWS as my main web hosting choice. But I
+have come to the point that I reckon the price and services aren&amp;rsquo;t
+something that I need. Therefore, I have decided to switch to another
+web hosting company just for another taste.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;The main reasons are listed below:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AWS charges you money when you click on their services without
+notifying the user. I dislike how it functions.&lt;/li&gt;
+&lt;li&gt;The price is too high, plus I don&amp;rsquo;t really need it&lt;/li&gt;
+&lt;li&gt;UI is awful, and UX is bad&lt;/li&gt;
+&lt;li&gt;Jargons aren&amp;rsquo;t transferable (I&amp;rsquo;m picky)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now, let&amp;rsquo;s move into details.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

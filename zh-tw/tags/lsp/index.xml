@@ -4,7 +4,7 @@
     <title>LSP on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/zh-tw/tags/lsp/</link>
     <description>Recent content in LSP on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.120.2</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/tags/lsp/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,71 @@
       <link>https://www.jcs-profile.com/zh-tw/posts/lsp/vscode-shader/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/vscode-shader/</guid>
-      <description>代碼庫連結: https://github.com/shader-ls/vscode-shader
-2023 年 8 月 23 日。我創建了我的第一個 VSCode 插件 – vscode-shader。 我的意圖很簡單：在 VSCode 中為我幾個月前創建的 shader-language-server 創建一個語言服務器客戶端。🤔
-🔰 簡單且良好的用戶體驗 首先，開發一個 VSCode 插件非常簡單。特別是為 VSCode 開發語言服務器的客戶端。 他們的網站上有許多示例和良好的文檔，使開發人員非常容易。我使用 uniteai 和 grammarly-language-server 作為參考。
-📦 發布到 VSCode Marketplace 發佈到 VSCode 可能是最具挑戰性的步驟，因為您需要導航到 Azure DevOps， 這似乎與 VSCode Marketplace 完全無關！ 🤔 然後獲取 Personal Access Token， 以便將您的包發佈到市場。它仍然很簡單，但在 Azure DevOps 部分卻相當令人困惑。
-然後你只需要 npm install -g @vscode/vsce、vsce package 和 vsce publish。 發佈時，系統會要求您輸入 PAT！
-您可以訪問 VSCode 的 Publishing Extensions 網站了解更多信息！
-🎖️ 成就 創建了語言服務器的客戶端, vscode-shader。 我的第一個發布的 VSCode 插件包，請參閱 https://marketplace.</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;https://github.com/shader-ls/vscode-shader&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2023 年 8 月 23 日。我創建了我的第一個 VSCode 插件 – &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;vscode-shader&lt;/a&gt;。
+我的意圖很簡單：在 VSCode 中為我幾個月前創建的 &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;shader-language-server&lt;/a&gt;
+創建一個語言服務器客戶端。🤔&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-簡單且良好的用戶體驗&#34;&gt;🔰 簡單且良好的用戶體驗&lt;/h2&gt;
+&lt;p&gt;首先，開發一個 VSCode 插件非常簡單。特別是為 VSCode 開發語言服務器的客戶端。
+他們的網站上有許多示例和良好的文檔，使開發人員非常容易。我使用 &lt;a href=&#34;https://github.com/freckletonj/uniteai&#34;&gt;uniteai&lt;/a&gt;
+和 &lt;a href=&#34;https://github.com/emacs-grammarly/grammarly-language-server&#34;&gt;grammarly-language-server&lt;/a&gt; 作為參考。&lt;/p&gt;
+&lt;h2 id=&#34;-發布到-vscode-marketplace&#34;&gt;📦 發布到 VSCode Marketplace&lt;/h2&gt;
+&lt;p&gt;發佈到 VSCode 可能是最具挑戰性的步驟，因為您需要導航到 &lt;a href=&#34;https://aex.dev.azure.com/&#34;&gt;Azure DevOps&lt;/a&gt;，
+這似乎與 VSCode Marketplace 完全無關！ 🤔 然後獲取 &lt;strong&gt;Personal Access Token&lt;/strong&gt;，
+以便將您的包發佈到市場。它仍然很簡單，但在 &lt;a href=&#34;https://aex.dev.azure.com/&#34;&gt;Azure DevOps&lt;/a&gt; 部分卻相當令人困惑。&lt;/p&gt;
+&lt;p&gt;然後你只需要 &lt;code&gt;npm install -g @vscode/vsce&lt;/code&gt;、&lt;code&gt;vsce package&lt;/code&gt; 和 &lt;code&gt;vsce publish&lt;/code&gt;。
+發佈時，系統會要求您輸入 PAT！&lt;/p&gt;
+&lt;p&gt;您可以訪問 VSCode 的 &lt;a href=&#34;https://code.visualstudio.com/api/working-with-extensions/publishing-extension&#34;&gt;Publishing Extensions&lt;/a&gt;
+網站了解更多信息！&lt;/p&gt;
+&lt;h2 id=&#34;-成就&#34;&gt;🎖️ 成就&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;創建了語言服務器的客戶端, &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;vscode-shader&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;我的第一個發布的 VSCode 插件包，請參閱 &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=shader-ls.vscode-shader&#34;&gt;https://marketplace.visualstudio.com/items?itemName=shader-ls.vscode-shader&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Shader 语言服务器</title>
       <link>https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/</guid>
-      <description>代碼庫連結: https://github.com/shader-ls/shader-language-server
-2023 年 4 月 30 日。我創建了我的第一個語言服務器，它對某人確實有用。 我不久前嘗試過一個語言服務器，但它只是一個示例服務器，所以它不是很有用， 而且僅用於教育目的。
-我選擇編寫的目標語言是 ShaderLab 語言。 ShaderLab 用於 Unity 引擎， 因此您可以編寫自定義著色器來風格化您的遊戲。與常規編程語言不同，ShaderLab 分析起來要簡單得多，因此語言服務器可以響應客戶端。
-❓ 為什麼選擇C#作為實現語言？ 由於 Unity Engine 最受歡迎的腳本語言是 C#，因此我認為選擇 C# 是最佳選擇。
-💀 C# Language Server Protocal 地獄 在開始用 C# 編寫語言服務器之前，我就已經有一種不好的預感，因為我對作者 Omnisharp 的插件一直沒有好印象。我在 VSCode Marketplace 上嘗試過他們的官方 C# 插件，但說實話， 我不會說我喜歡它。以下是一些原因：
-很慢 不斷的突破性變化。下次更新就沒啥作用了！ 維護者不是很活躍（但社區很友好） 儘管如此，我還是堅持嘗試一下 csharp-language-server-protocol，因為沒有其他合理的選擇。 經過幾天的挖掘，我面臨以下問題：
-官方存儲庫中的示例要么損壞，要么不完整（有點無用） 過時或缺乏文檔 他們並不真正關心其他編輯。 （許多編輯器兼容問題和 PR 尚未解決） 幸運的是，我找到了 @gulbanana 創建的 thousand 語言服務器和 @tgjones 創建的 HlslTools。因此，我能夠通過看到他們的實現來完成這個項目！ 😅😇
-*附註: 我花了很長時間才弄清楚事情！！！*💀
-⚙️ 插入 ShaderlabVS 另一個挑戰是語言服務器的引擎。什麼解析文本文檔並向客戶提供合理的響應？然後我找到了一個已 經為我做到這一點的項目—— ShaderlabVS。這是一個理想的解決方案，因為也是用 C# 實現的。 感謝作者 @wudixiaop 這個令人驚嘆的項目！ ❤️</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;https://github.com/shader-ls/shader-language-server&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2023 年 4 月 30 日。我創建了我的第一個語言服務器，它對某人確實有用。
+我不久前嘗試過一個語言服務器，但它只是一個示例服務器，所以它不是很有用，
+而且僅用於教育目的。&lt;/p&gt;
+&lt;p&gt;我選擇編寫的目標語言是 &lt;a href=&#34;https://docs.unity3d.com/Manual/SL-Reference.html&#34;&gt;ShaderLab&lt;/a&gt; 語言。 ShaderLab 用於 Unity 引擎，
+因此您可以編寫自定義著色器來風格化您的遊戲。與常規編程語言不同，&lt;a href=&#34;https://docs.unity3d.com/Manual/SL-Reference.html&#34;&gt;ShaderLab&lt;/a&gt;
+分析起來要簡單得多，因此語言服務器可以響應客戶端。&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-為什麼選擇c作為實現語言&#34;&gt;❓ 為什麼選擇C#作為實現語言？&lt;/h2&gt;
+&lt;p&gt;由於 Unity Engine 最受歡迎的腳本語言是 C#，因此我認為選擇 C# 是最佳選擇。&lt;/p&gt;
+&lt;h2 id=&#34;-c-language-server-protocal-地獄&#34;&gt;💀 C# Language Server Protocal 地獄&lt;/h2&gt;
+&lt;p&gt;在開始用 C# 編寫語言服務器之前，我就已經有一種不好的預感，因為我對作者 &lt;a href=&#34;https://github.com/OmniSharp&#34;&gt;Omnisharp&lt;/a&gt;
+的插件一直沒有好印象。我在 VSCode Marketplace 上嘗試過他們的官方 C# 插件，但說實話，
+我不會說我喜歡它。以下是一些原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;很慢&lt;/li&gt;
+&lt;li&gt;不斷的突破性變化。下次更新就沒啥作用了！&lt;/li&gt;
+&lt;li&gt;維護者不是很活躍（但社區很友好）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;儘管如此，我還是堅持嘗試一下 &lt;a href=&#34;https://github.com/OmniSharp/csharp-language-server-protocol&#34;&gt;csharp-language-server-protocol&lt;/a&gt;，因為沒有其他合理的選擇。
+經過幾天的挖掘，我面臨以下問題：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;官方存儲庫中的示例要么&lt;strong&gt;損壞&lt;/strong&gt;，要么&lt;strong&gt;不完整&lt;/strong&gt;（有點無用）&lt;/li&gt;
+&lt;li&gt;過時或缺乏文檔&lt;/li&gt;
+&lt;li&gt;他們並不真正關心其他編輯。 （許多編輯器兼容問題和 PR 尚未解決）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;幸運的是，我找到了 &lt;strong&gt;@gulbanana&lt;/strong&gt; 創建的 &lt;a href=&#34;https://github.com/gulbanana/thousand&#34;&gt;thousand&lt;/a&gt; 語言服務器和 &lt;strong&gt;@tgjones&lt;/strong&gt; 創建的
+&lt;a href=&#34;https://github.com/tgjones/HlslTools&#34;&gt;HlslTools&lt;/a&gt;。因此，我能夠通過看到他們的實現來完成這個項目！ 😅😇&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;附註: 我花了很長時間才弄清楚事情！！！&lt;/em&gt;💀&lt;/p&gt;
+&lt;h2 id=&#34;-插入-shaderlabvs&#34;&gt;⚙️ 插入 ShaderlabVS&lt;/h2&gt;
+&lt;p&gt;另一個挑戰是語言服務器的引擎。什麼解析文本文檔並向客戶提供合理的響應？然後我找到了一個已
+經為我做到這一點的項目—— &lt;a href=&#34;https://github.com/wudixiaop/ShaderlabVS&#34;&gt;ShaderlabVS&lt;/a&gt;。這是一個理想的解決方案，因為也是用 C# 實現的。
+感謝作者 &lt;strong&gt;@wudixiaop&lt;/strong&gt; 這個令人驚嘆的項目！ ❤️&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

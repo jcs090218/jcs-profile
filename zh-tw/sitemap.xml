@@ -135,17 +135,17 @@
                 href="https://www.jcs-profile.com/zh-tw/posts/server/first-server-migration/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam-aug-2022/</loc>
+    <loc>https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam---aug-2022/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jcs-profile.com/posts/game-dev/game-jam-aug-2022/"
+                href="https://www.jcs-profile.com/posts/game-dev/game-jam---aug-2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam-aug-2022/"
+                href="https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam---aug-2022/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask/</loc>
@@ -244,7 +244,7 @@
                 href="https://www.jcs-profile.com/zh-tw/posts/others/what-i-am-about-to-do/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/posts/industry/software-industry-taiwan/</loc>
+    <loc>https://www.jcs-profile.com/zh-tw/posts/industry/software-industry---taiwan/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/posts/game-dev/art-design-programming/</loc>
@@ -698,6 +698,19 @@
                 href="https://www.jcs-profile.com/zh-tw/categories/web/"
                 />
   </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/tags/ci/cd/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/ci/cd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/ci/cd/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/tags/unity/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -925,18 +938,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://www.jcs-profile.com/zh-tw/blog/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/tags/ci/cd/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/ci/cd/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/ci/cd/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/series/</loc>

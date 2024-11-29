@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>system on Jen-Chieh&#39;s Website</title>
+    <title>System on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/tags/system/</link>
-    <description>Recent content in system on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.120.2</generator>
+    <description>Recent content in System on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/tags/system/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,15 @@
       <link>https://www.jcs-profile.com/posts/unity/jcsunity/save-system/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/unity/jcsunity/save-system/</guid>
-      <description>This is a introduction of how JCSUnity does for the game data save/load system.
-There are main three ways that you could do saving and loading in Unity Engine with C#.
-JCS_BinGameData - In binary format JCS_XMLGameData - In XML format JCS_JSONGameData - In JSON format </description>
+      <description>&lt;p&gt;This is a introduction of how JCSUnity does for the game data save/load system.&lt;/p&gt;
+&lt;p&gt;There are main three ways that you could do &lt;code&gt;saving&lt;/code&gt; and &lt;code&gt;loading&lt;/code&gt; in Unity
+Engine with C#.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUnity/ScriptReference/index.html?page=SaveLoad_sl_JCS_BinGameData&#34;&gt;JCS_BinGameData&lt;/a&gt; - In binary format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUnity/ScriptReference/index.html?page=SaveLoad_sl_JCS_XMLGameData&#34;&gt;JCS_XMLGameData&lt;/a&gt; - In XML format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUnity/ScriptReference/index.html?page=SaveLoad_sl_JCS_XMLGameData&#34;&gt;JCS_JSONGameData&lt;/a&gt; - In JSON format&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
