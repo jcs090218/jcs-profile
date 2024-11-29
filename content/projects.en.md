@@ -488,6 +488,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+
 - [ueval](https://github.com/jcs-elpa/ueval) (Winter 2024):
 Universal Evaluation Utilities.
 - [rustic](https://github.com/emacs-rustic/rustic) (Winter 2024 <span aria-label="Maintainer"
