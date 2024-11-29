@@ -490,7 +490,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 - [markdown-toc](https://github.com/ardumont/markdown-toc) (Winter 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
-Generate a TOC in [markdown][] file.
+Generate a [TOC][Table of contents] in [markdown][] file.
 - [ueval](https://github.com/jcs-elpa/ueval) (Winter 2024):
 Universal Evaluation Utilities.
 - [rustic](https://github.com/emacs-rustic/rustic) (Winter 2024 <span aria-label="Maintainer"
@@ -1416,6 +1416,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
 [Common Lisp]: https://en.wikipedia.org/wiki/Common_Lisp
 [Lua]: https://www.lua.org/
+[Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Make]: https://www.gnu.org/software/make/manual/make.html
 [MySQL]: https://www.mysql.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
@@ -1610,6 +1611,7 @@ The project was initiated during the course of work but is no longer in use as t
 [FontAwesome]: https://fontawesome.com/
 [WAV]: https://en.wikipedia.org/wiki/WAV
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
+[Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
 
 [Cognitive Complexity]: https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
