@@ -255,17 +255,19 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### Fuzzy Matching
 
-- [cl-flx](https://github.com/the-flx/cl-flx) (Fall 2024):
+- [flx-java][] (Winter 2024):
+Rewrite [emacs-flx][] in [Java][].
+- [cl-flx][] (Fall 2024):
 Rewrite [emacs-flx][] in [Common Lisp][].
-- [flx-zig](https://github.com/the-flx/flx-zig) (Spring 2024):
+- [flx-zig][] (Spring 2024):
 Rewrite [emacs-flx][] in [Zig][].
-- [zig-flx](https://github.com/the-flx/zig-flx) (Spring 2024):
+- [zig-flx][] (Spring 2024):
 [Zig][] bindings for [flx-c][].
 - [flx-c][] (Spring 2024):
 Rewrite [emacs-flx][] in [C][].
-- [flx-ts](https://github.com/the-flx/flx-ts) (Spring 2024):
+- [flx-ts][] (Spring 2024):
 Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
-- [FlxCs](https://github.com/the-flx/FlxCs) (Fall 2023):
+- [FlxCs][] (Fall 2023):
 Rewrite [emacs-flx][] in [C#][].
 Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
 This is utilized within the [Unity.Mx][] tool.
@@ -569,7 +571,7 @@ Show [eglot][] information with [sideline][].
 - [ic](https://github.com/jcs-elpa/ic) (Winter 2023):
 Pretty print to debug.
 Inspired by the [icecream](https://pypi.org/project/icecream/) package from the [Python][]/[PyPi][] community.
-- [jcs-template](https://github.com/jcs-emacs/jcs-template) (Winter 2023):
+- [jcs-template][] (Winter 2023):
 Template module for [jcs-emacs][].
 - [dart-mode](https://github.com/emacsorphanage/dart-mode) (Fall 2023 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
@@ -623,7 +625,7 @@ data-balloon-pos="up">🔗</span>):
 Hooks for faster [Emacs][] startup.
 - [deepl](https://github.com/emacs-openai/deepl) (Summer 2023):
 [Elisp][] library for the [DeepL][] API.
-- [jcs-poptip](https://github.com/jcs-emacs/jcs-poptip) (Summer 2023):
+- [jcs-poptip][] (Summer 2023):
 Generic popup tip.
 - [doxygen-asterisk](https://github.com/jcs-legacy/doxygen-asterisk) (Summer 2023):
 Minor mode that helps you insert pair `/*` and `*/`.
@@ -636,9 +638,9 @@ Inspired by [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=ki
 This plugin implements live calculation of the **Cognitive Complexity** metric, which was proposed by G. Ann Campbell in
 [Cognitive Complexity - A new way of measuring understandability][Cognitive Complexity]
 (c) SonarSource S.A. 2016-2021, Switzerland.
-- [jcs-echobar](https://github.com/jcs-emacs/jcs-echobar) (Spring 2023):
+- [jcs-echobar][] (Spring 2023):
 An echo-bar for [jcs-emacs][].
-- [jcs-frametitle](https://github.com/jcs-emacs/jcs-frametitle) (Spring 2023):
+- [jcs-frametitle][] (Spring 2023):
 A frame title for [jcs-emacs][].
 - [vs-comment-return](https://github.com/emacs-vs/vs-comment-return) (Spring 2023):
 Comment return like [Visual Studio][].
@@ -664,7 +666,7 @@ Play sound asynchronously.
 - [block-travel](https://github.com/emacs-vs/block-travel) (Winter 2022):
 Move to previous/next blank line.
 Drawn inspiration from [Block Travel](https://atom.io/packages/block-travel) in the [Atom][] community and [Block Travel](https://marketplace.visualstudio.com/items?itemName=sashaweiss.block-travel) in the [VSCode][] community.
-- [jcs-modeline](https://github.com/jcs-emacs/jcs-modeline) (Winter 2022):
+- [jcs-modeline][] (Winter 2022):
 A modeline for [jcs-emacs][].
 - [pkg-dm](https://github.com/jcs-elpa/pkg-dm) (Winter 2022):
 Package dependencies management.
@@ -831,8 +833,6 @@ Automatically show/hide scroll-bars as needed.
 - [fuz-bin](https://github.com/jcs-legacy/fuz-bin) (Winter 2021):
 Similar to [fuz.el][] but with precompiled binaries.
 I favor packages with precompiled binaries for an improved user experience.
-- [jcs-elpa](https://github.com/jcs-emacs/jcs-elpa) (Winter 2021):
-Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [flx-rs][jcs-elpa/flx-rs] (Winter 2021):
 [emacs-flx][] in [Rust][] using dynamic module.
 It packages the [Rust][] library [flx-rs][the-flx/flx-rs] and includes precompiled binaries, which are built and uploaded as artifacts through [GitHub Actions][].
@@ -1136,6 +1136,14 @@ Line annotation for changed and saved lines.
 - [organize-imports-java](https://github.com/jcs-elpa/organize-imports-java) (Summer 2018):
 Automatically organize imports in [Java][] code.
 It has been deprecated with the advent of the [Language Server Protocol][LSP].
+
+#### Package Archive (ELPA)
+
+- [jcs-elpa][] (Winter 2021):
+Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+
+#### Distribution
+
 - [jcs-emacs][] (Summer 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
 , delivering exceptional performance, especially on legacy [Windows][] systems.
@@ -1430,8 +1438,6 @@ The project was initiated during the course of work but is no longer in use as t
 [YAML]: https://yaml.org/
 [Zig]: https://ziglang.org/
 
-[flx-c]: https://github.com/jcs090218/flx-c
-
 [Cask]: https://github.com/cask/cask
 [Eask]: https://emacs-eask.github.io/
 [emacs-eask/cli]: https://github.com/emacs-eask/cli
@@ -1483,8 +1489,6 @@ The project was initiated during the course of work but is no longer in use as t
 [Blog_Template]: https://github.com/jcs-legacy/Blog_Template
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
 [jcs-profile]: https://github.com/jcs090218/jcs-profile/
-[jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
-[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
 [ELPA]: https://www.emacswiki.org/emacs/ELPA
 [MELPA]: https://melpa.org/
 [melpazoid]: https://github.com/riscy/melpazoid
@@ -1553,7 +1557,22 @@ The project was initiated during the course of work but is no longer in use as t
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
 
+[jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
+[jcs-template]: https://github.com/jcs-emacs/jcs-template
+[jcs-poptip]: https://github.com/jcs-emacs/jcs-poptip
+[jcs-echobar]: https://github.com/jcs-emacs/jcs-echobar
+[jcs-frametitle]: https://github.com/jcs-emacs/jcs-frametitle
+[jcs-modeline]: https://github.com/jcs-emacs/jcs-modeline
+[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
 [doomemacs]: https://github.com/doomemacs/doomemacs
+
+[flx-java]: https://github.com/the-flx/flx-java
+[cl-flx]: https://github.com/the-flx/cl-flx
+[flx-zig]: https://github.com/the-flx/flx-zig
+[zig-flx]: https://github.com/the-flx/zig-flx
+[flx-c]: https://github.com/jcs090218/flx-c
+[flx-ts]: https://github.com/the-flx/flx-ts
+[FlxCs]: https://github.com/the-flx/FlxCs
 
 [API]: https://en.wikipedia.org/wiki/API
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
