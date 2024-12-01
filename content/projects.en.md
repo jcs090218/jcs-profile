@@ -1137,7 +1137,7 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 
 - [jcs-elpa][] (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
-- [melpa][] (Fall 2020 <span aria-label="Contributor"
+- [melpa][] (Fall 2020 – Winter 2023 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
 Recipes and build machinery for the biggest [Emacs][] package repo.
 [MELPA][] stands for "[Milkypostman][]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
