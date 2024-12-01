@@ -990,10 +990,6 @@ Automatic highlighting current symbol minor mode.
 Improve user experience when scrolling window.
 - [fill-page](https://github.com/jcs-elpa/fill-page) (Fall 2020):
 Fill the buffer so you don't see empty lines at the end.
-- [melpa][] (Fall 2020 <span aria-label="Contributor"
-data-balloon-pos="up">✨</span>):
-Recipes and build machinery for the biggest [Emacs][] package repo.
-[MELPA][] stands for "[Milkypostman][]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
 - [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (Fall 2020):
 Theme styled after undersea imagery.
 - [origami.el][] (Summer 2020 <span aria-label="Forked"
@@ -1141,6 +1137,10 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 
 - [jcs-elpa][] (Winter 2021):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
+- [melpa][] (Fall 2020 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span>):
+Recipes and build machinery for the biggest [Emacs][] package repo.
+[MELPA][] stands for "[Milkypostman][]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
 
 #### Distribution
 
@@ -1489,8 +1489,6 @@ The project was initiated during the course of work but is no longer in use as t
 [Blog_Template]: https://github.com/jcs-legacy/Blog_Template
 [SiraDoc]: https://gitlab.com/SiraDoc/SiraDoc
 [jcs-profile]: https://github.com/jcs090218/jcs-profile/
-[ELPA]: https://www.emacswiki.org/emacs/ELPA
-[MELPA]: https://melpa.org/
 [melpazoid]: https://github.com/riscy/melpazoid
 [searcher]: https://github.com/jcs-elpa/searcher
 [ag]: https://github.com/ggreer/the_silver_searcher
@@ -1563,8 +1561,11 @@ The project was initiated during the course of work but is no longer in use as t
 [jcs-echobar]: https://github.com/jcs-emacs/jcs-echobar
 [jcs-frametitle]: https://github.com/jcs-emacs/jcs-frametitle
 [jcs-modeline]: https://github.com/jcs-emacs/jcs-modeline
-[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
 [doomemacs]: https://github.com/doomemacs/doomemacs
+
+[ELPA]: https://www.emacswiki.org/emacs/ELPA
+[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
+[MELPA]: https://melpa.org/
 
 [flx-java]: https://github.com/the-flx/flx-java
 [cl-flx]: https://github.com/the-flx/cl-flx
