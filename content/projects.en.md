@@ -490,6 +490,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+- [sideline-geiser](https://github.com/emacs-sideline/sideline-geiser) (Winter 2024):
+Show [Geiser](https://www.nongnu.org/geiser/) result with [sideline][].
+- [sideline-racket](https://github.com/emacs-sideline/sideline-racket) (Winter 2024):
+Show [racket](https://github.com/greghendershott/racket-mode) result with [sideline][].
 - [sideline-sly](https://github.com/emacs-sideline/sideline-sly) (Winter 2024):
 Show [SLY](https://github.com/joaotavora/sly) result with [sideline][].
 - [sideline-cider](https://github.com/emacs-sideline/sideline-cider) (Winter 2024):
