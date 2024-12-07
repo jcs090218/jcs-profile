@@ -490,6 +490,12 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+- [sideline-sly](https://github.com/emacs-sideline/sideline-sly) (Winter 2024):
+Show [SLY](https://github.com/joaotavora/sly) result with [sideline][].
+- [sideline-cider](https://github.com/emacs-sideline/sideline-cider) (Winter 2024):
+Show [CIDER](https://github.com/clojure-emacs/cider) result with [sideline][].
+- [sideline-eros](https://github.com/emacs-sideline/sideline-eros) (Winter 2024):
+Show [EROS](https://github.com/xiongtx/eros) result with [sideline][].
 - [markdown-toc](https://github.com/ardumont/markdown-toc) (Winter 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Generate a [TOC][Table of contents] in [markdown][] file.
