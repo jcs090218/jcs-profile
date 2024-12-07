@@ -688,9 +688,9 @@ data-balloon-pos="up">👷</span>):
 - [easky](https://github.com/emacs-eask/easky) (Winter 2022):
 Control [Eask CLI][emacs-eask/cli] in [Emacs][].
 - [eldoc-eask](https://github.com/emacs-eask/eldoc-eask) (Winter 2022):
-[Eldoc][] support for Eask-file.
+[Eldoc][] support for [Eask][]-file.
 - [company-eask](https://github.com/emacs-eask/company-eask) (Winter 2022):
-[Company][] backend for Eask-file.
+[Company][] backend for [Eask][]-file.
 - [eask](https://github.com/emacs-eask/eask) (Winter 2022):
 Core [Eask][emacs-eask/cli] APIs, for [Eask CLI][emacs-eask/cli] development.
 - [company-elisp-keywords](https://github.com/jcs-elpa/company-elisp-keywords) (Winter 2022):
