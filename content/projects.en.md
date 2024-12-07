@@ -59,8 +59,6 @@ data-balloon-pos="up">🏫</span>):
 A game framework built on the [LÖVE][] 2D engine that enhances productivity and user experience by providing commonly used systems pre-implemented (animation, camera, input, rendering, simple physics, etc).
 Please checkout the demo project [PetShop][] for more detailed usage information.
 (5 weeks; including the demo project)
-- [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summer 2016 – Winter 2017):
-Quickly construct your game using multiple components and predefined default settings.
 - [JCSCC_Engine][] (Spring 2016 – Winter 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 A game engine offering a straightforward programming interface for developing cross-platform native code games.
@@ -116,6 +114,8 @@ Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
 A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
 - [PackageExporter](https://github.com/jcs090218/PackageExporter) (Winter 2017):
 An alternative approach to package management utilizing ignore files.
+- [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summer 2016 – Winter 2017):
+Quickly construct your game using multiple components and predefined default settings.
 
 </details>
 
