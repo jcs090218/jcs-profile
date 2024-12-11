@@ -24,7 +24,11 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
-- [Qob][] or [cl-qob/cli][] (Fall 2024 – Present):
+- [Qob][] or [cl-qob/cli][] (Fall 2024 – Present <span aria-label="Published to Debian (2)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Homebrew (2)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Chocolatey (2)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Scoop (2)"
+data-balloon-pos="up">🏅</span>):
 CLI for building, running, testing, and managing your Common Lisp dependencies.
 - [cogru][] (Summer 2024 – Present): Where the collaboration start!?
 I've implemented the [Operational Transformation (OT)][] in [Rust][]
@@ -80,26 +84,33 @@ A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (7)"
+data-balloon-pos="up">🏅</span>):
 An abstraction layer constructed atop the [AssetBundles][] system, aiming to streamline the [AssetBundles][] workflow, sparing users from delving into intricate system details.
 - [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (Summer 2021 – Fall 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (6)"
+data-balloon-pos="up">🏅</span>):
 A dedicated tool that tracks variable over time.
 - [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (Summer 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (5)"
+data-balloon-pos="up">🏅</span>):
 A dedicated and up to date [YAML][] editor inside the [Inspector][InspectorWindow] window.
 - [Inspect Xml](https://assetstore.unity.com/publishers/54455) (Summer 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (4)"
+data-balloon-pos="up">🏅</span>):
 A dedicated and up to date [XML][] editor inside the [Inspector][InspectorWindow] window.
 - [Inspect Json](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543) (Summer 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (3)"
+data-balloon-pos="up">🏅</span>):
 A dedicated and up to date [JSON][] editor inside the [Inspector][InspectorWindow] window.
 - [Afterimage](https://assetstore.unity.com/packages/vfx/afterimage-197173) (Summer 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (2)"
+data-balloon-pos="up">🏅</span>):
 Afterimage VFX for [Unity][].
 A simple solution that work with 2D and 3D renderers, including UI components (Image, Text, Button, etc).
 - [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (Summer 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (1)"
+data-balloon-pos="up">🏅</span>):
 Minimalistic good looking [hierarchy][HierarchyWindow].
 - [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summer 2021):
 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
@@ -131,7 +142,10 @@ This game participates in the [机核GCORES][] [2024 Game Creation Challenge](ht
 A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829). (4 weeks)
 - [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published on Steam (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Store (3)"
+data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (1)"
+data-balloon-pos="up">🏅</span>):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
 - [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summer 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
@@ -146,10 +160,10 @@ A mulitplayer, hot-seat game in which the campers (players) discover clues that 
 - [BB_Shoot][] (Fall 2017):
 A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mechanics.
 - [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summer 2017 <span aria-label="School work"
-data-balloon-pos="up">🏫</span><span aria-label="The company Hasbro is interested in investing in this game."
+data-balloon-pos="up">🏫</span><span aria-label="Published on Google Play Store (2)"
+data-balloon-pos="up">🏅</span><span aria-label="The company Hasbro is interested in investing in this game."
 data-balloon-pos="up">💸</span>):
-Embark on an undersea adventure in this side-scrolling game!
-Published on [Google Play Store](https://play.google.com/store/). (15 weeks)
+Embark on an undersea adventure in this side-scrolling game! (15 weeks)
 - [PetShop][] (Winter 2016 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 An example project using [JCSLOVELua][] Framework.
@@ -172,6 +186,7 @@ I worked on the [minimum viable product (MVP)][MVP] of a game under [NDA][] as t
 The game wasn't completed due to its 7+ years project timeline, so I passed it on to the next team.
 - [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 <span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏅</span><span aria-label="Published on Newgrounds (1)"
 data-balloon-pos="up">🏅</span>):
 An compact RPG fighting game designed for two players to engage in battles using
 pre-designed archer characters. Developed with the [Starling][] framework.
@@ -214,14 +229,17 @@ Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 
 - [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summer 2021 – Spring 2022 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="This project was featured in CODAworx’s magazine’s Art for Social Change edition"
+data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (3)"
 data-balloon-pos="up">🏅</span>):
 An [augmented reality][AR] mobile app for learning history of [Monument Avenue](https://en.wikipedia.org/wiki/Monument_Avenue) and [Arthur Ashe Boulevard](https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard).
 This project was featured in [CODAworx][]'s magazine's [Art for Social Change](https://www.codaworx.com/projects/monumental-conversations/) edition.
 - [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 <span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
+data-balloon-pos="up">💸</span><span aria-label="Published on App Store (2)"
+data-balloon-pos="up">🏅</span>):
 An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival.
 - [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 <span aria-label="School work"
-data-balloon-pos="up">🏫</span>):
+data-balloon-pos="up">🏫</span><span aria-label="Published on Google Play Store (1)"
+data-balloon-pos="up">🏅</span>):
 A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/en/products/vuforia)
 within the [Unity](https://unity.com/) platform.
 Players can interact with objects in the scene by simply clicking on them.
@@ -235,6 +253,8 @@ Players can interact with objects in the scene by simply clicking on them.
 
 - [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Achieved a total of 812,970 USD on the 嘖嘖zeczec donation platform"
+data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Store (4)"
+data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (4)"
 data-balloon-pos="up">🏅</span>):
 An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
 You can view a demonstration of the core mechanics [here](https://www.youtube.com/watch?v=63iJ5pnfVLQ) (please note that this demo is in its early stages and may appear rough).
@@ -255,9 +275,15 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### Fuzzy Matching
 
-- [flx-java][] (Winter 2024):
+- [clj-flx][] (Winter 2024 <span aria-label="Published to Clojars (1)"
+data-balloon-pos="up">🏅</span>):
+Rewrite [emacs-flx][] in [Clojure][].
+- [flx-java][] (Winter 2024 <span aria-label="Published to Maven Central (1)"
+data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Java][].
-- [cl-flx][] (Fall 2024):
+- [cl-flx][] (Fall 2024 <span aria-label="Published to Quicklisp (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Ultralisp (1)"
+data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Common Lisp][].
 - [flx-zig][] (Spring 2024):
 Rewrite [emacs-flx][] in [Zig][].
@@ -265,18 +291,22 @@ Rewrite [emacs-flx][] in [Zig][].
 [Zig][] bindings for [flx-c][].
 - [flx-c][] (Spring 2024):
 Rewrite [emacs-flx][] in [C][].
-- [flx-ts][] (Spring 2024):
+- [flx-ts][] (Spring 2024 <span aria-label="Published to NPM (8)"
+data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
-- [FlxCs][] (Fall 2023):
+- [FlxCs][] (Fall 2023 <span aria-label="Published to NuGet (2)"
+data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [C#][].
 Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
 This is utilized within the [Unity.Mx][] tool.
-- [flx-rs][the-flx/flx-rs] (Winter 2021):
+- [flx-rs][the-flx/flx-rs] (Winter 2021 <span aria-label="Published to crates.io (2)"
+data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
 The original [emacs-flx][] were written in pure [Emacs Lisp][].
 While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
 Therefore, this package was developed, leading to a speed increase ranging from 10x to 16x.
-- [flxy-rs][] (Winter 2021):
+- [flxy-rs][] (Winter 2021 <span aria-label="Published to crates.io (1)"
+data-balloon-pos="up">🏅</span>):
 Fast, character-based search library in [Rust][].
 This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
 Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
@@ -428,7 +458,16 @@ Furthermore, I've established my own package repositories for [Scoop][], [Homebr
 - [emacs-eask/archives][] (Spring 2022 – Winter 2023):
 Back up the `archive-contents` to avoid potential failures when refreshing the package archive.
 This is a factor that enhances the stability of [Eask][emacs-eask/cli].
-- [Eask][emacs-eask/cli] or [emacs-eask/cli][] (Spring 2022 – Winter 2023):
+- [Eask][emacs-eask/cli] or [emacs-eask/cli][] (Spring 2022 – Winter 2023 <span aria-label="Published to NPM (6)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Debian (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Snap Store (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Nixpkgs (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Homebrew (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to MacPorts (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Chocolatey (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Scoop (1)"
+data-balloon-pos="up">🏅</span><span aria-label="Published to Winget (1)"
+data-balloon-pos="up">🏅</span>):
 [CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
 This tool is the successor to [Cask][], offering enhanced stability, cross-platform capability, and extensibility.
 - [Cask][] (Spring 2021 – Spring 2022 <span aria-label="Maintainer"
@@ -445,7 +484,8 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 
 - [jcs090218/nur](https://github.com/jcs090218/nur) (Fall 2024):
 Jen-Chieh's [Nix User Repository (NUR)][NUR].
-- [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022):
+- [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022 <span aria-label="Published to NPM (7)"
+data-balloon-pos="up">🏅</span>):
 Convert [Eask][emacs-eask/cli] into [Nix][] expressions.
 - [nixpkgs][] (Fall 2022 – Present <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
@@ -459,14 +499,17 @@ I serve as the package maintainer for a small set of packages.
 <details class="my-details">
   <summary>See details</summary>
 
-- [vscode-ellsp](https://github.com/jcs090218/ellsp/tree/master/vscode) (Winter 2023):
+- [vscode-ellsp](https://github.com/jcs090218/ellsp/tree/master/vscode) (Winter 2023 <span aria-label="Published to VSCode Marketplace (2)"
+data-balloon-pos="up">🏅</span>):
 [Emacs Lisp][] languages support for [Visual Studio Code][VSCode].
 - [ellsp](https://github.com/jcs090218/ellsp) (Winter 2023):
 Language server implementation for [Emacs Lisp][].
 The emacs client (using [lsp-mode][]) is also included; do `M-x ellsp-register` to enable it.
-- [vscode-shader](https://github.com/shader-ls/vscode-shader) (Fall 2023):
+- [vscode-shader](https://github.com/shader-ls/vscode-shader) (Fall 2023 <span aria-label="Published to VSCode Marketplace (1)"
+data-balloon-pos="up">🏅</span>):
 Shader languages support for [Visual Studio Code][VSCode].
-- [shader-language-server][] (Summer 2023 – Fall 2023):
+- [shader-language-server][] (Summer 2023 – Fall 2023 <span aria-label="Published to NuGet (1)"
+data-balloon-pos="up">🏅</span>):
 Language server implementation for [ShaderLab][].
 It also provides support for various CG programming languages such as [HLSL][], [GLSL][], [Cg][], and more.
 - [grammarly-language-server][] (Summer 2022 <span aria-label="Contributor"
@@ -1165,7 +1208,8 @@ Emacs distribution that is designed to function smoothly across all operating sy
 <details class="my-details">
   <summary>See details</summary>
 
-- [minify-dir](https://github.com/jcs090218/node-minify-dir) (Spring 2019):
+- [minify-dir](https://github.com/jcs090218/node-minify-dir) (Spring 2019 <span aria-label="Published to NPM (1)"
+data-balloon-pos="up">🏅</span>):
 Minify all files within a directory.
 Another [Node.js][] website minifier created initially for the static site generator — [SiraDoc][].
 - [JCSBat_Util](https://github.com/jcs090218/JCSBat_Util) (Winter 2016 – Present):
@@ -1178,7 +1222,8 @@ Some handy [batch][] files for my workflow as programmer. ([Windows][])
 <details class="my-details">
   <summary>See details</summary>
 
-- [keytar-cli][] (Spring 2021):
+- [keytar-cli][] (Spring 2021 <span aria-label="Published to NPM (3)"
+data-balloon-pos="up">🏅</span>):
 [CLI][] for [keytar](https://github.com/atom/node-keytar).
 It was initially used with [lsp-grammarly][], but it became obsolete after the upstream [grammarly-language-server][] had adapted the official API.
 - [reverse_shell](https://github.com/jcs090218/reverse_shell) (Spring 2019):
@@ -1201,7 +1246,8 @@ First attempt at implementing a [Genetic Algorithm][] to demonstrate the [Infini
 <details class="my-details">
   <summary>See details</summary>
 
-- [SiraDoc][] (Fall 2021):
+- [SiraDoc][] (Fall 2021 <span aria-label="Published to NPM (2)"
+data-balloon-pos="up">🏅</span>):
 A static documentation generator for scripting manuals!
 This was initially developed for several of my game frameworks, including [JCSUnity][], [JCSEgret][], [CCosQuick][], etc.
 
@@ -1212,7 +1258,8 @@ This was initially developed for several of my game frameworks, including [JCSUn
 <details class="my-details">
   <summary>See details</summary>
 
-- [setup-qob](https://github.com/cl-qob/setup-qob) (Winter 2024):
+- [setup-qob](https://github.com/cl-qob/setup-qob) (Winter 2024 <span aria-label="Published to GitHub Marketplace (6)"
+data-balloon-pos="up">🏅</span>):
 Install [Qob][] for [GitHub Actions][] workflow.
 - [tree-sitter-langs/update-grammars.yml](https://github.com/emacs-tree-sitter/tree-sitter-langs/blob/master/.github/workflows/update-grammars.yml) (Spring 2024):
 Automatically update the [TreeSitter][] grammars (submodules) by opening [pull requests][PR].
@@ -1229,23 +1276,30 @@ This workflow is used across several projects, such as [emacs-eask/cli][], [jcs-
 Automatically locate the latest Emacs' version and update the code through a [pull request (PR)][PR].
 - [setup-emacs-windows/update-snapshot.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-snapshot.yml) (Spring 2024):
 Automatically locate the most recent Emacs' snapshot and update the code through a [pull request (PR)][PR].
-- [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023):
+- [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023 <span aria-label="Published to GitHub Marketplace (5)"
+data-balloon-pos="up">🏅</span>):
 Install [Lem][] for [GitHub Actions][] workflow.
 - [github-push-action](https://github.com/jcs090218/github-push-action) (Summer 2022 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Forked"
-data-balloon-pos="up">🔗</span>):
+data-balloon-pos="up">🔗</span><span aria-label="Published to GitHub Marketplace (4)"
+data-balloon-pos="up">🏅</span>):
 Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
-- [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summer 2022):
+- [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summer 2022 <span aria-label="Published to GitHub Marketplace (3)"
+data-balloon-pos="up">🏅</span>):
 [Github action][GHA] which installs a given [Emacs][] version.
 This project aims to replace [purcell/setup-emacs][] by combining the two [GitHub Actions][] — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
 As a result, it now supports all commonly used operating systems.
-- [setup-eask](https://github.com/emacs-eask/setup-eask) (Spring 2022):
+- [setup-eask](https://github.com/emacs-eask/setup-eask) (Spring 2022 <span aria-label="Published to GitHub Marketplace (2)"
+data-balloon-pos="up">🏅</span>):
 Install [Eask][emacs-eask/cli] for [Github Actions][] workflow.
-- [unity-verify-code](https://github.com/game-ci/unity-verify-code) (Fall 2021):
+- [unity-verify-code](https://github.com/game-ci/unity-verify-code) (Fall 2021 <span aria-label="Published to NPM (5)"
+data-balloon-pos="up">🏅</span>):
 An email parser to get 6 digit verification code to bypass [TFA][].
-- [unity-license-activate](https://github.com/game-ci/unity-license-activate) (Fall 2021):
+- [unity-license-activate](https://github.com/game-ci/unity-license-activate) (Fall 2021 <span aria-label="Published to NPM (4)"
+data-balloon-pos="up">🏅</span>):
 Activate [Unity][]'s personal license through [CLI][].
-- [setup-emacs-windows][] (Fall 2020):
+- [setup-emacs-windows][] (Fall 2020 <span aria-label="Published to GitHub Marketplace (1)"
+data-balloon-pos="up">🏅</span>):
 A [Github Action][] that installs a specific [emacs][] version.
 This project draws inspiration from [purcell/setup-emacs][] but is specifically dedicated to supporting legacy Windows systems.
 - [package-bot](https://github.com/jcs-elpa/package-bot) (Spring 2020 – Fall 2020):
@@ -1419,6 +1473,7 @@ The project was initiated during the course of work but is no longer in use as t
 [CPP]: https://en.wikipedia.org/wiki/C%2B%2B
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [Common Lisp]: https://lisp-lang.org/
+[Clojure]: https://clojure.org/
 [CoffeeScript]: https://coffeescript.org/
 [Dart]: https://dart.dev/
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
@@ -1573,15 +1628,21 @@ The project was initiated during the course of work but is no longer in use as t
 [jcs-modeline]: https://github.com/jcs-emacs/jcs-modeline
 [doomemacs]: https://github.com/doomemacs/doomemacs
 
+<!-- Archives -->
 [ELPA]: https://www.emacswiki.org/emacs/ELPA
 [jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
 [MELPA]: https://melpa.org/
+[Quicklisp]: https://www.quicklisp.org/beta/
+[Ultralisp]: https://ultralisp.org/
+[NuGet]: https://www.nuget.org/
+[crates.io]: https://crates.io/
 
+[clj-flx]: https://github.com/the-flx/clj-flx
 [flx-java]: https://github.com/the-flx/flx-java
 [cl-flx]: https://github.com/the-flx/cl-flx
 [flx-zig]: https://github.com/the-flx/flx-zig
 [zig-flx]: https://github.com/the-flx/zig-flx
-[flx-c]: https://github.com/jcs090218/flx-c
+[flx-c]: https://github.com/the-flx/flx-c
 [flx-ts]: https://github.com/the-flx/flx-ts
 [FlxCs]: https://github.com/the-flx/FlxCs
 
