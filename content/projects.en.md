@@ -530,6 +530,11 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ### <div class="simpleicons" id="si-emacs"></div> Emacs stuff
 
+> Most Emacs packages are published on either
+[MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
+or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
+so I won’t list them explicitly.
+
 <details class="my-details">
   <summary>See details</summary>
 
@@ -1188,7 +1193,7 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 
 #### Package Archive (ELPA)
 
-- [jcs-elpa][] (Winter 2021):
+- [jcs-elpa][] (Winter 2021 – Present):
 Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **200+** packages.
 - [melpa][] (Fall 2020 – Winter 2023 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
