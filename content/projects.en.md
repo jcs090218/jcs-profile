@@ -275,6 +275,9 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### Fuzzy Matching
 
+- [flx_dart][] (Winter 2024 <span aria-label="Published to Pub.dev (1)"
+data-balloon-pos="up">🏅</span>):
+Rewrite [emacs-flx][] in [Dart][].
 - [clj-flx][] (Winter 2024 <span aria-label="Published to Clojars (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Clojure][].
@@ -530,13 +533,13 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ### <div class="simpleicons" id="si-emacs"></div> Emacs stuff
 
+<details class="my-details">
+  <summary>See details</summary>
+
 > Most Emacs packages are published on either
 [MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
 or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 so I won’t list them explicitly.
-
-<details class="my-details">
-  <summary>See details</summary>
 
 - [sideline-geiser](https://github.com/emacs-sideline/sideline-geiser) (Winter 2024):
 Show [Geiser](https://www.nongnu.org/geiser/) result with [sideline][].
@@ -1642,14 +1645,15 @@ The project was initiated during the course of work but is no longer in use as t
 [NuGet]: https://www.nuget.org/
 [crates.io]: https://crates.io/
 
+[cl-flx]: https://github.com/the-flx/cl-flx
 [clj-flx]: https://github.com/the-flx/clj-flx
 [flx-java]: https://github.com/the-flx/flx-java
-[cl-flx]: https://github.com/the-flx/cl-flx
 [flx-zig]: https://github.com/the-flx/flx-zig
-[zig-flx]: https://github.com/the-flx/zig-flx
 [flx-c]: https://github.com/the-flx/flx-c
+[flx_dart]: https://github.com/the-flx/flx_dart
 [flx-ts]: https://github.com/the-flx/flx-ts
 [FlxCs]: https://github.com/the-flx/FlxCs
+[zig-flx]: https://github.com/the-flx/zig-flx
 
 [API]: https://en.wikipedia.org/wiki/API
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
