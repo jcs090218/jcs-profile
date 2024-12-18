@@ -275,6 +275,9 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### Fuzzy Matching
 
+- [flx.py][] (Winter 2024 <span aria-label="Published to PyPi (1)"
+data-balloon-pos="up">🏅</span>):
+Rewrite [emacs-flx][] in [Python][].
 - [flx_dart][] (Winter 2024 <span aria-label="Published to Pub.dev (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Dart][].
@@ -1647,6 +1650,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [cl-flx]: https://github.com/the-flx/cl-flx
 [clj-flx]: https://github.com/the-flx/clj-flx
+[flx.py]: https://github.com/the-flx/flx.py
 [flx-java]: https://github.com/the-flx/flx-java
 [flx-zig]: https://github.com/the-flx/flx-zig
 [flx-c]: https://github.com/the-flx/flx-c
