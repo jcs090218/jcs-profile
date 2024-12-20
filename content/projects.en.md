@@ -505,10 +505,10 @@ I serve as the package maintainer for a small set of packages.
 <details class="my-details">
   <summary>See details</summary>
 
-- [vscode-ellsp](https://github.com/jcs090218/ellsp/tree/master/vscode) (Winter 2023 <span aria-label="Published to VSCode Marketplace (2)"
+- [vscode-ellsp](https://github.com/elisp-lsp/vscode-ellsp) (Winter 2023 <span aria-label="Published to VSCode Marketplace (2)"
 data-balloon-pos="up">🏅</span>):
 [Emacs Lisp][] languages support for [Visual Studio Code][VSCode].
-- [ellsp](https://github.com/jcs090218/ellsp) (Winter 2023):
+- [ellsp](https://github.com/elisp-lsp/ellsp) (Winter 2023):
 Language server implementation for [Emacs Lisp][].
 The emacs client (using [lsp-mode][]) is also included; do `M-x ellsp-register` to enable it.
 - [vscode-shader](https://github.com/shader-ls/vscode-shader) (Fall 2023 <span aria-label="Published to VSCode Marketplace (1)"
