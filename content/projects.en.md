@@ -33,6 +33,8 @@ CLI for building, running, testing, and managing your Common Lisp dependencies.
 - [cogru][] (Summer 2024 – Present): Where the collaboration start!?
 I've implemented the [Operational Transformation (OT)][] in [Rust][]
 using the [client-server model][].
+- [dotfiles](https://github.com/jcs090218/dotfiles) (Summer 2024 – Present):
+Jen-Chieh's dotfiles.
 - [jayces][] (Winter 2023 – Present): Programming language I've created to learn the to write one my own.
 
 </details>
@@ -491,7 +493,7 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 <details class="my-details">
   <summary>See details</summary>
 
-- [jcs090218/nur](https://github.com/jcs090218/nur) (Fall 2024):
+- [jcs090218/nur](https://github.com/jcs090218/nur) (Fall 2024 – Present):
 Jen-Chieh's [Nix User Repository (NUR)][NUR].
 - [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022 <span aria-label="Published to NPM (7)"
 data-balloon-pos="up">🏅</span>):
