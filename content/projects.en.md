@@ -548,7 +548,7 @@ or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">ð
 so I wonâ€™t list them explicitly.
 
 - [jcs-screensaver](https://github.com/jcs-emacs/jcs-screensaver) (Winter 2024):
-A screensaver for [jcs-emacs][].
+A [screensaver][] for [jcs-emacs][].
 - [sideline-geiser](https://github.com/emacs-sideline/sideline-geiser) (Winter 2024):
 Show [Geiser](https://www.nongnu.org/geiser/) result with [sideline][].
 - [sideline-racket](https://github.com/emacs-sideline/sideline-racket) (Winter 2024):
@@ -1723,6 +1723,7 @@ The project was initiated during the course of work but is no longer in use as t
 [WAV]: https://en.wikipedia.org/wiki/WAV
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
 [Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
+[Screensaver]: https://en.wikipedia.org/wiki/Screensaver
 
 [Cognitive Complexity]: https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
