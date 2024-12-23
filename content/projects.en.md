@@ -275,6 +275,9 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### Fuzzy Matching
 
+- [flx.go][] (Winter 2024 <span aria-label="Published to Go.dev (1)"
+data-balloon-pos="up">🏅</span>):
+Rewrite [emacs-flx][] in [Go][].
 - [flx.py][] (Winter 2024 <span aria-label="Published to PyPi (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Python][].
@@ -1490,6 +1493,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [GDScript]: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
+[Go]: https://go.dev/
 [Haxe]: https://haxe.org/
 [JayCeS]: https://github.com/jayces-lang/jayces
 [Java]: https://www.java.com/en/
@@ -1650,6 +1654,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 [cl-flx]: https://github.com/the-flx/cl-flx
 [clj-flx]: https://github.com/the-flx/clj-flx
+[flx.go]: https://github.com/the-flx/flx.go
 [flx.py]: https://github.com/the-flx/flx.py
 [flx-java]: https://github.com/the-flx/flx-java
 [flx-zig]: https://github.com/the-flx/flx-zig
