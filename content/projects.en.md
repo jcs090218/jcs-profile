@@ -547,6 +547,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 so I won’t list them explicitly.
 
+- [jcs-screensaver](https://github.com/jcs-emacs/jcs-screensaver) (Winter 2024):
+A screensaver for [jcs-emacs][].
 - [sideline-geiser](https://github.com/emacs-sideline/sideline-geiser) (Winter 2024):
 Show [Geiser](https://www.nongnu.org/geiser/) result with [sideline][].
 - [sideline-racket](https://github.com/emacs-sideline/sideline-racket) (Winter 2024):
