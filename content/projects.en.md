@@ -551,6 +551,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 so I won’t list them explicitly.
 
+- [qob-mode](https://github.com/cl-qob/qob-mode) (Winter 2024):
+Major mode for editing [Qob][cl-qob/cli] files.
 - [jcs-screensaver](https://github.com/jcs-emacs/jcs-screensaver) (Winter 2024):
 A [screensaver][] for [jcs-emacs][].
 - [sideline-geiser](https://github.com/emacs-sideline/sideline-geiser) (Winter 2024):
