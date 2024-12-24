@@ -24,6 +24,8 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
+- [cl-qob/packaging][] (Winter 2024 – Present):
+Packaging for [Qob CLI][cl-qob/cli].
 - [Qob][] or [cl-qob/cli][] (Fall 2024 – Present <span aria-label="Published to Debian (2)"
 data-balloon-pos="up">🏅</span><span aria-label="Published to Homebrew (2)"
 data-balloon-pos="up">🏅</span><span aria-label="Published to Chocolatey (2)"
@@ -1533,6 +1535,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MacPorts]: https://www.macports.org/
 [Qob]: https://cl-qob.github.io/
 [cl-qob/cli]: https://github.com/cl-qob/cli
+[cl-qob/packaging]: https://github.com/cl-qob/packaging
 [Snapcraft]: https://snapcraft.io/store
 [PPA]: https://help.ubuntu.com/stable/ubuntu-help/addremove-ppa.html
 
