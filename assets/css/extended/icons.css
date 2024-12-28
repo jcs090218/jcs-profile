@@ -23,3 +23,15 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+#si-unrealengine {
+    background-image: url('https://cdn.simpleicons.org/unrealengine');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#si-godotengine {
+    background-image: url('https://cdn.simpleicons.org/godotengine');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

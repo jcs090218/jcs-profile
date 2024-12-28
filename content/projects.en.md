@@ -77,7 +77,7 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 
 </details>
 
-### <div class="simpleicons" id="si-unity"></div> Unity C# stuff
+### <div class="simpleicons" id="si-unity"></div> Unity
 
 <details class="my-details">
   <summary>See details</summary>
@@ -487,7 +487,7 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 
 </details>
 
-### <div class="simpleicons" id="si-nix"></div> Nix stuff
+### <div class="simpleicons" id="si-nix"></div> Nix
 
 <details class="my-details">
   <summary>See details</summary>
@@ -538,7 +538,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 </details>
 
-### <div class="simpleicons" id="si-emacs"></div> Emacs stuff
+### <div class="simpleicons" id="si-emacs"></div> Emacs
 
 <details class="my-details">
   <summary>See details</summary>
