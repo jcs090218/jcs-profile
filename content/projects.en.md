@@ -279,7 +279,7 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### Fuzzy Matching
 
-- [flx.go][] (Winter 2024 <span aria-label="Published to Go.dev (1)"
+- [flx.go][] (Winter 2024 <span aria-label="Searchable on Go.dev (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Go][].
 - [flx.py][] (Winter 2024 <span aria-label="Published to PyPi (1)"
