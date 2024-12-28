@@ -132,6 +132,20 @@ An alternative approach to package management utilizing ignore files.
 - [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summer 2016 – Winter 2017):
 Quickly construct your game using multiple components and predefined default settings.
 
+#### 📐 Algorithms
+
+- [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (Summer 2024):
+Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibility/) in [Unity][] using [C#][].
+- [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
+Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
+
+#### 🖌️ Animations, Shaders, and VFX
+
+- [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summer 2023):
+Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
+- [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summer 2023):
+Enhance the overall visual experience by adjusting various settings in [Unity][].
+
 </details>
 
 ### 🎮 Games
@@ -272,11 +286,6 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 <details class="my-details">
   <summary>See details</summary>
 
-- [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (Summer 2024):
-Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibility/) in [Unity][] using [C#][].
-- [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
-Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
-
 #### Fuzzy Matching
 
 - [flx.go][] (Winter 2024 <span aria-label="Searchable on Go.dev (1)"
@@ -323,18 +332,6 @@ data-balloon-pos="up">🏅</span>):
 Fast, character-based search library in [Rust][].
 This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
 Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
-
-</details>
-
-### 🖌️ Animations, Shaders, and VFX
-
-<details class="my-details">
-  <summary>See details</summary>
-
-- [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summer 2023):
-Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
-- [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summer 2023):
-Enhance the overall visual experience by adjusting various settings in [Unity][].
 
 </details>
 
