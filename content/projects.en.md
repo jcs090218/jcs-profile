@@ -288,6 +288,9 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 #### Fuzzy Matching
 
+- [FlxSwift][] (Winter 2024 <span aria-label="Searchable on Swift Package Manager (1)"
+data-balloon-pos="up">🏅</span>):
+Rewrite [emacs-flx][] in [Swift][].
 - [flx.go][] (Winter 2024 <span aria-label="Searchable on Go.dev (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Go][].
@@ -1522,6 +1525,8 @@ The project was initiated during the course of work but is no longer in use as t
 [TypeScript]: https://www.typescriptlang.org/
 [PHP]: https://www.php.net/
 [Qt Style Sheets]: https://doc.qt.io/qt-6/stylesheet-reference.html
+[Objective-C]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html
+[Swift]: https://www.swift.org/
 [XML]: https://en.wikipedia.org/wiki/XML
 [YAML]: https://yaml.org/
 [Zig]: https://ziglang.org/
@@ -1670,8 +1675,9 @@ The project was initiated during the course of work but is no longer in use as t
 [flx-c]: https://github.com/the-flx/flx-c
 [flx_dart]: https://github.com/the-flx/flx_dart
 [flx-ts]: https://github.com/the-flx/flx-ts
-[FlxCs]: https://github.com/the-flx/FlxCs
 [zig-flx]: https://github.com/the-flx/zig-flx
+[FlxCs]: https://github.com/the-flx/FlxCs
+[FlxSwift]: https://github.com/the-flx/FlxSwift
 
 [API]: https://en.wikipedia.org/wiki/API
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
