@@ -219,6 +219,12 @@ A competitive two player game that will have the player fighting one another for
 The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
 The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)
 
+#### Plugins
+
+- [moba-inting](https://gitlab.com/jcs-workspace/Python/moba-inting) (Fall 2024):
+A basic UI automation bot to avoid AFK penalties.
+The bot ensures your character takes action (like intentionally moving) at regular intervals.
+
 </details>
 
 ### 🖥️ Desktop apps
