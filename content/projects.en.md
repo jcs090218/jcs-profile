@@ -1345,6 +1345,8 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 <details class="my-details">
   <summary>See details</summary>
 
+- [flx-hs][] (Spring 2025):
+Rewrite emacs-flx in Haskell.
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
 A plugin for interacting with AWS from Emacs editor.
 - [jcs-lem](https://github.com/jcs090218/jcs-lem) (Summer 2023 – Present):
@@ -1511,6 +1513,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [GDScript]: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
 [Go]: https://go.dev/
+[Haskell]: https://www.haskell.org/
 [Haxe]: https://haxe.org/
 [JayCeS]: https://github.com/jayces-lang/jayces
 [Java]: https://www.java.com/en/
@@ -1684,6 +1687,7 @@ The project was initiated during the course of work but is no longer in use as t
 [zig-flx]: https://github.com/the-flx/zig-flx
 [FlxCs]: https://github.com/the-flx/FlxCs
 [FlxSwift]: https://github.com/the-flx/FlxSwift
+[flx-hs]: https://github.com/the-flx/flx-hs
 
 [API]: https://en.wikipedia.org/wiki/API
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
