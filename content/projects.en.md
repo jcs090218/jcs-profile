@@ -1346,7 +1346,7 @@ While it wasn't ultimately accepted, it propelled the community towards a better
   <summary>See details</summary>
 
 - [flx-hs][] (Spring 2025):
-Rewrite emacs-flx in Haskell.
+Rewrite [emacs-flx][] in [Haskell][].
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
 A plugin for interacting with AWS from Emacs editor.
 - [jcs-lem](https://github.com/jcs090218/jcs-lem) (Summer 2023 – Present):
