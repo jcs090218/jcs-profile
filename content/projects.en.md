@@ -134,7 +134,7 @@ Quickly construct your game using multiple components and predefined default set
 
 #### 📐 Algorithms
 
-- [AI_Link](https://www.youtube.com/watch?v=I8QsEB3IYI0) (Spring 2025):
+- [AI_Link](https://www.youtube.com/watch?v=I8QsEB3IYI0) (Winter 2024 – Spring 2025):
 This project specifically addresses the limitations of the [NavMesh Link][] by replacing the original with a custom system.
 - [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (Summer 2024):
 Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibility/) in [Unity][] using [C#][].
