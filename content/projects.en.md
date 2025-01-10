@@ -134,6 +134,8 @@ Quickly construct your game using multiple components and predefined default set
 
 #### 📐 Algorithms
 
+- [AI_Link](https://www.youtube.com/watch?v=I8QsEB3IYI0) (Spring 2025):
+This project specifically addresses the limitations of the [NavMesh Link][] by replacing the original with a custom system.
 - [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (Summer 2024):
 Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibility/) in [Unity][] using [C#][].
 - [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (Summer 2023):
@@ -1742,6 +1744,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Built-in RP]: https://docs.unity3d.com/Manual/render-pipelines.html
 [URP]: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html
 [HDRP]: https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html
+[NavMesh Link]: https://docs.unity3d.com/560/Documentation/Manual/class-NavMeshLink.html
 [FontAwesome]: https://fontawesome.com/
 [WAV]: https://en.wikipedia.org/wiki/WAV
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
