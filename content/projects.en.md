@@ -11,8 +11,6 @@ my [GitHub][github/jcs090218] and [GitLab][gitlab/jcs090218] accounts.
 All of my open-source projects are maintained as needed, unless stated otherwise.
 The dates listed below indicate when the majority of the major development took place.
 
-> 📢 You can hover over these **emojis** for a detailed explanation!
-
 - <span aria-label="Professional work" data-balloon-pos="up">💸</span> = Professional work
 - <span aria-label="School work" data-balloon-pos="up">🏫</span> = School work
 - <span aria-label="Management role" data-balloon-pos="up">👨‍💼</span> = Role in the team (Tech Lead, CTO, etc)
@@ -21,7 +19,7 @@ The dates listed below indicate when the majority of the major development took 
 - <span aria-label="Forked projects" data-balloon-pos="up">🔗</span> = Forked projects (not the original author)
 - <span aria-label="Reward or Achievement" data-balloon-pos="up">🏅</span> = Reward or Achievement
 
-The rest are mostly open-source projects.
+📢 You can hover over these **emojis** for a detailed explanation!
 
 There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</kbd> to search through the project list.
 
