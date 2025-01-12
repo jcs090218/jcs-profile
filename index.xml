@@ -488,17 +488,24 @@ jobs and tasks to the programmer and what does programmer does?&lt;/p&gt;</descr
       <link>https://www.jcs-profile.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/projects/</guid>
-      <description>&lt;p&gt;This page lists some of my projects, work, and school projects.&lt;/p&gt;
+      <description>&lt;p&gt;This page showcases a selection of my personal, professional, and academic projects.
+The source code for most of these, along with additional projects, is available on
+my &lt;a href=&#34;https://github.com/jcs090218&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://gitlab.com/jcs090218&#34;&gt;GitLab&lt;/a&gt; accounts.&lt;/p&gt;
+&lt;p&gt;All of my open-source projects are maintained as needed, unless stated otherwise.
+The dates listed below indicate when the majority of the major development took place.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;📢 You can hover over these &lt;strong&gt;emojis&lt;/strong&gt; for a detailed explanation!&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Professional work&#34; data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt; = Professional work&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;School work&#34; data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt; = School work&lt;/li&gt;
-&lt;li&gt;&lt;span aria-label=&#34;Contributor&#34; data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt; = Contributor&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;Management role&#34; data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt; = Role in the team (Tech Lead, CTO, etc)&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Maintainer&#34; data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt; = Maintainer&lt;/li&gt;
-&lt;li&gt;&lt;span aria-label=&#34;Forked projects&#34; data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt; = Forked projects&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;Contributor&#34; data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt; = Contributor&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;Forked projects&#34; data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt; = Forked projects (not the original author)&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Reward or Achievement&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt; = Reward or Achievement&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The rest are mostly open-source projects.&lt;/p&gt;
-&lt;p&gt;There are a lot of information on this page. Please use &lt;kbd&gt;Ctrl&lt;/kbd&gt;+&lt;kbd&gt;f&lt;/kbd&gt; to search through the project list.&lt;/p&gt;</description>
+&lt;p&gt;The rest are mostly open-source projects.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
