@@ -493,9 +493,6 @@ The source code for most of these, along with additional projects, is available 
 my &lt;a href=&#34;https://github.com/jcs090218&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://gitlab.com/jcs090218&#34;&gt;GitLab&lt;/a&gt; accounts.&lt;/p&gt;
 &lt;p&gt;All of my open-source projects are maintained as needed, unless stated otherwise.
 The dates listed below indicate when the majority of the major development took place.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;📢 You can hover over these &lt;strong&gt;emojis&lt;/strong&gt; for a detailed explanation!&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Professional work&#34; data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt; = Professional work&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;School work&#34; data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt; = School work&lt;/li&gt;
@@ -505,7 +502,7 @@ The dates listed below indicate when the majority of the major development took 
 &lt;li&gt;&lt;span aria-label=&#34;Forked projects&#34; data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt; = Forked projects (not the original author)&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Reward or Achievement&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt; = Reward or Achievement&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The rest are mostly open-source projects.&lt;/p&gt;</description>
+&lt;p&gt;📢 You can hover over these &lt;strong&gt;emojis&lt;/strong&gt; for a detailed explanation!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
