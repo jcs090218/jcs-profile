@@ -4,13 +4,21 @@ ShowReadingTime: false
 ShowWordCount: false
 ---
 
-This page lists some of my projects, work, and school projects.
+This page showcases a selection of my personal, professional, and academic projects.
+The source code for most of these, along with additional projects, is available on
+my [GitHub][github/jcs090218] and [GitLab][gitlab/jcs090218] accounts.
+
+All of my open-source projects are maintained as needed, unless stated otherwise.
+The dates listed below indicate when the majority of the major development took place.
+
+> 📢 You can hover over these **emojis** for a detailed explanation!
 
 - <span aria-label="Professional work" data-balloon-pos="up">💸</span> = Professional work
 - <span aria-label="School work" data-balloon-pos="up">🏫</span> = School work
-- <span aria-label="Contributor" data-balloon-pos="up">✨</span> = Contributor
+- <span aria-label="Management role" data-balloon-pos="up">👨‍💼</span> = Role in the team (Tech Lead, CTO, etc)
 - <span aria-label="Maintainer" data-balloon-pos="up">👷</span> = Maintainer
-- <span aria-label="Forked projects" data-balloon-pos="up">🔗</span> = Forked projects
+- <span aria-label="Contributor" data-balloon-pos="up">✨</span> = Contributor
+- <span aria-label="Forked projects" data-balloon-pos="up">🔗</span> = Forked projects (not the original author)
 - <span aria-label="Reward or Achievement" data-balloon-pos="up">🏅</span> = Reward or Achievement
 
 The rest are mostly open-source projects.
@@ -155,13 +163,16 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 <details class="my-details">
   <summary>See details</summary>
 
-- [You Have An Order](https://jcs090218.itch.io/you-have-an-order) (Summer 2024):
+- [You Have An Order](https://jcs090218.itch.io/you-have-an-order) (Summer 2024 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span>):
 A 2D pixel horror game, players strive to evade monsters while searching for an escape route.
 This game participates in the [机核GCORES][] [2024 Game Creation Challenge](https://site.gcores.com/booom2024/). (3 weeks)
-- [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (Summer 2022):
+- [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (Summer 2022 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span>):
 A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829). (4 weeks)
-- [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 <span aria-label="Professional work"
+- [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 <span aria-label="Chief Technology Officer (CTO)"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Published on Steam (1)"
 data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Store (3)"
 data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (1)"
@@ -172,14 +183,16 @@ data-balloon-pos="up">💸</span>):
 A multiplayer shooting [MOBA][] game on the mobile device.
 The project is created by the [T-NEXUS][] studio.
 I contributed to the backend engineering by writing the login server and designing its database schema.
-- [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (Fall 2017 – Winter 2017 <span aria-label="School work"
+- [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (Fall 2017 – Winter 2017 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2018 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span><span aria-label="Presented at E3 College Game Competition (E3 CGC) 2018 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span>):
 A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.
 - [BB_Shoot][] (Fall 2017):
 A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mechanics.
-- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summer 2017 <span aria-label="School work"
+- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (Spring 2017 – Summer 2017 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Published on Google Play Store (2)"
 data-balloon-pos="up">🏅</span><span aria-label="The company Hasbro is interested in investing in this game."
 data-balloon-pos="up">💸</span>):
@@ -189,34 +202,39 @@ data-balloon-pos="up">🏫</span>):
 An example project using [JCSLOVELua][] Framework.
 Players can use a left-click of the mouse to generate adorable animals, allowing them to reside within a sandbox.
 The concept is to emulate an aquarium experience.
-- [Might & Blade](https://www.youtube.com/watch?v=vPapMMxzNGg) (Fall 2016 – Winter 2016 <span aria-label="School work"
+- [Might & Blade](https://www.youtube.com/watch?v=vPapMMxzNGg) (Fall 2016 – Winter 2016 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at GDC 2017 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span>):
 A 3rd person hack and slash action game made in the Unity engine, developed by a team of 18 in
-the [Academy of Art University][AAU] within a span of 15 weeks.
+the [Academy of Art University][AAU]. (15 weeks)
 - [DJMax_Remake](https://github.com/jcs090218/DJMax_Remake) (Spring 2016 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A clone of [DJMax][] implemented in [Processing][].
 - [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A simple [ASCII][] [third-person shooter (TPS)][TPS] game coded in [C++][].
 View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
-- [Project S](#) (Summer 2015 – Winter 2015 <span aria-label="Professional work"
+- [Project S](#) (Summer 2015 – Winter 2015 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Action game (ACT) with [RPG][] elements and a locked top-down perspective.
 I worked on the [minimum viable product (MVP)][MVP] of a game under [NDA][] as the sole software engineer.
 The game wasn't completed due to its 7+ years project timeline, so I passed it on to the next team.
-- [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 <span aria-label="School work"
+- [Archers Duel](https://www.newgrounds.com/portal/view/650410) (Winter 2014 <span aria-label="Programmer"
+data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span><span aria-label="Published on Newgrounds (1)"
 data-balloon-pos="up">🏅</span>):
 An compact RPG fighting game designed for two players to engage in battles using
 pre-designed archer characters. Developed with the [Starling][] framework.
 and [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html). (7 weeks)
-- [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (Fall 2014 <span aria-label="School work"
+- [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (Fall 2014 <span aria-label="Programmer"
+data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span>):
 A compact visual novel game where the player assumes the role of a detective,
 working to unravel a mystery and identify the murderer. (7 weeks)
-- [Rhythm Punks!](https://www.youtube.com/watch?v=FmsYq4y_W24) (Fall 2014 – Winter 2014 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
+- [Rhythm Punks!](https://www.youtube.com/watch?v=FmsYq4y_W24) (Fall 2014 – Winter 2014 <span aria-label="Sole Programmer"
+data-balloon-pos="up">👨‍💼</span><span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A competitive two player game that will have the player fighting one another for victory.
 The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
 The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)
@@ -253,17 +271,20 @@ Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 <details class="my-details">
   <summary>See details</summary>
 
-- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summer 2021 – Spring 2022 <span aria-label="Professional work"
+- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (Summer 2021 – Spring 2022 <span aria-label="Programmer"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="This project was featured in CODAworx’s magazine’s Art for Social Change edition"
 data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (3)"
 data-balloon-pos="up">🏅</span>):
 An [augmented reality][AR] mobile app for learning history of [Monument Avenue](https://en.wikipedia.org/wiki/Monument_Avenue) and [Arthur Ashe Boulevard](https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard).
 This project was featured in [CODAworx][]'s magazine's [Art for Social Change](https://www.codaworx.com/projects/monumental-conversations/) edition.
-- [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 <span aria-label="Professional work"
+- [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (Winter 2020 – Spring 2021 <span aria-label="Programmer"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Published on App Store (2)"
 data-balloon-pos="up">🏅</span>):
 An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival.
-- [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 <span aria-label="School work"
+- [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (Spring 2015 <span aria-label="Sole Programmer"
+data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Published on Google Play Store (1)"
 data-balloon-pos="up">🏅</span>):
 A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/en/products/vuforia)
@@ -277,7 +298,8 @@ Players can interact with objects in the scene by simply clicking on them.
 <details class="my-details">
   <summary>See details</summary>
 
-- [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 <span aria-label="Professional work"
+- [Meteo](https://meteo.com.tw/app-download.html) (Spring 2020 – Spring 2021 <span aria-label="Programmer"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Achieved a total of 812,970 USD on the 嘖嘖zeczec donation platform"
 data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Store (4)"
 data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (4)"
@@ -554,10 +576,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
-> Most Emacs packages are published on either
-[MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
-or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
-so I won’t list them explicitly.
+> 📢 Most Emacs packages are published on either [MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
+> or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
+> so I won’t list them explicitly.
 
 - [highlight-indent-guides](https://github.com/DarthFennec/highlight-indent-guides) (Winter 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
@@ -590,7 +611,7 @@ data-balloon-pos="up">👷</span>):
 - [cognitive-complexity](https://github.com/emacs-vs/cognitive-complexity) (Summer 2024):
 Show [cognitive complexity][Cognitive Complexity] of code in [Emacs][] 29+ (treesit-based).
 This package is based on [codemetrics][] but is designed to support the built-in `treesit.el`.
-(ported by [@abougouffa][Abdelhak Bougouffa] ❤️)
+(ported by [@abougouffa][github/abougouffa] ❤️)
 - [treesit-langs](https://github.com/emacs-tree-sitter/treesit-langs) (Summer 2024):
 Language bundle for [Emacs][]'s `treesit.el`.
 This package is based on [tree-sitter-langs][] but is designed to support the built-in `treesit.el`.
@@ -602,7 +623,7 @@ Adapt to different screen sizes automatically.
 - [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024): [Cogru][] plugin for [Emacs][].
 - [treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) (Summer 2024):
 Code folding using `treesit.el`.
-(ported by [@DevelopmentCool2449][Elijah Gabe] ❤️)
+(ported by [@DevelopmentCool2449][github/DevelopmentCool2449] ❤️)
 - [region-occurrences-highlighter](https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter) (Summer 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 This [emacs][] package implements a local minor mode that highlights occurrences
@@ -1226,7 +1247,7 @@ Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currentl
 - [melpa][] (Fall 2020 – Winter 2023 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
 Recipes and build machinery for the biggest [Emacs][] package repo.
-[MELPA][] stands for "[Milkypostman][]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
+[MELPA][] stands for "[Milkypostman][github/Milkypostman]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 10** contributors to the repository.
 
 #### Distribution
 
@@ -1389,8 +1410,8 @@ This is my initial experience with [Vim][], and I'm interested in exploring [Neo
 
 - [tree-sitter-actionscript](https://github.com/jcs090218/tree-sitter-actionscript) (Spring 2021):
 [ActionScript][] grammar for [tree-sitter][].
-[Rileran][] completed the project earlier — [Rileran/tree-sitter-actionscript](https://github.com/Rileran/tree-sitter-actionscript) — thus, there is no need to continue the project any further.
-For the record, [Rileran][]'s project takes inspiration from my project!
+[Rileran][github/Rileran] completed the project earlier — [Rileran/tree-sitter-actionscript](https://github.com/Rileran/tree-sitter-actionscript) — thus, there is no need to continue the project any further.
+For the record, [Rileran][github/Rileran]'s project takes inspiration from my project!
 - [work-time](https://github.com/jcs-legacy/work-time) (Spring 2021):
 How long have you been working?
 I'm uncertain about its current value, as it could potentially be substituted with [wakatime](https://wakatime.com/emacs) and [hammy.el](https://github.com/alphapapa/hammy.el).
@@ -1410,10 +1431,13 @@ The project was initiated during the course of work but is no longer in use as t
 
 <!-- Links -->
 
-[Milkypostman]: https://github.com/milkypostman
-[Rileran]: https://github.com/Rileran
-[Elijah Gabe]: https://github.com/DevelopmentCool2449
-[Abdelhak Bougouffa]: https://github.com/abougouffa
+[Jen-Chieh Shen]: https://jcs-profile.com/
+[github/jcs090218]: https://github.com/jcs090218
+[gitlab/jcs090218]: https://gitlab.com/jcs090218
+[github/Milkypostman]: https://github.com/milkypostman
+[github/Rileran]: https://github.com/Rileran
+[github/DevelopmentCool2449]: https://github.com/DevelopmentCool2449
+[github/abougouffa]: https://github.com/abougouffa
 
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
