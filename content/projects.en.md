@@ -13,7 +13,7 @@ The dates listed below indicate when the majority of the major development took 
 
 - <span aria-label="Professional work" data-balloon-pos="up">💸</span> = Professional work
 - <span aria-label="School work" data-balloon-pos="up">🏫</span> = School work
-- <span aria-label="Management role" data-balloon-pos="up">👨‍💼</span> = Role in the team (Tech Lead, CTO, etc)
+- <span aria-label="Role" data-balloon-pos="up">👨‍💼</span> = Role in the team (Tech Lead, CTO, etc)
 - <span aria-label="Maintainer" data-balloon-pos="up">👷</span> = Maintainer
 - <span aria-label="Contributor" data-balloon-pos="up">✨</span> = Contributor
 - <span aria-label="Forked projects" data-balloon-pos="up">🔗</span> = Forked projects (not the original author)
