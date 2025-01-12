@@ -496,7 +496,7 @@ The dates listed below indicate when the majority of the major development took 
 &lt;ul&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Professional work&#34; data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt; = Professional work&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;School work&#34; data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt; = School work&lt;/li&gt;
-&lt;li&gt;&lt;span aria-label=&#34;Management role&#34; data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt; = Role in the team (Tech Lead, CTO, etc)&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;Role&#34; data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt; = Role in the team (Tech Lead, CTO, etc)&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Maintainer&#34; data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt; = Maintainer&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Contributor&#34; data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt; = Contributor&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;Forked projects&#34; data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt; = Forked projects (not the original author)&lt;/li&gt;
