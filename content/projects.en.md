@@ -578,6 +578,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [eglot-ltex-plus](https://github.com/emacs-languagetool/eglot-ltex-plus) (Spring 2025):
+[Eglot][] client leveraging [LTEX+ Language Server][ltex-ls-plus].
+- [lsp-ltex-plus](https://github.com/emacs-languagetool/lsp-ltex-plus) (Spring 2025):
+[lsp-mode][] client leveraging [LTEX+ Language Server][ltex-ls-plus].
 - [highlight-indent-guides](https://github.com/DarthFennec/highlight-indent-guides) (Winter 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Emacs][] minor mode to highlight indentation.
@@ -1588,6 +1592,7 @@ The project was initiated during the course of work but is no longer in use as t
 [unofficial-grammarly-language-server]: https://github.com/emacs-grammarly/unofficial-grammarly-language-server
 [grammarly-language-server]: https://github.com/emacs-grammarly/grammarly-language-server
 [ltex-ls]: https://github.com/valentjn/ltex-ls
+[ltex-ls-plus]: https://github.com/ltex-plus/ltex-ls-plus
 [languagetool-languageserver]: https://github.com/languagetool-language-server/languagetool-languageserver
 [Cogru]: https://github.com/Cogru/cogru
 
