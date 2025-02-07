@@ -578,6 +578,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [sideline-emoji](https://github.com/emacs-sideline/sideline-emoji) (Spring 2025):
+Show [emoji][] information with [sideline][].
 - [eglot-ltex-plus](https://github.com/emacs-languagetool/eglot-ltex-plus) (Spring 2025):
 [Eglot][] client leveraging [LTEX+ Language Server][ltex-ls-plus].
 - [lsp-ltex-plus](https://github.com/emacs-languagetool/lsp-ltex-plus) (Spring 2025):
@@ -1140,7 +1142,7 @@ data-balloon-pos="up">👷</span>):
 data-balloon-pos="up">👷</span>):
 The silver searcher with [helm][] interface.
 - [emoji-github](https://github.com/jcs-elpa/emoji-github) (Spring 2020):
-Display list of [GitHub][]'s emoji. (cheat sheet)
+Display list of [GitHub][]'s [emoji][]. (cheat sheet)
 - [buffer-wrap](https://github.com/jcs-elpa/buffer-wrap) (Spring 2020):
 Wrap the beginning and the end of buffer.
 - [dashboard-ls](https://github.com/emacs-dashboard/dashboard-ls) (Spring 2020):
@@ -1794,4 +1796,5 @@ The project was initiated during the course of work but is no longer in use as t
 [update_submodules.yml]: https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc
 
 [8comic]: https://v.comicabc.com/
-[kaomoji]: http://kaomoji.ru/en/
+[Emoji]: https://en.wikipedia.org/wiki/Emoji
+[kaomoji]: https://en.wikipedia.org/wiki/Kaomoji
