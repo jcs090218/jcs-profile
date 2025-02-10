@@ -578,6 +578,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [lsp-smart-req](https://github.com/jcs-elpa/lsp-smart-req) (Spring 2025):
+Lazy load [LSP][lsp-mode] packages.
 - [sideline-emoji](https://github.com/emacs-sideline/sideline-emoji) (Spring 2025):
 Show [emoji][] information with [sideline][].
 - [eglot-ltex-plus](https://github.com/emacs-languagetool/eglot-ltex-plus) (Spring 2025):
