@@ -88,9 +88,11 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 <details class="my-details">
   <summary>See details</summary>
 
-- [Unity.Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
+- [HTTP_Server](https://github.com/jcs090218/Unity.HTTP_Server) (Spring 2025):
+A simple [C#][] [HTTP][] server implementation for [Unity][].
+- [Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
 A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
-- [Unity.Mx][] (Fall 2023):
+- [Mx][] (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 <span aria-label="Professional work"
@@ -129,7 +131,7 @@ Example project to use [32feet][] inside [Unity][] ([Bluetooth][] Classic).
 - [Unity.Lua](https://github.com/jcs090218/Unity.Lua) (Spring 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
-- [Unity.UndoRedoSystem](https://github.com/jcs090218/Unity.UndoRedoSystem) (Summer 2018):
+- [UndoRedoSystem](https://github.com/jcs090218/Unity.UndoRedoSystem) (Summer 2018):
 Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
 - [Unity.Toggle](https://github.com/jcs090218/Unity.Toggle) (Summer 2018):
 A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
@@ -149,6 +151,10 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### 🖌️ Animations, Shaders, and VFX
 
+- [VideoTransition](https://github.com/jcs090218/Unity.VideoTransition) (Summer 2024 – Spring 2025 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+Use video transition to do scene transition.
+The original author was my co-worker created the video transition mask effect 
 - [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summer 2023):
 Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
 - [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summer 2023):
