@@ -126,12 +126,12 @@ Minimalistic good looking [hierarchy][HierarchyWindow].
 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
 - [32feet.Unity.Example](https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example) (Spring 2021):
 Example project to use [32feet][] inside [Unity][] ([Bluetooth][] Classic).
-- [UnityLua](https://github.com/jcs090218/UnityLua) (Spring 2020 <span aria-label="Professional work"
+- [Unity.Lua](https://github.com/jcs090218/Unity.Lua) (Spring 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
-- [Unity_UndoRedoSystem](https://github.com/jcs090218/Unity_UndoRedoSystem) (Summer 2018):
+- [Unity.UndoRedoSystem](https://github.com/jcs090218/Unity.UndoRedoSystem) (Summer 2018):
 Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
-- [Unity_Toggle](https://github.com/jcs090218/Unity_Toggle) (Summer 2018):
+- [Unity.Toggle](https://github.com/jcs090218/Unity.Toggle) (Summer 2018):
 A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
 - [PackageExporter](https://github.com/jcs090218/PackageExporter) (Winter 2017):
 An alternative approach to package management utilizing ignore files.
@@ -400,7 +400,7 @@ Initial attempt with [DRF][].
 data-balloon-pos="up">💸</span>):
 A straightforward server designed to be compatible with any [WebSocket][] client utilizing the [ws][] library.
 This is a small demo I developed while working at [WISBET][]. There is no documentation as we moved on to the next project afterward.
-- [Unity_DataServer](https://gitlab.com/jcs-workspace/unity/Unity_DataServer) (Winter 2019 <span aria-label="Professional work"
+- [Unity.DataServer](https://gitlab.com/jcs-workspace/unity/Unity.DataServer) (Winter 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A data server and a solution for the missing game data, including [in-app purchase (IAP)][IAP] history, when the game is uninstalled from a mobile device.
 - [sherlock][sherlock-project/sherlock] (Spring 2019 <span aria-label="Contributor"
