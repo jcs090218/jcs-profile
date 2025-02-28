@@ -137,6 +137,8 @@ Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
 A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
 - [PackageExporter](https://github.com/jcs090218/PackageExporter) (Winter 2017):
 An alternative approach to package management utilizing ignore files.
+- [TileEditor](https://gitlab.com/jcs-workspace/unity/TileEditor) (Fall 2017 – Winter 2017):
+Light-weight tile editing tool for [Unity][] 2D/3D.
 - [JCSUnity](https://github.com/jcs090218/JCSUnity) (Summer 2016 – Winter 2017):
 Quickly construct your game using multiple components and predefined default settings.
 
@@ -151,7 +153,7 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 
 #### 🖌️ Animations, Shaders, and VFX
 
-- [VideoTransition](https://github.com/jcs090218/Unity.VideoTransition) (Summer 2024 – Spring 2025 <span aria-label="Professional work"
+- [VideoTransition](https://youtu.be/tBDzRrHUKqc) (Summer 2024 – Spring 2025 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Use video transition to do scene transition.
 The original author was my co-worker created the video transition mask effect 
