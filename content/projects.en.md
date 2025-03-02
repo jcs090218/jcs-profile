@@ -92,7 +92,7 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 A simple [C#][] [HTTP][] server implementation for [Unity][].
 - [Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
 A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
-- [Mx][] (Fall 2023):
+- [Mx][Unity.Mx] (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 <span aria-label="Professional work"
@@ -1354,7 +1354,7 @@ data-balloon-pos="up">🏅</span>):
 Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summer 2022 <span aria-label="Published to GitHub Marketplace (3)"
 data-balloon-pos="up">🏅</span>):
-[Github action][GHA] which installs a given [Emacs][] version.
+[Github Actions][] which installs a given [Emacs][] version.
 This project aims to replace [purcell/setup-emacs][] by combining the two [GitHub Actions][] — [purcell/setup-emacs][] and [setup-emacs-windows][] — into one.
 As a result, it now supports all commonly used operating systems.
 - [setup-eask](https://github.com/emacs-eask/setup-eask) (Spring 2022 <span aria-label="Published to GitHub Marketplace (2)"
@@ -1368,7 +1368,7 @@ data-balloon-pos="up">🏅</span>):
 Activate [Unity][]'s personal license through [CLI][].
 - [setup-emacs-windows][] (Fall 2020 <span aria-label="Published to GitHub Marketplace (1)"
 data-balloon-pos="up">🏅</span>):
-A [Github Action][] that installs a specific [emacs][] version.
+A [Github Actions][] that installs a specific [Emacs][] version.
 This project draws inspiration from [purcell/setup-emacs][] but is specifically dedicated to supporting legacy Windows systems.
 - [package-bot](https://github.com/jcs-elpa/package-bot) (Spring 2020 – Fall 2020):
 Review new package PRs on [MELPA][] automatically.
