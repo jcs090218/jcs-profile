@@ -212,8 +212,13 @@ The concept is to emulate an aquarium experience.
 data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at GDC 2017 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span>):
-A 3rd person hack and slash action game made in the Unity engine, developed by a team of 18 in
+A 3rd person hack and slash action game made in the [Unity][] engine, developed by a team of 18 in
 the [Academy of Art University][AAU]. (15 weeks)
+- [Radiant Rune Fist](https://youtu.be/OQqqgbf0mGI) (Fall 2016 – Winter 2016 <span aria-label="Programmer"
+data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
+data-balloon-pos="up">🏫</span>):
+A run and gun platforming game from Old Gods Game Studio. Battle for glory and against evil!
+Made in the [Unity][] engine, developed by a team of 8 in the [Academy of Art University][]. (15 weeks)
 - [DJMax_Remake](https://github.com/jcs090218/DJMax_Remake) (Spring 2016 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A clone of [DJMax][] implemented in [Processing][].
 - [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
