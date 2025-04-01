@@ -184,6 +184,11 @@ data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Stor
 data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (1)"
 data-balloon-pos="up">🏅</span>):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
+- [Poker](https://youtu.be/WYwpSqk1nwQ) (Summer 2019 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+An online gambling game featuring a total of five mini-games.
+Our team consists of 7 members, and I am one of the game client engineers working with the [Unity][] engine.
+I am fully responsible for developing the entire gameplay system, while the UI is created by my senior coworker.
 - [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summer 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A multiplayer shooting [MOBA][] game on the mobile device.
