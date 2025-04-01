@@ -189,6 +189,7 @@ data-balloon-pos="up">💸</span>):
 An online gambling game featuring a total of five mini-games.
 Our team consists of 7 members, and I am one of the game client engineers working with the [Unity][] engine.
 I am fully responsible for developing the entire gameplay system, while the UI is created by my senior coworker.
+Unfortunately, the entire team got laid off, leaving the game unfinished. (8 weeks)
 - [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (Fall 2018 – Summer 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A multiplayer shooting [MOBA][] game on the mobile device.
