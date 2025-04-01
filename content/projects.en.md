@@ -184,7 +184,7 @@ data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Stor
 data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (1)"
 data-balloon-pos="up">🏅</span>):
 A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
-- [Poker](https://youtu.be/WYwpSqk1nwQ) (Summer 2019 <span aria-label="Professional work"
+- [Poker](https://youtu.be/WYwpSqk1nwQ) (Fall 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 An online gambling game featuring a total of five mini-games.
 Our team consists of 7 members, and I am one of the game client engineers working with the [Unity][] engine.
