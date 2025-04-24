@@ -230,7 +230,7 @@ A clone of [DJMax][] implemented in [Processing][].
 - [TPS](https://gitlab.com/artugam-jcs/tps) (Fall 2015 – Winter 2015 <span data-balloon-pos="up" aria-label="School work">🏫</span>):
 A simple [ASCII][] [third-person shooter (TPS)][TPS] game coded in [C++][].
 View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
-- [Project S](#) (Summer 2015 – Winter 2015 <span aria-label="Programming Lead"
+- [Project M](#) (Summer 2015 – Winter 2015 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Action game (ACT) with [RPG][] elements and a locked top-down perspective.
