@@ -18,6 +18,7 @@ The dates listed below indicate when the majority of the major development took 
 - <span aria-label="Contributor" data-balloon-pos="up">✨</span> = Contributor
 - <span aria-label="Forked projects" data-balloon-pos="up">🔗</span> = Forked projects (not the original author)
 - <span aria-label="Reward or Achievement" data-balloon-pos="up">🏅</span> = Reward or Achievement
+- <span aria-label="Adult Content" data-balloon-pos="up">🔞</span> = Adult Content
 
 📢 You can hover over these **emojis** for a detailed explanation!
 
