@@ -4,7 +4,7 @@
     <title>Career on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/zh-tw/categories/career/</link>
     <description>Recent content in Career on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/categories/career/index.xml" rel="self" type="application/rss+xml" />
@@ -14,8 +14,7 @@
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/career/problem-with-leetcode-and-swe-jobs/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;這是一篇關於軟體工程面試和 &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt; 的怒罵。&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;這是一篇關於軟體工程面試和 &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt; 的怒罵。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;!-- more --&gt;
 &lt;h2 id=&#34;-序言&#34;&gt;🗯️ 序言&lt;/h2&gt;
 &lt;p&gt;2024 年，全球數十萬人都在努力學習 &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt;，目標是在高薪的吸引下打入科技產業。&lt;/p&gt;
@@ -39,15 +38,15 @@
 &lt;p&gt;&lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt; 不是軟體工程。 😕&lt;/p&gt;
 &lt;h2 id=&#34;-有哪些更好的解決方案&#34;&gt;💡 有哪些更好的解決方案？&lt;/h2&gt;
 &lt;p&gt;有許多更有成效的事情可以做。
-貢獻 &lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt;/&lt;a href=&#34;https://nixos.org/&#34;&gt;NixOS&lt;/a&gt;、改善 &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 的生態系統、強化 &lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt; 套件管理、研究 &lt;a href=&#34;https://en.wikipedia.org/wiki/C_(programming_language)&#34;&gt;C&lt;/a&gt; 與 &lt;a href=&#34;https://cmake.org/&#34;&gt;CMake&lt;/a&gt; 工作流程、改善 &lt;a href=&#34;https://godotengine.org/asset-library/asset&#34;&gt;Godot Assets 商店&lt;/a&gt;，或是練習撰寫&lt;a href=&#34;https://en.wikipedia.org/wiki/Parsing&#34;&gt;解析器&lt;/a&gt;與&lt;a href=&#34;https://microsoft.github.io/language-server-protocol/&#34;&gt;語言伺服器&lt;/a&gt;。
+貢獻 &lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt;/&lt;a href=&#34;https://nixos.org/&#34;&gt;NixOS&lt;/a&gt;、改善 &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 的生態系統、強化 &lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt; 套件管理、研究 &lt;a href=&#34;https://en.wikipedia.org/wiki/C_%28programming_language%29&#34;&gt;C&lt;/a&gt; 與 &lt;a href=&#34;https://cmake.org/&#34;&gt;CMake&lt;/a&gt; 工作流程、改善 &lt;a href=&#34;https://godotengine.org/asset-library/asset&#34;&gt;Godot Assets 商店&lt;/a&gt;，或是練習撰寫&lt;a href=&#34;https://en.wikipedia.org/wiki/Parsing&#34;&gt;解析器&lt;/a&gt;與&lt;a href=&#34;https://microsoft.github.io/language-server-protocol/&#34;&gt;語言伺服器&lt;/a&gt;。
 有這麼多東西仍未完善，但人們卻在 &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt; 上浪費時間。 😢&lt;/p&gt;
 &lt;p&gt;研究其他人的程式碼、與他們交談、學習他們如何解決現實世界中的程式設計問題，才是更好的方法。&lt;/p&gt;
 &lt;p&gt;這個產業之所以受苦，就是因為我們採取了懶惰的方式，只使用軟體來篩選候選人，而不評估真正的人才。 😞&lt;/p&gt;
 &lt;h2 id=&#34;-我並不孤單&#34;&gt;😤 我並不孤單&lt;/h2&gt;
 &lt;p&gt;只要在 Google 上快速搜尋，就會發現無數的怒罵：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VpZdG7SMUvc&amp;ab_channel=ConnerArdman&#34;&gt;LeetCode Ruined Software Engineering…&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FA1cO9f5PmU&amp;ab_channel=CodingwithDee&#34;&gt;LeetCode: The Worst Thing to Happen to Software Engineering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=VpZdG7SMUvc&amp;amp;ab_channel=ConnerArdman&#34;&gt;LeetCode Ruined Software Engineering…&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FA1cO9f5PmU&amp;amp;ab_channel=CodingwithDee&#34;&gt;LeetCode: The Worst Thing to Happen to Software Engineering&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;-總結&#34;&gt;💬 總結&lt;/h2&gt;
 &lt;p&gt;我們無法逃避這個趨勢。歷史已經證明，就目前而言，這是社會所遵循的道路。也許軟體工程目前不適合我&amp;hellip; 🧐&lt;/p&gt;</description>
@@ -119,8 +118,7 @@
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;前言, 這是要給我&amp;quot;老爸&amp;quot;看的.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;前言, 這是要給我&amp;quot;老爸&amp;quot;看的.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;這種類似的文章, 實在很多. 所以我不會提及任何外面已經有的文章. 這文章將會是充滿我個人主觀
 想法的文章. 歡迎你有不同的想法, 也可以完全不贊同我的想法! 👍&lt;/p&gt;
 &lt;!-- more --&gt;

@@ -4,7 +4,7 @@
     <title>Unity on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/zh-tw/categories/unity/</link>
     <description>Recent content in Unity on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/categories/unity/index.xml" rel="self" type="application/rss+xml" />
@@ -52,8 +52,7 @@
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/unity/jcsunity/overview/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;JCSUnity Repo:&lt;/strong&gt; &lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;https://github.com/jcs090218/JCSUnity&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;JCSUnity Repo:&lt;/strong&gt; &lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;https://github.com/jcs090218/JCSUnity&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;這裡要介紹什麼其實真的不好說, 這是我已經開發將近3年的框架. 這個是我在大三的時候開發的框架, 也算是比較完整的框架.
 在閱讀此篇之前,讀者最好要先了解框架,工具箱,圖書館,等等類似的東西的差別, 在這裡就不多贅述. 在我寫這個工具的時候,
@@ -74,9 +73,7 @@ Unity引擎遊戲設計師的設計理念, 版本相容度是非常高的, 基�
 的產能(productivity). 本人原本需要開發15周的時間能壓縮到3周, 因為這個
 框架擁有了大多數遊戲都需要的設置, 但是Unity引擎本身並沒有提供的設置. 例
 如, 慢慢地切換場景, 切換背景音樂, 銀幕等比例相容, 等等. 這個框架能讓遊戲
-開發者高度集中在遊戲核心上的開發, 進而發展更多好玩的遊戲.&lt;/p&gt;
-&lt;h2 id=&#34;可獨立運行腳本&#34;&gt;可獨立運行腳本&lt;/h2&gt;
-&lt;p&gt;接著上面所說的, 什麼是可獨立運行的腳本呢? 比如我有三個腳本,&lt;/p&gt;</description>
+開發者高度集中在遊戲核心上的開發, 進而發展更多好玩的遊戲.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

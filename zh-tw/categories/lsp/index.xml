@@ -4,7 +4,7 @@
     <title>LSP on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/zh-tw/categories/lsp/</link>
     <description>Recent content in LSP on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/categories/lsp/index.xml" rel="self" type="application/rss+xml" />
@@ -14,8 +14,7 @@
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/vscode-shader/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;https://github.com/shader-ls/vscode-shader&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;https://github.com/shader-ls/vscode-shader&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;2023 年 8 月 23 日。我創建了我的第一個 VSCode 插件 – &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;vscode-shader&lt;/a&gt;。
 我的意圖很簡單：在 VSCode 中為我幾個月前創建的 &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;shader-language-server&lt;/a&gt;
 創建一個語言服務器客戶端。🤔&lt;/p&gt;
@@ -44,8 +43,7 @@
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;https://github.com/shader-ls/shader-language-server&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;https://github.com/shader-ls/shader-language-server&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;2023 年 4 月 30 日。我創建了我的第一個語言服務器，它對某人確實有用。
 我不久前嘗試過一個語言服務器，但它只是一個示例服務器，所以它不是很有用，
 而且僅用於教育目的。&lt;/p&gt;

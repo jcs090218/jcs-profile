@@ -379,19 +379,6 @@
                 href="https://www.jcs-profile.com/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/career/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/career/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/career/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/categories/career/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -403,6 +390,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/categories/career/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/career/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/career/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/</loc>
@@ -470,19 +470,6 @@
                 href="https://www.jcs-profile.com/tags/10x/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/editor/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/editor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/editor/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/categories/editor/</loc>
     <lastmod>2023-11-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -494,6 +481,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/categories/editor/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/editor/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/editor/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/elpa/</loc>
@@ -522,19 +522,6 @@
                 href="https://www.jcs-profile.com/tags/emacs/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/lsp/</loc>
-    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/lsp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/lsp/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/categories/lsp/</loc>
     <lastmod>2023-08-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -546,6 +533,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/categories/lsp/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/lsp/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/lsp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/lsp/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/migration/</loc>
@@ -561,19 +561,6 @@
                 href="https://www.jcs-profile.com/tags/migration/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/server/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/server/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/server/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/categories/server/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -587,17 +574,17 @@
                 href="https://www.jcs-profile.com/categories/server/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/game-dev/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
+    <loc>https://www.jcs-profile.com/tags/server/</loc>
+    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/game-dev/"
+                href="https://www.jcs-profile.com/zh-tw/tags/server/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jcs-profile.com/tags/game-dev/"
+                href="https://www.jcs-profile.com/tags/server/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/game-dev/</loc>
@@ -613,6 +600,19 @@
                 href="https://www.jcs-profile.com/categories/game-dev/"
                 />
   </url><url>
+    <loc>https://www.jcs-profile.com/tags/game-dev/</loc>
+    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/game-dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/game-dev/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/tags/generator/</loc>
     <lastmod>2021-09-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -624,19 +624,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/tags/generator/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/tags/web/</loc>
-    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/web/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/web/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/web/</loc>
@@ -652,6 +639,19 @@
                 href="https://www.jcs-profile.com/categories/web/"
                 />
   </url><url>
+    <loc>https://www.jcs-profile.com/tags/web/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/web/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/tags/ci/cd/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -665,19 +665,6 @@
                 href="https://www.jcs-profile.com/tags/ci/cd/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/unity/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/unity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/unity/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/categories/unity/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -689,6 +676,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/categories/unity/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/unity/</loc>
+    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/unity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/unity/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/education/</loc>
@@ -717,19 +717,6 @@
                 href="https://www.jcs-profile.com/tags/delima/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/philosophy/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/philosophy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/philosophy/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/categories/philosophy/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -743,17 +730,17 @@
                 href="https://www.jcs-profile.com/categories/philosophy/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/others/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <loc>https://www.jcs-profile.com/tags/philosophy/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/others/"
+                href="https://www.jcs-profile.com/zh-tw/tags/philosophy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jcs-profile.com/tags/others/"
+                href="https://www.jcs-profile.com/tags/philosophy/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/others/</loc>
@@ -769,17 +756,17 @@
                 href="https://www.jcs-profile.com/categories/others/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/legacy/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <loc>https://www.jcs-profile.com/tags/others/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/legacy/"
+                href="https://www.jcs-profile.com/zh-tw/tags/others/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jcs-profile.com/tags/legacy/"
+                href="https://www.jcs-profile.com/tags/others/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/legacy/</loc>
@@ -793,6 +780,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/categories/legacy/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/legacy/</loc>
+    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/legacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/legacy/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/parallax/</loc>
@@ -834,19 +834,6 @@
                 href="https://www.jcs-profile.com/tags/framework/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/productivity/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/productivity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/productivity/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/categories/productivity/</loc>
     <lastmod>2017-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -860,17 +847,17 @@
                 href="https://www.jcs-profile.com/categories/productivity/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/tags/announcement/</loc>
-    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+    <loc>https://www.jcs-profile.com/tags/productivity/</loc>
+    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/announcement/"
+                href="https://www.jcs-profile.com/zh-tw/tags/productivity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.jcs-profile.com/tags/announcement/"
+                href="https://www.jcs-profile.com/tags/productivity/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/announcement/</loc>
@@ -884,6 +871,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/categories/announcement/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/announcement/</loc>
+    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/announcement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/announcement/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/blog/</loc>

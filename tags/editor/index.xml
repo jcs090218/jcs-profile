@@ -4,7 +4,7 @@
     <title>Editor on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/tags/editor/</link>
     <description>Recent content in Editor on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/tags/editor/index.xml" rel="self" type="application/rss+xml" />
@@ -14,8 +14,7 @@
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/editor/elisp-ls/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Repo link: &lt;a href=&#34;https://github.com/jcs090218/ellsp&#34;&gt;https://github.com/jcs090218/ellsp&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Repo link: &lt;a href=&#34;https://github.com/jcs090218/ellsp&#34;&gt;https://github.com/jcs090218/ellsp&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I’ve recently created a language server for Emacs Lisp. It’s interesting
 since people don’t think a language server for Emacs Lisp will provide
 any value. The statement is correct, and so do I. Emacs Lisp is only used

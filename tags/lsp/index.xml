@@ -4,7 +4,7 @@
     <title>LSP on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/tags/lsp/</link>
     <description>Recent content in LSP on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/tags/lsp/index.xml" rel="self" type="application/rss+xml" />
@@ -14,8 +14,7 @@
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/lsp/vscode-shader/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;https://github.com/shader-ls/vscode-shader&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;https://github.com/shader-ls/vscode-shader&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Aug 23rd, 2023. I&amp;rsquo;ve created my first VSCode plugin &amp;ndash; &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;vscode-shader&lt;/a&gt;.
 My intention was simple: to create a language server&amp;rsquo;s client in VSCode
 for my &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;shader-language-server&lt;/a&gt; that I created a couple of months ago. 🤔&lt;/p&gt;
@@ -33,8 +32,7 @@ making it very easy for developers. I am using &lt;a href=&#34;https://github.co
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/lsp/shader-ls/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;https://github.com/shader-ls/shader-language-server&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;https://github.com/shader-ls/shader-language-server&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;April 30th, 2023. I have created my first language server that is actually
 useful to someone. I tried a language server a while back, but it was just
 an example server, so it’s not very useful, and it’s only for educational

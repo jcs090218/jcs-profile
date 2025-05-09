@@ -4,7 +4,7 @@
     <title>Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/</link>
     <description>Recent content on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/index.xml" rel="self" type="application/rss+xml" />
@@ -14,8 +14,7 @@
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/career/problem-with-leetcode-and-swe-jobs/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;This is a rant about software engineering interviews and &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;This is a rant about software engineering interviews and &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;!-- more --&gt;
 &lt;h2 id=&#34;-preamble&#34;&gt;🗯️ Preamble&lt;/h2&gt;
 &lt;p&gt;In 2024, hundreds of thousands of people worldwide are grinding through &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt;, aiming to break into the tech industry, drawn by the high salaries it offers.&lt;/p&gt;
@@ -46,8 +45,7 @@ managed to fix a bunch of complex bugs in a short amount of time, which left the
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/editor/elisp-ls/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Repo link: &lt;a href=&#34;https://github.com/jcs090218/ellsp&#34;&gt;https://github.com/jcs090218/ellsp&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Repo link: &lt;a href=&#34;https://github.com/jcs090218/ellsp&#34;&gt;https://github.com/jcs090218/ellsp&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I’ve recently created a language server for Emacs Lisp. It’s interesting
 since people don’t think a language server for Emacs Lisp will provide
 any value. The statement is correct, and so do I. Emacs Lisp is only used
@@ -84,8 +82,7 @@ your own ELPA:&lt;/p&gt;</description>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/lsp/vscode-shader/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;https://github.com/shader-ls/vscode-shader&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;https://github.com/shader-ls/vscode-shader&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Aug 23rd, 2023. I&amp;rsquo;ve created my first VSCode plugin &amp;ndash; &lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;vscode-shader&lt;/a&gt;.
 My intention was simple: to create a language server&amp;rsquo;s client in VSCode
 for my &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;shader-language-server&lt;/a&gt; that I created a couple of months ago. 🤔&lt;/p&gt;
@@ -103,8 +100,7 @@ making it very easy for developers. I am using &lt;a href=&#34;https://github.co
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/lsp/shader-ls/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;https://github.com/shader-ls/shader-language-server&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Repo Link: &lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;https://github.com/shader-ls/shader-language-server&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;April 30th, 2023. I have created my first language server that is actually
 useful to someone. I tried a language server a while back, but it was just
 an example server, so it’s not very useful, and it’s only for educational
@@ -259,8 +255,7 @@ this does not apply to Plus/Pro users because they use a different licensing sys
       <guid>https://www.jcs-profile.com/posts/philosophy/%E9%81%87%E5%88%B0%E5%9B%B0%E9%9B%A3/</guid>
       <description>&lt;p&gt;This is a record, a message from me to one of my ex-firned.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The talked was, 2020-05-06&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The talked was, 2020-05-06&lt;/p&gt;&lt;/blockquote&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;While you are in a dilemma, we humans are totally normal to be afraid
 of it. This may be a process; afraid makes us strong and a much more
@@ -359,8 +354,7 @@ Engine with C#.&lt;/p&gt;
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/unity/jcsunity/overview/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;JCSUnity Repo:&lt;/strong&gt; &lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;https://github.com/jcs090218/JCSUnity&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;JCSUnity Repo:&lt;/strong&gt; &lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;https://github.com/jcs090218/JCSUnity&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;acknowledge&#34;&gt;Acknowledge&lt;/h2&gt;
 &lt;p&gt;I have developed this tool for 3 years. Starting from the third year of my
 college years. Compare to other framework I had developed, this tool have

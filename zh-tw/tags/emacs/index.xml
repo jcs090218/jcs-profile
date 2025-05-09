@@ -4,7 +4,7 @@
     <title>Emacs on Jen-Chieh&#39;s Website</title>
     <link>https://www.jcs-profile.com/zh-tw/tags/emacs/</link>
     <description>Recent content in Emacs on Jen-Chieh&#39;s Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.147.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
@@ -113,41 +113,41 @@ GHA, 就想說有很多台電腦在幫你做事即可)&lt;/li&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Behind technology&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Cross-Platform&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Emacs Version&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Size&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Behind technology&lt;/th&gt;
+          &lt;th&gt;Cross-Platform&lt;/th&gt;
+          &lt;th&gt;Emacs Version&lt;/th&gt;
+          &lt;th&gt;Size&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Cask&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Bash, Batch, and Python (Windows)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;❌ Good on Linux and macOS, but it&amp;rsquo;s particularly bad on Windows&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24.5+&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;3,000+ lines&lt;/td&gt;
+          &lt;td&gt;Cask&lt;/td&gt;
+          &lt;td&gt;Bash, Batch, and Python (Windows)&lt;/td&gt;
+          &lt;td&gt;❌ Good on Linux and macOS, but it&amp;rsquo;s particularly bad on Windows&lt;/td&gt;
+          &lt;td&gt;24.5+&lt;/td&gt;
+          &lt;td&gt;3,000+ lines&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;makem.sh&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Shellscript&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;❌ Doesn&amp;rsquo;t work on Windows by default&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;26.1+&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;1 file, 1200+ lines&lt;/td&gt;
+          &lt;td&gt;makem.sh&lt;/td&gt;
+          &lt;td&gt;Shellscript&lt;/td&gt;
+          &lt;td&gt;❌ Doesn&amp;rsquo;t work on Windows by default&lt;/td&gt;
+          &lt;td&gt;26.1+&lt;/td&gt;
+          &lt;td&gt;1 file, 1200+ lines&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Eldev&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Bash, Batch, and Powershel, etc&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;✔ Good, but qutie slow on Windows&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24.4+&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;4,000+ lines&lt;/td&gt;
+          &lt;td&gt;Eldev&lt;/td&gt;
+          &lt;td&gt;Bash, Batch, and Powershel, etc&lt;/td&gt;
+          &lt;td&gt;✔ Good, but qutie slow on Windows&lt;/td&gt;
+          &lt;td&gt;24.4+&lt;/td&gt;
+          &lt;td&gt;4,000+ lines&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Eask&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Node or Native Executables&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;✔ Good, and it can be compiled to native executables&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;26.1+&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;3,000+ lines&lt;/td&gt;
+          &lt;td&gt;Eask&lt;/td&gt;
+          &lt;td&gt;Node or Native Executables&lt;/td&gt;
+          &lt;td&gt;✔ Good, and it can be compiled to native executables&lt;/td&gt;
+          &lt;td&gt;26.1+&lt;/td&gt;
+          &lt;td&gt;3,000+ lines&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
