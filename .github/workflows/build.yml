@@ -24,7 +24,7 @@ jobs:
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: '0.134.2'
+        hugo-version: '0.147.2'
 
     - name: Check out gh-pages branch
       uses: actions/checkout@v4
