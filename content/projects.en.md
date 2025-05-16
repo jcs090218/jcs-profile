@@ -13,7 +13,7 @@ The dates listed below indicate when the majority of the major development took 
 
 - <span aria-label="Professional work" data-balloon-pos="up">💸</span> = Professional work
 - <span aria-label="School work" data-balloon-pos="up">🏫</span> = School work
-- <span aria-label="Role" data-balloon-pos="up">👨‍💼</span> = Role in the team (Tech Lead, CTO, etc)
+- <span aria-label="Role" data-balloon-pos="up">👨‍💼</span> = Role in the team
 - <span aria-label="Maintainer" data-balloon-pos="up">👷</span> = Maintainer
 - <span aria-label="Contributor" data-balloon-pos="up">✨</span> = Contributor
 - <span aria-label="Forked projects" data-balloon-pos="up">🔗</span> = Forked projects (not the original author)
@@ -31,6 +31,12 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
+- [Untitled: ASAKU](#) (Spring 2025 – Present<span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>): WIP game.
+- [Untitled: CODE_E](#) (Winter 2024 – Present<span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>): WIP game.
 - [cl-qob/packaging][] (Winter 2024 – Present):
 Packaging for [Qob CLI][cl-qob/cli].
 - [Qob][] or [cl-qob/cli][] (Fall 2024 – Present <span aria-label="Published to Debian (2)"
@@ -157,7 +163,8 @@ Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in
 - [VideoTransition](https://youtu.be/tBDzRrHUKqc) (Summer 2024 – Spring 2025 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Use video transition to do scene transition.
-The original author was my co-worker created the video transition mask effect 
+The original author is my co-worker [@hirosaga][gitlab/hirosaga] created the video transition mask effect
+and being used in our game [長姬記][].
 - [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (Summer 2023):
 Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
 - [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summer 2023):
@@ -170,6 +177,13 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 <details class="my-details">
   <summary>See details</summary>
 
+- [長姬記](#) (Summer 2024 – Summer 2025 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span><span aria-label="Adult Content"
+data-balloon-pos="up">🔞</span>):
+A 2D erotic game featuring turn-based combat and adventure-driven storytelling.
+Developed by [Bunny Eats Tiger][] with a core team of three members,
+the game is funded and set to be published by [Mango Party][].
 - [You Have An Order](https://jcs090218.itch.io/you-have-an-order) (Summer 2024 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span>):
 A 2D pixel horror game, players strive to evade monsters while searching for an escape route.
@@ -1464,6 +1478,7 @@ The project was initiated during the course of work but is no longer in use as t
 [github/Rileran]: https://github.com/Rileran
 [github/DevelopmentCool2449]: https://github.com/DevelopmentCool2449
 [github/abougouffa]: https://github.com/abougouffa
+[gitlab/hirosaga]: https://gitlab.com/hirosaga
 
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
@@ -1481,6 +1496,8 @@ The project was initiated during the course of work but is no longer in use as t
 [E3 CGC]: https://e3expo.com/
 [EYNY Video]: https://video.eyny.com/video
 [机核GCORES]: https://www.gcores.com/
+[Bunny Eats Tiger]: https://store.steampowered.com/developer/BunnyEatsTiger
+[Mango Party]: https://store.steampowered.com/publisher/MangoParty
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
