@@ -33,7 +33,13 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 - [Untitled: ASAKU](#) (Spring 2025 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
-data-balloon-pos="up">💸</span>): WIP game.
+data-balloon-pos="up">💸</span>):
+This untitled project is a turn-based [MOBA][] developed by a 6-person team in
+collaboration with ASAKU, a manga by Taiwanese creator [MingKun Liu][].
+It features strategic 3v3 battles using characters and themes from the manga.
+Built in [Unity][], the game uses [FishNet][] for both client and server networking,
+after an initial prototype with [LiteNetLib][]. I'm responsible for developing both
+the client and server systems.
 - [Untitled: CODE_E](#) (Winter 2024 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>): WIP game.
@@ -1479,6 +1485,8 @@ The project was initiated during the course of work but is no longer in use as t
 [github/DevelopmentCool2449]: https://github.com/DevelopmentCool2449
 [github/abougouffa]: https://github.com/abougouffa
 [gitlab/hirosaga]: https://gitlab.com/hirosaga
+[劉明昆]: https://zh.wikipedia.org/wiki/%E5%8A%89%E6%98%8E%E6%98%86
+[MingKun Liu]: https://zh.wikipedia.org/wiki/%E5%8A%89%E6%98%8E%E6%98%86
 
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
@@ -1504,6 +1512,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
+[ASAKU]: https://asaku.info/
 
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [macOS]: https://en.wikipedia.org/wiki/MacOS
@@ -1554,6 +1563,8 @@ The project was initiated during the course of work but is no longer in use as t
 [Pygame]: https://en.wikipedia.org/wiki/Pygame
 [Qt Jami]: https://wiki.qt.io/Qt_Jambi
 [Apache Mina]: https://mina.apache.org/
+[LiteNetLib]: https://github.com/RevenantX/LiteNetLib
+[FishNet]: https://github.com/FirstGearGames/FishNet
 [swagger.io]: https://swagger.io/
 [EditorConfig]: https://editorconfig.org/
 [Chrome]: https://www.google.com/chrome/
