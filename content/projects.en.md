@@ -34,11 +34,11 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 - [Untitled: ASAKU](#) (Spring 2025 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
-This untitled project is a turn-based [MOBA][] developed by a 6-person team in
-collaboration with ASAKU, a manga by Taiwanese creator [MingKun Liu][].
-It features strategic 3v3 battles using characters and themes from the manga.
+A turn-based [MOBA][] developed by a 6-person team in collaboration with [ASAKU][],
+a manga by Taiwanese creator [MingKun Liu][]. It features strategic multiplayer
+battles—such as 3v3, 4v4, and 5v5—using characters and themes from the manga.
 Built in [Unity][], the game uses [FishNet][] for both client and server networking,
-after an initial prototype with [LiteNetLib][]. I'm responsible for developing both
+after an initial prototype with [LiteNetLib][]. I’m responsible for developing both
 the client and server systems.
 - [Untitled: CODE_E](#) (Winter 2024 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
