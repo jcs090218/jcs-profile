@@ -618,6 +618,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [org-journal](https://github.com/bastibe/org-journal) (Summer 2025 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+A simple [org-mode][] based journaling mode.
 - [lsp-smart-req](https://github.com/jcs-elpa/lsp-smart-req) (Spring 2025):
 Lazy load [LSP][lsp-mode] packages.
 - [sideline-emoji](https://github.com/emacs-sideline/sideline-emoji) (Spring 2025):
@@ -1735,6 +1738,7 @@ The project was initiated during the course of work but is no longer in use as t
 [GitGutter]: https://packagecontrol.io/packages/GitGutter
 [ws]: https://www.npmjs.com/package/ws
 [ziglint]: https://github.com/nektro/ziglint
+[org-mode]: https://orgmode.org/
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
