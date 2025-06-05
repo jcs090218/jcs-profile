@@ -1013,7 +1013,575 @@ Vim口令那樣的設計巧思. 根本就是一塊石頭. 在這樣的情況下,
       <link>https://www.jcs-profile.com/zh-tw/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/projects/</guid>
-      <description>&lt;p&gt;這裡什麼都沒有, 請參考其他語言!&lt;/p&gt;</description>
+      <description>&lt;p&gt;本頁面展示了我的一些個人、職業和學術項目。這些項目的大部分源代碼以及其他項目都可以在我的 &lt;a href=&#34;https://github.com/jcs090218&#34;&gt;GitHub&lt;/a&gt; 和 &lt;a href=&#34;https://gitlab.com/jcs090218&#34;&gt;GitLab&lt;/a&gt; 帳戶中找到。&lt;/p&gt;
+&lt;p&gt;除非另有說明，否則我所有的開源專案都會根據需要進行維護。以下日期表示大部分主要開發工作完成的時間。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span aria-label=&#34;專業工作&#34; data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt; = 專業工作&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;學校作業&#34; data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt; = 學校作業&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;職稱&#34; data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt; = 在團隊的角色&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;維護者&#34; data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt; = 維護者&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;貢獻者&#34; data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt; = 貢獻者&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;分支項目&#34; data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt; = 分支項目 （非原作者）&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;獎勵或成就&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt; = 獎勵或成就&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;成人內容&#34; data-balloon-pos=&#34;up&#34;&gt;🔞&lt;/span&gt; = 成人內容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;📢 您可以將鼠標懸停在這些 &lt;strong&gt;表情符號&lt;/strong&gt; 上，查看詳細說明！&lt;/p&gt;
+&lt;p&gt;請使用 &lt;kbd&gt;Ctrl&lt;/kbd&gt;+&lt;kbd&gt;f&lt;/kbd&gt; 來搜尋項目清單。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-目前正在製作&#34;&gt;🚧 目前正在製作&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34; open&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Untitled: ASAKU&lt;/a&gt; (春 2025 – 現在&lt;span aria-label=&#34;程式領導&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+這是一款回合制 &lt;a href=&#34;https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena&#34;&gt;MOBA&lt;/a&gt;，由六人團隊與台灣漫畫創作者 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8A%89%E6%98%8E%E6%98%86&#34;&gt;MingKun Liu&lt;/a&gt; 的漫畫 &lt;a href=&#34;https://asaku.info/&#34;&gt;ASAKU&lt;/a&gt; 合作開發。
+本遊戲的特色為策略性多人對戰，例如 3v3、4v4 和 5v5，並採用漫畫中的角色和主題。
+遊戲以 &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; 製作，在使用 &lt;a href=&#34;https://github.com/RevenantX/LiteNetLib&#34;&gt;LiteNetLib&lt;/a&gt; 的初始原型後，客戶端和伺服器網路都使用 &lt;a href=&#34;https://github.com/FirstGearGames/FishNet&#34;&gt;FishNet&lt;/a&gt;。
+我負責開發客戶端和伺服器系統。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Untitled: CODE_E&lt;/a&gt; (冬 2024 – 現在&lt;span aria-label=&#34;程式領導&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;): 遊戲製作中.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cl-qob/packaging&#34;&gt;cl-qob/packaging&lt;/a&gt; (冬 2024 – 現在):
+為 &lt;a href=&#34;https://github.com/cl-qob/cli&#34;&gt;Qob CLI&lt;/a&gt; 進行封裝。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cl-qob.github.io/&#34;&gt;Qob&lt;/a&gt; or &lt;a href=&#34;https://github.com/cl-qob/cli&#34;&gt;cl-qob/cli&lt;/a&gt; (秋 2024 – 現在 &lt;span aria-label=&#34;發佈至 Debian (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Homebrew (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Chocolatey (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Scoop (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;CLI&lt;/a&gt; 用於建立、執行、測試和管理您的 &lt;a href=&#34;https://lisp-lang.org/&#34;&gt;Common Lisp&lt;/a&gt; 相依性。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Cogru/cogru&#34;&gt;cogru&lt;/a&gt; (夏 2024 – 現在):
+協作從哪裡開始！？我在 &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt; 中使用 &lt;a href=&#34;https://en.wikipedia.org/wiki/Client%E2%80%93server_model&#34;&gt;client-server model&lt;/a&gt; 實作了 &lt;a href=&#34;https://en.wikipedia.org/wiki/Operational_transformation&#34;&gt;Operational Transformation (OT)&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/dotfiles&#34;&gt;dotfiles&lt;/a&gt; (夏 2024 – 現在):
+人傑的 dotfiles。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jayces-lang/jayces&#34;&gt;jayces&lt;/a&gt; (冬 2023 – 現在): 我創建的編程語言，主要是為了學習寫的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-工具架構和程式庫&#34;&gt;🧰 工具、架構和程式庫&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSNetP&#34;&gt;JCSNetP&lt;/a&gt; (冬 2017):
+使用 &lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;，開發了一個框架來提高網路程式設計的效率。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSQtJ&#34;&gt;JCSQtJ&lt;/a&gt; (秋 2017):
+一個封裝了 &lt;a href=&#34;https://wiki.qt.io/Qt_Jambi&#34;&gt;Qt Jami&lt;/a&gt; 以加速開發的精簡框架。探索使用此框架的其他專案，例如 &lt;a href=&#34;https://github.com/jcs090218/Guild-Emblem-Simulator&#34;&gt;Guild-Emblem-Simulator&lt;/a&gt;、&lt;a href=&#34;https://gitlab.com/jcs-workspace/Java/OC_Install&#34;&gt;OC_Install&lt;/a&gt; 等。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSNetS&#34;&gt;JCSNetS&lt;/a&gt; (夏 2017):
+專為製作 &lt;a href=&#34;https://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt; 遊戲量身打造的專用網路架構，利用 &lt;a href=&#34;https://mina.apache.org/&#34;&gt;Apache Mina&lt;/a&gt; 和 &lt;a href=&#34;https://www.mysql.com/&#34;&gt;MySQL&lt;/a&gt;。請查看使用此框架的專案 &lt;a href=&#34;https://www.youtube.com/watch?v=99XotNo86wI&#34;&gt;BB_Shoot&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSPyGm_Lib&#34;&gt;JCSPyGm_Lib&lt;/a&gt; (冬 2016 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+一套專為使用 &lt;a href=&#34;https://en.wikipedia.org/wiki/Pygame&#34;&gt;Pygame&lt;/a&gt; 提升遊戲開發速度而設計的工具。請造訪示範專案 &lt;a href=&#34;https://github.com/jcs090218/ImpulseEngine&#34;&gt;ImpulseEngine&lt;/a&gt; 以取得更詳細的使用資訊。 (6週；包含示範專案)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSCos2x_Lib_src&#34;&gt;JCSCos2x_Lib&lt;/a&gt; (秋 2016 – 冬 2016 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+這個小型函式庫為視差效果提供了快速、表面、易於實作的層次，以及使用 &lt;a href=&#34;https://www.cocos.com/en/cocos2d-x&#34;&gt;Cocos2d-x&lt;/a&gt; 製作 2D 遊戲的基本功能。
+觀看示範專案的短片 &lt;a href=&#34;https://www.youtube.com/watch?v=SMMtxSFFqgo&#34;&gt;這裡&lt;/a&gt;。 (4 週；包括示範專案)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSLOVELua&#34;&gt;JCSLOVELua&lt;/a&gt; (秋 2016 – 冬 2016 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+一個建構在 &lt;a href=&#34;https://love2d.org/&#34;&gt;LÖVE&lt;/a&gt; 2D 引擎上的遊戲框架，透過提供預先實作的常用系統 (動畫、攝影機、輸入、渲染、簡單物理等)，
+提升生產力與使用者體驗。請參閱示範專案 &lt;a href=&#34;https://github.com/jcs090218/PetShop&#34;&gt;PetShop&lt;/a&gt; 以取得更詳細的使用資訊。
+(5 weeks; including the demo project)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSCC_Engine&#34;&gt;JCSCC_Engine&lt;/a&gt; (春 2016 – 冬 2017 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+遊戲引擎提供直接的程式介面，用於開發跨平台原生程式碼遊戲。它包括一個具有安全解碼和編碼演算法的資源管理器。
+本專案的目標是深入了解遊戲引擎的建構、瞭解其架構，並將這些知識應用於其他現代遊戲引擎。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/as3/JCSStarling&#34;&gt;JCSStarling&lt;/a&gt; (春 2015):
+這是分層在 &lt;a href=&#34;https://gamua.com/starling/&#34;&gt;Starling&lt;/a&gt; 框架之上的程式介面，將事件驅動系統轉換成元件驅動系統。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;unity&#34;&gt;&lt;div class=&#34;simpleicons&#34; id=&#34;si-unity&#34;&gt;&lt;/div&gt; Unity&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34; open&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Unity.HTTP_Server&#34;&gt;HTTP_Server&lt;/a&gt; (春 2025):
+A simple &lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/HTTP&#34;&gt;HTTP&lt;/a&gt; server implementation for &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Unity.Prefs&#34;&gt;Prefs&lt;/a&gt; (秋 2023):
+A small library designed to fetch a list of &lt;a href=&#34;https://docs.unity3d.com/ScriptReference/EditorPrefs.html&#34;&gt;EditorPrefs&lt;/a&gt;/&lt;a href=&#34;https://docs.unity3d.com/ScriptReference/PlayerPrefs.html&#34;&gt;PlayerPrefs&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Unity.Mx&#34;&gt;Mx&lt;/a&gt; (秋 2023):
+A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
+The idea is to port the &lt;a href=&#34;https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html&#34;&gt;M-x&lt;/a&gt; functionality from &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://assetstore.unity.com/packages/tools/utilities/novbundle-201440&#34;&gt;NovBundle&lt;/a&gt; (秋 2021 – 春 2022 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Unity Asset Store (7)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+An abstraction layer constructed atop the &lt;a href=&#34;https://docs.unity3d.com/Manual/AssetBundlesIntro.html&#34;&gt;AssetBundles&lt;/a&gt; system, aiming to streamline the &lt;a href=&#34;https://docs.unity3d.com/Manual/AssetBundlesIntro.html&#34;&gt;AssetBundles&lt;/a&gt; workflow, sparing users from delving into intricate system details.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/pixisoft/UnityAS/WatchLog&#34;&gt;WatchLog&lt;/a&gt; (夏 2021 – 秋 2021 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Unity Asset Store (6)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A dedicated tool that tracks variable over time.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811&#34;&gt;Inspect Yaml&lt;/a&gt; (夏 2021 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Unity Asset Store (5)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A dedicated and up to date &lt;a href=&#34;https://yaml.org/&#34;&gt;YAML&lt;/a&gt; editor inside the &lt;a href=&#34;https://docs.unity3d.com/Manual/UsingTheInspector.html&#34;&gt;Inspector&lt;/a&gt; window.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://assetstore.unity.com/publishers/54455&#34;&gt;Inspect Xml&lt;/a&gt; (夏 2021 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Unity Asset Store (4)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A dedicated and up to date &lt;a href=&#34;https://en.wikipedia.org/wiki/XML&#34;&gt;XML&lt;/a&gt; editor inside the &lt;a href=&#34;https://docs.unity3d.com/Manual/UsingTheInspector.html&#34;&gt;Inspector&lt;/a&gt; window.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543&#34;&gt;Inspect Json&lt;/a&gt; (夏 2021 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Unity Asset Store (3)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A dedicated and up to date &lt;a href=&#34;https://www.json.org/json-en.html&#34;&gt;JSON&lt;/a&gt; editor inside the &lt;a href=&#34;https://docs.unity3d.com/Manual/UsingTheInspector.html&#34;&gt;Inspector&lt;/a&gt; window.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://assetstore.unity.com/packages/vfx/afterimage-197173&#34;&gt;Afterimage&lt;/a&gt; (夏 2021 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Unity Asset Store (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Afterimage VFX for &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt;.
+A simple solution that work with 2D and 3D renderers, including UI components (Image, Text, Button, etc).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171&#34;&gt;sHierarchy&lt;/a&gt; (夏 2021 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Unity Asset Store (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Minimalistic good looking &lt;a href=&#34;https://docs.unity3d.com/Manual/Hierarchy.html&#34;&gt;hierarchy&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MapleStoryUnity/UnityWzLib&#34;&gt;UnityWzLib&lt;/a&gt; (夏 2021):
+&lt;a href=&#34;https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.&#34;&gt;WzLib&lt;/a&gt; for &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example&#34;&gt;32feet.Unity.Example&lt;/a&gt; (春 2021):
+Example project to use &lt;a href=&#34;https://github.com/inthehand/32feet&#34;&gt;32feet&lt;/a&gt; inside &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Bluetooth&#34;&gt;Bluetooth&lt;/a&gt; Classic).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Unity.Lua&#34;&gt;Unity.Lua&lt;/a&gt; (春 2020 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+Use Lua scripting language (&lt;a href=&#34;https://github.com/topameng/tolua&#34;&gt;tolua&lt;/a&gt;) in &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; to accomplish hot update/fix functionality.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Unity.UndoRedoSystem&#34;&gt;UndoRedoSystem&lt;/a&gt; (夏 2018):
+Implementation of an Undo-Redo system in &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; using &lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt; and uGUI.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Unity.Toggle&#34;&gt;Unity.Toggle&lt;/a&gt; (夏 2018):
+A little bit overkill toggle button UI for &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; Engine using uGUI.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/PackageExporter&#34;&gt;PackageExporter&lt;/a&gt; (冬 2017):
+An alternative approach to package management utilizing ignore files.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/TileEditor&#34;&gt;TileEditor&lt;/a&gt; (秋 2017 – 冬 2017):
+Light-weight tile editing tool for &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; 2D/3D.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;JCSUnity&lt;/a&gt; (夏 2016 – 冬 2017):
+Quickly construct your game using multiple components and predefined default settings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;-演算法&#34;&gt;📐 演算法&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=I8QsEB3IYI0&#34;&gt;AI_Link&lt;/a&gt; (冬 2024 – 春 2025):
+This project specifically addresses the limitations of the &lt;a href=&#34;https://docs.unity3d.com/560/Documentation/Manual/class-NavMeshLink.html&#34;&gt;NavMesh Link&lt;/a&gt; by replacing the original with a custom system.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/2D_Visibility&#34;&gt;2D_Visibility&lt;/a&gt; (夏 2024):
+Implementation of &lt;a href=&#34;https://www.redblobgames.com/articles/visibility/&#34;&gt;2D Visibility&lt;/a&gt; in &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; using &lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/AStar&#34;&gt;AStar&lt;/a&gt; (夏 2023):
+Implementation of &lt;a href=&#34;https://en.wikipedia.org/wiki/A*_search_algorithm&#34;&gt;A-star&lt;/a&gt; in &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; using &lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;-動畫著色器和-vfx&#34;&gt;🖌️ 動畫、著色器和 VFX&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/tBDzRrHUKqc&#34;&gt;VideoTransition&lt;/a&gt; (夏 2024 – 春 2025 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+Use video transition to do scene transition.
+The original author is my co-worker &lt;a href=&#34;https://gitlab.com/hirosaga&#34;&gt;@hirosaga&lt;/a&gt; created the video transition mask effect
+and being used in our game &lt;a href=&#34;&#34;&gt;長姬記&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/Grass_Sway&#34;&gt;Grass_Sway&lt;/a&gt; (夏 2023):
+Create a grass sway effect in &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; using &lt;a href=&#34;https://docs.unity3d.com/Manual/shader-graph.html&#34;&gt;Shader Graph&lt;/a&gt; with &lt;a href=&#34;https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html&#34;&gt;Universal Render Pipeline (URP)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/Better_Skybox&#34;&gt;Better_Skybox&lt;/a&gt; (夏 2023):
+Enhance the overall visual experience by adjusting various settings in &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-遊戲&#34;&gt;🎮 遊戲&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;長姬記&lt;/a&gt; (夏 2024 – 夏 2025 &lt;span aria-label=&#34;Programming Lead&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;成人內容&#34;
+data-balloon-pos=&#34;up&#34;&gt;🔞&lt;/span&gt;):
+A 2D erotic game featuring turn-based combat and adventure-driven storytelling.
+Developed by &lt;a href=&#34;https://store.steampowered.com/developer/BunnyEatsTiger&#34;&gt;Bunny Eats Tiger&lt;/a&gt; with a core team of three members,
+the game is funded and set to be published by &lt;a href=&#34;https://store.steampowered.com/publisher/MangoParty&#34;&gt;Mango Party&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.itch.io/you-have-an-order&#34;&gt;You Have An Order&lt;/a&gt; (夏 2024 &lt;span aria-label=&#34;Programming Lead&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;):
+A 2D pixel horror game, players strive to evade monsters while searching for an escape route.
+This game participates in the &lt;a href=&#34;https://www.gcores.com/&#34;&gt;机核GCORES&lt;/a&gt; &lt;a href=&#34;https://site.gcores.com/booom2024/&#34;&gt;2024 Game Creation Challenge&lt;/a&gt;. (3 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kuhhenry.itch.io/alice-in-surprise&#34;&gt;Alice in Surprise&lt;/a&gt; (夏 2022 &lt;span aria-label=&#34;Programming Lead&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;):
+A mini-game that combines the mechanics of &lt;a href=&#34;https://en.wikipedia.org/wiki/Hack_and_slash&#34;&gt;hack and slash&lt;/a&gt; with &lt;a href=&#34;https://en.wikipedia.org/wiki/Tile-matching_video_game&#34;&gt;tile-matching&lt;/a&gt;.
+The game has been submitted to the &lt;a href=&#34;https://itch.io/jam/20220829&#34;&gt;5th DIY Game Jam&lt;/a&gt;. (4 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/&#34;&gt;Pipeline Of Emperor Yu&lt;/a&gt; (秋 2019 – 冬 2019 &lt;span aria-label=&#34;Chief Technology Officer (CTO)&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;Published on Steam (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;Published on Google Play Store (3)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;Published on App Store (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/WYwpSqk1nwQ&#34;&gt;Poker&lt;/a&gt; (秋 2019 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+An online gambling game featuring a total of 5 mini-games.
+Our team consists of 7 members, and I am one of the game client engineers working with the &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; engine.
+I am fully responsible for developing the entire gameplay system, while the UI is created by my senior coworker.
+Unfortunately, the entire team got laid off, leaving the game unfinished. (8 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://andysze79.wixsite.com/kuma/copy-of-recall-1&#34;&gt;Greedy Island&lt;/a&gt; (秋 2018 – 夏 2019 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+A multiplayer shooting &lt;a href=&#34;https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena&#34;&gt;MOBA&lt;/a&gt; game on the mobile device.
+The project is created by the &lt;a href=&#34;https://github.com/T-nexus-Studio&#34;&gt;T-NEXUS&lt;/a&gt; studio.
+I contributed to the backend engineering by writing the login server and designing its database schema.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mwgamedesign.itch.io/sugar-sleuths&#34;&gt;Sugar Sleuths&lt;/a&gt; (秋 2017 – 冬 2017 &lt;span aria-label=&#34;Programming Lead&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;&lt;span aria-label=&#34;Presented at Game Developers Conference (GDC) 2018 on behalf of our school, the Academy of Art University.&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;Presented at E3 College Game Competition (E3 CGC) 2018 on behalf of our school, the Academy of Art University.&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=99XotNo86wI&#34;&gt;BB_Shoot&lt;/a&gt; (秋 2017):
+A bullet bounce game featuring multiplayer &lt;a href=&#34;https://en.wikipedia.org/wiki/Third-person_shooter&#34;&gt;third-person shooter (TPS)&lt;/a&gt; mechanics.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/&#34;&gt;Hemlock and the Horrible Net&lt;/a&gt; (春 2017 – 夏 2017 &lt;span aria-label=&#34;Programming Lead&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;&lt;span aria-label=&#34;Published on Google Play Store (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;The company Hasbro is interested in investing in this game.&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+Embark on an undersea adventure in this side-scrolling game! (15 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/PetShop&#34;&gt;PetShop&lt;/a&gt; (冬 2016 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+An example project using &lt;a href=&#34;https://github.com/jcs090218/JCSLOVELua&#34;&gt;JCSLOVELua&lt;/a&gt; Framework.
+Players can use a left-click of the mouse to generate adorable animals, allowing them to reside within a sandbox.
+The concept is to emulate an aquarium experience.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vPapMMxzNGg&#34;&gt;Might &amp;amp; Blade&lt;/a&gt; (秋 2016 – 冬 2016 &lt;span aria-label=&#34;Programming Lead&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;&lt;span aria-label=&#34;Presented at GDC 2017 on behalf of our school, the Academy of Art University.&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A 3rd person hack and slash action game made in the &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; engine, developed by a team of 18 in
+the &lt;a href=&#34;https://www.academyart.edu/&#34;&gt;Academy of Art University&lt;/a&gt;. (15 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/OQqqgbf0mGI&#34;&gt;Radiant Rune Fist&lt;/a&gt; (秋 2016 – 冬 2016 &lt;span aria-label=&#34;Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+A run and gun platforming game from Old Gods Game Studio. Battle for glory and against evil!
+Made in the &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; engine, developed by a team of 8 in the &lt;a href=&#34;https://www.academyart.edu/&#34;&gt;Academy of Art University&lt;/a&gt;. (15 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/DJMax_Remake&#34;&gt;DJMax_Remake&lt;/a&gt; (春 2016 &lt;span data-balloon-pos=&#34;up&#34; aria-label=&#34;學校作業&#34;&gt;🏫&lt;/span&gt;):
+A clone of &lt;a href=&#34;https://en.wikipedia.org/wiki/DJMax&#34;&gt;DJMax&lt;/a&gt; implemented in &lt;a href=&#34;https://processing.org/&#34;&gt;Processing&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/artugam-jcs/tps&#34;&gt;TPS&lt;/a&gt; (秋 2015 – 冬 2015 &lt;span data-balloon-pos=&#34;up&#34; aria-label=&#34;學校作業&#34;&gt;🏫&lt;/span&gt;):
+A simple &lt;a href=&#34;https://en.wikipedia.org/wiki/ASCII&#34;&gt;ASCII&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Third-person_shooter&#34;&gt;third-person shooter (TPS)&lt;/a&gt; game coded in &lt;a href=&#34;https://en.wikipedia.org/wiki/C%2B%2B&#34;&gt;C++&lt;/a&gt;.
+View the gameplay video &lt;a href=&#34;https://www.youtube.com/watch?v=Y8Eu87fTARw&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Project M&lt;/a&gt; (夏 2015 – 冬 2015 &lt;span aria-label=&#34;Programming Lead&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+Action game (ACT) with &lt;a href=&#34;https://en.wikipedia.org/wiki/Role-playing_gametion&#34;&gt;RPG&lt;/a&gt; elements and a locked top-down perspective.
+I worked on the &lt;a href=&#34;https://en.wikipedia.org/wiki/Minimum_viable_product&#34;&gt;minimum viable product (MVP)&lt;/a&gt; of a game under &lt;a href=&#34;https://en.wikipedia.org/wiki/Non-disclosure_agreement&#34;&gt;NDA&lt;/a&gt; as the sole software engineer.
+The game wasn&amp;rsquo;t completed due to its 7+ years project timeline, so I passed it on to the next team.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.newgrounds.com/portal/view/650410&#34;&gt;Archers Duel&lt;/a&gt; (冬 2014 &lt;span aria-label=&#34;Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;&lt;span aria-label=&#34;Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University.&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;Published on Newgrounds (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+An compact RPG fighting game designed for two players to engage in battles using
+pre-designed archer characters. Developed with the &lt;a href=&#34;https://gamua.com/starling/&#34;&gt;Starling&lt;/a&gt; framework.
+and &lt;a href=&#34;https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html&#34;&gt;AS3&lt;/a&gt;. (7 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wjHvvuWGqwE&#34;&gt;Cardinal&lt;/a&gt; (秋 2014 &lt;span aria-label=&#34;Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;&lt;span aria-label=&#34;Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University.&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A compact visual novel game where the player assumes the role of a detective,
+working to unravel a mystery and identify the murderer. (7 weeks)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FmsYq4y_W24&#34;&gt;Rhythm Punks!&lt;/a&gt; (秋 2014 – 冬 2014 &lt;span aria-label=&#34;Sole Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span data-balloon-pos=&#34;up&#34; aria-label=&#34;學校作業&#34;&gt;🏫&lt;/span&gt;):
+A competitive two player game that will have the player fighting one another for victory.
+The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
+The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;外掛程式&#34;&gt;外掛程式&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/Python/moba-inting&#34;&gt;moba-inting&lt;/a&gt; (秋 2024):
+A basic UI automation bot to avoid AFK penalties.
+The bot ensures your character takes action (like intentionally moving) at regular intervals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-桌上型電腦應用程式&#34;&gt;🖥️ 桌上型電腦應用程式&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/Java/OC_Install&#34;&gt;OC_Install&lt;/a&gt; (夏 2018):
+An univseral software installer by one click.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/artugam-jcs/MagicCardTool&#34;&gt;MagicCardTool&lt;/a&gt; (夏 2017 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+A small desktop application that generates an image of a card for the &lt;a href=&#34;https://magic.wizards.com/en&#34;&gt;Magic: The Gathering&lt;/a&gt; card game.
+Initial attempt to develop a desktop application with &lt;a href=&#34;https://learn.microsoft.com/en-us/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-8.0&#34;&gt;Windows Forms&lt;/a&gt; using &lt;a href=&#34;https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2022&#34;&gt;Visual C#&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Guild-Emblem-Simulator&#34;&gt;Guild-Emblem-Simulator&lt;/a&gt; (秋 2017):
+A small program that allows you to customize your guild emblem just like in the game &lt;a href=&#34;https://en.wikipedia.org/wiki/MapleStory&#34;&gt;MapleStory&lt;/a&gt; and export it into a &lt;a href=&#34;https://en.wikipedia.org/wiki/PNG&#34;&gt;PNG&lt;/a&gt; file.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bwiOMgQ7xHU&#34;&gt;Skycrap Client/Server&lt;/a&gt; (春 2017 – 夏 2017):
+A small and enjoyable project that transmits webcam data using the server/client model.
+Implemented in &lt;a href=&#34;https://www.java.com/en/&#34;&gt;Java&lt;/a&gt;, this project utilizes the &lt;a href=&#34;https://mina.apache.org/&#34;&gt;Apache Mina&lt;/a&gt; framework.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-arvr-行動應用程式&#34;&gt;🪞 AR/VR 行動應用程式&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/us/app/monumental-conversations/id1585909435&#34;&gt;Monumental Conversations&lt;/a&gt; (夏 2021 – 春 2022 &lt;span aria-label=&#34;Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;This project was featured in CODAworx’s magazine’s Art for Social Change edition&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;Published on App Store (3)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+An &lt;a href=&#34;https://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;augmented reality&lt;/a&gt; mobile app for learning history of &lt;a href=&#34;https://en.wikipedia.org/wiki/Monument_Avenue&#34;&gt;Monument Avenue&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard&#34;&gt;Arthur Ashe Boulevard&lt;/a&gt;.
+This project was featured in &lt;a href=&#34;https://www.codaworx.com/&#34;&gt;CODAworx&lt;/a&gt;&amp;rsquo;s magazine&amp;rsquo;s &lt;a href=&#34;https://www.codaworx.com/projects/monumental-conversations/&#34;&gt;Art for Social Change&lt;/a&gt; edition.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apps.apple.com/us/app/lights-delights/id1541283833&#34;&gt;Lights &amp;amp; Delights&lt;/a&gt; (冬 2020 – 春 2021 &lt;span aria-label=&#34;Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;Published on App Store (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+An &lt;a href=&#34;https://en.wikipedia.org/wiki/Augmented_reality&#34;&gt;augmented reality&lt;/a&gt; holiday adventure for the Downtown Seattle Association&amp;rsquo;s 2020, Holiday Lights and Delights Festival.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/&#34;&gt;Twilight Tower LiveVR&lt;/a&gt; (春 2015 &lt;span aria-label=&#34;Sole Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;&lt;span aria-label=&#34;Published on Google Play Store (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+A mini marker-based AR game, utilizing the &lt;a href=&#34;https://www.ptc.com/en/products/vuforia&#34;&gt;Vuforia AR SDK&lt;/a&gt;
+within the &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; platform.
+Players can interact with objects in the scene by simply clicking on them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-音樂應用程式&#34;&gt;🎼 音樂應用程式&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://meteo.com.tw/app-download.html&#34;&gt;Meteo&lt;/a&gt; (春 2020 – 春 2021 &lt;span aria-label=&#34;Programmer&#34;
+data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;&lt;span aria-label=&#34;Achieved a total of 812,970 USD on the 嘖嘖zeczec donation platform&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;Published on Google Play Store (4)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;Published on App Store (4)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+An app for sharing music that works with illuminated piano keyboards — &lt;a href=&#34;https://www.youtube.com/watch?v=UbaO1bKhKWs&#34;&gt;Meteo piano&lt;/a&gt;.
+You can view a demonstration of the core mechanics &lt;a href=&#34;https://www.youtube.com/watch?v=63iJ5pnfVLQ&#34;&gt;here&lt;/a&gt; (please note that this demo is in its early stages and may appear rough).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/Music_Visualizer&#34;&gt;Music_Visualizer&lt;/a&gt; (秋 2018):
+Implementation of a music visualizer in &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt;. Check out the demo &lt;a href=&#34;https://www.youtube.com/watch?v=BkKbOezO3Vs&amp;amp;t=158s&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-演算法-1&#34;&gt;📐 演算法&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;h4 id=&#34;模糊匹配&#34;&gt;模糊匹配&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/FlxSwift&#34;&gt;FlxSwift&lt;/a&gt; (冬 2024 &lt;span aria-label=&#34;Searchable on Swift Package Manager (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://www.swift.org/&#34;&gt;Swift&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx.go&#34;&gt;flx.go&lt;/a&gt; (冬 2024 &lt;span aria-label=&#34;Searchable on Go.dev (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx.py&#34;&gt;flx.py&lt;/a&gt; (冬 2024 &lt;span aria-label=&#34;發佈至 PyPi (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx_dart&#34;&gt;flx_dart&lt;/a&gt; (冬 2024 &lt;span aria-label=&#34;發佈至 Pub.dev (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://dart.dev/&#34;&gt;Dart&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/clj-flx&#34;&gt;clj-flx&lt;/a&gt; (冬 2024 &lt;span aria-label=&#34;發佈至 Clojars (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://clojure.org/&#34;&gt;Clojure&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx-java&#34;&gt;flx-java&lt;/a&gt; (冬 2024 &lt;span aria-label=&#34;發佈至 Maven Central (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://www.java.com/en/&#34;&gt;Java&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/cl-flx&#34;&gt;cl-flx&lt;/a&gt; (秋 2024 &lt;span aria-label=&#34;發佈至 Quicklisp (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Ultralisp (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://lisp-lang.org/&#34;&gt;Common Lisp&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx-zig&#34;&gt;flx-zig&lt;/a&gt; (春 2024):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://ziglang.org/&#34;&gt;Zig&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/zig-flx&#34;&gt;zig-flx&lt;/a&gt; (春 2024):
+&lt;a href=&#34;https://ziglang.org/&#34;&gt;Zig&lt;/a&gt; bindings for &lt;a href=&#34;https://github.com/the-flx/flx-c&#34;&gt;flx-c&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx-c&#34;&gt;flx-c&lt;/a&gt; (春 2024):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://en.wikipedia.org/wiki/C_%28programming_language%29&#34;&gt;C&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx-ts&#34;&gt;flx-ts&lt;/a&gt; (春 2024 &lt;span aria-label=&#34;發佈至 NPM (8)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://www.typescriptlang.org/&#34;&gt;TypeScript&lt;/a&gt;,  with added support for &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/FlxCs&#34;&gt;FlxCs&lt;/a&gt; (秋 2023 &lt;span aria-label=&#34;發佈至 NuGet (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt;.
+Built on the &lt;a href=&#34;https://www.mono-project.com/&#34;&gt;Mono&lt;/a&gt; framework, you can utilize this in any environment compatible with &lt;a href=&#34;https://www.mono-project.com/&#34;&gt;Mono&lt;/a&gt;.
+This is utilized within the &lt;a href=&#34;https://github.com/jcs090218/Unity.Mx&#34;&gt;Unity.Mx&lt;/a&gt; tool.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/the-flx/flx-rs&#34;&gt;flx-rs&lt;/a&gt; (冬 2021 &lt;span aria-label=&#34;發佈至 crates.io (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt; for dynamic modules.
+The original &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; were written in pure &lt;a href=&#34;https://www.gnu.org/software/emacs/manual/html_node/eintr/&#34;&gt;Emacs Lisp&lt;/a&gt;.
+While their scoring engine is impressive, the performance is unbearable on &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Windows&#34;&gt;Windows&lt;/a&gt; systems.
+Therefore, this package was developed, leading to a speed increase ranging from 10x to 16x.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/flxy-rs&#34;&gt;flxy-rs&lt;/a&gt; (冬 2021 &lt;span aria-label=&#34;發佈至 crates.io (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Fast, character-based search library in &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;.
+This represents my first attempt to rewrite &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; in &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt;, which was not successful.
+Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original &lt;a href=&#34;https://github.com/lewang/flx&#34;&gt;emacs-flx&lt;/a&gt; algorithm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-物理&#34;&gt;🧲 物理&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/ImpulseEngine&#34;&gt;ImpulseEngine&lt;/a&gt; (秋 2017 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+An unofficial port of &lt;a href=&#34;https://github.com/tutsplus/ImpulseEngine&#34;&gt;Impulse Engine&lt;/a&gt; written in &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;.
+This is constructed using &lt;a href=&#34;https://github.com/jcs090218/JCSPyGm_Lib&#34;&gt;JCSPyGm_Lib&lt;/a&gt; layered on top of &lt;a href=&#34;https://en.wikipedia.org/wiki/Pygame&#34;&gt;Pygame&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-網路應用程式與服務&#34;&gt;🌐 網路應用程式與服務&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs-emacs.github.io/&#34;&gt;JCS-EMACS Homepage&lt;/a&gt; (春 2022):
+Landing page for &lt;a href=&#34;https://github.com/jcs-emacs/jcs-emacs&#34;&gt;jcs-emacs&lt;/a&gt;. This webiste is made using &lt;a href=&#34;https://react.dev/&#34;&gt;React.js&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs-emacs.github.io/jcs-elpa/&#34;&gt;JCS-ELPA Homepage&lt;/a&gt; (冬 2021):
+A homepage for &lt;a href=&#34;https://github.com/jcs-emacs/jcs-elpa&#34;&gt;JCS-ELPA&lt;/a&gt; designed to showcase all packages in the archive.
+The site only consists of basic &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;HTML&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/CSS&#34;&gt;CSS&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pixisoft.gitlab.io/&#34;&gt;Pixisoft Website&lt;/a&gt; (夏 2021 – 冬 2021 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+A small web application made using &lt;a href=&#34;https://react.dev/&#34;&gt;React.js&lt;/a&gt;, designed for use as a company&amp;rsquo;s homepage.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs-profile.com/public/sherlock-web/&#34;&gt;sherlock-web&lt;/a&gt; (春 2021):
+Website to interact &lt;a href=&#34;https://github.com/sherlock-project/api&#34;&gt;Sherlock API&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sherlock-project/api&#34;&gt;sherlock-project/api&lt;/a&gt; (春 2021):
+API for the &lt;a href=&#34;https://github.com/sherlock-project/sherlock&#34;&gt;sherlock&lt;/a&gt; module implemented in Python using &lt;a href=&#34;https://www.django-rest-framework.org/&#34;&gt;Django REST Framework (DRF)&lt;/a&gt;.
+Initial attempt with &lt;a href=&#34;https://www.django-rest-framework.org/&#34;&gt;DRF&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/node.js/box_server&#34;&gt;box_server&lt;/a&gt; (春 2020 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+A straightforward server designed to be compatible with any &lt;a href=&#34;https://en.wikipedia.org/wiki/WebSocket&#34;&gt;WebSocket&lt;/a&gt; client utilizing the &lt;a href=&#34;https://www.npmjs.com/package/ws&#34;&gt;ws&lt;/a&gt; library.
+This is a small demo I developed while working at &lt;a href=&#34;http://www.wisbet.co/&#34;&gt;WISBET&lt;/a&gt;. There is no documentation as we moved on to the next project afterward.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/Unity.DataServer&#34;&gt;Unity.DataServer&lt;/a&gt; (冬 2019 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+A data server and a solution for the missing game data, including &lt;a href=&#34;https://developer.apple.com/in-app-purchase/&#34;&gt;in-app purchase (IAP)&lt;/a&gt; history, when the game is uninstalled from a mobile device.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sherlock-project/sherlock&#34;&gt;sherlock&lt;/a&gt; (春 2019 &lt;span aria-label=&#34;貢獻者&#34;
+data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt;):
+🔎 Hunt down social media accounts by username across social networks.
+I was one of the early contributors who took care of the ANSI color using &lt;a href=&#34;https://pypi.org/project/colorama/&#34;&gt;colorama&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/Links_Template&#34;&gt;Links_Template&lt;/a&gt; (春 2020):
+Rapidly build your link page to marketing your games!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/php/RandomCookMenu&#34;&gt;RandomCookMenu&lt;/a&gt; (冬 2017):
+A small application that enables you to create cooking menus and randomly selects one for you.
+This was originally designed for my mom, who often struggled with deciding what to cook every day.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/&#34;&gt;MapleStory Survival Kit&lt;/a&gt; (夏 2017 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+A website that guides you on navigating the popular &lt;a href=&#34;https://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Role-playing_gametion&#34;&gt;RPG&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/MapleStory&#34;&gt;MapleStory&lt;/a&gt;!
+Constructed using only fundamental &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;HTML&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/CSS&#34;&gt;CSS&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;, this is the final project from our first web design class at the &lt;a href=&#34;https://www.academyart.edu/&#34;&gt;Academy of Art University&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/&#34;&gt;Best Boba Tea&lt;/a&gt; (夏 2017 &lt;span aria-label=&#34;學校作業&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
+A website recommends a few boba tea places in San Francisco!
+Constructed using only fundamental &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;HTML&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/CSS&#34;&gt;CSS&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;, this is the midterm project from our first web design class at the &lt;a href=&#34;https://www.academyart.edu/&#34;&gt;Academy of Art University&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;-部落格與個人網站&#34;&gt;👤 部落格與個人網站&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/jcs-profile/&#34;&gt;jcs-profile&lt;/a&gt; (春 2024):
+My personal website version 2, using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/blog&#34;&gt;blog@v2&lt;/a&gt; (秋 2022 – 春 2024):
+My personal blog site, built using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; theme.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/blog/tree/v1&#34;&gt;blog@v1&lt;/a&gt; (秋 2021 – 秋 2022):
+My personal blog site, built using &lt;a href=&#34;https://hexo.io/index.html&#34;&gt;Hexo&lt;/a&gt; with &lt;a href=&#34;https://github.com/iTimeTraveler/hexo-theme-hipaper&#34;&gt;hipaper&lt;/a&gt; theme.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/jcs-profile/tree/v1&#34;&gt;jcs-profile@v1&lt;/a&gt; (冬 2018 – 春 2024):
+My single page personal website implemented in basic &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;HTML&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/CSS&#34;&gt;CSS&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/Blog_JenChieh&#34;&gt;Blog_JenChieh&lt;/a&gt; (冬 2018 – 冬 2020):
+The blog system I initiated during my university years was constructed using the &lt;a href=&#34;https://github.com/jcs-legacy/Blog_Template&#34;&gt;Blog_Template&lt;/a&gt;.
+I later shifted to a Static Site Generator (SSG) solution to minimize my server costs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/Blog_Template&#34;&gt;Blog_Template&lt;/a&gt; (冬 2018):
+A blog template that allows individuals to self-host their blogs!
+Constructed using &lt;a href=&#34;https://nodejs.org/&#34;&gt;Node.js&lt;/a&gt; and &lt;a href=&#34;https://expressjs.com/&#34;&gt;Express.js&lt;/a&gt;. (replaced with &lt;a href=&#34;https://gitlab.com/SiraDoc/SiraDoc&#34;&gt;SiraDoc&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;-文件和手冊&#34;&gt;📚 文件和手冊&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cl-qob.github.io/&#34;&gt;Qob Manual&lt;/a&gt; (秋 2024 — 冬 2024):
+&lt;a href=&#34;https://github.com/cl-qob/cli&#34;&gt;Qob&lt;/a&gt;&amp;rsquo;s documentation website.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cogru.github.io/collaboration-server-protocol/&#34;&gt;collaboration-server-protocol&lt;/a&gt; (夏 2024 — 秋 2024):
+Defines a common protocol for collaboration servers.
+Built with &lt;a href=&#34;https://www.docsy.dev/&#34;&gt;docsy&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/Scripting_Manual_JCSGodot&#34;&gt;Scripting_Manual_JCSGodot&lt;/a&gt; (冬 2023):
+Scripting manual website for &lt;a href=&#34;https://github.com/jcs090218/JCSGodot&#34;&gt;JCSGodot&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/API&#34;&gt;API&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emacs-eask.github.io/&#34;&gt;Eask Manual&lt;/a&gt; (夏 2022 – 冬 2022):
+&lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt;&amp;rsquo;s documentation website.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/CCosQuick/&#34;&gt;CCosQuick Manual&lt;/a&gt; (秋 2021):
+The documentation website for my game framework — &lt;a href=&#34;https://github.com/jcs090218/CCosQuick&#34;&gt;CCosQuick&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSEgret/&#34;&gt;JCSEgret Manual&lt;/a&gt; (秋 2021):
+The documentation website for my game framework — &lt;a href=&#34;https://github.com/jcs090218/JCSEgret&#34;&gt;JCSEgret&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUE/&#34;&gt;JCSUE Manual&lt;/a&gt; (秋 2021):
+The documentation website for my game framework — &lt;a href=&#34;https://github.com/jcs090218/JCSUE&#34;&gt;JCSUE&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUnity/&#34;&gt;JCSUnity Manual&lt;/a&gt; (秋 2021):
+The documentation website for my game framework — &lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;JCSUnity&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/SiraDoc/demo&#34;&gt;SiraDoc/demo&lt;/a&gt; (秋 2021):
+Demo website for &lt;a href=&#34;https://gitlab.com/SiraDoc/SiraDoc&#34;&gt;SiraDoc&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/Scripting_Manual_JCSUE&#34;&gt;Scripting_Manual_JCSUE&lt;/a&gt; (夏 2020):
+Scripting manual for &lt;a href=&#34;https://github.com/jcs090218/JCSUE&#34;&gt;JCSUE&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/API&#34;&gt;API&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/Scripting_Manual_CCosQuick&#34;&gt;Scripting_Manual_CCosQuick&lt;/a&gt; (春 2020):
+Scripting manual for &lt;a href=&#34;https://github.com/jcs090218/CCosQuick&#34;&gt;CCosQuick&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/API&#34;&gt;API&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/Scripting_Manual_JCSEgret&#34;&gt;Scripting_Manual_JCSEgret&lt;/a&gt; (冬 2018):
+Scripting manual website for &lt;a href=&#34;https://github.com/jcs090218/JCSEgret&#34;&gt;JCSEgret&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/API&#34;&gt;API&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/API_Reference_Template&#34;&gt;API_Reference_Template&lt;/a&gt; (冬 2018):
+Simple API references webiste hoster. (replaced with &lt;a href=&#34;https://gitlab.com/SiraDoc/SiraDoc&#34;&gt;SiraDoc&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-legacy/Scripting_Manual_JCSUnity&#34;&gt;Scripting_Manual_JCSUnity&lt;/a&gt; (秋 2018):
+Scripting manual for &lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;JCSUnity&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/API&#34;&gt;API&lt;/a&gt;.
+Later separated into &lt;a href=&#34;https://github.com/jcs-legacy/API_Reference_Template&#34;&gt;API_Reference_Template&lt;/a&gt; and subsequently reliant on it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-瀏覽器擴充套件&#34;&gt;🔎 瀏覽器擴充套件&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-chromews/password-toggle&#34;&gt;password-toggle&lt;/a&gt; (夏 2024):
+Show/Hide passwords on the page.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-chromews/eyny-video-downloader&#34;&gt;eyny-video-downloader&lt;/a&gt; (春 2024):
+An extension that integrates a download button for &lt;a href=&#34;https://video.eyny.com/video&#34;&gt;EYNY Video&lt;/a&gt; site.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs-chromews/browser-statistic&#34;&gt;browser-statistic&lt;/a&gt; (春 2024):
+This is a small extension that presents statistical charts indicating the websites you frequently visit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-套件管理員與建置工具&#34;&gt;📦 套件管理員與建置工具&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eask/packaging&#34;&gt;emacs-eask/packaging&lt;/a&gt; (秋 2023 – 冬 2023):
+Packaging for &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask CLI&lt;/a&gt;.
+I&amp;rsquo;ve actively contributed to diverse package managers such as &lt;a href=&#34;https://chocolatey.org/&#34;&gt;Chocolatey&lt;/a&gt;, &lt;a href=&#34;https://snapcraft.io/store&#34;&gt;Snapcraft&lt;/a&gt;, &lt;a href=&#34;https://www.macports.org/&#34;&gt;MacPorts&lt;/a&gt;, etc.
+Furthermore, I&amp;rsquo;ve established my own package repositories for &lt;a href=&#34;https://scoop.sh/&#34;&gt;Scoop&lt;/a&gt;, &lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt;, &lt;a href=&#34;https://help.ubuntu.com/stable/ubuntu-help/addremove-ppa.html&#34;&gt;Personal Package Archive (PPA)&lt;/a&gt;, and more.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eask/archives&#34;&gt;emacs-eask/archives&lt;/a&gt; (春 2022 – 冬 2023):
+Back up the &lt;code&gt;archive-contents&lt;/code&gt; to avoid potential failures when refreshing the package archive.
+This is a factor that enhances the stability of &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; or &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;emacs-eask/cli&lt;/a&gt; (春 2022 – 冬 2023 &lt;span aria-label=&#34;發佈至 NPM (6)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Debian (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Snap Store (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Nixpkgs (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Homebrew (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 MacPorts (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Chocolatey (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Scoop (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Winget (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;CLI&lt;/a&gt; for building, running, testing, and managing your &lt;a href=&#34;https://www.gnu.org/software/emacs/manual/html_node/eintr/&#34;&gt;Emacs Lisp&lt;/a&gt; dependencies.
+This tool is the successor to &lt;a href=&#34;https://github.com/cask/cask&#34;&gt;Cask&lt;/a&gt;, offering enhanced stability, cross-platform capability, and extensibility.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cask/cask&#34;&gt;Cask&lt;/a&gt; (春 2021 – 春 2022 &lt;span aria-label=&#34;維護者&#34;
+data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;):
+Project management tool for &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;.
+I&amp;rsquo;m the maintainer specifically responsible to &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Windows&#34;&gt;Windows&lt;/a&gt; platform.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;nix&#34;&gt;&lt;div class=&#34;simpleicons&#34; id=&#34;si-nix&#34;&gt;&lt;/div&gt; Nix&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/nur&#34;&gt;jcs090218/nur&lt;/a&gt; (秋 2024 – 現在):
+Jen-Chieh&amp;rsquo;s &lt;a href=&#34;https://github.com/nix-community/NUR&#34;&gt;Nix User Repository (NUR)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/nix-community/eask2nix&#34;&gt;eask2nix&lt;/a&gt; (秋 2022 &lt;span aria-label=&#34;發佈至 NPM (7)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Convert &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; into &lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt; expressions.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NixOS/nixpkgs&#34;&gt;nixpkgs&lt;/a&gt; (秋 2022 – 現在 &lt;span aria-label=&#34;貢獻者&#34;
+data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt;):
+&lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt; Packages collection &amp;amp; &lt;a href=&#34;https://nixos.org/&#34;&gt;NixOS&lt;/a&gt;.
+I serve as the package maintainer for a small set of packages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;-語言用戶端和伺服器&#34;&gt;🖇 語言用戶端和伺服器&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34; open&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/elisp-lsp/vscode-ellsp&#34;&gt;vscode-ellsp&lt;/a&gt; (冬 2023 &lt;span aria-label=&#34;發佈至 VSCode Marketplace (2)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+&lt;a href=&#34;https://www.gnu.org/software/emacs/manual/html_node/eintr/&#34;&gt;Emacs Lisp&lt;/a&gt; languages support for &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/elisp-lsp/ellsp&#34;&gt;ellsp&lt;/a&gt; (冬 2023):
+Language server implementation for &lt;a href=&#34;https://www.gnu.org/software/emacs/manual/html_node/eintr/&#34;&gt;Emacs Lisp&lt;/a&gt;.
+The emacs client (using &lt;a href=&#34;https://github.com/emacs-lsp/lsp-mode&#34;&gt;lsp-mode&lt;/a&gt;) is also included; do &lt;code&gt;M-x ellsp-register&lt;/code&gt; to enable it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/shader-ls/vscode-shader&#34;&gt;vscode-shader&lt;/a&gt; (秋 2023 &lt;span aria-label=&#34;發佈至 VSCode Marketplace (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Shader languages support for &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/shader-ls/shader-language-server&#34;&gt;shader-language-server&lt;/a&gt; (夏 2023 – 秋 2023 &lt;span aria-label=&#34;發佈至 NuGet (1)&#34;
+data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
+Language server implementation for &lt;a href=&#34;https://docs.unity3d.com/Manual/SL-Reference.html&#34;&gt;ShaderLab&lt;/a&gt;.
+It also provides support for various CG programming languages such as &lt;a href=&#34;https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl&#34;&gt;HLSL&lt;/a&gt;, &lt;a href=&#34;https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language&#34;&gt;GLSL&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Cg_%28programming_language%29&#34;&gt;Cg&lt;/a&gt;, and more.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-grammarly/grammarly-language-server&#34;&gt;grammarly-language-server&lt;/a&gt; (夏 2022 &lt;span aria-label=&#34;貢獻者&#34;
+data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt;&lt;span aria-label=&#34;維護者&#34;
+data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;&lt;span aria-label=&#34;分支項目&#34;
+data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt;):
+&lt;a href=&#34;https://www.grammarly.com/&#34;&gt;Grammarly&lt;/a&gt; for &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;VS Code&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-grammarly/unofficial-grammarly-language-server&#34;&gt;unofficial-grammarly-language-server&lt;/a&gt; (春 2021 &lt;span aria-label=&#34;貢獻者&#34;
+data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt;&lt;span aria-label=&#34;維護者&#34;
+data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;&lt;span aria-label=&#34;分支項目&#34;
+data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt;):
+Unofficial &lt;a href=&#34;https://www.grammarly.com/&#34;&gt;Grammarly&lt;/a&gt; extension.
+Forked from the original repository and maintained a version to ensure compatibility with various editors.
+This language server is now deprecated as the upstream has transitioned to the official API in 2022.
+Users are encouraged to use the newer &lt;a href=&#34;https://github.com/emacs-grammarly/grammarly-language-server&#34;&gt;grammarly-language-server&lt;/a&gt; instead.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;emacs&#34;&gt;&lt;div class=&#34;simpleicons&#34; id=&#34;si-emacs&#34;&gt;&lt;/div&gt; Emacs&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;blockquote&gt;
+&lt;p&gt;📢 大部分的 &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 套件都發表在 &lt;a href=&#34;https://melpa.org/&#34;&gt;MELPA&lt;/a&gt; &lt;span aria-label=&#34;發布至 MELPA&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;
+或 &lt;a href=&#34;https://github.com/jcs-emacs/jcs-elpa&#34;&gt;JCS-ELPA&lt;/a&gt; &lt;span aria-label=&#34;發布至 JCS-ELPA&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;,
+上，所以我不會明確列出。&lt;/p&gt;</description>
     </item>
     <item>
       <title>聯絡</title>
