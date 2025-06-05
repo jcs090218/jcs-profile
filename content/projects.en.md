@@ -50,13 +50,13 @@ data-balloon-pos="up">🏅</span><span aria-label="Published to Homebrew (2)"
 data-balloon-pos="up">🏅</span><span aria-label="Published to Chocolatey (2)"
 data-balloon-pos="up">🏅</span><span aria-label="Published to Scoop (2)"
 data-balloon-pos="up">🏅</span>):
-CLI for building, running, testing, and managing your Common Lisp dependencies.
-- [cogru][] (Summer 2024 – Present): Where the collaboration start!?
-I've implemented the [Operational Transformation (OT)][] in [Rust][]
-using the [client-server model][].
+[CLI][] for building, running, testing, and managing your [Common Lisp][] dependencies.
+- [cogru][] (Summer 2024 – Present):
+Where the collaboration start!?
+I've implemented the [Operational Transformation (OT)][] in [Rust][] using the [client-server model][].
 - [dotfiles](https://github.com/jcs090218/dotfiles) (Summer 2024 – Present):
 Jen-Chieh's dotfiles.
-- [jayces][] (Winter 2023 – Present): Programming language I've created to learn the to write one my own.
+- [jayces][] (Winter 2023 – Present): Programming language I've created to learn to write one my own.
 
 </details>
 
@@ -183,7 +183,7 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 <details class="my-details">
   <summary>See details</summary>
 
-- [長姬記](#) (Summer 2024 – Summer 2025 <span aria-label="Programming Lead"
+- [長姬記][] (Summer 2024 – Summer 2025 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Adult Content"
 data-balloon-pos="up">🔞</span>):
@@ -614,7 +614,7 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
-> 📢 Most Emacs packages are published on either [MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
+> 📢 Most [Emacs][] packages are published on either [MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
@@ -666,10 +666,11 @@ Language bundle for [Emacs][]'s `treesit.el`.
 This package is based on [tree-sitter-langs][] but is designed to support the built-in `treesit.el`.
 - [colorful-mode](https://github.com/DevelopmentCool2449/colorful-mode) (Summer 2024 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
-🎨Preview any color in your buffer.
+🎨 Preview any color in your buffer.
 - [responsive-window](https://github.com/jcs-elpa/responsive-window) (Summer 2024):
 Adapt to different screen sizes automatically.
-- [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024): [Cogru][] plugin for [Emacs][].
+- [cogru.el](https://github.com/Cogru/cogru.el) (Summer 2024):
+[Cogru][] plugin for [Emacs][].
 - [treesit-fold](https://github.com/emacs-tree-sitter/treesit-fold) (Summer 2024):
 Code folding using `treesit.el`.
 (ported by [@DevelopmentCool2449][github/DevelopmentCool2449] ❤️)
@@ -731,7 +732,7 @@ Inspired by the [icecream](https://pypi.org/project/icecream/) package from the 
 Template module for [jcs-emacs][].
 - [dart-mode](https://github.com/emacsorphanage/dart-mode) (Fall 2023 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
-An [Emacs][] mode for the [Dart][] language
+An [Emacs][] mode for the [Dart][] language.
 - [php-mode](https://github.com/emacs-php/php-mode) (Fall 2023 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 A powerful and flexible [Emacs][] major mode for editing [PHP][] scripts.
@@ -1092,7 +1093,7 @@ Preview anything at point.
 - [undo-tree-vf](https://github.com/jcs-elpa/undo-tree-vf) (Winter 2020):
 Visualizer follow mode for [undo-tree][].
 - [quelpa-leaf](https://github.com/quelpa/quelpa-leaf) (Winter 2020):
-Emacs [quelpa][] handler for leaf.
+[Emacs][] [quelpa][] handler for leaf.
 - [quelpa][] (Fall 2020 – Present <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 The `package.el`-compatible package manager for [Emacs][] uses the [MELPA's format](https://github.com/melpa/melpa#recipe-format).
@@ -1211,7 +1212,7 @@ Play video using [ffmpeg][].
 The performance is notably poor as it plays the video frame by frame, leading to significant file I/O (including memory) demands.
 However, this remains the sole solution for playing videos within [Emacs][]!
 - [parse-it](https://github.com/jcs-elpa/parse-it) (Winter 2019):
-Simple [Parser][] in [Emacs Lisp][].
+Simple [parser][] in [Emacs Lisp][].
 It provides support for over 25 languages (e.g. [C][], [C++][], [C#][], [Python][], [Lua][], etc),
 but its performance is noticeably slow as it operates on top of the [elisp][] interpreter.
 - [flycheck-grammarly](https://github.com/emacs-grammarly/flycheck-grammarly) (Winter 2019):
@@ -1250,7 +1251,7 @@ data-balloon-pos="up">👷</span>):
 A [major-mode][] for editing [C#][] in [emacs][].
 - [dashboard][emacs-dashboard] (Summer 2019 – Present <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
-An extensible Emacs startup screen showing you what’s most important.
+An extensible [Emacs][] startup screen showing you what’s most important.
 - [indent-control](https://github.com/jcs-elpa/indent-control) (Summer 2019):
 Generic control the indentation level for each mode.
 - [show-eol](https://github.com/jcs-elpa/show-eol) (Summer 2019):
@@ -1302,7 +1303,7 @@ Recipes and build machinery for the biggest [Emacs][] package repo.
 
 - [jcs-emacs][] (Summer 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
-, delivering exceptional performance, especially on legacy [Windows][] systems.
+delivering exceptional performance, especially on legacy [Windows][] systems.
 
 </details>
 
@@ -1376,9 +1377,9 @@ This solution is significantly simpler, relying solely on [GitHub Actions][], wh
 Automatically update all the submodules within the repository and update the repository by opening a [pull request][PR].
 This workflow is used across several projects, such as [emacs-eask/cli][], [jcs-profile][] (this website), and more.
 - [setup-emacs-windows/update-stable.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-stable.yml) (Spring 2024):
-Automatically locate the latest Emacs' version and update the code through a [pull request (PR)][PR].
+Automatically locate the latest [Emacs][]' version and update the code through a [pull request (PR)][PR].
 - [setup-emacs-windows/update-snapshot.yml](https://github.com/jcs090218/setup-emacs-windows/blob/master/.github/workflows/update-snapshot.yml) (Spring 2024):
-Automatically locate the most recent Emacs' snapshot and update the code through a [pull request (PR)][PR].
+Automatically locate the most recent [Emacs][]' snapshot and update the code through a [pull request (PR)][PR].
 - [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023 <span aria-label="Published to GitHub Marketplace (5)"
 data-balloon-pos="up">🏅</span>):
 Install [Lem][] for [GitHub Actions][] workflow.
@@ -1435,14 +1436,14 @@ A cross-platform Bluetooth plugin for [Unity][], implemented in the native code 
 Automatically generate the [swagger.io][] yaml file for your project.
 - [CCosQuick][] (Winter 2019 – Summer 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
-Prototype your game easily with component driven library built on top of Cocos Creator.
+Prototype your game easily with component driven library built on top of [Cocos Creator][].
 - [MGDP][] (Fall 2019 – Winter 2019):
 [Quaver][] is essentially a [DJMax][] clone; hence, I'm uncertain whether to proceed with this project.
   - [Client](https://gitlab.com/MGDP/Client) (closed-source):
   Utilizing the [Unity][] Engine, this game client aims to implement the gameplay aspect of the [MGDP][] project.
   - [DevTool](https://gitlab.com/MGDP/DevTool) (closed-source):
   A simple desktop application assists me in generating music archive, which are then deployed on the server.
-  - [DevelopmentKit](https://www.youtube.com/watch?v=II5uaw-S6u4) (closed source):
+  - [DevelopmentKit](https://www.youtube.com/watch?v=II5uaw-S6u4) (closed-source):
   Empower [MGDP][] game developers with the capability to create their own music games and publish them on the [MGDP][] platform.
 - [JCSUE][] (Fall 2017):
 Quickly construct your game by utilizing multiple components and predefined default settings.
@@ -1515,6 +1516,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
+[長姬記]: #
 [ASAKU]: https://asaku.info/
 
 [Linux]: https://en.wikipedia.org/wiki/Linux
@@ -1538,6 +1540,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Windows Forms]: https://learn.microsoft.com/en-us/dotnet/desktop/winforms/get-started/create-app-visual-studio?view=netdesktop-8.0
 [Starling]: https://gamua.com/starling/
 [Cocos2d-x]: https://www.cocos.com/en/cocos2d-x
+[Cocos Creator]: https://www.cocos.com/en/creator
 [Egret]: https://github.com/egret-labs/egret-core
 [Mono]: https://www.mono-project.com/
 [Node.js]: https://nodejs.org/
