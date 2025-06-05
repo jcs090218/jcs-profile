@@ -88,83 +88,83 @@ data-balloon-pos="up">🏫</span>):
 
 ### <div class="simpleicons" id="si-unity"></div> Unity
 
-<details class="my-details" open>
+<details class="my-details">
   <summary>詳細資訊</summary>
 
 - [HTTP_Server](https://github.com/jcs090218/Unity.HTTP_Server) (春 2025):
-A simple [C#][] [HTTP][] server implementation for [Unity][].
+一個用於 [Unity][] 的簡單 [C#][] [HTTP][] 伺服器實作。
 - [Prefs](https://github.com/jcs090218/Unity.Prefs) (秋 2023):
-A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
+一個用於取得 [EditorPrefs][]/[PlayerPrefs][] 清單的小型庫。
 - [Mx][Unity.Mx] (秋 2023):
-A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
-The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
+一個基於命令的補全框架。它允許您根據自己的設計執行各種任務。
+其理念是從 [Emacs][] 移植 [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) 功能。
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (秋 2021 – 春 2022 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (7)"
 data-balloon-pos="up">🏅</span>):
-An abstraction layer constructed atop the [AssetBundles][] system, aiming to streamline the [AssetBundles][] workflow, sparing users from delving into intricate system details.
+在 [AssetBundles][] 系統之上建立的抽象層，旨在簡化 [AssetBundles][] 工作流程，使用戶無需深入研究複雜的系統細節。
 - [WatchLog](https://gitlab.com/pixisoft/UnityAS/WatchLog) (夏 2021 – 秋 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (6)"
 data-balloon-pos="up">🏅</span>):
-A dedicated tool that tracks variable over time.
+追蹤隨時間變化的變數的專用工具。
 - [Inspect Yaml](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-yaml-197811) (夏 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (5)"
 data-balloon-pos="up">🏅</span>):
-A dedicated and up to date [YAML][] editor inside the [Inspector][InspectorWindow] window.
+[Inspector][InspectorWindow] 視窗內有一個專用的、最新的 [YAML][] 編輯器。
 - [Inspect Xml](https://assetstore.unity.com/publishers/54455) (夏 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (4)"
 data-balloon-pos="up">🏅</span>):
-A dedicated and up to date [XML][] editor inside the [Inspector][InspectorWindow] window.
+[Inspector][InspectorWindow] 視窗內有一個專用的、最新的 [XML][] 編輯器。
 - [Inspect Json](https://assetstore.unity.com/packages/tools/visual-scripting/inspect-json-197543) (夏 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (3)"
 data-balloon-pos="up">🏅</span>):
-A dedicated and up to date [JSON][] editor inside the [Inspector][InspectorWindow] window.
+[Inspector][InspectorWindow] 視窗內有一個專用的、最新的 [JSON][] 編輯器。
 - [Afterimage](https://assetstore.unity.com/packages/vfx/afterimage-197173) (夏 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (2)"
 data-balloon-pos="up">🏅</span>):
-Afterimage VFX for [Unity][].
-A simple solution that work with 2D and 3D renderers, including UI components (Image, Text, Button, etc).
+適用於 [Unity][] 的 Afterimage VFX。
+一個可與 2D 和 3D 渲染器搭配使用的簡單解決方案，包含 UI 元件（圖像、文字、按鈕等）。
 - [sHierarchy](https://assetstore.unity.com/packages/tools/utilities/shierarchy-197171) (夏 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (1)"
 data-balloon-pos="up">🏅</span>):
-Minimalistic good looking [hierarchy][HierarchyWindow].
+極簡主義的美觀的 [hierarchy][HierarchyWindow]。
 - [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (夏 2021):
-[WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
+適用於 [Unity][] 的 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.)。
 - [32feet.Unity.Example](https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example) (春 2021):
-Example project to use [32feet][] inside [Unity][] ([Bluetooth][] Classic).
+在 [Unity][] ([Bluetooth][] Classic) 中使用 [32feet][] 的範例專案。
 - [Unity.Lua](https://github.com/jcs090218/Unity.Lua) (春 2020 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-Use Lua scripting language ([tolua](https://github.com/topameng/tolua)) in [Unity][] to accomplish hot update/fix functionality.
+在 [Unity][] 中使用 Lua 腳本語言 ([tolua](https://github.com/topameng/tolua)) 實現熱更新/修復功能。
 - [UndoRedoSystem](https://github.com/jcs090218/Unity.UndoRedoSystem) (夏 2018):
-Implementation of an Undo-Redo system in [Unity][] using [C#][] and uGUI.
+使用 [C#][] 和 uGUI 在 [Unity][] 中實現撤消-重做系統。
 - [Unity.Toggle](https://github.com/jcs090218/Unity.Toggle) (夏 2018):
-A little bit overkill toggle button UI for [Unity][] Engine using uGUI.
+使用 uGUI 的 [Unity][] 引擎的切換按鈕 UI 有點過度。
 - [PackageExporter](https://github.com/jcs090218/PackageExporter) (冬 2017):
-An alternative approach to package management utilizing ignore files.
+利用忽略文件進行套件管理的另一種方法。
 - [TileEditor](https://gitlab.com/jcs-workspace/unity/TileEditor) (秋 2017 – 冬 2017):
-Light-weight tile editing tool for [Unity][] 2D/3D.
+適用於 [Unity][] 2D/3D 的輕量級圖塊編輯工具。
 - [JCSUnity](https://github.com/jcs090218/JCSUnity) (夏 2016 – 冬 2017):
-Quickly construct your game using multiple components and predefined default settings.
+使用多個組件和預先定義的預設設定快速建立您的遊戲。
 
 #### 📐 演算法
 
 - [AI_Link](https://www.youtube.com/watch?v=I8QsEB3IYI0) (冬 2024 – 春 2025):
-This project specifically addresses the limitations of the [NavMesh Link][] by replacing the original with a custom system.
+該專案透過用自訂系統取代原始系統，專門解決了 [NavMesh Link][] 的限制。
 - [2D_Visibility](https://gitlab.com/jcs-workspace/unity/2D_Visibility) (夏 2024):
-Implementation of [2D Visibility](https://www.redblobgames.com/articles/visibility/) in [Unity][] using [C#][].
+使用 [C#][] 在 [Unity][] 中實作 [2D Visibility](https://www.redblobgames.com/articles/visibility/)。
 - [AStar](https://gitlab.com/jcs-workspace/unity/AStar) (夏 2023):
-Implementation of [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) in [Unity][] using [C#][].
+使用 [C#][] 在 [Unity][] 中實作 [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm)。
 
 #### 🖌️ 動畫、著色器和 VFX
 
 - [VideoTransition](https://youtu.be/tBDzRrHUKqc) (夏 2024 – 春 2025 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-Use video transition to do scene transition.
-The original author is my co-worker [@hirosaga][gitlab/hirosaga] created the video transition mask effect
-and being used in our game [長姬記][].
+使用視訊轉場來實現場景切換。
+原作者是我的同事 [@hirosaga][gitlab/hirosaga] 創作的，
+並且已經在我們的遊戲 [長姬記][] 中使用。
 - [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (夏 2023):
-Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal Render Pipeline (URP)][URP].
+在 [Unity][] 中使用 [Shader Graph][] 和 [通用渲染管線 (URP)][URP] 建立草地搖曳效果。
 - [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (夏 2023):
-Enhance the overall visual experience by adjusting various settings in [Unity][].
+透過調整[Unity][]中的各種設定來增強整體視覺體驗。
 
 </details>
 
@@ -173,105 +173,102 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [長姬記](#) (夏 2024 – 夏 2025 <span aria-label="Programming Lead"
+- [長姬記](#) (夏 2024 – 夏 2025 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="成人內容"
 data-balloon-pos="up">🔞</span>):
-A 2D erotic game featuring turn-based combat and adventure-driven storytelling.
-Developed by [Bunny Eats Tiger][] with a core team of three members,
-the game is funded and set to be published by [Mango Party][].
-- [You Have An Order](https://jcs090218.itch.io/you-have-an-order) (夏 2024 <span aria-label="Programming Lead"
+這是一款 2D 情色遊戲，以回合製戰鬥和冒險為主的劇情為主。
+遊戲由 [Bunny Eats Tiger][] 開發，核心團隊由三名成員組成，並由 [Mango Party][] 資助和發行。
+- [You Have An Order](https://jcs090218.itch.io/you-have-an-order) (夏 2024 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span>):
-A 2D pixel horror game, players strive to evade monsters while searching for an escape route.
-This game participates in the [机核GCORES][] [2024 Game Creation Challenge](https://site.gcores.com/booom2024/). (3 weeks)
-- [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (夏 2022 <span aria-label="Programming Lead"
+這是一款 2D 像素恐怖遊戲，玩家在躲避怪物的同時尋找逃生路線。
+本遊戲參與了 [机核GCORES][] [2024 遊戲創作挑戰賽](https://site.gcores.com/booom2024/)。 （為期 3 週）
+- [Alice in Surprise](https://kuhhenry.itch.io/alice-in-surprise) (夏 2022 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span>):
-A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
-The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829). (4 weeks)
+一款融合了[砍殺][hack & slash] 機制和 [方塊匹配][tile-matching] 的迷你遊戲。
+遊戲已投稿至[第五屆 DIY Game Jam](https://itch.io/jam/20220829)。 （4 週）
 - [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (秋 2019 – 冬 2019 <span aria-label="Chief Technology Officer (CTO)"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
-data-balloon-pos="up">💸</span><span aria-label="Published on Steam (1)"
-data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Store (3)"
-data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (1)"
+data-balloon-pos="up">💸</span><span aria-label="發布至 Steam (1)"
+data-balloon-pos="up">🏅</span><span aria-label="發布至 Google Play Store (3)"
+data-balloon-pos="up">🏅</span><span aria-label="發布至 App Store (1)"
 data-balloon-pos="up">🏅</span>):
-A puzzle game that merges historical legends with the classic gameplay of water pipe challenges!
+一款融合歷史傳說與水管挑戰經典玩法的益智遊戲！
 - [Poker](https://youtu.be/WYwpSqk1nwQ) (秋 2019 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-An online gambling game featuring a total of 5 mini-games.
-Our team consists of 7 members, and I am one of the game client engineers working with the [Unity][] engine.
-I am fully responsible for developing the entire gameplay system, while the UI is created by my senior coworker.
-Unfortunately, the entire team got laid off, leaving the game unfinished. (8 weeks)
+這是一款包含 5 個小遊戲的線上賭博遊戲。
+我們的團隊由 7 名成員組成，我是使用 [Unity][] 引擎的遊戲客戶端工程師之一。
+我全權負責整個遊戲系統的開發，而 UI 則由我的資深同事負責。
+不幸的是，整個團隊都被解雇了，遊戲未能完成。 （8 週）
 - [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (秋 2018 – 夏 2019 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-A multiplayer shooting [MOBA][] game on the mobile device.
-The project is created by the [T-NEXUS][] studio.
-I contributed to the backend engineering by writing the login server and designing its database schema.
-- [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (秋 2017 – 冬 2017 <span aria-label="Programming Lead"
+一款行動裝置上的多人射擊 [MOBA][] 遊戲。
+此專案由 [T-NEXUS][] 工作室創建。
+我參與了後端工程的開發，編寫了登入伺服器並設計了其資料庫架構。
+- [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (秋 2017 – 冬 2017 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
-data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2018 on behalf of our school, the Academy of Art University."
-data-balloon-pos="up">🏅</span><span aria-label="Presented at E3 College Game Competition (E3 CGC) 2018 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏫</span><span aria-label="代表我們學校藝術大學在 2018 年遊戲開發者大會 (GDC) 上發表"
+data-balloon-pos="up">🏅</span><span aria-label="代表我們學校藝術大學在 2018 年 E3 大學生遊戲大賽 (E3 CGC) 上展示"
 data-balloon-pos="up">🏅</span>):
-A mulitplayer, hot-seat game in which the campers (players) discover clues that point to the Master Candy Thief.
+這是一款多人熱座遊戲，其中露營者（玩家）發現指向糖果大師的線索。
 - [BB_Shoot][] (秋 2017):
-A bullet bounce game featuring multiplayer [third-person shooter (TPS)][TPS] mechanics.
-- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (春 2017 – 夏 2017 <span aria-label="Programming Lead"
+一款採用多人[第三人稱射擊遊戲 (TPS)][TPS] 機制的子彈彈跳遊戲。
+- [Hemlock and the Horrible Net](https://apkcombo.com/hemlock-and-the-horrible-net/com.aau.jcs/) (春 2017 – 夏 2017 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
-data-balloon-pos="up">🏫</span><span aria-label="Published on Google Play Store (2)"
-data-balloon-pos="up">🏅</span><span aria-label="The company Hasbro is interested in investing in this game."
+data-balloon-pos="up">🏫</span><span aria-label="發布至 Google Play Store (2)"
+data-balloon-pos="up">🏅</span><span aria-label="Hasbro 公司有意投資這款遊戲。"
 data-balloon-pos="up">💸</span>):
-Embark on an undersea adventure in this side-scrolling game! (15 weeks)
+在這款橫向捲軸遊戲中踏上海底冒險之旅！ （15週）
 - [PetShop][] (冬 2016 <span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
-An example project using [JCSLOVELua][] Framework.
-Players can use a left-click of the mouse to generate adorable animals, allowing them to reside within a sandbox.
-The concept is to emulate an aquarium experience.
-- [Might & Blade](https://www.youtube.com/watch?v=vPapMMxzNGg) (秋 2016 – 冬 2016 <span aria-label="Programming Lead"
+一個使用 [JCSLOVELua][] 框架的範例專案。
+玩家可以透過滑鼠左鍵點擊來產生可愛的動物，並讓它們棲息在沙盒中。
+其理念是模擬水族館的體驗。
+- [Might & Blade](https://www.youtube.com/watch?v=vPapMMxzNGg) (秋 2016 – 冬 2016 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
-data-balloon-pos="up">🏫</span><span aria-label="Presented at GDC 2017 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏫</span><span aria-label="代表我們學校藝術大學在 GDC 2017 上進行展示。"
 data-balloon-pos="up">🏅</span>):
-A 3rd person hack and slash action game made in the [Unity][] engine, developed by a team of 18 in
-the [Academy of Art University][AAU]. (15 weeks)
-- [Radiant Rune Fist](https://youtu.be/OQqqgbf0mGI) (秋 2016 – 冬 2016 <span aria-label="Programmer"
+一款基於[Unity][]引擎製作的第三人稱砍殺動作遊戲，由[藝術大學][AAU]的18人團隊開發。 （15週）
+- [Radiant Rune Fist](https://youtu.be/OQqqgbf0mGI) (秋 2016 – 冬 2016 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
-A run and gun platforming game from Old Gods Game Studio. Battle for glory and against evil!
-Made in the [Unity][] engine, developed by a team of 8 in the [Academy of Art University][]. (15 weeks)
+由 Old Gods Game Studio 出品的跑酷射擊平台遊戲。為榮耀而戰，對抗邪惡！
+採用 [Unity][] 引擎製作，由 [Academy of Art University][] 的 8 人團隊開發。 （耗時 15 週）
 - [DJMax_Remake](https://github.com/jcs090218/DJMax_Remake) (春 2016 <span data-balloon-pos="up" aria-label="學校作業">🏫</span>):
-A clone of [DJMax][] implemented in [Processing][].
+在 [Processing][] 中實現的 [DJMax][] 的克隆。
 - [TPS](https://gitlab.com/artugam-jcs/tps) (秋 2015 – 冬 2015 <span data-balloon-pos="up" aria-label="學校作業">🏫</span>):
-A simple [ASCII][] [third-person shooter (TPS)][TPS] game coded in [C++][].
+一個用 [C++][] 編碼的簡單 [ASCII][] [第三人稱射擊 (TPS)][TPS] 遊戲。
 View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
-- [Project M](#) (夏 2015 – 冬 2015 <span aria-label="Programming Lead"
+- [Project M](#) (夏 2015 – 冬 2015 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-Action game (ACT) with [RPG][] elements and a locked top-down perspective.
-I worked on the [minimum viable product (MVP)][MVP] of a game under [NDA][] as the sole software engineer.
-The game wasn't completed due to its 7+ years project timeline, so I passed it on to the next team.
-- [Archers Duel](https://www.newgrounds.com/portal/view/650410) (冬 2014 <span aria-label="Programmer"
+一款動作類別 (ACT) 遊戲，融合了 [RPG][] 元素和鎖定的自上而下視角。
+我作為唯一的軟體工程師，在 [保密協議][NDA] 下參與了一款遊戲的 [最小可行產品 (MVP)][MVP] 開發。
+由於專案週期超過7年，這款遊戲未能完成，所以我把它交給了下一個團隊。
+- [Archers Duel](https://www.newgrounds.com/portal/view/650410) (冬 2014 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
-data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
-data-balloon-pos="up">🏅</span><span aria-label="Published on Newgrounds (1)"
+data-balloon-pos="up">🏫</span><span aria-label="代表我們學校－藝術大學在 2015 年遊戲開發者大會 (GDC) 上發表。"
+data-balloon-pos="up">🏅</span><span aria-label="發布至 Newgrounds (1)"
 data-balloon-pos="up">🏅</span>):
-An compact RPG fighting game designed for two players to engage in battles using
-pre-designed archer characters. Developed with the [Starling][] framework.
-and [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html). (7 weeks)
-- [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (秋 2014 <span aria-label="Programmer"
+一款緊湊型角色扮演格鬥遊戲，專為雙人玩家設計，使用預設弓箭手角色進行戰鬥。
+採用 [Starling][] 框架和 [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html) 開發。 （7 週）
+- [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (秋 2014 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
-data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
+data-balloon-pos="up">🏫</span><span aria-label="代表我們學校－藝術大學在 2015 年遊戲開發者大會 (GDC) 上發表。"
 data-balloon-pos="up">🏅</span>):
-A compact visual novel game where the player assumes the role of a detective,
-working to unravel a mystery and identify the murderer. (7 weeks)
-- [Rhythm Punks!](https://www.youtube.com/watch?v=FmsYq4y_W24) (秋 2014 – 冬 2014 <span aria-label="Sole Programmer"
+這是一款緊湊型視覺小說遊戲，玩家扮演偵探，
+努力解開謎團，找出兇手。 （7週）
+- [Rhythm Punks!](https://www.youtube.com/watch?v=FmsYq4y_W24) (秋 2014 – 冬 2014 <span aria-label="唯一程序員"
 data-balloon-pos="up">👨‍💼</span><span data-balloon-pos="up" aria-label="學校作業">🏫</span>):
-A competitive two player game that will have the player fighting one another for victory.
-The first stage will be a death match between the two players, the second stage will have the players fighting enemies to see who can kill the most while dying the least.
-The 3rd stage will be a boss fight, where the player who does the most damage wins. (14 weeks)
+這是一款雙人競技遊戲，玩家將相互廝殺，爭奪勝利。
+第一階段將是兩位玩家之間的死亡競賽；第二階段將是玩家與敵人戰鬥，看看誰能殺敵最多，死亡最少。
+第三階段將是一場Boss戰，造成傷害最多的玩家獲勝。 （14週）
 
 #### 外掛程式
 
 - [moba-inting](https://gitlab.com/jcs-workspace/Python/moba-inting) (秋 2024):
-A basic UI automation bot to avoid AFK penalties.
-The bot ensures your character takes action (like intentionally moving) at regular intervals.
+一個基本的 UI 自動化機器人，用於避免 AFK 懲罰。
+該機器人會確保你的角色定期採取行動（例如故意移動）。
 
 </details>
 
@@ -281,16 +278,16 @@ The bot ensures your character takes action (like intentionally moving) at regul
   <summary>詳細資訊</summary>
 
 - [OC_Install][] (夏 2018):
-An univseral software installer by one click.
+一鍵安裝通用軟體。
 - [MagicCardTool](https://gitlab.com/artugam-jcs/MagicCardTool) (夏 2017 <span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
-A small desktop application that generates an image of a card for the [Magic: The Gathering][] card game.
-Initial attempt to develop a desktop application with [Windows Forms][] using [Visual C#][].
+一個小型桌面應用程序，用於為 [Magic: The Gathering][] 紙牌遊戲生成卡牌圖像。
+首次嘗試使用 [Visual C#][] 開發基於 [Windows][] 的桌面應用程式。
 - [Guild-Emblem-Simulator][] (秋 2017):
-A small program that allows you to customize your guild emblem just like in the game [MapleStory][] and export it into a [PNG][] file.
+一個小程序，可以讓你像在遊戲[MapleStory][]中一樣自訂你的公會徽章，並將其匯出為[PNG][]檔案。
 - [Skycrap Client/Server](https://www.youtube.com/watch?v=bwiOMgQ7xHU) (春 2017 – 夏 2017):
-A small and enjoyable project that transmits webcam data using the server/client model.
-Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
+一個小型且有趣的項目，使用伺服器/客戶端模型傳輸網路攝影機資料。
+本專案使用 [Java][] 實現，並利用 [Apache Mina][] 框架。
 
 </details>
 
@@ -299,25 +296,24 @@ Implemented in [Java][], this project utilizes the [Apache Mina][] framework.
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (夏 2021 – 春 2022 <span aria-label="Programmer"
+- [Monumental Conversations](https://apps.apple.com/us/app/monumental-conversations/id1585909435) (夏 2021 – 春 2022 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
-data-balloon-pos="up">💸</span><span aria-label="This project was featured in CODAworx’s magazine’s Art for Social Change edition"
-data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (3)"
+data-balloon-pos="up">💸</span><span aria-label="該計畫在 CODAworx 雜誌的「藝術促進社會變革」版中進行了專題報導"
+data-balloon-pos="up">🏅</span><span aria-label="發布至 App Store (3)"
 data-balloon-pos="up">🏅</span>):
-An [augmented reality][AR] mobile app for learning history of [Monument Avenue](https://en.wikipedia.org/wiki/Monument_Avenue) and [Arthur Ashe Boulevard](https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard).
-This project was featured in [CODAworx][]'s magazine's [Art for Social Change](https://www.codaworx.com/projects/monumental-conversations/) edition.
-- [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (冬 2020 – 春 2021 <span aria-label="Programmer"
+一個[擴增實境][AR]行動應用程序，用於了解[紀念碑大道](https://en.wikipedia.org/wiki/Monument_Avenue)和[亞瑟·阿什大道](https://en.wikipedia.org/wiki/Arthur_Ashe_Boulevard)的歷史。
+該計畫曾被[CODAworx][]雜誌的[藝術促進社會變革](https://www.codaworx.com/projects/monumental-conversations/)版塊報導。
+- [Lights & Delights](https://apps.apple.com/us/app/lights-delights/id1541283833) (冬 2020 – 春 2021 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
-data-balloon-pos="up">💸</span><span aria-label="Published on App Store (2)"
+data-balloon-pos="up">💸</span><span aria-label="發布至 App Store (2)"
 data-balloon-pos="up">🏅</span>):
-An [augmented reality][AR] holiday adventure for the Downtown Seattle Association's 2020, Holiday Lights and Delights Festival.
-- [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (春 2015 <span aria-label="Sole Programmer"
+西雅圖市中心協會 2020 年節日燈光與歡樂節的 [擴增實境][AR] 假期冒險。
+- [Twilight Tower LiveVR](https://apkcombo.com/twilight-tower-livevr/com.AAU.TwilightTower/) (春 2015 <span aria-label="唯一程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
-data-balloon-pos="up">🏫</span><span aria-label="Published on Google Play Store (1)"
+data-balloon-pos="up">🏫</span><span aria-label="發布至 Google Play Store (1)"
 data-balloon-pos="up">🏅</span>):
-A mini marker-based AR game, utilizing the [Vuforia AR SDK](https://www.ptc.com/en/products/vuforia)
-within the [Unity](https://unity.com/) platform.
-Players can interact with objects in the scene by simply clicking on them.
+這是一款基於標記的迷你 AR 遊戲，利用 [Unity](https://unity.com/) 平台中的 [Vuforia AR SDK](https://www.ptc.com/en/products/vuforia)。
+玩家只需點擊場景中的物件即可與其互動。
 
 </details>
 
@@ -326,16 +322,16 @@ Players can interact with objects in the scene by simply clicking on them.
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [Meteo](https://meteo.com.tw/app-download.html) (春 2020 – 春 2021 <span aria-label="Programmer"
+- [Meteo](https://meteo.com.tw/app-download.html) (春 2020 – 春 2021 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
-data-balloon-pos="up">💸</span><span aria-label="Achieved a total of 812,970 USD on the 嘖嘖zeczec donation platform"
-data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Store (4)"
-data-balloon-pos="up">🏅</span><span aria-label="Published on App Store (4)"
+data-balloon-pos="up">💸</span><span aria-label="嘖嘖zeczec 捐款平台累計募集善款 812,970 美元"
+data-balloon-pos="up">🏅</span><span aria-label="發布至 Google Play Store (4)"
+data-balloon-pos="up">🏅</span><span aria-label="發布至 App Store (4)"
 data-balloon-pos="up">🏅</span>):
-An app for sharing music that works with illuminated piano keyboards — [Meteo piano](https://www.youtube.com/watch?v=UbaO1bKhKWs).
-You can view a demonstration of the core mechanics [here](https://www.youtube.com/watch?v=63iJ5pnfVLQ) (please note that this demo is in its early stages and may appear rough).
+一款可與發光鋼琴鍵盤搭配使用的音樂分享應用程式－[Meteo Piano](https://www.youtube.com/watch?v=UbaO1bKhKWs)。
+您可以在[此處](https://www.youtube.com/watch?v=63iJ5pnfVLQ)觀看其核心機制的演示（請注意，此演示尚處於早期階段，可能顯得有些粗糙）。
 - [Music_Visualizer](https://gitlab.com/jcs-workspace/unity/Music_Visualizer) (秋 2018):
-Implementation of a music visualizer in [Unity][]. Check out the demo [here](https://www.youtube.com/watch?v=BkKbOezO3Vs&t=158s).
+在 [Unity][] 中實現音樂視覺化工具。點此看示範(https://www.youtube.com/watch?v=BkKbOezO3Vs&t=158s)。
 
 </details>
 
@@ -348,51 +344,51 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 - [FlxSwift][] (冬 2024 <span aria-label="Searchable on Swift Package Manager (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Swift][].
+用 [Swift][] 重寫 [emacs-flx][]。
 - [flx.go][] (冬 2024 <span aria-label="Searchable on Go.dev (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Go][].
+用 [Go][] 重寫 [emacs-flx][]。
 - [flx.py][] (冬 2024 <span aria-label="發佈至 PyPi (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Python][].
+用 [Python][] 重寫 [emacs-flx][]。
 - [flx_dart][] (冬 2024 <span aria-label="發佈至 Pub.dev (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Dart][].
+用 [Dart][] 重寫 [emacs-flx][]。
 - [clj-flx][] (冬 2024 <span aria-label="發佈至 Clojars (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Clojure][].
+用 [Clojure][] 重寫 [emacs-flx][]。
 - [flx-java][] (冬 2024 <span aria-label="發佈至 Maven Central (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Java][].
+用 [Java][] 重寫 [emacs-flx][]。
 - [cl-flx][] (秋 2024 <span aria-label="發佈至 Quicklisp (1)"
 data-balloon-pos="up">🏅</span><span aria-label="發佈至 Ultralisp (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Common Lisp][].
+用 [Common Lisp][] 重寫 [emacs-flx][]。
 - [flx-zig][] (春 2024):
-Rewrite [emacs-flx][] in [Zig][].
+在 [Zig][] 中重寫 [emacs-flx][]。
 - [zig-flx][] (春 2024):
-[Zig][] bindings for [flx-c][].
+[Zig][] 用於 [flx-c][] 的綁定。
 - [flx-c][] (春 2024):
-Rewrite [emacs-flx][] in [C][].
+在 [C][] 重寫 [emacs-flx][]。
 - [flx-ts][] (春 2024 <span aria-label="發佈至 NPM (8)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [TypeScript][],  with added support for [JavaScript][].
+使用 [TypeScript][] 重寫 [emacs-flx][]，並增加對 [JavaScript][] 的支援。
 - [FlxCs][] (秋 2023 <span aria-label="發佈至 NuGet (2)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [C#][].
-Built on the [Mono][] framework, you can utilize this in any environment compatible with [Mono][].
-This is utilized within the [Unity.Mx][] tool.
+用 [C#][] 重寫 [emacs-flx][]。
+基於 [Mono][] 框架構建，您可以在任何相容 [Mono][] 的環境中使用它。
+它可在 [Unity.Mx][] 工具中使用。
 - [flx-rs][the-flx/flx-rs] (冬 2021 <span aria-label="發佈至 crates.io (2)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Rust][] for dynamic modules.
-The original [emacs-flx][] were written in pure [Emacs Lisp][].
-While their scoring engine is impressive, the performance is unbearable on [Windows][] systems.
-Therefore, this package was developed, leading to a speed increase ranging from 10x to 16x.
+使用 [Rust][] 重寫 [emacs-flx][]，以實現動態模組。
+最初的 [emacs-flx][] 是用純 [Emacs Lisp][] 編寫的。
+雖然它們的評分引擎令人印象深刻，但在 [Windows][] 系統上效能卻難以承受。
+因此，我們開發了這個軟體包，將速度提升了 10 倍到 16 倍。
 - [flxy-rs][] (冬 2021 <span aria-label="發佈至 crates.io (1)"
 data-balloon-pos="up">🏅</span>):
-Fast, character-based search library in [Rust][].
-This represents my first attempt to rewrite [emacs-flx][] in [Rust][], which was not successful.
-Although it remains usable, the results in terms of fuzzy matching were not as impressive as the original [emacs-flx][] algorithm.
+用 [Rust][] 編寫的快速、基於字元的搜尋庫。
+這是我首次嘗試用 [Rust][] 重寫 [emacs-flx][]，但未能成功。
+雖然它仍然可用，但模糊匹配的結果不如原始的 [emacs-flx][] 演算法那麼令人印象深刻。
 
 </details>
 
@@ -403,8 +399,8 @@ Although it remains usable, the results in terms of fuzzy matching were not as i
 
 - [ImpulseEngine][] (秋 2017 <span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
-An unofficial port of [Impulse Engine][] written in [Python][].
-This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
+用 [Python][] 編寫的 [Impulse Engine][] 的非官方移植版。
+它是使用 [JCSPyGm_Lib][] 構建的，該庫基於 [Pygame][] 分層構建。
 
 </details>
 
@@ -414,92 +410,92 @@ This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
   <summary>詳細資訊</summary>
 
 - [JCS-EMACS Homepage](https://jcs-emacs.github.io/) (春 2022):
-Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
+[jcs-emacs][] 的登陸頁面。本網站使用 [React.js][] 製作。
 - [JCS-ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (冬 2021):
-A homepage for [JCS-ELPA][] designed to showcase all packages in the archive.
-The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
+[JCS-ELPA][] 的主頁旨在展示存檔中的所有軟體包。
+網站僅包含基本的 [HTML][]、[CSS][] 和 [JavaScript][]。
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (夏 2021 – 冬 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-A small web application made using [React.js][], designed for use as a company's homepage.
+使用 [React.js][] 製作的小型 Web 應用程序，旨在用作公司主頁。
 - [sherlock-web](https://jcs-profile.com/public/sherlock-web/) (春 2021):
-Website to interact [Sherlock API][sherlock-project/api].
+與 [Sherlock API][sherlock-project/api] 互動的網站。
 - [sherlock-project/api](https://github.com/sherlock-project/api) (春 2021):
-API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework (DRF)][DRF].
-Initial attempt with [DRF][].
+使用 [Django REST Framework (DRF)][DRF] 以 Python 實現的 [sherlock][sherlock-project/sherlock] 模組的 API。
+首次嘗試使用 [DRF][]。
 - [box_server](https://gitlab.com/jcs-workspace/node.js/box_server) (春 2020 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-A straightforward server designed to be compatible with any [WebSocket][] client utilizing the [ws][] library.
-This is a small demo I developed while working at [WISBET][]. There is no documentation as we moved on to the next project afterward.
+一個簡潔易用的伺服器，旨在相容於任何使用 [ws][] 程式庫的 [WebSocket][] 用戶端。
+這是我在 [WISBET][] 工作期間開發的一個小演示。由於我們之後轉向了下一個項目，所以沒有文件。
 - [Unity.DataServer](https://gitlab.com/jcs-workspace/unity/Unity.DataServer) (冬 2019 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-A data server and a solution for the missing game data, including [in-app purchase (IAP)][IAP] history, when the game is uninstalled from a mobile device.
+資料伺服器以及當遊戲從行動裝置卸載時遺失遊戲資料（包括[應用程式內購買（IAP）][IAP]歷史記錄）的解決方案。
 - [sherlock][sherlock-project/sherlock] (春 2019 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span>):
-🔎 Hunt down social media accounts by username across social networks.
-I was one of the early contributors who took care of the ANSI color using [colorama][].
+🔎 透過使用者名稱在社群網路上搜尋社群媒體帳號。
+我是早期使用 [colorama][] 處理 ANSI 顏色的貢獻者之一。
 - [Links_Template](https://github.com/jcs090218/Links_Template) (春 2020):
-Rapidly build your link page to marketing your games!
+快速建立您的連結頁面來行銷您的遊戲！
 - [RandomCookMenu](https://gitlab.com/jcs-workspace/php/RandomCookMenu) (冬 2017):
-A small application that enables you to create cooking menus and randomly selects one for you.
-This was originally designed for my mom, who often struggled with deciding what to cook every day.
+一個小應用程序，可以讓你創建烹飪菜單並隨機為你選擇一個。
+這個應用程式最初是為我的媽媽設計的，她經常為每天決定做什麼菜而苦惱。
 - [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (夏 2017 <span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
-A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]!
-Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the final project from our first web design class at the [Academy of Art University][].
+一個引導您暢玩熱門 [MMO][][RPG][] 和 [MapleStory][] 的網站！
+僅使用基礎的[HTML][]、[CSS][]和[JavaScript][]建構而成，這是我們在[藝術大學][AAU]的第一堂網頁設計課的最終專案。
 - [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (夏 2017 <span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
-A website recommends a few boba tea places in San Francisco!
-Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
+一個網站推薦了舊金山的幾家珍珠奶茶店！
+這是我們在[藝術大學][AAU]的第一堂網頁設計課的期中作業，僅使用基本的[HTML][]、[CSS][]和[JavaScript][]來建構。
 
 #### 👤 部落格與個人網站
 
 - [jcs-profile][] (春 2024):
-My personal website version 2, using [Hugo][] and [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+我的個人網站版本 2，使用 [Hugo][] 和 [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 主題。
 - [blog@v2](https://github.com/jcs-legacy/blog) (秋 2022 – 春 2024):
-My personal blog site, built using [Hugo][] with [LoveIt](https://github.com/dillonzq/LoveIt) theme.
+我的個人部落格網站，使用 [Hugo][] 和 [LoveIt](https://github.com/dillonzq/LoveIt) 主題建構。
 - [blog@v1](https://github.com/jcs090218/blog/tree/v1) (秋 2021 – 秋 2022):
-My personal blog site, built using [Hexo][] with [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) theme.
+我的個人部落格網站，使用 [Hexo][] 搭配 [hipaper](https://github.com/iTimeTraveler/hexo-theme-hipaper) 主題建構。
 - [jcs-profile@v1](https://github.com/jcs090218/jcs-profile/tree/v1) (冬 2018 – 春 2024):
-My single page personal website implemented in basic [HTML][], [CSS][] and [JavaScript][]
+我的單頁個人網站使用基本的 [HTML][]、[CSS][] 和 [JavaScript][] 實現
 - [Blog_JenChieh](https://github.com/jcs-legacy/Blog_JenChieh) (冬 2018 – 冬 2020):
-The blog system I initiated during my university years was constructed using the [Blog_Template][].
-I later shifted to a Static Site Generator (SSG) solution to minimize my server costs.
+我在大學期間創建的部落格系統就是使用 [Blog_Template][] 建構的。
+後來，為了最大限度地降低伺服器成本，我改用了靜態網站產生器 (SSG) 解決方案。
 - [Blog_Template][] (冬 2018):
-A blog template that allows individuals to self-host their blogs!
-Constructed using [Node.js][] and [Express.js][]. (replaced with [SiraDoc][])
+一個允許個人自行託管部落格的部落格範本！
+使用 [Node.js][] 和 [Express.js][] 建置。 （已替換為 [SiraDoc][]）
 
 #### 📚 文件和手冊
 
 - [Qob Manual][Qob] (秋 2024 — 冬 2024):
-[Qob][cl-qob/cli]'s documentation website.
+[Qob][cl-qob/cli] 的文件網站。
 - [collaboration-server-protocol][CSP] (夏 2024 — 秋 2024):
-Defines a common protocol for collaboration servers.
-Built with [docsy](https://www.docsy.dev/).
+定義協作伺服器的通用協定。
+使用 [docsy](https://www.docsy.dev/) 建置。
 - [Scripting_Manual_JCSGodot](https://github.com/jcs-legacy/Scripting_Manual_JCSGodot) (冬 2023):
-Scripting manual website for [JCSGodot][] [API][].
+[JCSGodot][] [API][] 的腳本手冊網站。
 - [Eask Manual][Eask] (夏 2022 – 冬 2022):
-[Eask][emacs-eask/cli]'s documentation website.
+[Eask][emacs-eask/cli] 的文件網站。
 - [CCosQuick Manual](https://jcs090218.github.io/CCosQuick/) (秋 2021):
-The documentation website for my game framework — [CCosQuick][].
+我的遊戲框架的文檔網站 — [CCosQuick][]。
 - [JCSEgret Manual](https://jcs090218.github.io/JCSEgret/) (秋 2021):
-The documentation website for my game framework — [JCSEgret][].
+我的遊戲框架的文檔網站 — [JCSEgret][]。
 - [JCSUE Manual](https://jcs090218.github.io/JCSUE/) (秋 2021):
-The documentation website for my game framework — [JCSUE][].
+我的遊戲框架的文檔網站 — [JCSUE][]。
 - [JCSUnity Manual](https://jcs090218.github.io/JCSUnity/) (秋 2021):
-The documentation website for my game framework — [JCSUnity][].
+我的遊戲框架 [JCSUnity][] 的文檔網站。
 - [SiraDoc/demo](https://gitlab.com/SiraDoc/demo) (秋 2021):
-Demo website for [SiraDoc][].
+[SiraDoc][] 的示範網站。
 - [Scripting_Manual_JCSUE](https://github.com/jcs-legacy/Scripting_Manual_JCSUE) (夏 2020):
-Scripting manual for [JCSUE][] [API][].
+[JCSUE][] [API][] 腳本手冊。
 - [Scripting_Manual_CCosQuick](https://github.com/jcs-legacy/Scripting_Manual_CCosQuick) (春 2020):
-Scripting manual for [CCosQuick][] [API][].
+[CCosQuick][] [API][] 腳本手冊。
 - [Scripting_Manual_JCSEgret](https://github.com/jcs-legacy/Scripting_Manual_JCSEgret) (冬 2018):
-Scripting manual website for [JCSEgret][] [API][].
+[JCSEgret][] [API][] 的腳本手冊網站。
 - [API_Reference_Template][] (冬 2018):
-Simple API references webiste hoster. (replaced with [SiraDoc][])
+簡單的 API 參考網站託管。 （已替換為 [SiraDoc][]）
 - [Scripting_Manual_JCSUnity](https://github.com/jcs-legacy/Scripting_Manual_JCSUnity) (秋 2018):
-Scripting manual for [JCSUnity][] [API][].
-Later separated into [API_Reference_Template][] and subsequently reliant on it.
+[JCSUnity][] [API][] 的腳本手冊。
+後來分離到 [API_Reference_Template][] 並隨後依賴它。
 
 </details>
 
@@ -509,11 +505,11 @@ Later separated into [API_Reference_Template][] and subsequently reliant on it.
   <summary>詳細資訊</summary>
 
 - [password-toggle](https://github.com/jcs-chromews/password-toggle) (夏 2024):
-Show/Hide passwords on the page.
+在頁面上顯示/隱藏密碼。
 - [eyny-video-downloader](https://github.com/jcs-chromews/eyny-video-downloader) (春 2024):
-An extension that integrates a download button for [EYNY Video][] site.
+整合了 [EYNY Video][] 網站下載按鈕的擴充。
 - [browser-statistic](https://github.com/jcs-chromews/browser-statistic) (春 2024):
-This is a small extension that presents statistical charts indicating the websites you frequently visit.
+這是一個小的擴展，可以顯示您經常訪問的網站的統計圖表。
 
 </details>
 
@@ -523,12 +519,12 @@ This is a small extension that presents statistical charts indicating the websit
   <summary>詳細資訊</summary>
 
 - [emacs-eask/packaging][] (秋 2023 – 冬 2023):
-Packaging for [Eask CLI][emacs-eask/cli].
-I've actively contributed to diverse package managers such as [Chocolatey][], [Snapcraft][], [MacPorts][], etc.
-Furthermore, I've established my own package repositories for [Scoop][], [Homebrew][], [Personal Package Archive (PPA)][PPA], and more.
+為 [Eask CLI][emacs-eask/cli] 打包。
+我積極為各種軟體套件管理器做出貢獻，例如 [Chocolatey][]、[Snapcraft][]、[MacPorts][] 等。
+此外，我還為 [Scoop][]、[Homebrew][]、[Personal Package Archive (PPA)][PPA] 等建立了自己的軟體包倉庫。
 - [emacs-eask/archives][] (春 2022 – 冬 2023):
-Back up the `archive-contents` to avoid potential failures when refreshing the package archive.
-This is a factor that enhances the stability of [Eask][emacs-eask/cli].
+備份 `archive-contents` 以避免在刷新軟體包存檔時出現潛在故障。
+這是增強 [Eask][emacs-eask/cli] 穩定性的一個因素。
 - [Eask][emacs-eask/cli] or [emacs-eask/cli][] (春 2022 – 冬 2023 <span aria-label="發佈至 NPM (6)"
 data-balloon-pos="up">🏅</span><span aria-label="發佈至 Debian (1)"
 data-balloon-pos="up">🏅</span><span aria-label="發佈至 Snap Store (1)"
@@ -539,12 +535,12 @@ data-balloon-pos="up">🏅</span><span aria-label="發佈至 Chocolatey (1)"
 data-balloon-pos="up">🏅</span><span aria-label="發佈至 Scoop (1)"
 data-balloon-pos="up">🏅</span><span aria-label="發佈至 Winget (1)"
 data-balloon-pos="up">🏅</span>):
-[CLI][] for building, running, testing, and managing your [Emacs Lisp][] dependencies.
-This tool is the successor to [Cask][], offering enhanced stability, cross-platform capability, and extensibility.
+[CLI][] 用來建置、執行、測試和管理你的 [Emacs Lisp][] 依賴項。
+此工具是 [Cask][] 的後續產品，提供增強的穩定性、跨平台功能和可擴展性。
 - [Cask][] (春 2021 – 春 2022 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
-Project management tool for [Emacs][].
-I'm the maintainer specifically responsible to [Windows][] platform.
+適用於 [Emacs][] 的專案管理工具。
+我是專門負責 [Windows][] 平台的維護者。
 
 </details>
 
@@ -554,48 +550,48 @@ I'm the maintainer specifically responsible to [Windows][] platform.
   <summary>詳細資訊</summary>
 
 - [jcs090218/nur](https://github.com/jcs090218/nur) (秋 2024 – 現在):
-Jen-Chieh's [Nix User Repository (NUR)][NUR].
+Jen-Chieh 的 [Nix 使用者儲存庫 (NUR)][NUR]。
 - [eask2nix](https://github.com/nix-community/eask2nix) (秋 2022 <span aria-label="發佈至 NPM (7)"
 data-balloon-pos="up">🏅</span>):
-Convert [Eask][emacs-eask/cli] into [Nix][] expressions.
+將 [Eask][emacs-eask/cli] 轉換為 [Nix][] 表達式。
 - [nixpkgs][] (秋 2022 – 現在 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span>):
-[Nix][] Packages collection & [NixOS][].
-I serve as the package maintainer for a small set of packages.
+[Nix][] 軟體包集合 & [NixOS][]。
+我擔任一小部分軟體包的維護者。
 
 </details>
 
 ### 🖇 語言用戶端和伺服器
 
-<details class="my-details" open>
+<details class="my-details">
   <summary>詳細資訊</summary>
 
 - [vscode-ellsp](https://github.com/elisp-lsp/vscode-ellsp) (冬 2023 <span aria-label="發佈至 VSCode Marketplace (2)"
 data-balloon-pos="up">🏅</span>):
-[Emacs Lisp][] languages support for [Visual Studio Code][VSCode].
+[Emacs Lisp][] 語言支援 [Visual Studio Code][VSCode]。
 - [ellsp](https://github.com/elisp-lsp/ellsp) (冬 2023):
-Language server implementation for [Emacs Lisp][].
-The emacs client (using [lsp-mode][]) is also included; do `M-x ellsp-register` to enable it.
+為 [Emacs Lisp][] 實作語言伺服器。
+emacs 用戶端（使用 [lsp-mode][]）也包含在內；使用 `M-x ellsp-register` 即可啟用。
 - [vscode-shader](https://github.com/shader-ls/vscode-shader) (秋 2023 <span aria-label="發佈至 VSCode Marketplace (1)"
 data-balloon-pos="up">🏅</span>):
-Shader languages support for [Visual Studio Code][VSCode].
+著色器語言支援 [Visual Studio Code][VSCode]。
 - [shader-language-server][] (夏 2023 – 秋 2023 <span aria-label="發佈至 NuGet (1)"
 data-balloon-pos="up">🏅</span>):
-Language server implementation for [ShaderLab][].
-It also provides support for various CG programming languages such as [HLSL][], [GLSL][], [Cg][], and more.
+為 [ShaderLab][] 實作語言伺服器。
+它也支援各種 CG 程式語言，例如 [HLSL][]、[GLSL][]、[Cg][] 等。
 - [grammarly-language-server][] (夏 2022 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span><span aria-label="維護者"
 data-balloon-pos="up">👷</span><span aria-label="分支項目"
 data-balloon-pos="up">🔗</span>):
-[Grammarly][] for [VS Code][VSCode].
+適用於 [VS Code][VSCode] 的 [Grammarly][]。
 - [unofficial-grammarly-language-server][] (春 2021 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span><span aria-label="維護者"
 data-balloon-pos="up">👷</span><span aria-label="分支項目"
 data-balloon-pos="up">🔗</span>):
-Unofficial [Grammarly][] extension.
-Forked from the original repository and maintained a version to ensure compatibility with various editors.
-This language server is now deprecated as the upstream has transitioned to the official API in 2022.
-Users are encouraged to use the newer [grammarly-language-server][] instead.
+非官方 [Grammarly][] 擴充。
+從原始儲存庫分叉並維護一個版本以確保與各種編輯器的兼容性。
+隨著上游已於 2022 年過渡到官方 API，該語言伺服器現已棄用。
+鼓勵使用者改用較新的 [grammarly-language-server][]。
 
 </details>
 
