@@ -1278,11 +1278,11 @@ data-balloon-pos="up">👷</span>):
 #### Package Archive (ELPA)
 
 - [jcs-elpa][] (冬 2021 – 現在):
-Jen-Chieh Shen (我自己的) [ELPA](https://www.emacswiki.org/emacs/ELPA)；目前有 **200+** 包。
+Jen-Chieh Shen (我自己的) [ELPA](https://www.emacswiki.org/emacs/ELPA)；目前有 **250+** 包。
 - [melpa][] (秋 2020 – 冬 2023 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span>):
 最大的 [Emacs][] 套件 repo 的 Recipes 和建立機制。
-[MELPA][] 是「[Milkypostman][github/Milkypostman] 的 [Emacs Lisp Package Archive][ELPA] 」的縮寫，而我是該套件庫的 **10 大**貢獻者之一。
+[MELPA][] 是「[Milkypostman][github/Milkypostman] 的 [Emacs Lisp Package Archive][ELPA] 」的縮寫，而我是該套件庫的 **5 大**貢獻者之一。
 
 #### 分佈
 
