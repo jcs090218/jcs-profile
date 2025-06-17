@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jcs-profile.com/posts/game-dev/the-hard-truth-about-game-designers-communication/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/posts/game-dev/the-hard-truth-about-game-designers-communication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/posts/game-dev/the-hard-truth-about-game-designers-communication/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/posts/career/problem-with-leetcode-and-swe-jobs/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -367,7 +380,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -377,6 +390,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/categories/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/categories/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/categories/game-dev/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/categories/game-dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/categories/game-dev/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/game-dev/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/game-dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/game-dev/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/posts/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/posts/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/</loc>
+    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/career/</loc>
@@ -405,32 +483,6 @@
                 href="https://www.jcs-profile.com/tags/career/"
                 />
   </url><url>
-    <loc>https://www.jcs-profile.com/categories/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/categories/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/posts/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/posts/"
-                />
-  </url><url>
     <loc>https://www.jcs-profile.com/tags/rant/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -442,19 +494,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/tags/rant/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/tags/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/10x/</loc>
@@ -585,32 +624,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/tags/server/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/categories/game-dev/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/categories/game-dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/categories/game-dev/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/tags/game-dev/</loc>
-    <lastmod>2022-08-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/game-dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/game-dev/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/generator/</loc>

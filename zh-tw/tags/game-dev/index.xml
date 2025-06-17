@@ -6,8 +6,40 @@
     <description>Recent content in Game Dev on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>遊戲設計師與程式設計師溝通的問題</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/the-hard-truth-about-game-designers-communication/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/game-dev/the-hard-truth-about-game-designers-communication/</guid>
+      <description>&lt;p&gt;在更早之前我就有想打一篇關於遊戲設計師的溝通問題.
+這個問題已經在遊戲業界內已經蘊藏的一段時間, 並且也困擾著我.
+身為一個程序員, 到底應該如何更順暢地和企劃們更順暢的溝通呢?
+這篇就單純的想記錄下我所觀察到的情況, 並希望在這篇的結尾能夠更好的解答出我自身的疑惑.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-前言&#34;&gt;🗯️ 前言&lt;/h2&gt;
+&lt;p&gt;我是個專業遊戲程序員, 已經在遊戲業待了超過 6 年的時間, 實際參與遊戲開發的時間已經超過 10 年 (包含大學時期的經驗).
+由此可知, 我應該算是擁有相當豐富的開發經驗的開發者, 但在和企劃們的溝通一直是有問題的.
+以下我想要提出幾個大方向, 是我認為為什麼會造成這個問題的根本原因.&lt;/p&gt;
+&lt;h2 id=&#34;-企劃的門檻太低-沒有專業的領域知識&#34;&gt;🗑️ 企劃的門檻太低, 沒有專業的領域知識&lt;/h2&gt;
+&lt;p&gt;我想這標題會讓許多企劃們不開心, 但我認為這是個事實. 相比美術和程序, 企劃所需要的門檻遠低於其他兩類.
+或許有人會說, 企劃也有許多需要知道並且了解的事情. 這我不否認, 但你認為精通更多能力的其他兩類工作職人
+會懂得比你更少嗎? 連程序或美術都做不出來的人, 真得更有熱情? 真的只需要一張嘴去做事情就可以了?&lt;/p&gt;
+&lt;p&gt;接著我們可以談論溝通能力, 大多的企劃只懂得表達與自身的經驗的相關的東西. 這句話可能有點不清楚,
+我們這裡舉個例子. 例如我們在設計一個遊戲系統, 這個系統將與另一個系統做特殊處理.
+大多的企劃只會形容他所看到的, 並無法解析一個系統的底層邏輯和他的運行方式 (reverse engineering 的過程).
+但問題是, 誰不會這樣做? 只要稍微有點概念的玩家都可以擁有的能力真的能叫做專業能力嗎? 🤔
+充其量只是個玩家並在遊戲業工作, 並時常被戲稱叫做 idea generator.&lt;/p&gt;
+&lt;p&gt;難道企劃真的完全沒有專業領域的知識嗎? 實則不然, 我認為企劃應該是需要最多知識的一個領域.
+但出問題的是這個業界, 具體原因需要從歷史的角度去看待.&lt;/p&gt;
+&lt;h2 id=&#34;-歷史角度去看待&#34;&gt;📜 歷史角度去看待&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;這裡只是猜想, 但沒有根據. 實際上在很多的過往訪談中確實有透露出這類資訊.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;企劃這個工作是怎麼形成的? 過往的企劃是從程序和美術 (大多是程序) 從中去分擔企劃這個責任,
+大多數溝通的問題會比較少, 主要原因是領域的知識水平較相近. 久而久之, 程式和美術的分擔太大,
+於是企劃這個職位就開始誕生了. 大多數認為企劃這個工作可以交由別人去做, 簡單來說就是個打雜的.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Game Jam - 8月 2022</title>
       <link>https://www.jcs-profile.com/zh-tw/posts/game-dev/game-jam---aug-2022/</link>
