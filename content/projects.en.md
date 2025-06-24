@@ -618,6 +618,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [prettier-js](https://github.com/prettier/prettier-emacs) (Summer 2025 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+Minor mode to format code on file save.
 - [org-journal](https://github.com/bastibe/org-journal) (Summer 2025 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 A simple [org-mode][] based journaling mode.
