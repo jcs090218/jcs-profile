@@ -6,8 +6,33 @@
     <description>Recent content in Career on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/categories/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>匠人級 5 萬小時是什麼概念</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/%E5%8C%A0%E4%BA%BA%E7%B4%9A-5-%E8%90%AC%E5%B0%8F%E6%99%82%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A6%82%E5%BF%B5/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/%E5%8C%A0%E4%BA%BA%E7%B4%9A-5-%E8%90%AC%E5%B0%8F%E6%99%82%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A6%82%E5%BF%B5/</guid>
+      <description>&lt;p&gt;前幾個禮拜突然突發奇想, 想知道自己大概花了多少時間在寫程式身上 (包括學習).
+於是有了些感慨. 計算公式如下.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一天平均時數 x 一年天數 x 總年分&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;我是從2013年的春季開始寫程序的, 然後 2014 年開始決定全力投入在寫程序身上.
+而我平均一天花費的時數為 5 到 16 小時之間, 不間段的寫, 包括假日.
+我的時間非常好算, 因為我除了特定會出遊的時間以外, 平時除了吃喝拉撒睡以外,
+就是只會寫程序. 我從小一直有不易睡覺的問題, 導致我一天不怎麼睡覺,
+很多時候甚至是不睡覺的. 所以我很常是會寫超過 16 小時的 (最長應該寫超過 36 小時). 🤔
+這其實對我來說是很痛苦的, 不過這篇不打算多做解釋, 就單純想記錄我花費了多少時間.&lt;/p&gt;
+&lt;p&gt;開始計算,&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;上限: 365 * 12 * 16 = 70,080 (小時)
+平均: 365 * 12 * ((16 + 5) / 2) = 45,990 (小時)
+下限: 365 * 12 * 5 = 21,900 (小時)
+
+上下限平均: (21,900 + 70,080) / 2 = 46,350 (小時)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;雖然我平均數大概投入了 &lt;strong&gt;4 萬&lt;/strong&gt;多個小時, 不過我感覺應該位在 &lt;strong&gt;5 萬&lt;/strong&gt;到 &lt;strong&gt;6 萬&lt;/strong&gt;之間.
+主要是因為我一天 5 小時真的是最少情況下, 通常情況應該是 10 小時為最常見的花費時數.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LeetCode 與 SWE 工作的問題</title>
       <link>https://www.jcs-profile.com/zh-tw/posts/career/problem-with-leetcode-and-swe-jobs/</link>

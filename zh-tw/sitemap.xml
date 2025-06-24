@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jcs-profile.com/zh-tw/posts/career/%E5%8C%A0%E4%BA%BA%E7%B4%9A-5-%E8%90%AC%E5%B0%8F%E6%99%82%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A6%82%E5%BF%B5/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/posts/career/%E5%8C%A0%E4%BA%BA%E7%B4%9A-5-%E8%90%AC%E5%B0%8F%E6%99%82%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A6%82%E5%BF%B5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/posts/career/%E5%8C%A0%E4%BA%BA%E7%B4%9A-5-%E8%90%AC%E5%B0%8F%E6%99%82%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A6%82%E5%BF%B5/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/posts/game-dev/the-hard-truth-about-game-designers-communication/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -407,7 +420,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -419,8 +432,34 @@
                 href="https://www.jcs-profile.com/zh-tw/"
                 />
   </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/categories/career/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/categories/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/categories/career/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/tags/career/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/career/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/career/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/categories/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -430,6 +469,45 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://www.jcs-profile.com/zh-tw/categories/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/tags/experience/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/experience/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/posts/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/posts/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/tags/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/categories/game-dev/</loc>
@@ -456,58 +534,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://www.jcs-profile.com/zh-tw/tags/game-dev/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/posts/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/posts/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/tags/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/categories/career/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/categories/career/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/categories/career/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/tags/career/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/career/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/career/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/tags/rant/</loc>
@@ -814,9 +840,6 @@
                 hreflang="zh-tw"
                 href="https://www.jcs-profile.com/zh-tw/tags/others/"
                 />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/tags/experience/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/categories/industry/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>

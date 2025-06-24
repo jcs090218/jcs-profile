@@ -6,8 +6,27 @@
     <description>Recent content on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What does 50,000 hours of craftsmanship mean?</title>
+      <link>https://www.jcs-profile.com/posts/career/%E5%8C%A0%E4%BA%BA%E7%B4%9A-5-%E8%90%AC%E5%B0%8F%E6%99%82%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A6%82%E5%BF%B5/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/career/%E5%8C%A0%E4%BA%BA%E7%B4%9A-5-%E8%90%AC%E5%B0%8F%E6%99%82%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A6%82%E5%BF%B5/</guid>
+      <description>&lt;p&gt;A few weeks ago, I suddenly had the idea to calculate how much time I had spent on programming (including learning).
+This led to some reflections. The calculation formula is as follows.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Average hours per day × Number of days in a year × Total number of years&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I started programming in the spring of 2013 and decided to fully commit to it in 2014.
+On average, I spend between 5 and 16 hours a day coding, non-stop, including weekends.
+My time is easy to calculate because, aside from specific times when I go out,
+I spend most of my time coding, except for eating, sleeping, and other necessities.
+I’ve always had trouble sleeping, which means I don’t sleep much during the day,
+and often don’t sleep at all. So I often end up coding for over 16 hours
+(the longest stretch was probably over 36 hours). 🤔
+This is actually quite painful for me, but I won’t go into detail here—I just want to record how much time I’ve spent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Problem with Game Designers communicate with programmers</title>
       <link>https://www.jcs-profile.com/posts/game-dev/the-hard-truth-about-game-designers-communication/</link>
