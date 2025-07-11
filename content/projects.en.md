@@ -1181,13 +1181,13 @@ Play [wav][] file.
 - [manage-minor-mode-table](https://github.com/jcs-elpa/manage-minor-mode-table) (Spring 2020):
 Manage minor-modes in table.
 Expands on the functionality of the package [manage-minor-mode][].
-- [helm-themes](https://github.com/emacsorphanage/helm-themes) (Spring 2020 <span aria-label="Maintainer"
+- [helm-themes](https://github.com/emacsattic/helm-themes) (Spring 2020 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Emacs][] theme selection with [helm][] interface.
 - [helm-gtags](https://github.com/emacsorphanage/helm-gtags) (Spring 2020 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [GNU GLOBAL](https://www.gnu.org/software/global/) [helm][] interface.
-- [helm-ag](https://github.com/emacsorphanage/helm-ag) (Spring 2020 <span aria-label="Maintainer"
+- [helm-ag](https://github.com/emacsattic/helm-ag) (Spring 2020 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 The silver searcher with [helm][] interface.
 - [emoji-github](https://github.com/jcs-elpa/emoji-github) (Spring 2020):

@@ -1166,13 +1166,13 @@ data-balloon-pos="up">👷</span>):
 - [manage-minor-mode-table](https://github.com/jcs-elpa/manage-minor-mode-table) (春 2020):
 管理表格中的 minor-modes。
 擴充套件 [manage-minor-mode][] 的功能。
-- [helm-themes](https://github.com/emacsorphanage/helm-themes) (春 2020 <span aria-label="維護者"
+- [helm-themes](https://github.com/emacsattic/helm-themes) (春 2020 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 使用 [helm][] 介面選擇 [Emacs][] 主題。
 - [helm-gtags](https://github.com/emacsorphanage/helm-gtags) (春 2020 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 [GNU GLOBAL](https://www.gnu.org/software/global/) [helm][] 介面。
-- [helm-ag](https://github.com/emacsorphanage/helm-ag) (春 2020 <span aria-label="維護者"
+- [helm-ag](https://github.com/emacsattic/helm-ag) (春 2020 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 具有 [helm][] 介面的銀色搜尋器。
 - [emoji-github](https://github.com/jcs-elpa/emoji-github) (春 2020):
