@@ -1092,8 +1092,8 @@ Vim口令那樣的設計巧思. 根本就是一塊石頭. 在這樣的情況下,
 &lt;li&gt;&lt;a href=&#34;&#34;&gt;Untitled: ASAKU&lt;/a&gt; (春 2025 – 現在&lt;span aria-label=&#34;程式領導&#34;
 data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
 data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
-回合制 &lt;a href=&#34;https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena&#34;&gt;MOBA&lt;/a&gt;，由六人團隊與台灣漫畫家 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8A%89%E6%98%8E%E6%98%86&#34;&gt;MingKun Liu&lt;/a&gt; []的漫畫 &lt;a href=&#34;https://asaku.info/&#34;&gt;ASAKU&lt;/a&gt; []共同開發。
-與漫畫中的角色進行策略性的 3V3、4V4 和 5V5 對戰。以&lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt;與&lt;a href=&#34;https://github.com/FirstGearGames/FishNet&#34;&gt;FishNet&lt;/a&gt;和&lt;a href=&#34;https://github.com/RevenantX/LiteNetLib&#34;&gt;LiteNetLib&lt;/a&gt;網路建立。
+回合制 &lt;a href=&#34;https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena&#34;&gt;MOBA&lt;/a&gt;，由六人團隊與台灣漫畫家 &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E5%8A%89%E6%98%8E%E6%98%86&#34;&gt;MingKun Liu&lt;/a&gt; 的漫畫 &lt;a href=&#34;https://asaku.info/&#34;&gt;ASAKU&lt;/a&gt; 共同開發。
+與漫畫中的角色進行策略性的 3V3、4V4 和 5V5 對戰。以 &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; 與 &lt;a href=&#34;https://github.com/FirstGearGames/FishNet&#34;&gt;FishNet&lt;/a&gt; 和 &lt;a href=&#34;https://github.com/RevenantX/LiteNetLib&#34;&gt;LiteNetLib&lt;/a&gt; 網路建立。
 同時開發客戶端與伺服器系統，伺服器託管於 &lt;a href=&#34;https://aws.amazon.com/&#34;&gt;AWS&lt;/a&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;&#34;&gt;Untitled: CODE_E&lt;/a&gt; (冬 2024 – 現在&lt;span aria-label=&#34;程式領導&#34;
 data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#34;專業工作&#34;
