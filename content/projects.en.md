@@ -34,12 +34,10 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 - [Untitled: ASAKU](#) (Spring 2025 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
-A turn-based [MOBA][] developed by a 6-person team in collaboration with [ASAKU][],
-a manga by Taiwanese creator [MingKun Liu][]. It features strategic multiplayer
-battles—such as 3v3, 4v4, and 5v5—using characters and themes from the manga.
-Built in [Unity][], the game uses [FishNet][] for both client and server networking,
-after an initial prototype with [LiteNetLib][]. I’m responsible for developing both
-the client and server systems.
+Turn-based [MOBA][] co-developed with a 6 person team and [ASAKU][], a manga by Taiwanese artist [MingKun Liu][].
+Features strategic 3v3, 4v4, and 5v5 battles with characters from the manga.
+Built in [Unity][] with [FishNet][] and [LiteNetLib][] networking.
+Developed both client and server systems, with servers hosted on [AWS][].
 - [Untitled: CODE_E](#) (Winter 2024 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>): WIP game.
@@ -1578,6 +1576,8 @@ The project was initiated during the course of work but is no longer in use as t
 [EditorConfig]: https://editorconfig.org/
 [Chrome]: https://www.google.com/chrome/
 [Brave]: https://brave.com/
+[AWS]: https://aws.amazon.com/
+[Digital Ocean]: https://www.digitalocean.com/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/

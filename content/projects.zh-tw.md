@@ -30,10 +30,9 @@ ShowReadingTime: false
 - [Untitled: ASAKU](#) (春 2025 – 現在<span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-這是一款回合制 [MOBA][]，由六人團隊與台灣漫畫創作者 [MingKun Liu][] 的漫畫 [ASAKU][] 合作開發。
-本遊戲的特色為策略性多人對戰，例如 3v3、4v4 和 5v5，並採用漫畫中的角色和主題。
-遊戲以 [Unity][] 製作，在使用 [LiteNetLib][] 的初始原型後，客戶端和伺服器網路都使用 [FishNet][]。
-我負責開發客戶端和伺服器系統。
+回合制 [MOBA][]，由六人團隊與台灣漫畫家 [MingKun Liu] []的漫畫 [ASAKU] []共同開發。
+與漫畫中的角色進行策略性的 3V3、4V4 和 5V5 對戰。以[Unity][]與[FishNet][]和[LiteNetLib][]網路建立。
+同時開發客戶端與伺服器系統，伺服器託管於 [AWS][]。
 - [Untitled: CODE_E](#) (冬 2024 – 現在<span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>): 遊戲製作中.
@@ -1559,6 +1558,8 @@ data-balloon-pos="up">💸</span>):
 [EditorConfig]: https://editorconfig.org/
 [Chrome]: https://www.google.com/chrome/
 [Brave]: https://brave.com/
+[AWS]: https://aws.amazon.com/
+[Digital Ocean]: https://www.digitalocean.com/
 
 [Hexo]: https://hexo.io/index.html
 [Hugo]: https://gohugo.io/
