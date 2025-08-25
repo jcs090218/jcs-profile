@@ -1109,7 +1109,7 @@ data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
 &lt;li&gt;&lt;a href=&#34;https://github.com/Cogru/cogru&#34;&gt;cogru&lt;/a&gt; (夏 2024 – 現在):
 協作從哪裡開始！？我在 &lt;a href=&#34;https://www.rust-lang.org/&#34;&gt;Rust&lt;/a&gt; 中使用 &lt;a href=&#34;https://en.wikipedia.org/wiki/Client%E2%80%93server_model&#34;&gt;client-server model&lt;/a&gt; 實作了 &lt;a href=&#34;https://en.wikipedia.org/wiki/Operational_transformation&#34;&gt;Operational Transformation (OT)&lt;/a&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/dotfiles&#34;&gt;dotfiles&lt;/a&gt; (夏 2024 – 現在):
-人傑的 dotfiles。&lt;/li&gt;
+&lt;a href=&#34;https://jcs-profile.com/&#34;&gt;Jen-Chieh&lt;/a&gt; 的 dotfiles。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jayces-lang/jayces&#34;&gt;jayces&lt;/a&gt; (冬 2023 – 現在): 我創建的編程語言，主要是為了學習寫的。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -1585,7 +1585,7 @@ data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;):
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/nur&#34;&gt;jcs090218/nur&lt;/a&gt; (秋 2024 – 現在):
-Jen-Chieh 的 &lt;a href=&#34;https://github.com/nix-community/NUR&#34;&gt;Nix 使用者儲存庫 (NUR)&lt;/a&gt;。&lt;/li&gt;
+&lt;a href=&#34;https://jcs-profile.com/&#34;&gt;Jen-Chieh&lt;/a&gt; 的 &lt;a href=&#34;https://github.com/nix-community/NUR&#34;&gt;Nix 使用者儲存庫 (NUR)&lt;/a&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/nix-community/eask2nix&#34;&gt;eask2nix&lt;/a&gt; (秋 2022 &lt;span aria-label=&#34;發佈至 NPM (7)&#34;
 data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
 將 &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; 轉換為 &lt;a href=&#34;https://nixos.org/&#34;&gt;Nix&lt;/a&gt; 表達式。&lt;/li&gt;
