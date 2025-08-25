@@ -603,10 +603,10 @@ data-balloon-pos="up">🔗</span>):
 > 或 [JCS-ELPA][] <span aria-label="發布至 JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > 上，所以我不會明確列出。
 
-- [eca](https://github.com/editor-code-assistant/eca-emacs) (Summer 2025 <span aria-label="Maintainer"
+- [eca](https://github.com/editor-code-assistant/eca-emacs) (夏 2025 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 為 [Emacs][] 整合 [Editor Code Assistant (ECA)][ECA]。
-- [prettier-js](https://github.com/prettier/prettier-emacs) (夏 2025 <span aria-label="Maintainer"
+- [prettier-js](https://github.com/prettier/prettier-emacs) (夏 2025 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 在保存文件時以 minor mode 格式化代碼。
 - [org-journal](https://github.com/bastibe/org-journal) (夏 2025 <span aria-label="維護者"
