@@ -603,6 +603,9 @@ data-balloon-pos="up">🔗</span>):
 > 或 [JCS-ELPA][] <span aria-label="發布至 JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > 上，所以我不會明確列出。
 
+- [eca](https://github.com/editor-code-assistant/eca-emacs) (Summer 2025 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+為 [Emacs][] 整合 [Editor Code Assistant (ECA)][ECA]。
 - [prettier-js](https://github.com/prettier/prettier-emacs) (夏 2025 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 在保存文件時以 minor mode 格式化代碼。
@@ -1835,6 +1838,7 @@ data-balloon-pos="up">💸</span>):
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
 [GPTScript]: https://github.com/gptscript-ai/gptscript
+[ECA]: https://github.com/editor-code-assistant/eca
 
 [update_submodules.yml]: https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc
 

@@ -616,6 +616,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [eca](https://github.com/editor-code-assistant/eca-emacs) (Summer 2025 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+[Editor Code Assistant (ECA)][ECA] integration for [Emacs][].
 - [prettier-js](https://github.com/prettier/prettier-emacs) (Summer 2025 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Minor mode to format code on file save.
@@ -1853,6 +1856,7 @@ The project was initiated during the course of work but is no longer in use as t
 [DEEPL]: https://www.deepl.com/en/translator
 [UniteAI]: https://github.com/freckletonj/uniteai
 [GPTScript]: https://github.com/gptscript-ai/gptscript
+[ECA]: https://github.com/editor-code-assistant/eca
 
 [update_submodules.yml]: https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc
 
