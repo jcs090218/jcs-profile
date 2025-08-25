@@ -47,7 +47,7 @@ data-balloon-pos="up">🏅</span>):
 - [cogru][] (夏 2024 – 現在):
 協作從哪裡開始！？我在 [Rust][] 中使用 [client-server model][] 實作了 [Operational Transformation (OT)][]。
 - [dotfiles](https://github.com/jcs090218/dotfiles) (夏 2024 – 現在):
-人傑的 dotfiles。
+[Jen-Chieh][] 的 dotfiles。
 - [jayces][] (冬 2023 – 現在): 我創建的編程語言，主要是為了學習寫的。
 
 </details>
@@ -549,7 +549,7 @@ data-balloon-pos="up">👷</span>):
   <summary>詳細資訊</summary>
 
 - [jcs090218/nur](https://github.com/jcs090218/nur) (秋 2024 – 現在):
-Jen-Chieh 的 [Nix 使用者儲存庫 (NUR)][NUR]。
+[Jen-Chieh][] 的 [Nix 使用者儲存庫 (NUR)][NUR]。
 - [eask2nix](https://github.com/nix-community/eask2nix) (秋 2022 <span aria-label="發佈至 NPM (7)"
 data-balloon-pos="up">🏅</span>):
 將 [Eask][emacs-eask/cli] 轉換為 [Nix][] 表達式。
@@ -1280,7 +1280,7 @@ data-balloon-pos="up">👷</span>):
 #### Package Archive (ELPA)
 
 - [jcs-elpa][] (冬 2021 – 現在):
-Jen-Chieh Shen (我自己的) [ELPA](https://www.emacswiki.org/emacs/ELPA)；目前有 **250+** 包。
+[Jen-Chieh Shen][] (我自己的) [ELPA](https://www.emacswiki.org/emacs/ELPA)；目前有 **250+** 包。
 - [melpa][] (秋 2020 – 冬 2023 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span>):
 最大的 [Emacs][] 套件 repo 的 Recipes 和建立機制。
@@ -1465,6 +1465,7 @@ data-balloon-pos="up">💸</span>):
 <!-- Links -->
 
 [Jen-Chieh Shen]: https://jcs-profile.com/
+[Jen-Chieh]: https://jcs-profile.com/
 [github/jcs090218]: https://github.com/jcs090218
 [gitlab/jcs090218]: https://gitlab.com/jcs090218
 [github/Milkypostman]: https://github.com/milkypostman

@@ -53,7 +53,7 @@ data-balloon-pos="up">🏅</span>):
 Where the collaboration start!?
 I've implemented the [Operational Transformation (OT)][] in [Rust][] using the [client-server model][].
 - [dotfiles](https://github.com/jcs090218/dotfiles) (Summer 2024 – Present):
-Jen-Chieh's dotfiles.
+[Jen-Chieh][]'s dotfiles.
 - [jayces][] (Winter 2023 – Present): Programming language I've created to learn to write one my own.
 
 </details>
@@ -562,7 +562,7 @@ I'm the maintainer specifically responsible to [Windows][] platform.
   <summary>See details</summary>
 
 - [jcs090218/nur](https://github.com/jcs090218/nur) (Fall 2024 – Present):
-Jen-Chieh's [Nix User Repository (NUR)][NUR].
+[Jen-Chieh][]'s [Nix User Repository (NUR)][NUR].
 - [eask2nix](https://github.com/nix-community/eask2nix) (Fall 2022 <span aria-label="Published to NPM (7)"
 data-balloon-pos="up">🏅</span>):
 Convert [Eask][emacs-eask/cli] into [Nix][] expressions.
@@ -1294,7 +1294,7 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 #### Package Archive (ELPA)
 
 - [jcs-elpa][] (Winter 2021 – Present):
-Jen-Chieh Shen's (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **250+** packages.
+[Jen-Chieh Shen][]'s (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **250+** packages.
 - [melpa][] (Fall 2020 – Winter 2023 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
 Recipes and build machinery for the biggest [Emacs][] package repo.
@@ -1483,6 +1483,7 @@ The project was initiated during the course of work but is no longer in use as t
 <!-- Links -->
 
 [Jen-Chieh Shen]: https://jcs-profile.com/
+[Jen-Chieh]: https://jcs-profile.com/
 [github/jcs090218]: https://github.com/jcs090218
 [gitlab/jcs090218]: https://gitlab.com/jcs090218
 [github/Milkypostman]: https://github.com/milkypostman
