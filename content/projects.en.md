@@ -99,13 +99,15 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 <details class="my-details">
   <summary>See details</summary>
 
-- [HTTP_Server](https://github.com/jcs090218/Unity.HTTP_Server) (Spring 2025):
+- [HTTP_Server][Unity.HTTP_Server] (Spring 2025):
 A simple [C#][] [HTTP][] server implementation for [Unity][].
-- [Prefs](https://github.com/jcs090218/Unity.Prefs) (Fall 2023):
+- [Prefs][Unity.Prefs] (Fall 2023):
 A small library designed to fetch a list of [EditorPrefs][]/[PlayerPrefs][].
 - [Mx][Unity.Mx] (Fall 2023):
 A command-based completion framework. It allows you to execute all kinds of tasks based on your design.
 The idea is to port the [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) functionality from [Emacs][].
+- [USqr][Unity.USqr] (Spring 2023 – Present):
+Set of attributes, tools and extensions for [Unity][].
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (Fall 2021 – Spring 2022 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (7)"
 data-balloon-pos="up">🏅</span>):
@@ -1665,6 +1667,9 @@ The project was initiated during the course of work but is no longer in use as t
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [Unity.Mx]: https://github.com/jcs090218/Unity.Mx
+[Unity.USqr]: https://gitlab.com/jcs090218/Unity.USqr
+[Unity.Prefs]: https://github.com/jcs090218/Unity.Prefs
+[Unity.HTTP_Server]: https://github.com/jcs090218/Unity.HTTP_Server
 [JCSStarling]: https://gitlab.com/jcs-workspace/as3/JCSStarling
 [JCSUE]: https://github.com/jcs090218/JCSUE
 [JCSEgret]: https://github.com/jcs090218/JCSEgret

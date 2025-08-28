@@ -90,13 +90,15 @@ data-balloon-pos="up">🏫</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [HTTP_Server](https://github.com/jcs090218/Unity.HTTP_Server) (春 2025):
+- [HTTP_Server][Unity.HTTP_Server] (春 2025):
 一個用於 [Unity][] 的簡單 [C#][] [HTTP][] 伺服器實作。
-- [Prefs](https://github.com/jcs090218/Unity.Prefs) (秋 2023):
+- [Prefs][Unity.Prefs] (秋 2023):
 一個用於取得 [EditorPrefs][]/[PlayerPrefs][] 清單的小型庫。
 - [Mx][Unity.Mx] (秋 2023):
 一個基於命令的補全框架。它允許您根據自己的設計執行各種任務。
 其理念是從 [Emacs][] 移植 [M-x](https://www.gnu.org/software/emacs/manual/html_node/emacs/M_002dx.html) 功能。
+- [USqr][Unity.USqr] (春 2023 – 現在):
+適用於 [Unity][] 的屬性、工具與擴充套件集合。
 - [NovBundle](https://assetstore.unity.com/packages/tools/utilities/novbundle-201440) (秋 2021 – 春 2022 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (7)"
 data-balloon-pos="up">🏅</span>):
@@ -1647,6 +1649,9 @@ data-balloon-pos="up">💸</span>):
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [Unity.Mx]: https://github.com/jcs090218/Unity.Mx
+[Unity.USqr]: https://gitlab.com/jcs090218/Unity.USqr
+[Unity.Prefs]: https://github.com/jcs090218/Unity.Prefs
+[Unity.HTTP_Server]: https://github.com/jcs090218/Unity.HTTP_Server
 [JCSStarling]: https://gitlab.com/jcs-workspace/as3/JCSStarling
 [JCSUE]: https://github.com/jcs090218/JCSUE
 [JCSEgret]: https://github.com/jcs090218/JCSEgret
