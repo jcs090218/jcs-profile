@@ -1224,6 +1224,13 @@ data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/Better_Skybox&#34;&gt;Better_Skybox&lt;/a&gt; (夏 2023):
 透過調整&lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt;中的各種設定來增強整體視覺體驗。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;-系統&#34;&gt;⚙️ 系統&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/nyamyam.CaptureCamera&#34;&gt;nyamyam.CaptureCamera&lt;/a&gt; (Fall 2025 &lt;span aria-label=&#34;專業工作&#34;
+data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
+&lt;a href=&#34;https://www.nyamyam.games/&#34;&gt;Nyamyam&lt;/a&gt;的面試作業。
+任務是設計一套受影片 &lt;a href=&#34;https://www.youtube.com/watch?v=x5A45HxbTEw&amp;amp;t=1s&#34;&gt;2025 0820 The Seance Flow&lt;/a&gt; 啟發的攝影機捕捉系統。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/details&gt;
 &lt;h3 id=&#34;-遊戲&#34;&gt;🎮 遊戲&lt;/h3&gt;
 &lt;details class=&#34;my-details&#34;&gt;
