@@ -176,6 +176,14 @@ Create a grass sway effect in [Unity][] using [Shader Graph][] with [Universal R
 - [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (Summer 2023):
 Enhance the overall visual experience by adjusting various settings in [Unity][].
 
+#### ⚙️ Systems
+
+- [nyamyam.CaptureCamera](https://gitlab.com/jcs-workspace/unity/nyamyam.CaptureCamera) (Fall 2025 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+Interview assignment for [Nyamyam][].
+The task is to design a camera capture system inspired by the video
+[2025 0820 The Seance Flow](https://www.youtube.com/watch?v=x5A45HxbTEw&t=1s).
+
 </details>
 
 ### 🎮 Games
@@ -1506,6 +1514,7 @@ The project was initiated during the course of work but is no longer in use as t
 [WISBET]: http://www.wisbet.co/
 [Meteo]: https://meteo.com.tw/
 [Novaby]: https://www.novaby.com/
+[Nyamyam]: https://www.nyamyam.games/
 [嘖嘖]: https://www.zeczec.com/
 [zeczec]: https://www.zeczec.com/
 [zeczec/meteo]: https://www.zeczec.com/projects/meteo

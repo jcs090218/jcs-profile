@@ -167,6 +167,13 @@ data-balloon-pos="up">💸</span>):
 - [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (夏 2023):
 透過調整[Unity][]中的各種設定來增強整體視覺體驗。
 
+#### ⚙️ 系統
+
+- [nyamyam.CaptureCamera](https://gitlab.com/jcs-workspace/unity/nyamyam.CaptureCamera) (Fall 2025 <span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+[Nyamyam][]的面試作業。
+任務是設計一套受影片 [2025 0820 The Seance Flow](https://www.youtube.com/watch?v=x5A45HxbTEw&t=1s) 啟發的攝影機捕捉系統。
+
 </details>
 
 ### 🎮 遊戲
@@ -1488,6 +1495,7 @@ data-balloon-pos="up">💸</span>):
 [WISBET]: http://www.wisbet.co/
 [Meteo]: https://meteo.com.tw/
 [Novaby]: https://www.novaby.com/
+[Nyamyam]: https://www.nyamyam.games/
 [嘖嘖]: https://www.zeczec.com/
 [zeczec]: https://www.zeczec.com/
 [zeczec/meteo]: https://www.zeczec.com/projects/meteo
