@@ -169,9 +169,13 @@ data-balloon-pos="up">💸</span>):
 
 #### ⚙️ 系統
 
+- [MantisRobotics.CSG_Editor](https://gitlab.com/jcs-workspace/unity/MantisRobotics.CSG_Editor) (Fall 2025 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+[MantisRobotics][] 的面試作業。
+一個專注於探索 [Constructive Solid Geometry (CSG)][CSG] 的極簡編輯器。
 - [nyamyam.CaptureCamera](https://gitlab.com/jcs-workspace/unity/nyamyam.CaptureCamera) (Fall 2025 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-[Nyamyam][]的面試作業。
+[Nyamyam][] 的面試作業。
 任務是設計一套受影片 [2025 0820 The Seance Flow](https://www.youtube.com/watch?v=x5A45HxbTEw&t=1s) 啟發的攝影機捕捉系統。
 
 </details>
@@ -1496,6 +1500,7 @@ data-balloon-pos="up">💸</span>):
 [Meteo]: https://meteo.com.tw/
 [Novaby]: https://www.novaby.com/
 [Nyamyam]: https://www.nyamyam.games/
+[MantisRobotics]: https://www.mantis-robotics.com/
 [嘖嘖]: https://www.zeczec.com/
 [zeczec]: https://www.zeczec.com/
 [zeczec/meteo]: https://www.zeczec.com/projects/meteo
@@ -1645,6 +1650,7 @@ data-balloon-pos="up">💸</span>):
 [HLSL]: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
 [GLSL]: https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
 [Cg]: https://en.wikipedia.org/wiki/Cg_(programming_language)
+[CSG]: https://en.wikipedia.org/wiki/Constructive_solid_geometry
 
 [unofficial-grammarly-language-server]: https://github.com/emacs-grammarly/unofficial-grammarly-language-server
 [grammarly-language-server]: https://github.com/emacs-grammarly/grammarly-language-server

@@ -178,6 +178,10 @@ Enhance the overall visual experience by adjusting various settings in [Unity][]
 
 #### ⚙️ Systems
 
+- [MantisRobotics.CSG_Editor](https://gitlab.com/jcs-workspace/unity/MantisRobotics.CSG_Editor) (Fall 2025 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+Interview assignment for [MantisRobotics][].
+A minimal editor exploring [Constructive Solid Geometry (CSG)][CSG].
 - [nyamyam.CaptureCamera](https://gitlab.com/jcs-workspace/unity/nyamyam.CaptureCamera) (Fall 2025 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Interview assignment for [Nyamyam][].
@@ -1515,6 +1519,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Meteo]: https://meteo.com.tw/
 [Novaby]: https://www.novaby.com/
 [Nyamyam]: https://www.nyamyam.games/
+[MantisRobotics]: https://www.mantis-robotics.com/
 [嘖嘖]: https://www.zeczec.com/
 [zeczec]: https://www.zeczec.com/
 [zeczec/meteo]: https://www.zeczec.com/projects/meteo
@@ -1664,6 +1669,7 @@ The project was initiated during the course of work but is no longer in use as t
 [HLSL]: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
 [GLSL]: https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
 [Cg]: https://en.wikipedia.org/wiki/Cg_(programming_language)
+[CSG]: https://en.wikipedia.org/wiki/Constructive_solid_geometry
 
 [unofficial-grammarly-language-server]: https://github.com/emacs-grammarly/unofficial-grammarly-language-server
 [grammarly-language-server]: https://github.com/emacs-grammarly/grammarly-language-server
