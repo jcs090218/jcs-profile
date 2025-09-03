@@ -169,7 +169,7 @@ data-balloon-pos="up">💸</span>):
 
 #### ⚙️ 系統
 
-- [MantisRobotics.CSG_Editor](https://gitlab.com/jcs-workspace/unity/MantisRobotics.CSG_Editor) (Fall 2025 <span aria-label="Professional work"
+- [MantisRobotics.CSG_Editor](https://gitlab.com/jcs-workspace/unity/MantisRobotics.CSG_Editor) (Fall 2025 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 [MantisRobotics][] 的面試作業。
 一個專注於探索 [Constructive Solid Geometry (CSG)][CSG] 的極簡編輯器。
