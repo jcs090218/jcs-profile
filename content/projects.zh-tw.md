@@ -169,11 +169,11 @@ data-balloon-pos="up">💸</span>):
 
 #### ⚙️ 系統
 
-- [MantisRobotics.CSG_Editor](https://gitlab.com/jcs-workspace/unity/MantisRobotics.CSG_Editor) (Fall 2025 <span aria-label="專業工作"
+- [MantisRobotics.CSG_Editor](https://gitlab.com/jcs-workspace/unity/MantisRobotics.CSG_Editor) (秋 2025 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 [MantisRobotics][] 的面試作業。
 一個專注於探索 [Constructive Solid Geometry (CSG)][CSG] 的極簡編輯器。
-- [nyamyam.CaptureCamera](https://gitlab.com/jcs-workspace/unity/nyamyam.CaptureCamera) (Fall 2025 <span aria-label="專業工作"
+- [nyamyam.CaptureCamera](https://gitlab.com/jcs-workspace/unity/nyamyam.CaptureCamera) (秋 2025 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 [Nyamyam][] 的面試作業。
 任務是設計一套受影片 [2025 0820 The Seance Flow](https://www.youtube.com/watch?v=x5A45HxbTEw&t=1s) 啟發的攝影機捕捉系統。
