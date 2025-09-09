@@ -276,7 +276,7 @@ data-balloon-pos="up">👨‍💼</span><span data-balloon-pos="up" aria-label="
 第一階段將是兩位玩家之間的死亡競賽；第二階段將是玩家與敵人戰鬥，看看誰能殺敵最多，死亡最少。
 第三階段將是一場Boss戰，造成傷害最多的玩家獲勝。 （14週）
 
-#### 外掛程式
+#### 外掛
 
 - [moba-inting](https://gitlab.com/jcs-workspace/Python/moba-inting) (秋 2024):
 一個基本的 UI 自動化機器人，用於避免 AFK 懲罰。
