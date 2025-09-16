@@ -1542,6 +1542,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
+[ASAKU]: https://asaku.info/
 [Untitled: 長姬記]: #
 [Untitled: ASAKU]: #
 [Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
@@ -1902,4 +1903,3 @@ The project was initiated during the course of work but is no longer in use as t
 [8comic]: https://v.comicabc.com/
 [Emoji]: https://en.wikipedia.org/wiki/Emoji
 [kaomoji]: https://en.wikipedia.org/wiki/Kaomoji
-[ASAKU]: https://asaku.info/
