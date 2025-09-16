@@ -213,7 +213,7 @@ data-balloon-pos="up">💸</span>):
 我們的團隊由 7 名成員組成，我是使用 [Unity][] 引擎的遊戲客戶端工程師之一。
 我全權負責整個遊戲系統的開發，而 UI 則由我的資深同事負責。
 不幸的是，整個團隊都被解雇了，遊戲未能完成。 （8 週）
-- [Greedy Island](https://andysze79.wixsite.com/kuma/copy-of-recall-1) (秋 2018 – 夏 2019 <span aria-label="專業工作"
+- [Greedy Island][] (秋 2018 – 夏 2019 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 一款行動裝置上的多人射擊 [MOBA][] 遊戲。
 此專案由 [T-NEXUS][] 工作室創建。
@@ -1525,6 +1525,7 @@ data-balloon-pos="up">💸</span>):
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
 [ASAKU]: https://asaku.info/
+[Greedy Island]: https://youtu.be/Buykong9y9w
 [Untitled: 長姬記]: #
 [Untitled: ASAKU]: #
 [Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
