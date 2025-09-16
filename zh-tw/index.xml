@@ -1212,7 +1212,7 @@ data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
 data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
 使用視訊轉場來實現場景切換。
 原作者是我的同事 &lt;a href=&#34;https://gitlab.com/hirosaga&#34;&gt;@hirosaga&lt;/a&gt; 創作的，
-並且已經在我們的遊戲 &lt;a href=&#34;&#34;&gt;長姬記&lt;/a&gt; 中使用。&lt;/li&gt;
+並且已經在我們的遊戲 &lt;a href=&#34;&#34;&gt;Untitled: 長姬記&lt;/a&gt; 中使用。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/Grass_Sway&#34;&gt;Grass_Sway&lt;/a&gt; (夏 2023):
 在 &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; 中使用 &lt;a href=&#34;https://docs.unity3d.com/Manual/shader-graph.html&#34;&gt;Shader Graph&lt;/a&gt; 和 &lt;a href=&#34;https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html&#34;&gt;通用渲染管線 (URP)&lt;/a&gt; 建立草地搖曳效果。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gitlab.com/jcs-workspace/unity/Better_Skybox&#34;&gt;Better_Skybox&lt;/a&gt; (夏 2023):
