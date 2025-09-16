@@ -155,7 +155,7 @@ data-balloon-pos="up">💸</span>):
 data-balloon-pos="up">💸</span>):
 使用視訊轉場來實現場景切換。
 原作者是我的同事 [@hirosaga][gitlab/hirosaga] 創作的，
-並且已經在我們的遊戲 [長姬記][] 中使用。
+並且已經在我們的遊戲 [Untitled: 長姬記][] 中使用。
 - [Grass_Sway](https://gitlab.com/jcs-workspace/unity/Grass_Sway) (夏 2023):
 在 [Unity][] 中使用 [Shader Graph][] 和 [通用渲染管線 (URP)][URP] 建立草地搖曳效果。
 - [Better_Skybox](https://gitlab.com/jcs-workspace/unity/Better_Skybox) (夏 2023):
@@ -186,7 +186,7 @@ data-balloon-pos="up">💸</span>):
 遊戲特色包含策略性PVP對戰，角色設計靈感源自漫畫。
 採用 [Unity][] 引擎開發，並運用 [FishNet][] 與 [LiteNetLib][] 實現網路連線功能。
 同時開發客戶端與伺服器系統，伺服器部署於 [AWS][] 雲端平台。
-- [Untitled: 長姬記][長姬記] (夏 2024 – 春 2025 <span aria-label="程序領導"
+- [Untitled: 長姬記][] (夏 2024 – 春 2025 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="成人內容"
 data-balloon-pos="up">🔞</span>):
@@ -207,7 +207,7 @@ data-balloon-pos="up">🏅</span><span aria-label="發布至 Google Play Store (
 data-balloon-pos="up">🏅</span><span aria-label="發布至 App Store (1)"
 data-balloon-pos="up">🏅</span>):
 一款融合歷史傳說與水管挑戰經典玩法的益智遊戲！
-- [Untitled: Poker](https://youtu.be/WYwpSqk1nwQ) (秋 2019 <span aria-label="專業工作"
+- [Untitled: Poker][] (秋 2019 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 這是一款包含 5 個小遊戲的線上賭博遊戲。
 我們的團隊由 7 名成員組成，我是使用 [Unity][] 引擎的遊戲客戶端工程師之一。
@@ -252,7 +252,7 @@ data-balloon-pos="up">🏫</span>):
 - [TPS](https://gitlab.com/artugam-jcs/tps) (秋 2015 – 冬 2015 <span data-balloon-pos="up" aria-label="學校作業">🏫</span>):
 一個用 [C++][] 編碼的簡單 [ASCII][] [第三人稱射擊 (TPS)][TPS] 遊戲。
 View the gameplay video [here](https://www.youtube.com/watch?v=Y8Eu87fTARw).
-- [Untitled: Project M](#) (夏 2015 – 冬 2015 <span aria-label="程序領導"
+- [Untitled: Project M][] (夏 2015 – 冬 2015 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 一款動作類別 (ACT) 遊戲，融合了 [RPG][] 元素和鎖定的自上而下視角。
@@ -1479,8 +1479,11 @@ data-balloon-pos="up">💸</span>):
 </details>
 
 
-<!-- Links -->
+<!--
+  - Links
+  -->
 
+<!-- Names (Individuals) -->
 [Jen-Chieh Shen]: https://jcs-profile.com/
 [Jen-Chieh]: https://jcs-profile.com/
 [github/jcs090218]: https://github.com/jcs090218
@@ -1493,6 +1496,7 @@ data-balloon-pos="up">💸</span>):
 [劉明昆]: https://zh.wikipedia.org/wiki/%E5%8A%89%E6%98%8E%E6%98%86
 [MingKun Liu]: https://zh.wikipedia.org/wiki/%E5%8A%89%E6%98%8E%E6%98%86
 
+<!-- Names (Groups/Events) -->
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
 [T-NEXUS]: https://github.com/T-nexus-Studio
@@ -1514,19 +1518,68 @@ data-balloon-pos="up">💸</span>):
 [Bunny Eats Tiger]: https://store.steampowered.com/developer/BunnyEatsTiger
 [Mango Party]: https://store.steampowered.com/publisher/MangoParty
 
+<!-- Intellectual Property -->
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
-[長姬記]: #
-[ASAKU]: https://asaku.info/
+[Untitled: 長姬記]: #
+[Untitled: ASAKU]: #
+[Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
+[Untitled: Project M]: #
 
+<!-- Operating Systems -->
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [macOS]: https://en.wikipedia.org/wiki/MacOS
 [Windows]: https://en.wikipedia.org/wiki/Microsoft_Windows
 [DOS]: https://en.wikipedia.org/wiki/DOS
 
+<!-- Programming Languages -->
+[ActionScript]: https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html
+[AS3]: https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html
+[AppleScript]: https://en.wikipedia.org/wiki/AppleScript
+[Batch]: https://en.wikipedia.org/wiki/Batch_file
+[C]: https://en.wikipedia.org/wiki/C_(programming_language)
+[C++]: https://en.wikipedia.org/wiki/C%2B%2B
+[CPP]: https://en.wikipedia.org/wiki/C%2B%2B
+[C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[Common Lisp]: https://lisp-lang.org/
+[Clojure]: https://clojure.org/
+[CoffeeScript]: https://coffeescript.org/
+[Dart]: https://dart.dev/
+[Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
+[Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
+[GDScript]: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
+[Go]: https://go.dev/
+[Haskell]: https://www.haskell.org/
+[Haxe]: https://haxe.org/
+[JayCeS]: https://github.com/jayces-lang/jayces
+[Java]: https://www.java.com/en/
+[Python]: https://www.python.org/
+[PyPi]: https://pypi.org/
+[Rust]: https://www.rust-lang.org/
+[Cargo]: https://crates.io/
+[Lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
+[Common Lisp]: https://en.wikipedia.org/wiki/Common_Lisp
+[Lua]: https://www.lua.org/
+[Markdown]: https://en.wikipedia.org/wiki/Markdown
+[Make]: https://www.gnu.org/software/make/manual/make.html
+[MySQL]: https://www.mysql.com/
+[HTML]: https://en.wikipedia.org/wiki/HTML
+[CSS]: https://en.wikipedia.org/wiki/CSS
+[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
+[JSON]: https://www.json.org/json-en.html
+[TypeScript]: https://www.typescriptlang.org/
+[PHP]: https://www.php.net/
+[Qt Style Sheets]: https://doc.qt.io/qt-6/stylesheet-reference.html
+[Objective-C]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html
+[Swift]: https://www.swift.org/
+[XML]: https://en.wikipedia.org/wiki/XML
+[YAML]: https://yaml.org/
+[Zig]: https://ziglang.org/
+
+<!-- Tools -->
 [Emacs]: https://www.gnu.org/software/emacs/
 [Vim]: https://www.vim.org/
 [NeoVim]: https://neovim.io/
@@ -1588,49 +1641,7 @@ data-balloon-pos="up">💸</span>):
 [GHA]: https://github.com/features/actions
 [GitHub Pages]: https://pages.github.com/
 
-[ActionScript]: https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html
-[AS3]: https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html
-[AppleScript]: https://en.wikipedia.org/wiki/AppleScript
-[Batch]: https://en.wikipedia.org/wiki/Batch_file
-[C]: https://en.wikipedia.org/wiki/C_(programming_language)
-[C++]: https://en.wikipedia.org/wiki/C%2B%2B
-[CPP]: https://en.wikipedia.org/wiki/C%2B%2B
-[C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
-[Common Lisp]: https://lisp-lang.org/
-[Clojure]: https://clojure.org/
-[CoffeeScript]: https://coffeescript.org/
-[Dart]: https://dart.dev/
-[Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
-[Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
-[GDScript]: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
-[Go]: https://go.dev/
-[Haskell]: https://www.haskell.org/
-[Haxe]: https://haxe.org/
-[JayCeS]: https://github.com/jayces-lang/jayces
-[Java]: https://www.java.com/en/
-[Python]: https://www.python.org/
-[PyPi]: https://pypi.org/
-[Rust]: https://www.rust-lang.org/
-[Cargo]: https://crates.io/
-[Lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
-[Common Lisp]: https://en.wikipedia.org/wiki/Common_Lisp
-[Lua]: https://www.lua.org/
-[Markdown]: https://en.wikipedia.org/wiki/Markdown
-[Make]: https://www.gnu.org/software/make/manual/make.html
-[MySQL]: https://www.mysql.com/
-[HTML]: https://en.wikipedia.org/wiki/HTML
-[CSS]: https://en.wikipedia.org/wiki/CSS
-[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
-[JSON]: https://www.json.org/json-en.html
-[TypeScript]: https://www.typescriptlang.org/
-[PHP]: https://www.php.net/
-[Qt Style Sheets]: https://doc.qt.io/qt-6/stylesheet-reference.html
-[Objective-C]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html
-[Swift]: https://www.swift.org/
-[XML]: https://en.wikipedia.org/wiki/XML
-[YAML]: https://yaml.org/
-[Zig]: https://ziglang.org/
-
+<!-- Package Managements -->
 [Cask]: https://github.com/cask/cask
 [Eask]: https://emacs-eask.github.io/
 [emacs-eask/cli]: https://github.com/emacs-eask/cli
@@ -1646,6 +1657,16 @@ data-balloon-pos="up">💸</span>):
 [Snapcraft]: https://snapcraft.io/store
 [PPA]: https://help.ubuntu.com/stable/ubuntu-help/addremove-ppa.html
 
+<!-- Archives -->
+[ELPA]: https://www.emacswiki.org/emacs/ELPA
+[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
+[MELPA]: https://melpa.org/
+[Quicklisp]: https://www.quicklisp.org/beta/
+[Ultralisp]: https://ultralisp.org/
+[NuGet]: https://www.nuget.org/
+[crates.io]: https://crates.io/
+
+<!-- Graphics -->
 [shader-language-server]: https://github.com/shader-ls/shader-language-server
 [ShaderLab]: https://docs.unity3d.com/Manual/SL-Reference.html
 [HLSL]: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
@@ -1653,6 +1674,7 @@ data-balloon-pos="up">💸</span>):
 [Cg]: https://en.wikipedia.org/wiki/Cg_(programming_language)
 [CSG]: https://en.wikipedia.org/wiki/Constructive_solid_geometry
 
+<!-- Grammar -->
 [unofficial-grammarly-language-server]: https://github.com/emacs-grammarly/unofficial-grammarly-language-server
 [grammarly-language-server]: https://github.com/emacs-grammarly/grammarly-language-server
 [ltex-ls]: https://github.com/valentjn/ltex-ls
@@ -1660,6 +1682,7 @@ data-balloon-pos="up">💸</span>):
 [languagetool-languageserver]: https://github.com/languagetool-language-server/languagetool-languageserver
 [Cogru]: https://github.com/Cogru/cogru
 
+<!-- Personal -->
 [32feet]: https://github.com/inthehand/32feet
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
@@ -1763,15 +1786,7 @@ data-balloon-pos="up">💸</span>):
 [jcs-modeline]: https://github.com/jcs-emacs/jcs-modeline
 [doomemacs]: https://github.com/doomemacs/doomemacs
 
-<!-- Archives -->
-[ELPA]: https://www.emacswiki.org/emacs/ELPA
-[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
-[MELPA]: https://melpa.org/
-[Quicklisp]: https://www.quicklisp.org/beta/
-[Ultralisp]: https://ultralisp.org/
-[NuGet]: https://www.nuget.org/
-[crates.io]: https://crates.io/
-
+<!-- Algorithms -->
 [cl-flx]: https://github.com/the-flx/cl-flx
 [clj-flx]: https://github.com/the-flx/clj-flx
 [flx.go]: https://github.com/the-flx/flx.go
@@ -1786,6 +1801,7 @@ data-balloon-pos="up">💸</span>):
 [FlxSwift]: https://github.com/the-flx/FlxSwift
 [flx-hs]: https://github.com/the-flx/flx-hs
 
+<!-- Terminologies -->
 [API]: https://en.wikipedia.org/wiki/API
 [AR]: https://en.wikipedia.org/wiki/Augmented_reality
 [VR]: https://en.wikipedia.org/wiki/Virtual_reality
@@ -1850,6 +1866,7 @@ data-balloon-pos="up">💸</span>):
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
 [Genetic Algorithm]: https://en.wikipedia.org/wiki/Genetic_algorithm
 
+<!-- AI -->
 [Copilot]: https://github.com/features/copilot
 [OpenAI]: https://openai.com/
 [ChatGPT]: https://chat.openai.com/
@@ -1860,8 +1877,11 @@ data-balloon-pos="up">💸</span>):
 [GPTScript]: https://github.com/gptscript-ai/gptscript
 [ECA]: https://github.com/editor-code-assistant/eca
 
+<!-- Snippets -->
 [update_submodules.yml]: https://gist.github.com/jcs090218/626ce162eff2cbf928a257647aa201bc
 
+<!-- Uncategorized -->
 [8comic]: https://v.comicabc.com/
 [Emoji]: https://en.wikipedia.org/wiki/Emoji
 [kaomoji]: https://en.wikipedia.org/wiki/Kaomoji
+[ASAKU]: https://asaku.info/
