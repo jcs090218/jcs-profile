@@ -31,13 +31,6 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
-- [Untitled: ASAKU](#) (Spring 2025 – Present<span aria-label="Programming Lead"
-data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
-data-balloon-pos="up">💸</span>):
-Turn-based [MOBA][] co-developed with a 6 person team and [ASAKU][], a manga by Taiwanese artist [MingKun Liu][].
-Features strategic 3v3, 4v4, and 5v5 battles with characters from the manga.
-Built in [Unity][] with [FishNet][] and [LiteNetLib][] networking.
-Developed both client and server systems, with servers hosted on [AWS][].
 - [Untitled: CODE_E](#) (Winter 2024 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>): WIP game.
@@ -195,7 +188,14 @@ The task is to design a camera capture system inspired by the video
 <details class="my-details">
   <summary>See details</summary>
 
-- [長姬記][] (Summer 2024 – Summer 2025 <span aria-label="Programming Lead"
+- [Untitled: ASAKU](#) (Winter 2025 – Fall 2025 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+Turn-based [MOBA][] co-developed with [ASAKU][], a manga by Taiwanese artist [MingKun Liu][],
+and a team of 10+ people. Features strategic PVP battles with manga-inspired characters.
+Built in [Unity][] using [FishNet][] and [LiteNetLib][] for networking.
+Developed both client and server systems, with servers hosted on [AWS][].
+- [Untitled: 長姬記][長姬記] (Summer 2024 – Spring 2025 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Adult Content"
 data-balloon-pos="up">🔞</span>):

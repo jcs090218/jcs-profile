@@ -27,12 +27,6 @@ ShowReadingTime: false
 <details class="my-details" open>
   <summary>詳細資訊</summary>
 
-- [Untitled: ASAKU](#) (春 2025 – 現在<span aria-label="程式領導"
-data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
-data-balloon-pos="up">💸</span>):
-回合制 [MOBA][]，由六人團隊與台灣漫畫家 [MingKun Liu][] 的漫畫 [ASAKU][] 共同開發。
-與漫畫中的角色進行策略性的 3V3、4V4 和 5V5 對戰。以 [Unity][] 與 [FishNet][] 和 [LiteNetLib][] 網路建立。
-同時開發客戶端與伺服器系統，伺服器託管於 [AWS][]。
 - [Untitled: CODE_E](#) (冬 2024 – 現在<span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>): 遊戲製作中.
@@ -185,7 +179,14 @@ data-balloon-pos="up">💸</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [長姬記](#) (夏 2024 – 夏 2025 <span aria-label="程序領導"
+- [Untitled: ASAKU](#) (冬 2025 – 秋 2025 <span aria-label="程式領導"
+data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+與 [ASAKU][] 共同開發的回合制 [MOBA][] 遊戲，改編自台灣漫畫家[劉明坤][MingKun Liu]作品，由十餘人團隊打造。
+遊戲特色包含策略性PVP對戰，角色設計靈感源自漫畫。
+採用 [Unity][] 引擎開發，並運用 [FishNet][] 與 [LiteNetLib][] 實現網路連線功能。
+同時開發客戶端與伺服器系統，伺服器部署於 [AWS][] 雲端平台。
+- [Untitled: 長姬記][長姬記] (夏 2024 – 春 2025 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="成人內容"
 data-balloon-pos="up">🔞</span>):
