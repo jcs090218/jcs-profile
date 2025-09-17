@@ -225,9 +225,8 @@ I am fully responsible for developing the entire gameplay system, while the UI i
 Unfortunately, the entire team got laid off, leaving the game unfinished. (8 weeks)
 - [Greedy Island][] (Fall 2018 – Summer 2019 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
-A multiplayer shooting [MOBA][] game on the mobile device.
-The project is created by the [T-NEXUS][] studio.
-I contributed to the backend engineering by writing the login server and designing its database schema.
+A mobile multiplayer shooting [MOBA][] developed by [T-NEXUS][].
+I contributed to the backend engineering, building the login server and designing its database schema with [MongoDB][].
 - [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (Fall 2017 – Winter 2017 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2018 on behalf of our school, the Academy of Art University."
@@ -1585,7 +1584,6 @@ The project was initiated during the course of work but is no longer in use as t
 [Lua]: https://www.lua.org/
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Make]: https://www.gnu.org/software/make/manual/make.html
-[MySQL]: https://www.mysql.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
@@ -1598,6 +1596,10 @@ The project was initiated during the course of work but is no longer in use as t
 [XML]: https://en.wikipedia.org/wiki/XML
 [YAML]: https://yaml.org/
 [Zig]: https://ziglang.org/
+
+<!-- DB -->
+[MySQL]: https://www.mysql.com/
+[MongoDB]: https://www.mongodb.com/
 
 <!-- Tools -->
 [Emacs]: https://www.gnu.org/software/emacs/

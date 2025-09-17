@@ -215,9 +215,8 @@ data-balloon-pos="up">💸</span>):
 不幸的是，整個團隊都被解雇了，遊戲未能完成。 （8 週）
 - [Greedy Island][] (秋 2018 – 夏 2019 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-一款行動裝置上的多人射擊 [MOBA][] 遊戲。
-此專案由 [T-NEXUS][] 工作室創建。
-我參與了後端工程的開發，編寫了登入伺服器並設計了其資料庫架構。
+一款由 [T-NEXUS][] 開發的行動多人線上戰鬥競技場（[MOBA][]）射擊遊戲。
+我參與了後端工程開發，負責建置登入伺服器並運用 [MongoDB][] 設計其資料庫架構。
 - [Sugar Sleuths](https://mwgamedesign.itch.io/sugar-sleuths) (秋 2017 – 冬 2017 <span aria-label="程序領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
 data-balloon-pos="up">🏫</span><span aria-label="代表我們學校藝術大學在 2018 年遊戲開發者大會 (GDC) 上發表"
@@ -241,7 +240,7 @@ data-balloon-pos="up">🏫</span>):
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
 data-balloon-pos="up">🏫</span><span aria-label="代表我們學校藝術大學在 GDC 2017 上進行展示。"
 data-balloon-pos="up">🏅</span>):
-一款基於[Unity][]引擎製作的第三人稱砍殺動作遊戲，由[藝術大學][AAU]的18人團隊開發。 （15週）
+一款基於 [Unity][] 引擎製作的第三人稱砍殺動作遊戲，由[藝術大學][AAU]的18人團隊開發。 （15週）
 - [Radiant Rune Fist](https://youtu.be/OQqqgbf0mGI) (秋 2016 – 冬 2016 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
@@ -1567,7 +1566,6 @@ data-balloon-pos="up">💸</span>):
 [Lua]: https://www.lua.org/
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Make]: https://www.gnu.org/software/make/manual/make.html
-[MySQL]: https://www.mysql.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [JavaScript]: https://en.wikipedia.org/wiki/JavaScript
@@ -1580,6 +1578,10 @@ data-balloon-pos="up">💸</span>):
 [XML]: https://en.wikipedia.org/wiki/XML
 [YAML]: https://yaml.org/
 [Zig]: https://ziglang.org/
+
+<!-- DB -->
+[MySQL]: https://www.mysql.com/
+[MongoDB]: https://www.mongodb.com/
 
 <!-- Tools -->
 [Emacs]: https://www.gnu.org/software/emacs/
