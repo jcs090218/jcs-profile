@@ -1499,7 +1499,7 @@ data-balloon-pos="up">💸</span>):
 <!-- Names (Groups/Events) -->
 [AAU]: https://www.academyart.edu/
 [Academy of Art University]: https://www.academyart.edu/
-[T-NEXUS]: https://github.com/T-nexus-Studio
+[T-NEXUS]: https://tnexusstudio.com/
 [GameBarley]: http://barley.games/
 [WISBET]: http://www.wisbet.co/
 [Meteo]: https://meteo.com.tw/
