@@ -1527,7 +1527,7 @@ data-balloon-pos="up">💸</span>):
 [Untitled: Project M]: #
 [Greedy Island]: https://youtu.be/Buykong9y9w
 [Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
-[Untitled: 長姬記]: #
+[Untitled: 長姬記]: https://youtu.be/UPK-xJsWkd8
 [Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
 [Untitled: CODE_E]: #
 
