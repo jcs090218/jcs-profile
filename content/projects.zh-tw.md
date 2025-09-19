@@ -179,7 +179,7 @@ data-balloon-pos="up">💸</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [Untitled: ASAKU](#) (冬 2025 – 秋 2025 <span aria-label="程式領導"
+- [Untitled: ASAKU][] (冬 2025 – 秋 2025 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 與 [ASAKU][] 共同開發的回合制 [MOBA][] 遊戲，改編自台灣漫畫家[劉明坤][MingKun Liu]作品，由十餘人團隊打造。
@@ -1526,7 +1526,7 @@ data-balloon-pos="up">💸</span>):
 [ASAKU]: https://asaku.info/
 [Greedy Island]: https://youtu.be/Buykong9y9w
 [Untitled: 長姬記]: #
-[Untitled: ASAKU]: #
+[Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
 [Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
 [Untitled: Project M]: #
 

@@ -188,7 +188,7 @@ The task is to design a camera capture system inspired by the video
 <details class="my-details">
   <summary>See details</summary>
 
-- [Untitled: ASAKU](#) (Winter 2025 – Fall 2025 <span aria-label="Programming Lead"
+- [Untitled: ASAKU][] (Winter 2025 – Fall 2025 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Turn-based [MOBA][] co-developed with [ASAKU][], a manga by Taiwanese artist [MingKun Liu][],
@@ -1544,7 +1544,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ASAKU]: https://asaku.info/
 [Greedy Island]: https://youtu.be/Buykong9y9w
 [Untitled: 長姬記]: #
-[Untitled: ASAKU]: #
+[Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
 [Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
 [Untitled: Project M]: #
 
