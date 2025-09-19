@@ -31,7 +31,7 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
-- [Untitled: CODE_E](#) (Winter 2024 – Present<span aria-label="Programming Lead"
+- [Untitled: CODE_E][] (Winter 2024 – Present<span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>): WIP game.
 - [cl-qob/packaging][] (Winter 2024 – Present):
@@ -1542,11 +1542,12 @@ The project was initiated during the course of work but is no longer in use as t
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
 [ASAKU]: https://asaku.info/
+[Untitled: Project M]: #
 [Greedy Island]: https://youtu.be/Buykong9y9w
+[Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
 [Untitled: 長姬記]: #
 [Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
-[Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
-[Untitled: Project M]: #
+[Untitled: CODE_E]: #
 
 <!-- Operating Systems -->
 [Linux]: https://en.wikipedia.org/wiki/Linux

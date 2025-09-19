@@ -27,7 +27,7 @@ ShowReadingTime: false
 <details class="my-details" open>
   <summary>詳細資訊</summary>
 
-- [Untitled: CODE_E](#) (冬 2024 – 現在<span aria-label="程式領導"
+- [Untitled: CODE_E][] (冬 2024 – 現在<span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>): 遊戲製作中.
 - [cl-qob/packaging][] (冬 2024 – 現在):
@@ -1524,11 +1524,12 @@ data-balloon-pos="up">💸</span>):
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
 [ASAKU]: https://asaku.info/
+[Untitled: Project M]: #
 [Greedy Island]: https://youtu.be/Buykong9y9w
+[Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
 [Untitled: 長姬記]: #
 [Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
-[Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
-[Untitled: Project M]: #
+[Untitled: CODE_E]: #
 
 <!-- Operating Systems -->
 [Linux]: https://en.wikipedia.org/wiki/Linux
