@@ -273,9 +273,7 @@ data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."
 data-balloon-pos="up">🏅</span><span aria-label="Published on Newgrounds (1)"
 data-balloon-pos="up">🏅</span>):
-An compact RPG fighting game designed for two players to engage in battles using
-pre-designed archer characters. Developed with the [Starling][] framework.
-and [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html). (7 weeks)
+A compact two-player RPG fighting game featuring battles between pre-designed archer characters, built with the [Starling][] framework in [AS3][]. (7 weeks)
 - [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (Fall 2014 <span aria-label="Programmer"
 data-balloon-pos="up">👨‍💼</span><span aria-label="School work"
 data-balloon-pos="up">🏫</span><span aria-label="Presented at Game Developers Conference (GDC) 2015 on behalf of our school, the Academy of Art University."

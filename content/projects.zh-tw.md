@@ -262,8 +262,7 @@ data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
 data-balloon-pos="up">🏫</span><span aria-label="代表我們學校－藝術大學在 2015 年遊戲開發者大會 (GDC) 上發表。"
 data-balloon-pos="up">🏅</span><span aria-label="發布至 Newgrounds (1)"
 data-balloon-pos="up">🏅</span>):
-一款緊湊型角色扮演格鬥遊戲，專為雙人玩家設計，使用預設弓箭手角色進行戰鬥。
-採用 [Starling][] 框架和 [AS3](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html) 開發。 （7 週）
+一款採用 [Starling][] 框架以 [AS3][] 開發的緊湊型雙人角色扮演格鬥遊戲，特色在於預設弓箭手角色之間的對戰。 （7 週）
 - [Cardinal](https://www.youtube.com/watch?v=wjHvvuWGqwE) (秋 2014 <span aria-label="程序員"
 data-balloon-pos="up">👨‍💼</span><span aria-label="學校作業"
 data-balloon-pos="up">🏫</span><span aria-label="代表我們學校－藝術大學在 2015 年遊戲開發者大會 (GDC) 上發表。"
