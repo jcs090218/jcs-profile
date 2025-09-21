@@ -31,7 +31,7 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
-- [Untitled: CODE_E][] (Winter 2024 – Present<span aria-label="Programming Lead"
+- [Untitled: CODE_E][] (Winter 2024 – Present <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>): WIP game.
 - [cl-qob/packaging][] (Winter 2024 – Present):
@@ -1435,23 +1435,47 @@ While it wasn't ultimately accepted, it propelled the community towards a better
 
 - [flx-hs][] (Spring 2025):
 Rewrite [emacs-flx][] in [Haskell][].
+- [Untitled: CODE_F][] (Winter 2024 – Spring 2025 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+A bottom-up project that explores mechanics from games like
+[Vampire Survivor][], [20 Minutes Till Dawn][], and others.
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
-A plugin for interacting with AWS from Emacs editor.
+A plugin for interacting with [AWS][] from [Emacs][] editor.
 - [jcs-lem](https://github.com/jcs090218/jcs-lem) (Summer 2023 – Present):
 My personal [lem][] configuration files.
 [Lem][] is still in its early stages, particularly on [Windows][] systems.
+- [Untitled: CODE_D][] (Spring 2023 – Fall 2023 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+A top-down action-adventure game inspired by [Monument Valley][],
+[A Plague Tale: Innocence][], and [Assassin’s Creed][].
 - [Prevo](https://github.com/jcs090218/Prevo) (Summer 2021):
 Preview `GameObject` using preview window.
+- [Untitled: CODE_C][] (Winter 2020 – Spring 2021 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+A game featuring core battle mechanics reminiscent of [MegaMan NT Warrior][].
 - [8comic](https://github.com/jcs-elpa/8comic) (Fall 2020):
 Use [8comic][] to read manga.
 - [UCTooth](https://github.com/jcs090218/UCTooth) (Summer 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
-- [swagger-it](https://github.com/jcs090218/swagger-it) (Spring 2020):
-Automatically generate the [swagger.io][] yaml file for your project.
+- [Untitled: CODE_B][] (Summer 2020 – Fall 2020 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+A third-person fighting game that incorporates [MMO][] mechanics.
+- [Untitled: CODE_A][] (Winter 2019 – Spring 2020 <span aria-label="Programming Lead"
+data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+Find the object game in which players are presented with a scene and tasked to
+find all the hidden objects before moving on to the next scene.
 - [CCosQuick][] (Winter 2019 – Summer 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Prototype your game easily with component driven library built on top of [Cocos Creator][].
+- [swagger-it][] (Fall 2019 – Spring 2020 <span aria-label="Professional work"
+data-balloon-pos="up">💸</span>):
+Automatically generate the [swagger.io][] yaml file for your project.
 - [MGDP][] (Fall 2019 – Winter 2019):
 [Quaver][] is essentially a [DJMax][] clone; hence, I'm uncertain whether to proceed with this project.
   - [Client](https://gitlab.com/MGDP/Client) (closed-source):
@@ -1539,13 +1563,30 @@ The project was initiated during the course of work but is no longer in use as t
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
+[MegaMan NT Warrior]: https://en.wikipedia.org/wiki/MegaMan_NT_Warrior
+[A Plague Tale: Innocence]: https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence
+[瘟疫傳說：無罪]: https://zh.wikipedia.org/wiki/%E7%98%9F%E7%96%AB%E5%82%B3%E8%AA%AA%EF%BC%9A%E7%84%A1%E7%BD%AA
+[Assassin’s Creed]: https://en.wikipedia.org/wiki/Assassin%27s_Creed
+[刺客教條]: https://zh.wikipedia.org/wiki/%E5%88%BA%E5%AE%A2%E6%95%99%E6%A2%9D%E7%B3%BB%E5%88%97
+[Monument Valley]: https://en.wikipedia.org/wiki/Monument_Valley_(video_game)
+[紀念碑谷]: https://zh.wikipedia.org/wiki/%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7_(%E6%B8%B8%E6%88%8F)
+[Vampire Survivor]: https://en.wikipedia.org/wiki/Vampire_Survivors
+[吸血鬼倖存者]: https://zh.wikipedia.org/wiki/%E5%90%B8%E8%A1%80%E9%AC%BC%E5%80%96%E5%AD%98%E8%80%85
+[20 Minutes Till Dawn]: https://en.wikipedia.org/wiki/20_Minutes_Till_Dawn
 [ASAKU]: https://asaku.info/
+
 [Untitled: Project M]: #
 [Greedy Island]: https://youtu.be/Buykong9y9w
 [Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
 [Untitled: 長姬記]: https://youtu.be/UPK-xJsWkd8
 [Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
+
+[Untitled: CODE_A]: #
+[Untitled: CODE_B]: #
+[Untitled: CODE_C]: #
+[Untitled: CODE_D]: #
 [Untitled: CODE_E]: #
+[Untitled: CODE_F]: #
 
 <!-- Operating Systems -->
 [Linux]: https://en.wikipedia.org/wiki/Linux
@@ -1705,6 +1746,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 <!-- Personal -->
 [32feet]: https://github.com/inthehand/32feet
+[swagger-it]: https://github.com/jcs090218/swagger-it
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [Unity.Mx]: https://github.com/jcs090218/Unity.Mx

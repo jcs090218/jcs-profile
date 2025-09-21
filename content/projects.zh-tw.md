@@ -27,7 +27,7 @@ ShowReadingTime: false
 <details class="my-details" open>
   <summary>詳細資訊</summary>
 
-- [Untitled: CODE_E][] (冬 2024 – 現在<span aria-label="程式領導"
+- [Untitled: CODE_E][] (冬 2024 – 現在 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>): 遊戲製作中.
 - [cl-qob/packaging][] (冬 2024 – 現在):
@@ -1419,23 +1419,46 @@ data-balloon-pos="up">🏅</span>):
 
 - [flx-hs][] (春 2025):
 在 [Haskell][] 中重寫 [emacs-flx][]。
+- [Untitled: CODE_F][] (冬 2024 – 春 2025 <span aria-label="程式領導"
+data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+一個自下而上的專案，探索來自《[吸血鬼倖存者][]》、《[20 Minutes Till Dawn][]》
+等遊戲的機制。
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (冬 2023):
-從 Emacs 編輯器與 AWS 互動的外掛程式。
+從 [Emacs][] 編輯器與 [AWS][] 互動的外掛程式。
 - [jcs-lem](https://github.com/jcs090218/jcs-lem) (夏 2023 – 現在):
 我個人的 [lem][] 設定檔案。
 [Lem][] is still in its early stages, particularly on [Windows][] systems.
+- [Untitled: CODE_D][] (春 2023 – 秋 2023 <span aria-label="程式領導"
+data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+一款受《[紀念碑谷][]》、《[瘟疫傳說：無罪][]》及《[刺客教條][]》
+啟發的俯視視角動作冒險遊戲。
 - [Prevo](https://github.com/jcs090218/Prevo) (夏 2021):
 使用預覽視窗預覽 `GameObject`。
+- [Untitled: CODE_C][] (冬 2020 – 春 2021 <span aria-label="程式領導"
+data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+一款核心戰鬥機制令人聯想起《[MegaMan NT Warrior][]》的遊戲。
 - [8comic](https://github.com/jcs-elpa/8comic) (秋 2020):
 使用 [8comic][] 來閱讀漫畫。
 - [UCTooth](https://github.com/jcs090218/UCTooth) (夏 2020 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 適用於 [Unity][] 的跨平台藍牙外掛，以各平台的原生程式碼實作。
-- [swagger-it](https://github.com/jcs090218/swagger-it) (春 2020):
-自動為專案產生 [swagger.io][] yaml 檔案。
+- [Untitled: CODE_B][] (夏 2020 – 秋 2020 <span aria-label="程式領導"
+data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+一款融合 [MMO][] 機制的第三人稱格鬥遊戲。
+- [Untitled: CODE_A][] (冬 2019 – 春 2020 <span aria-label="程式領導"
+data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+尋物遊戲，玩家需在場景中找出所有隱藏物品，方能進入下一場景。
 - [CCosQuick][] (冬 2019 – 夏 2020 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 使用建立在 [Cocos Creator][] 之上的元件驅動程式庫，輕鬆製作遊戲原型。
+- [swagger-it][] (秋 2019 – 春 2020 <span aria-label="專業工作"
+data-balloon-pos="up">💸</span>):
+自動為專案產生 [swagger.io][] yaml 檔案。
 - [MGDP][] (秋 2019 – 冬 2019):
 [Quaver][] 基本上是 [DJMax][] 的複製品；因此，我不確定是否要繼續這個專案。
   - [Client](https://gitlab.com/MGDP/Client) (封閉源碼):
@@ -1522,13 +1545,30 @@ data-balloon-pos="up">💸</span>):
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
 [Magic: The Gathering]: https://magic.wizards.com/en
+[MegaMan NT Warrior]: https://en.wikipedia.org/wiki/MegaMan_NT_Warrior
+[A Plague Tale: Innocence]: https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence
+[瘟疫傳說：無罪]: https://zh.wikipedia.org/wiki/%E7%98%9F%E7%96%AB%E5%82%B3%E8%AA%AA%EF%BC%9A%E7%84%A1%E7%BD%AA
+[Assassin’s Creed]: https://en.wikipedia.org/wiki/Assassin%27s_Creed
+[刺客教條]: https://zh.wikipedia.org/wiki/%E5%88%BA%E5%AE%A2%E6%95%99%E6%A2%9D%E7%B3%BB%E5%88%97
+[Monument Valley]: https://en.wikipedia.org/wiki/Monument_Valley_(video_game)
+[紀念碑谷]: https://zh.wikipedia.org/wiki/%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7_(%E6%B8%B8%E6%88%8F)
+[Vampire Survivor]: https://en.wikipedia.org/wiki/Vampire_Survivors
+[吸血鬼倖存者]: https://zh.wikipedia.org/wiki/%E5%90%B8%E8%A1%80%E9%AC%BC%E5%80%96%E5%AD%98%E8%80%85
+[20 Minutes Till Dawn]: https://en.wikipedia.org/wiki/20_Minutes_Till_Dawn
 [ASAKU]: https://asaku.info/
+
 [Untitled: Project M]: #
 [Greedy Island]: https://youtu.be/Buykong9y9w
 [Untitled: Poker]: https://youtu.be/WYwpSqk1nwQ
 [Untitled: 長姬記]: https://youtu.be/UPK-xJsWkd8
 [Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
+
+[Untitled: CODE_A]: #
+[Untitled: CODE_B]: #
+[Untitled: CODE_C]: #
+[Untitled: CODE_D]: #
 [Untitled: CODE_E]: #
+[Untitled: CODE_F]: #
 
 <!-- Operating Systems -->
 [Linux]: https://en.wikipedia.org/wiki/Linux
@@ -1688,6 +1728,7 @@ data-balloon-pos="up">💸</span>):
 
 <!-- Personal -->
 [32feet]: https://github.com/inthehand/32feet
+[swagger-it]: https://github.com/jcs090218/swagger-it
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
 [JCSUnity]: https://github.com/jcs090218/JCSUnity
 [Unity.Mx]: https://github.com/jcs090218/Unity.Mx
