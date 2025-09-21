@@ -33,7 +33,9 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 
 - [Untitled: CODE_E][] (Winter 2024 – Present <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
-data-balloon-pos="up">💸</span>): WIP game.
+data-balloon-pos="up">💸</span>):
+A [roguelike][] [shooter game][] with a bit more [meta-progression][]
+plus [action][Action game].
 - [cl-qob/packaging][] (Winter 2024 – Present):
 Packaging for [Qob CLI][cl-qob/cli].
 - [Qob][] or [cl-qob/cli][] (Fall 2024 – Present <span aria-label="Published to Debian (2)"
@@ -1924,6 +1926,11 @@ The project was initiated during the course of work but is no longer in use as t
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
 [Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
 [Screensaver]: https://en.wikipedia.org/wiki/Screensaver
+
+[Roguelike]: https://en.wikipedia.org/wiki/Roguelike
+[Shooter game]: https://en.wikipedia.org/wiki/Shooter_game
+[Meta-progression]: https://www.reddit.com/r/gamedesign/comments/10acmtw/what_is_metaprogression_in_games/
+[Action game]: https://en.wikipedia.org/wiki/Action_game
 
 [Cognitive Complexity]: https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem

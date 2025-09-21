@@ -29,7 +29,9 @@ ShowReadingTime: false
 
 - [Untitled: CODE_E][] (冬 2024 – 現在 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
-data-balloon-pos="up">💸</span>): 遊戲製作中.
+data-balloon-pos="up">💸</span>):
+一款融合了更多 [meta-progression][] 機制的類 [Roguelike][] [Shooter game][]，
+同時具備 [Action game][] 元素。
 - [cl-qob/packaging][] (冬 2024 – 現在):
 為 [Qob CLI][cl-qob/cli] 進行封裝。
 - [Qob][] or [cl-qob/cli][] (秋 2024 – 現在 <span aria-label="發佈至 Debian (2)"
@@ -1906,6 +1908,11 @@ data-balloon-pos="up">💸</span>):
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
 [Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
 [Screensaver]: https://en.wikipedia.org/wiki/Screensaver
+
+[Roguelike]: https://en.wikipedia.org/wiki/Roguelike
+[Shooter game]: https://en.wikipedia.org/wiki/Shooter_game
+[Meta-progression]: https://www.reddit.com/r/gamedesign/comments/10acmtw/what_is_metaprogression_in_games/
+[Action game]: https://en.wikipedia.org/wiki/Action_game
 
 [Cognitive Complexity]: https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
