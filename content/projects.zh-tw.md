@@ -1438,7 +1438,7 @@ data-balloon-pos="up">💸</span>):
 啟發的俯視視角動作冒險遊戲。
 - [Prevo](https://github.com/jcs090218/Prevo) (夏 2021):
 使用預覽視窗預覽 `GameObject`。
-- [Untitled: CODE_C][] (冬 2020 – 春 2021 <span aria-label="程式領導"
+- [Untitled: CODE_C - Unfinished Road][] (冬 2020 – 春 2021 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 一款核心戰鬥機制令人聯想起《[MegaMan NT Warrior][]》的遊戲。
@@ -1447,11 +1447,11 @@ data-balloon-pos="up">💸</span>):
 - [UCTooth](https://github.com/jcs090218/UCTooth) (夏 2020 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 適用於 [Unity][] 的跨平台藍牙外掛，以各平台的原生程式碼實作。
-- [Untitled: CODE_B][] (夏 2020 – 秋 2020 <span aria-label="程式領導"
+- [Untitled: CODE_B - Arrows For One][] (夏 2020 – 秋 2020 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 一款融合 [MMO][] 機制的第三人稱格鬥遊戲。
-- [Untitled: CODE_A][] (冬 2019 – 春 2020 <span aria-label="程式領導"
+- [Untitled: CODE_A - Find Tweety][] (冬 2019 – 春 2020 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 尋物遊戲，玩家需在場景中找出所有隱藏物品，方能進入下一場景。
@@ -1565,9 +1565,9 @@ data-balloon-pos="up">💸</span>):
 [Untitled: 長姬記]: https://youtu.be/UPK-xJsWkd8
 [Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
 
-[Untitled: CODE_A]: #
-[Untitled: CODE_B]: #
-[Untitled: CODE_C]: #
+[Untitled: CODE_A - Find Tweety]: #
+[Untitled: CODE_B - Arrows For One]: #
+[Untitled: CODE_C - Unfinished Road]: #
 [Untitled: CODE_D]: #
 [Untitled: CODE_E]: #
 [Untitled: CODE_F]: #

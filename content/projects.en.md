@@ -1454,7 +1454,7 @@ A top-down action-adventure game inspired by [Monument Valley][],
 [A Plague Tale: Innocence][], and [Assassin’s Creed][].
 - [Prevo](https://github.com/jcs090218/Prevo) (Summer 2021):
 Preview `GameObject` using preview window.
-- [Untitled: CODE_C][] (Winter 2020 – Spring 2021 <span aria-label="Programming Lead"
+- [Untitled: CODE_C - Unfinished Road][] (Winter 2020 – Spring 2021 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A game featuring core battle mechanics reminiscent of [MegaMan NT Warrior][].
@@ -1463,11 +1463,11 @@ Use [8comic][] to read manga.
 - [UCTooth](https://github.com/jcs090218/UCTooth) (Summer 2020 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A cross-platform Bluetooth plugin for [Unity][], implemented in the native code of each platform.
-- [Untitled: CODE_B][] (Summer 2020 – Fall 2020 <span aria-label="Programming Lead"
+- [Untitled: CODE_B - Arrows For One][] (Summer 2020 – Fall 2020 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A third-person fighting game that incorporates [MMO][] mechanics.
-- [Untitled: CODE_A][] (Winter 2019 – Spring 2020 <span aria-label="Programming Lead"
+- [Untitled: CODE_A - Find Tweety][] (Winter 2019 – Spring 2020 <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 Find the object game in which players are presented with a scene and tasked to
@@ -1583,9 +1583,9 @@ The project was initiated during the course of work but is no longer in use as t
 [Untitled: 長姬記]: https://youtu.be/UPK-xJsWkd8
 [Untitled: ASAKU]: https://youtu.be/P_7WBPfyGr0
 
-[Untitled: CODE_A]: #
-[Untitled: CODE_B]: #
-[Untitled: CODE_C]: #
+[Untitled: CODE_A - Find Tweety]: #
+[Untitled: CODE_B - Arrows For One]: #
+[Untitled: CODE_C - Unfinished Road]: #
 [Untitled: CODE_D]: #
 [Untitled: CODE_E]: #
 [Untitled: CODE_F]: #
