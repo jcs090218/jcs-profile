@@ -37,6 +37,7 @@ jobs:
 
     - name: Clean up before the build
       working-directory: ${{ env.PATH_DOC }}
+      continue-on-error: true
       run: git rm -r '*'
 
     - name: Build doc artifacts with Hugo
