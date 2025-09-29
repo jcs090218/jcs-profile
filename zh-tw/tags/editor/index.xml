@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Editor on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/tags/editor/</link>
+    <description>Recent content in Editor on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/editor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elisp 語言服務器</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-ls/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-ls/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/jcs090218/ellsp&#34;&gt;https://github.com/jcs090218/ellsp&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;我最近為 Emacs Lisp 創建了一個語言伺服器。這很有趣，因為人們認為 Emacs Lisp
+的語言伺服器不會提供任何價值。這個說法是正確的，我也是如此。Emacs Lisp 僅在
+Emacs 編輯器內使用，Emacs 本身是一個 Emacs Lisp 解釋器。因此，Emacs Lisp
+的語言伺服器很難為 Emacs 用戶帶來任何好處。&lt;/p&gt;
+&lt;p&gt;但想像一下您可以在 Emacs 之外編寫 elisp（Emacs Lisp 的縮寫）。聽起來很有趣，對吧？ 🤔&lt;/p&gt;
+&lt;h2 id=&#34;-重頭開始建立&#34;&gt;🔰 重頭開始建立&lt;/h2&gt;
+&lt;p&gt;好吧，我並不是完全從頭開始。我確實使用了一些庫來幫助我更快地設定東西。以下是重要的一點：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-lsp/lsp-mode&#34;&gt;lsp-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-elsa/Elsa&#34;&gt;elsa&lt;/a&gt; - 我用過他們的一些程式碼&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我從頭開始的是 stdio 解決方案。令人難以置信的是，stdio 在 Emacs 的 &lt;code&gt;batch&lt;/code&gt; 模式中是如此簡單。&lt;/p&gt;
+&lt;h3 id=&#34;-問題-1-read-from-minibuffer-和-rn&#34;&gt;💫 問題 1: &lt;code&gt;read-from-minibuffer&lt;/code&gt; 和 &lt;code&gt;\r&lt;/code&gt;/&lt;code&gt;\n&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;read-from-minibuffer&lt;/code&gt; 函數是在 Emacs &lt;code&gt;batch&lt;/code&gt; 模式下接收標準輸入的一種方法。
+這種方法有一個問題。它不會接收輸入，直到末尾有 &lt;code&gt;\r&lt;/code&gt; 或 &lt;code&gt;\n&lt;/code&gt; 字元。
+這很煩人，因為語言伺服器永遠不會收到完整的資料包。這是我從語言客戶端收到的內容：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Content-Length: 8203\r\n
+\r\n
+{json}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;而，這是我希望看到的：&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Content-Length: 8203\r\n
+\r\n
+{json}\r\n
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;我花了幾個小時尋找解決方案。不幸的是，我找不到一個。然後，我決定使用 node.js 和 JavaScript 創建一個代理 stdio 應用程序，在資料包末尾轉發額外的 &lt;code&gt;\r\n&lt;/code&gt; 。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emacs 的漫長旅程</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/long-journey-with-emacs/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/long-journey-with-emacs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;⚠️這篇文章的目的是提醒自己為什麼 Emacs 不再值得我花時間了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我從 2015 年開始使用 Emacs。我已經開發了 150 多個 elisp 包，並維護了 200 多個包（包括我的包）。
+留在 Emacs 社區是一段漫長的旅程，我認為放慢自己的腳步，退一步思考這些年來我所取得的成就對我來說是有好處的。&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-我是如何進入-emacs-的&#34;&gt;💫 我是如何進入 Emacs 的？&lt;/h2&gt;
+&lt;p&gt;很多人問我這個問題，所以我決定在這裡回答一下。&lt;/p&gt;
+&lt;p&gt;我第一次看到 Emacs 是在 2015 年，當時看到的是 Casey Muratori 的 &lt;a href=&#34;https://handmadehero.org/&#34;&gt;Handmade Hero&lt;/a&gt; 系列。
+他在 Emacs 中編碼的速度讓我震驚。他如何跳到其他窗口並且永遠不離開鍵盤對我來說都是新的。&lt;/p&gt;
+&lt;p&gt;但現在看他的配置，其實並不是那麼好。他不使用任何第三方軟件包，因此他在自己的配置文件（&lt;code&gt;~/.emacs&lt;/code&gt; 文件）
+中定義了所有內容。如果不使用那些第三方軟件包，配置仍然可以很好，但它只會限制你並重新製作可能其他人已經為你完成的輪子。&lt;/p&gt;
+&lt;p&gt;除此之外，Casey 仍然是我一生所認識的頂級程序員。 ❤️&lt;/p&gt;
+&lt;h2 id=&#34;-我在-emacs-上投入了多少時間&#34;&gt;💫 我在 Emacs 上投入了多少時間？&lt;/h2&gt;
+&lt;p&gt;就像我上面提到的，相信我。我投入了大量時間來完成我為 Emacs 社區所做的事情。如果你搜索我所有的包裹，
+我在 &lt;a href=&#34;https://melpa.org/#/&#34;&gt;MELPA&lt;/a&gt; 擁有最多的包裹。這次我已經證明了我有多喜歡 Emacs，但也證明了我對 Emacs 有多麼失望。 😥&lt;/p&gt;
+&lt;h2 id=&#34;-為什麼-emacs-不再值得我花時間了&#34;&gt;💫 為什麼 Emacs 不再值得我花時間了？&lt;/h2&gt;
+&lt;p&gt;首先，Emacs的開發沒有任何問題。他們在保持 Emacs 的活力方面做得非常出色，我喜歡他們的心態和大部分技術決策。&lt;/p&gt;
+&lt;p&gt;對我來說，問題在於 Elisp 開發生態系統（而不是 Emacs 社區本身；考慮 Elisp 開發生態系統是 Emacs 社區的子集）。
+我很欣賞那些願意為 Emacs 做出貢獻的人，但我討厭他們不考慮他們的軟件包的跨平台功能。是的，我是 Windows 用戶；實際上，
+我使用所有最常用的系統（Linux、macOS 和 Windows）。我討厭當我嘗試一個軟件包時，它只適用於特定係統（不包括僅
+依賴於某些系統的軟件包），但它應該適用於所有系統。我感到可怕和沮喪，因為大多數 Elisp 開發人員不關心或不夠關心少數用戶
+（Windows 用戶）。甚至一些著名的軟件包在 Windows 上也不能很好地工作，magit 很慢，straight.el 很慢，helm 很慢，ivy 很慢，
+projectile 壞了，eping 壞了，EAF 經常壞了等等。我使用了超過 500 個軟件包在我的配置中。我可以列出大量跨平台能力很差的軟件包。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emacs Eask 101 - 建構工具</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask-101/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask-101/</guid>
+      <description>&lt;p&gt;我開發了 50 多個 Emacs 插件, 並且維護了將近 100 多個. 對初學者來說, 開發
+Emacs 插件是一件不容易的事情, 特別是對那些想把自己的插件發行到其他的 ELPA
+的人來說更不容易. 哪些 ELPA? (&lt;a href=&#34;https://elpa.gnu.org/&#34;&gt;GNU Elpa&lt;/a&gt;, &lt;a href=&#34;https://elpa.nongnu.org/&#34;&gt;NonGNU Elpa&lt;/a&gt;, &lt;a href=&#34;https://melpa.org/&#34;&gt;MELPA&lt;/a&gt;, 等等.)&lt;/p&gt;
+&lt;p&gt;這是為什麼我使用 &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; 來幫助我完成這些插件的開發和維護的工作. 所以我將
+在這則文章教大家如何使用這個工具來幫助你完成插件的開發!&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-善用---help&#34;&gt;🗨️ 善用 &lt;code&gt;--help&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;現今的 Eask 已經有超過 50 種以上的指令集 (包含隱藏的). 這個工具已經是個有
+點複雜, 所以當你遇到問題的時候請善用 &lt;code&gt;--help&lt;/code&gt; 這個旗幟.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ eask --help
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-建構插件&#34;&gt;📦 建構插件&lt;/h2&gt;
+&lt;p&gt;我們這裡直接切入正題, 我會默認你已經會初始化 Eask 專案, 並且只想知道如何
+有效的使用這工具!&lt;/p&gt;
+&lt;p&gt;為了方便展示, 我直接使用了自己現存已開發完成的專案 [openal.el][openal].&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Clone 專案&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ git clone https://github.com/emacs-openai/openai.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 進入到專案裡面&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; sideline
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# (非必要) 印出專案結構&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tree /f
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;我們的專案結構是長這樣的:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>最快的 ELPA</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/</guid>
+      <description>&lt;p&gt;所以什麼是最快的 ELPA? 讓我們來定義一下! ELPA 最能跑? 不對, 這一點都不合邏
+輯. ELPA 最快服務你? 或許, 但我不知道!&lt;/p&gt;
+&lt;p&gt;在這裡我們定義&amp;quot;最快的 ELPA&amp;quot;為建構插件的速度. 也就是多久以後我們的插件會
+被更新在服務器上. 就算更新了我們的插件, 也不用等上一段時間. 你可能會想說
+&amp;ldquo;怎麼可能?&amp;rdquo; 還有 &amp;ldquo;怎麼做到的?&amp;rdquo;, 讓我一一解釋!&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;一般的 ELPA, 像是 MELPA, 他們會從 &lt;code&gt;recipes&lt;/code&gt; 資料夾裡取得需要建構的插件目標.
+這裡的時間為 O(n), 越多插件則會花越多時間. 通常簡單的解決方法就是直接提升
+硬體硬件, 來促使減少建構時間.&lt;/p&gt;
+&lt;p&gt;這裡 &lt;a href=&#34;https://jcs-emacs.github.io/jcs-elpa/&#34;&gt;JCS-ELPA&lt;/a&gt; 使用了不同的策略. 這個 ELPA 使用了一個插件 &lt;a href=&#34;https://github.com/10sr/github-elpa&#34;&gt;github-elpa&lt;/a&gt;
+來使其建構我們的插件然後上傳到 &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;. 所以到底為什麼會是最快?
+主要有兩個因素:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;微軟擁有 GitHub. 技術上來說, 我們的 ELPA 是直接跑在微軟的服務器上&lt;/li&gt;
+&lt;li&gt;我們使用 &lt;a href=&#34;https://github.com/features/actions&#34;&gt;GitHub Actions&lt;/a&gt; 建構插件, 定且使用了多個 jobs (如果你不熟悉
+GHA, 就想說有很多台電腦在幫你做事即可)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;JCS-ELPA 使用這技術來達成很多 worker 幫你同時建構插件. 公式如下:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;新的建構總時長 = 原本建構總時長 / 工作者
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;如果工作者為 1, 建構時長則保持不變 (建構時長沒有任何改善).
+舉例, 如果&lt;code&gt;原本建構總時長&lt;/code&gt;是 10 分鐘, 開 5 個工作者 則會減少為 2 分鐘.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emacs Eask - Emacs Cask替代方案</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-eask/</guid>
+      <description>&lt;h3 id=&#34;-介紹&#34;&gt;🔰 介紹&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Eask&lt;/code&gt;的名字源自於&lt;a href=&#34;https://github.com/cask/cask&#34;&gt;Emacs Cask&lt;/a&gt;; 如果你已經有使
+用過&lt;code&gt;Cask&lt;/code&gt;的經驗, 那基本上你可以跳過這階段. 對於不了解或沒使用過的人, 在此我還是加減
+介紹一下:&lt;/p&gt;
+&lt;p&gt;(&lt;strong&gt;NOTE:&lt;/strong&gt; 原則上這裡的&lt;code&gt;Eask&lt;/code&gt;和&lt;code&gt;Cask&lt;/code&gt;是可以互相替換的)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Eask&lt;/code&gt;是個&lt;code&gt;Emacs Lisp&lt;/code&gt;的套件管理工具, 有點類似於&lt;code&gt;Node.js&lt;/code&gt;的&lt;code&gt;npm&lt;/code&gt;, 但不全然是.
+畢竟工具還不夠齊全, 而且&lt;code&gt;Emacs&lt;/code&gt;生態也不適合&lt;code&gt;npm&lt;/code&gt;那樣的模式. 所以簡單來說, &lt;code&gt;Eask&lt;/code&gt;
+可以是個劣化版的&lt;code&gt;npm&lt;/code&gt;. 下面連結的 &lt;strong&gt;Why Cask?&lt;/strong&gt; 有著更好的解釋&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cask.readthedocs.io/en/latest/guide/introduction.html#introduction-why-cask&#34;&gt;Why Cask?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-那為什麼用要eask-而不是cask&#34;&gt;❓ 那為什麼用要Eask, 而不是Cask?&lt;/h3&gt;
+&lt;p&gt;以下是簡單的優劣展示表格:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Behind technology&lt;/th&gt;
+          &lt;th&gt;Cross-Platform&lt;/th&gt;
+          &lt;th&gt;Emacs Version&lt;/th&gt;
+          &lt;th&gt;Size&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cask&lt;/td&gt;
+          &lt;td&gt;Bash, Batch, and Python (Windows)&lt;/td&gt;
+          &lt;td&gt;❌ Good on Linux and macOS, but it&amp;rsquo;s particularly bad on Windows&lt;/td&gt;
+          &lt;td&gt;24.5+&lt;/td&gt;
+          &lt;td&gt;3,000+ lines&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;makem.sh&lt;/td&gt;
+          &lt;td&gt;Shellscript&lt;/td&gt;
+          &lt;td&gt;❌ Doesn&amp;rsquo;t work on Windows by default&lt;/td&gt;
+          &lt;td&gt;26.1+&lt;/td&gt;
+          &lt;td&gt;1 file, 1200+ lines&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eldev&lt;/td&gt;
+          &lt;td&gt;Bash, Batch, and Powershel, etc&lt;/td&gt;
+          &lt;td&gt;✔ Good, but qutie slow on Windows&lt;/td&gt;
+          &lt;td&gt;24.4+&lt;/td&gt;
+          &lt;td&gt;4,000+ lines&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eask&lt;/td&gt;
+          &lt;td&gt;Node or Native Executables&lt;/td&gt;
+          &lt;td&gt;✔ Good, and it can be compiled to native executables&lt;/td&gt;
+          &lt;td&gt;26.1+&lt;/td&gt;
+          &lt;td&gt;3,000+ lines&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;(這是我直接複製貼上的, 原文可以參考&lt;a href=&#34;https://emacs-eask.github.io/#-comparisons&#34;&gt;這&lt;/a&gt;.)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emacs vs Vim</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-vs-vim/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/emacs-vs-vim/</guid>
+      <description>&lt;p&gt;實際上,我並不是個Emacs或Vim專家.我只是單純剛好在這兩個編輯器上面都有些了解.
+如果你查看我的兩個
+&lt;a href=&#34;https://github.com/jcs090218/jcs-emacs&#34;&gt;Emacs&lt;/a&gt;
+和
+&lt;a href=&#34;https://github.com/jcs090218/jcs-vim&#34;&gt;Vim&lt;/a&gt;
+的repo,那可能是最糟的經驗. 我秉持著一個想法, 那就是編輯器對我只是個工具.
+在我對於我的工具不滿意的時候我才會選擇去修改我的工具. 不是很必要的我就不會
+特地去強求. 畢竟我不是要再造一個輪子,也沒打算讓Emacs或Vim分個高下.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;先說結論,我是Emacs的使用者. 但為什麼我是Emacs使用者不是Vim使用者對我來講是
+有一套根據的. 首先我對於開發者的理念以及角度做了一個簡單的對比. 依照我的個人
+經驗以及橫跨世界的開發者角度來看,使用Emacs的通常都是開發軟體(Software
+Engineering)的較多. 則使用Vim的大多是駭客(Hacker)或者從事資訊安全(Cyber
+Security). 其實這個道理很簡單,相信可能已經很多人都發現了. 身為軟體工程的我
+會更喜歡Emacs本身設計師的理念, 他讓了軟體設計師有了強大的韌性以及空間去做最
+大幅度上的修改. 因為軟體工程師的工作大多都需要在一個軟體待得很久, 這樣聽起來
+是不是對某個東西很熟悉呢? 沒錯, 那就是一個Integrated Development
+Environment (IDE). 當然一定會有人開始要爭論Vim也做得到, 但是那並不是Vim
+本身的設計理念. Vim本身是為了快速地能夠在終端修改文本而產生的編輯器. 他是為了
+快速而生的, 所以在建造這個Vim的時候並沒有在修改上有其專門性. 在這方面在Emacs
+面前較會略為遜色, 相反的Vim在速度以及需要跨足到其他軟體的行業來講是非常受到
+歡迎的,以及近年來改的版本也越來越傾向於Emacs那樣的設計了! 但同時也衍生了一
+個問題,如果Vim是為了快速修改文本,再增加每一個插件的同時,也帶來了效能上的消耗.
+打開文本的速度會越來越慢. 這樣的衝突實在讓我百思不得其解&amp;hellip; 至於Emacs本身設計
+的同時就打算在這上面有所顧忌了,所以他一開始就沒打算跟Vim去比速度. 這也是為什麼
+大多Vim使用者覺得Emacs太肥,因為Emacs本身的設計就不是為了速度. 他是選擇夾在類
+Vim跟大多的IDE中間. 這剛好滿足了軟體工程師討厭的肥大的IDE,以及同時保留了IDE大
+多數或者更棒的功能!&lt;/p&gt;
+&lt;p&gt;但是這麼棒的東西為什麼還是這麼少人用? 原因很簡單, 我個人學Emacs的時候是學
+Raw Emacs, 也就是什麼都沒有開始建起來. 我特別能夠感受到Emacs它的獨特性以
+及它的不友善性&amp;hellip; 它官方的文檔我覺得做的不算好,教學視頻也不是很多, 也沒有
+Vim口令那樣的設計巧思. 根本就是一塊石頭. 在這樣的情況下,有誰會想用它? 在
+學習曲線這麼陡的道路上,以及大多數的功能還要自己去寫,寫之前還得要去學Emacs
+它們搭建的腳本層的語言/語法(Emacs Lisp),這些都是不少的工程以及時間上的花費.
+我學到現在第四年了,我依然還沒辦法很精通它. 也沒打算精通了,畢竟平時開發上我
+認為比較重要.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>最好的編輯器</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/best-editor-ever/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/best-editor-ever/</guid>
+      <description>&lt;p&gt;WIP&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

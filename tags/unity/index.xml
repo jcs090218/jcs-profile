@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unity on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/tags/unity/</link>
+    <description>Recent content in Unity on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Personal License Activation in Unity CI</title>
+      <link>https://www.jcs-profile.com/posts/unity/automate-personal-license-activation-in-unity-ci/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/unity/automate-personal-license-activation-in-unity-ci/</guid>
+      <description>&lt;p&gt;Following up the thread, &lt;a href=&#34;https://forum.unity.com/threads/my-disappointing-experience-using-unity-in-a-ci-pipeline.737678/&#34;&gt;My disappointing experience using Unity in a CI pipeline&lt;/a&gt;
+is also the biggest obstacle for me as well. Personal license (free version) of
+Unity will expire in a period of time depends on your region. The licensing system
+from Unity is partially contradict to the CI/CD concept since it will force
+the user to update their secret &lt;code&gt;UNITY_LICENSE&lt;/code&gt; on their GitHub Actions. (Notice
+this does not apply to Plus/Pro users because they use a different licensing system!)
+😖&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JCSUnity - Save System</title>
+      <link>https://www.jcs-profile.com/posts/unity/jcsunity/save-system/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/unity/jcsunity/save-system/</guid>
+      <description>&lt;p&gt;This is a introduction of how JCSUnity does for the game data save/load system.&lt;/p&gt;
+&lt;p&gt;There are main three ways that you could do &lt;code&gt;saving&lt;/code&gt; and &lt;code&gt;loading&lt;/code&gt; in Unity
+Engine with C#.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUnity/ScriptReference/index.html?page=SaveLoad_sl_JCS_BinGameData&#34;&gt;JCS_BinGameData&lt;/a&gt; - In binary format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUnity/ScriptReference/index.html?page=SaveLoad_sl_JCS_XMLGameData&#34;&gt;JCS_XMLGameData&lt;/a&gt; - In XML format&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jcs090218.github.io/JCSUnity/ScriptReference/index.html?page=SaveLoad_sl_JCS_XMLGameData&#34;&gt;JCS_JSONGameData&lt;/a&gt; - In JSON format&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>JCSUnity Overview</title>
+      <link>https://www.jcs-profile.com/posts/unity/jcsunity/overview/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/unity/jcsunity/overview/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;JCSUnity Repo:&lt;/strong&gt; &lt;a href=&#34;https://github.com/jcs090218/JCSUnity&#34;&gt;https://github.com/jcs090218/JCSUnity&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;acknowledge&#34;&gt;Acknowledge&lt;/h2&gt;
+&lt;p&gt;I have developed this tool for 3 years. Starting from the third year of my
+college years. Compare to other framework I had developed, this tool have
+much more completeness. I have been using Unity Engine for 2 years while I
+decide to develop this framework. I have made cetain of games in this 2 years
+and I reckon I gained enough experiences to develop a framework for Unity
+Engine. In the retrospect, that was the time I have just done studying
+&amp;ldquo;Data Structure&amp;rdquo;, &amp;ldquo;Algorithms&amp;rdquo;, &amp;ldquo;Design Patterns&amp;rdquo;. What I presume that Design
+Patterns are the vital part to a game development because game are often built
+by multiple components or modules. What I meant multiple are refer as really a
+lot of those. On the other hand, most software development would not requires
+that many of the systems, generally the reasons are most of the environment
+have been wrap or encapsulate by the former developers. For instances, .NET
+Frameowrk, Visual BASIC/C++/C#, NetBean Graphic, etc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

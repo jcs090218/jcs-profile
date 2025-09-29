@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Education on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/tags/education/</link>
+    <description>Recent content in Education on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何使用 Eask 構建自己的 ELPA？</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/build-elpa/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/build-elpa/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.emacswiki.org/emacs/ELPA&#34;&gt;ELPA&lt;/a&gt; 是 Emacs Lisp Package Archive 的縮寫。它供 Emacs 用戶下載軟件包，
+也是 Emacs Lisp 開發人員託管軟件包的地方。以下是著名 &lt;a href=&#34;https://www.emacswiki.org/emacs/ELPA&#34;&gt;ELPA&lt;/a&gt; 的列表，請訪問他們的網站了解更多信息！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://elpa.gnu.org/&#34;&gt;GNU Elpa&lt;/a&gt; (official)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://elpa.nongnu.org/&#34;&gt;NonGNU Elpa&lt;/a&gt; (official)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://melpa.org/#/&#34;&gt;MELPA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-為什麼&#34;&gt;❓ 為什麼?&lt;/h2&gt;
+&lt;p&gt;那麼我們為什麼要舉辦自己的 ELPA？這些 ELPA 還不夠嗎？&lt;/p&gt;
+&lt;p&gt;是的，一般來說，您不需要自己託管 ELPA，因為您需要的大多數軟件包都可以在這些 ELPA 之一中獲得（軟件包可以在 ELPA 之間共存）。
+以下是您可能想要構建自己的 ELPA 的幾個原因：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;您喜歡的包(尚未)出現在任何 ELPA 上&lt;/li&gt;
+&lt;li&gt;ELPA 的包裹審核需要幾天或幾個月的時間來審核（&lt;a href=&#34;https://melpa.org/#/&#34;&gt;MELPA&lt;/a&gt; 可能是最快的）&lt;/li&gt;
+&lt;li&gt;不再維護的軟件包，您可以鏈接到新維護的分支&lt;/li&gt;
+&lt;li&gt;類似於第 3 點、你喜歡的包有bug，你可以創建一個新的fork來替換它！&lt;/li&gt;
+&lt;li&gt;用於 elisp 包開發目的。有時構建工具就是不夠用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-事前準備&#34;&gt;📝 事前準備&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;關於 Emacs Lisp 的一些知識&lt;/li&gt;
+&lt;li&gt;安裝 &lt;a href=&#34;https://emacs-eask.github.io/&#34;&gt;Eask&lt;/a&gt; CLI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-步驟1創建-elpa-項目&#34;&gt;🔍 步驟1.創建 ELPA 項目&lt;/h2&gt;
+&lt;p&gt;使用 &lt;a href=&#34;https://emacs-eask.github.io/&#34;&gt;Eask&lt;/a&gt; 輕鬆構建您自己的 &lt;a href=&#34;https://www.emacswiki.org/emacs/ELPA&#34;&gt;ELPA&lt;/a&gt;。您只需要幾個命令，它就會運行。&lt;/p&gt;
+&lt;p&gt;首先，我們需要創建 ELPA 項目：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ eask create elpa &amp;lt;project_name&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;在示例中，我將使用 “my-elpa” 作為我的項目名稱：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>學歷或許沒這麼重要?</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/%E5%AD%B8%E6%AD%B7%E6%88%96%E8%A8%B1%E6%B2%92%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;前言, 這是要給我&amp;quot;老爸&amp;quot;看的.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;這種類似的文章, 實在很多. 所以我不會提及任何外面已經有的文章. 這文章將會是充滿我個人主觀
+想法的文章. 歡迎你有不同的想法, 也可以完全不贊同我的想法! 👍&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;根據&lt;code&gt;我老媽&lt;/code&gt;的說詞, 大家認為碩士生總比學士生還要來的有競爭力. 我是來顛覆你部分想法的!&lt;/p&gt;
+&lt;h2 id=&#34;-台灣環境&#34;&gt;🌏 台灣環境&lt;/h2&gt;
+&lt;!-- 學習的原點 --&gt;
+&lt;p&gt;過去的台灣非常注重學歷, 現在可能依然是. 所以我們建立學歷, 來讓人民學習, 並用&lt;code&gt;知識&lt;/code&gt;的力量
+來為台灣或許更多的國際競爭能力. 這一切彷彿非常美好, 原先的出發點也是非常正確. 我們開始注
+重考試, 開始注重成績, 而因此有了&lt;code&gt;唯有讀書高&lt;/code&gt;的氛圍. 但漸漸地不再注重人品, 道德觀念, 運動,
+等等我認為對&lt;code&gt;人&lt;/code&gt;來說也是不可或缺的一部分.&lt;/p&gt;
+&lt;!-- 太努力 --&gt;
+&lt;p&gt;根據我在國外的經驗比較, 台灣是非常競爭的環境, 不管是從學生時期到出社會, 我們認為只要努力
+就一定會有收穫. 這樣結果是種&lt;a href=&#34;https://en.wikipedia.org/wiki/Idealism&#34;&gt;完美論&lt;/a&gt;, 我們
+實際得到的卻往往比較少. 為什麼台灣(或型態類似的國家)工時這麼長卻依然沒有得到相應的回報?
+一部分的原因我想應該是我們太過努力, 然而卻沒有足夠的時間休息, 沒有時間思考自己的人生和未來.
+我們應該重視質量, 而不是數量, 特別是我國對岸有個快15億人人口的超級大國 (中國). 因為我們數量
+根本壓倒性的不足阿!😨😱 反觀日本🗾是我們應該學習的對象, 雖然它們也足夠壓抑, 但起碼依然能夠
+幫助我國在國際上有些許的競爭力.&lt;/p&gt;
+&lt;!-- 太努力的結果, 人對教育失去信心 --&gt;
+&lt;p&gt;太過努力但又沒能得到相應的回報會有怎麼樣的後果? 會導致很多人不再相信教育能為人帶來任何改變.
+這當然是極其我不想看到的結果, 但現在的社會就有著類似&amp;quot;博士滿街跑&amp;quot;, &amp;ldquo;失業率不斷上升&amp;quot;的各種
+危言聳動的新聞標題. 當然這也是事實, 我周遭的朋友就有很多人找不到工作或者找根本與大學&lt;code&gt;無關&lt;/code&gt;
+的工作.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>為什麼離開雪梨大學?</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/why-i-left-usyd/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/why-i-left-usyd/</guid>
+      <description>&lt;p&gt;亞洲父母時常把自己的小孩當作人生的第二生命，因此造成了傳承上的惡性循環。那為什麼不在自己的有
+限生命裡做自己認為對的事情呢？這問題也時常困惑著我，到什麼什麼時候才是長大？時間？歲月？還是
+說是經驗？&lt;/p&gt;
+&lt;p&gt;我認為沒有所謂的「長大」，因為我們一生中都會有自己不知道的事情。先今2021年，人類平均壽命為79-
+80歲，但我們需要學習的東西卻為人類2000多年來的歷史。也就是說，我們花費一生也沒辦法把所有東西
+都學完！🤔&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;我認為學校是好的開始，但卻不是人生最終的答案！學習不應該只僅限制於學校內，而是應該融入於在生活
+之中。學歷確實很重要，他能為你帶來工作，但也能為你帶來絕望。&lt;/p&gt;
+&lt;h2 id=&#34;-past-experience-經驗&#34;&gt;💬 Past experience 經驗&lt;/h2&gt;
+&lt;p&gt;我高中曾經很迷茫，那時候的我選擇相信世界，相信家人的選擇（去ICA)，結果帶來了我更多的自暴自棄，那
+時候的我真的非常痛苦。現在是我第二次感到迷茫，為了不重蹈覆徹，我想去相信我自己，而不是相信別人給
+我做的決定。&lt;/p&gt;
+&lt;h2 id=&#34;-puzzled-害怕&#34;&gt;😨 Puzzled 害怕&lt;/h2&gt;
+&lt;p&gt;現在的我依然很害怕，我害怕我出國後沒辦法求得足以我繳納房租的工作。我害怕我會窮的吃不了飯，結果變
+成遊民。但那些並不能阻止我前進，因為我留在台灣也只是原地踏步，不如踏下去看看自己能衝到哪裡。未來
+會發生什麼事情，誰都說不準！&lt;/p&gt;
+&lt;h2 id=&#34;-awakening-指引&#34;&gt;❗ Awakening 指引&lt;/h2&gt;
+&lt;p&gt;經過高中一次的自暴自棄，讓我相信現在正是我從過去的經驗得到結果的時候！我想去試試自己的能耐，也認
+為這才是對的選擇，因為未來沒有人可以為我的人生負責！父母不行，因為他們會先行老去。朋友不行，因為我
+們思想獨立。兄弟姐妹，也將會有自己的人生！所以我唯一能做的就是盡力的去做，盡力的去學，盡力的去幫我
+自己把未來的路鋪好！&lt;/p&gt;
+&lt;h2 id=&#34;-future-決定&#34;&gt;💬 Future 決定&lt;/h2&gt;
+&lt;p&gt;回到原點，成長到底是什麼？我成長的過程並不是這麼順利，總是跌跌撞撞的，跌倒之後再爬起來，就好像小
+baby在學走路一樣。不過誰不是這樣走過來的？你是，我是，大家都是！雖然現在的我還是感到很不安，但相信
+那也是我成長過程的一部分！當然還是希望不要摔斷腿啦！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

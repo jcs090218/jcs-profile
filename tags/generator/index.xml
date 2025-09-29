@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Generator on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/tags/generator/</link>
+    <description>Recent content in Generator on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/tags/generator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First static site generator</title>
+      <link>https://www.jcs-profile.com/posts/web-dev/first-static-site-generator/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/web-dev/first-static-site-generator/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m recently hooked by the static site generator, hence I have decided to create
+one for myself. Why not? The huge reason is that I could host the site using
+the GitHub&amp;rsquo;s static site hosting services, but the one I have previously created
+in 2018 &lt;a href=&#34;https://jcs090218.github.io/blog/2018/11/12/Legacy%20-%20%E8%88%8A%E6%96%87/API-Reference-Template%20-%20API%E5%8F%83%E8%80%83%E6%A8%A1%E6%9D%BF/&#34;&gt;API-Reference-Template&lt;/a&gt;.
+is server base, which is not generator base.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;The static site generator isn&amp;rsquo;t hard to create, the most valuable technology
+is the frontend and UI/UX. However, I have already created the frontend for
+my own use. The main task for me would just have to extract the server base
+to generator base. I have also renamed the tool to &lt;a href=&#34;https://github.com/SiraDoc/SiraDoc&#34;&gt;SiraDoc&lt;/a&gt;,
+so then I&amp;rsquo;m able to use it for other sites as well! Just like the previous
+website, yet a lot easier and more suitable for the GitHub Actions&amp;rsquo; environment!
+😉&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

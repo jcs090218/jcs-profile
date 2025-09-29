@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rant on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/tags/rant/</link>
+    <description>Recent content in Rant on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem with LeetCode and SWE jobs</title>
+      <link>https://www.jcs-profile.com/posts/career/problem-with-leetcode-and-swe-jobs/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/career/problem-with-leetcode-and-swe-jobs/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This is a rant about software engineering interviews and &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-preamble&#34;&gt;🗯️ Preamble&lt;/h2&gt;
+&lt;p&gt;In 2024, hundreds of thousands of people worldwide are grinding through &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt;, aiming to break into the tech industry, drawn by the high salaries it offers.&lt;/p&gt;
+&lt;h2 id=&#34;-what-does-leetcode-actually-bring&#34;&gt;🤔 What does LeetCode actually bring?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt; offers little more than these benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Algorithm&#34;&gt;Algorithm&lt;/a&gt; exercises and &lt;a href=&#34;https://en.wikipedia.org/wiki/Data_structure&#34;&gt;data structure&lt;/a&gt; knowledge&lt;/li&gt;
+&lt;li&gt;Coding under pressure (Why though? Are we in a war zone now?)&lt;/li&gt;
+&lt;li&gt;Passing coding interviews&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, completing &lt;a href=&#34;https://leetcode.com/&#34;&gt;LeetCode&lt;/a&gt; doesn&amp;rsquo;t prove you&amp;rsquo;re a good software engineer.
+It only shows you can code basic algorithms and solve programming puzzles.
+It doesn&amp;rsquo;t test essential skills like collaboration, communication, documentation, design patterns, system architecture, low-level programming, or core computer science knowledge.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

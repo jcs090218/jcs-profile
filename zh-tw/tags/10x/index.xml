@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>10x on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/tags/10x/</link>
+    <description>Recent content in 10x on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/tags/10x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在第一份工作中成為 10x 的工程師</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/career/being-10x-engineer-in-my-first-job/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/career/being-10x-engineer-in-my-first-job/</guid>
+      <description>&lt;p&gt;前幾天在 &lt;a href=&#34;https://linkedin.com/&#34;&gt;LinkedIn&lt;/a&gt; 看到一則標題聳動的貼文 &amp;ldquo;我想我遇到了 10x 工程師&amp;rdquo;; 不過貼文內容卻讓我覺得匪夷所思.
+貼文內容是這樣的, 一位工程師 (他的同事) 能夠在短時間內解決很多深度的 bug, 讓他覺得非常驚艷! 🤔&lt;/p&gt;
+&lt;p&gt;真的是這樣嗎? 這讓我想到我曾經被當作 10x 工程師的經驗過往經驗, 這事情發生在我的&lt;strong&gt;第一份&lt;/strong&gt;工作上!&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-前言&#34;&gt;🗯️ 前言&lt;/h2&gt;
+&lt;p&gt;這份工作是在 imi technology (應該已經倒閉) 擔任 Unity 軟體工程師.
+主要工作為開發棋牌遊戲 (就是博弈). 當初選擇這間公司單純是因為離家很近, 薪水可以接受, 也就沒有想太多了.
+有些人可能會對博弈的工作感到反感或有興趣. 但這次的主題跟這個產業沒有掛鉤, 只單純講軟體業的一些親身經歷.
+🤔&lt;/p&gt;
+&lt;h2 id=&#34;-概況&#34;&gt;✏️ 概況&lt;/h2&gt;
+&lt;p&gt;這個團隊總共為 &lt;code&gt;8&lt;/code&gt; 人團隊, 有 &lt;code&gt;5&lt;/code&gt; 名超過 &lt;code&gt;10&lt;/code&gt; 年經驗的資深工程師, &lt;code&gt;1&lt;/code&gt; 名初級, 剩下 &lt;code&gt;2&lt;/code&gt; 名入門級.
+我們的分工為下:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;3&lt;/code&gt; 名資深 + &lt;code&gt;1&lt;/code&gt; 名初級使用 Java 開發服務端&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;1&lt;/code&gt; 名資深使用 &lt;a href=&#34;https://phaser.io/&#34;&gt;Phaser&lt;/a&gt; 開發 Web 遊戲客戶端&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;1&lt;/code&gt; 名資深 + &lt;code&gt;1&lt;/code&gt; 名入門級 (我) 開發 Unity 遊戲客戶端&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;1&lt;/code&gt; 名入門級學習 (不太知道他是做什麼的)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如上所示, 我負責的和另一名資深的工程師共同開發 Unity 遊戲客戶端.說來好笑, 我們這個團隊已經面臨瀕死邊緣了.
+好像是老闆對我們的成績不滿意, 開發時程過長, 所以準備要裁掉整個部門 (當時我並不知道). 😒&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

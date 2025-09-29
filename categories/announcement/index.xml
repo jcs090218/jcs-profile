@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Announcement on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/categories/announcement/</link>
+    <description>Recent content in Announcement on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://www.jcs-profile.com/posts/announcement/about-me/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/announcement/about-me/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m not fond of talking about myself. Primarily I&amp;rsquo;m nobody, not phenomenal,
+and never been onto news or other media, not any of those. Is hard to think
+that who will spend their precious time reading this &amp;lsquo;About Me&amp;rsquo; article. I
+would desire not to write a verbose introduction about myself. I&amp;rsquo;m currently
+24; I wouldn&amp;rsquo;t say that I lived long, but long enough for me to review my
+past few years of living and consider what&amp;rsquo;s the future path I&amp;rsquo;m going to
+step in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Start blog announcment</title>
+      <link>https://www.jcs-profile.com/posts/announcement/start-blog-announcment/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/announcement/start-blog-announcment/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+  &lt;img alt=&#34;blog-img&#34; src=&#34;./blog_pic.png&#34; width=&#34;319&#34; height=&#34;181&#34; /&gt;
+&lt;/p&gt;
+&lt;p&gt;I have heard about people saying that writing a blog is a good idea. And
+here is it, I am going to write a development blog for myself. I have been
+coding for years and would like to share what I had been through and talk
+about more like what I think is significants to a programmer. What are the
+jobs and tasks to the programmer and what does programmer does?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
