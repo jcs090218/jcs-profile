@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  DOC_PATH: ~/gh-pages/
+  DOC_PATH: ${{ github.workspace }}/gh-pages
 
 jobs:
   publish-doc:
