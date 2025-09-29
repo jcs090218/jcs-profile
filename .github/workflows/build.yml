@@ -32,6 +32,10 @@ jobs:
         ref: gh-pages
         path: gh-pages
 
+    - name: Clean up before the build
+      working-directory: gh-pages
+      run: git rm -r '*'
+
     - name: Build doc artifacts with Hugo
       run: hugo --destination ./gh-pages --minify
 
@@ -39,6 +43,7 @@ jobs:
     - name: Publish doc artifacts
       if: github.ref == 'refs/heads/master'
       continue-on-error: true
+      working-directory: gh-pages
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
@@ -49,4 +54,3 @@ jobs:
         SourceCommit: https://github.com/jcs090218/jcs-profile/commit/${{ github.sha }}
         _UBLT_COMMIT_MSG_
         git push
-      working-directory: gh-pages
