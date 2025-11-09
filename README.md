@@ -6,6 +6,8 @@ My personal website.
 
 See the latest version in https://jcs090218.github.io/jcs-profile/.
 
+The static `public` folder (submodules) is under https://gitlab.com/jcs-profile/public.
+
 ## 🔨 Development
 
 To start the server:
