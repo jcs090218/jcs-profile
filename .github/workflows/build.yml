@@ -26,10 +26,10 @@ jobs:
 
     - name: Don't treat submodules
       run: |
-        git rm -r --cached static/public/wnm249_midterm/
-        git rm -r --cached static/public/wnm249_final/
-        git rm -r --cached static/public/sherlock-web/
-        git rm -r --cached static/public/Links_PipelineOfEmperorYu/
+        rm -r static/public/wnm249_midterm/.git
+        rm -r static/public/wnm249_final/.git
+        rm -r static/public/sherlock-web/.git
+        rm -r static/public/Links_PipelineOfEmperorYu/.git
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
