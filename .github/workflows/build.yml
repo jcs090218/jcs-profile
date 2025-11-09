@@ -24,6 +24,13 @@ jobs:
       with:
         submodules: true
 
+    - name: Remove .git from submodule
+      run: |
+        rm -rf static/public/wnm249_midterm/.git/
+        rm -rf static/public/wnm249_final/.git/
+        rm -rf static/public/sherlock-web/.git/
+        rm -rf static/public/Links_PipelineOfEmperorYu/.git/
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
@@ -34,7 +41,6 @@ jobs:
       with:
         ref: gh-pages
         path: ${{ env.PATH_DOC }}
-        submodules: true
 
     - name: Clean up before the build
       working-directory: ${{ env.PATH_DOC }}
