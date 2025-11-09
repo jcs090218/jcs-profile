@@ -212,7 +212,7 @@ This game participates in the [机核GCORES][] [2024 Game Creation Challenge](ht
 data-balloon-pos="up">👨‍💼</span>):
 A mini-game that combines the mechanics of [hack and slash][hack & slash] with [tile-matching][].
 The game has been submitted to the [5th DIY Game Jam](https://itch.io/jam/20220829). (4 weeks)
-- [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (Fall 2019 – Winter 2019 <span aria-label="Chief Technology Officer (CTO)"
+- [Pipeline Of Emperor Yu][] (Fall 2019 – Winter 2019 <span aria-label="Chief Technology Officer (CTO)"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span><span aria-label="Published on Steam (1)"
 data-balloon-pos="up">🏅</span><span aria-label="Published on Google Play Store (3)"
@@ -442,7 +442,7 @@ The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (Summer 2021 – Winter 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A small web application made using [React.js][], designed for use as a company's homepage.
-- [sherlock-web](https://jcs-profile.com/public/sherlock-web/) (Spring 2021):
+- [sherlock-web][] (Spring 2021):
 Website to interact [Sherlock API][sherlock-project/api].
 - [sherlock-project/api](https://github.com/sherlock-project/api) (Spring 2021):
 API for the [sherlock][sherlock-project/sherlock] module implemented in Python using [Django REST Framework (DRF)][DRF].
@@ -463,11 +463,11 @@ Rapidly build your link page to marketing your games!
 - [RandomCookMenu](https://gitlab.com/jcs-workspace/php/RandomCookMenu) (Winter 2017):
 A small application that enables you to create cooking menus and randomly selects one for you.
 This was originally designed for my mom, who often struggled with deciding what to cook every day.
-- [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (Summer 2017 <span aria-label="School work"
+- [MapleStory Survival Kit][] (Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 A website that guides you on navigating the popular [MMO][][RPG][], [MapleStory][]!
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the final project from our first web design class at the [Academy of Art University][].
-- [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (Summer 2017 <span aria-label="School work"
+- [Best Boba Tea][] (Summer 2017 <span aria-label="School work"
 data-balloon-pos="up">🏫</span>):
 A website recommends a few boba tea places in San Francisco!
 Constructed using only fundamental [HTML][], [CSS][], and [JavaScript][], this is the midterm project from our first web design class at the [Academy of Art University][].
@@ -1523,6 +1523,12 @@ The project was initiated during the course of work but is no longer in use as t
 <!--
   - Links
   -->
+
+<!-- Submodules -->
+[Best Boba Tea]: /public/wnm249_midterm/
+[MapleStory Survival Kit]: /public/wnm249_final/
+[sherlock-web]: /public/sherlock-web/
+[Pipeline Of Emperor Yu]: /public/Links_PipelineOfEmperorYu/
 
 <!-- Names (Individuals) -->
 [Jen-Chieh Shen]: https://jcs-profile.com/

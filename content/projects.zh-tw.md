@@ -202,7 +202,7 @@ data-balloon-pos="up">👨‍💼</span>):
 data-balloon-pos="up">👨‍💼</span>):
 一款融合了[砍殺][hack & slash] 機制和 [方塊匹配][tile-matching] 的迷你遊戲。
 遊戲已投稿至[第五屆 DIY Game Jam](https://itch.io/jam/20220829)。 （4 週）
-- [Pipeline Of Emperor Yu](https://www.jcs-profile.com/public/links/Links_PipelineOfEmperorYu/) (秋 2019 – 冬 2019 <span aria-label="Chief Technology Officer (CTO)"
+- [Pipeline Of Emperor Yu][] (秋 2019 – 冬 2019 <span aria-label="Chief Technology Officer (CTO)"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span><span aria-label="發布至 Steam (1)"
 data-balloon-pos="up">🏅</span><span aria-label="發布至 Google Play Store (3)"
@@ -430,7 +430,7 @@ data-balloon-pos="up">🏫</span>):
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (夏 2021 – 冬 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 使用 [React.js][] 製作的小型 Web 應用程序，旨在用作公司主頁。
-- [sherlock-web](https://jcs-profile.com/public/sherlock-web/) (春 2021):
+- [sherlock-web][] (春 2021):
 與 [Sherlock API][sherlock-project/api] 互動的網站。
 - [sherlock-project/api](https://github.com/sherlock-project/api) (春 2021):
 使用 [Django REST Framework (DRF)][DRF] 以 Python 實現的 [sherlock][sherlock-project/sherlock] 模組的 API。
@@ -451,11 +451,11 @@ data-balloon-pos="up">✨</span>):
 - [RandomCookMenu](https://gitlab.com/jcs-workspace/php/RandomCookMenu) (冬 2017):
 一個小應用程序，可以讓你創建烹飪菜單並隨機為你選擇一個。
 這個應用程式最初是為我的媽媽設計的，她經常為每天決定做什麼菜而苦惱。
-- [MapleStory Survival Kit](https://jcs-profile.com/public/AAU/wnm249/m15/wnm249_final/) (夏 2017 <span aria-label="學校作業"
+- [MapleStory Survival Kit][] (夏 2017 <span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
 一個引導您暢玩熱門 [MMO][][RPG][] 和 [MapleStory][] 的網站！
 僅使用基礎的[HTML][]、[CSS][]和[JavaScript][]建構而成，這是我們在[藝術大學][AAU]的第一堂網頁設計課的最終專案。
-- [Best Boba Tea](https://jcs-profile.com/public/AAU/wnm249/m7/wnm249_midterm/) (夏 2017 <span aria-label="學校作業"
+- [Best Boba Tea][] (夏 2017 <span aria-label="學校作業"
 data-balloon-pos="up">🏫</span>):
 一個網站推薦了舊金山的幾家珍珠奶茶店！
 這是我們在[藝術大學][AAU]的第一堂網頁設計課的期中作業，僅使用基本的[HTML][]、[CSS][]和[JavaScript][]來建構。
@@ -1505,6 +1505,12 @@ data-balloon-pos="up">💸</span>):
 <!--
   - Links
   -->
+
+<!-- Submodules -->
+[Best Boba Tea]: /public/wnm249_midterm/
+[MapleStory Survival Kit]: /public/wnm249_final/
+[sherlock-web]: /public/sherlock-web/
+[Pipeline Of Emperor Yu]: /public/Links_PipelineOfEmperorYu/
 
 <!-- Names (Individuals) -->
 [Jen-Chieh Shen]: https://jcs-profile.com/

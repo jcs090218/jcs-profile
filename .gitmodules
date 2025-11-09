@@ -4,3 +4,12 @@
 [submodule "static/public/Links_PipelineOfEmperorYu"]
 	path = static/public/Links_PipelineOfEmperorYu
 	url = https://gitlab.com/jcs-profile/public/Links_PipelineOfEmperorYu
+[submodule "static/public/sherlock-web"]
+	path = static/public/sherlock-web
+	url = https://gitlab.com/jcs-profile/public/sherlock-web
+[submodule "static/public/wnm249_midterm"]
+	path = static/public/wnm249_midterm
+	url = https://gitlab.com/jcs-profile/public/wnm249_midterm
+[submodule "static/public/wnm249_final"]
+	path = static/public/wnm249_final
+	url = https://gitlab.com/jcs-profile/public/wnm249_final
