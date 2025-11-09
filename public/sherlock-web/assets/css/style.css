@@ -1,0 +1,57 @@
+* { font-family: "Comfortaa", cursive; }
+
+body {
+  background-color: #1a2b34;
+}
+
+a {
+  color: #6699cc;
+  text-decoration: none;
+}
+
+.main {
+  text-align: center;
+  margin-bottom: 4em; /* Leave space for footer */
+}
+
+.logo {
+  max-width: 99%;
+  max-height: 99%;
+}
+
+.description {
+  max-width: 30rem;
+  margin: auto;
+  padding: 1rem;
+  color: #d1dce6;
+}
+
+.search-area {
+  margin: auto;
+}
+
+.input {
+  font-size: 150%;
+}
+
+#text-area {
+  background: #0E161B;
+  color: white;
+  padding: 10px;
+  display: none;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #d1dce6;
+  text-align: center;
+  background-color: #1a2b34; /* Same as page background color */
+  opacity: 0.8;
+}
+
+.heart {
+  vertical-align:middle
+}

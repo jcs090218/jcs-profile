@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/**
+ * $File: style.css $
+ * $Date: 2020-01-09 18:22:23 $
+ * $Revision: $
+ * $Creator: Jen-Chieh Shen $
+ * $Notice: See LICENSE.txt for modification and distribution information
+ *                   Copyright © 2020 by Shen, Jen-Chieh $
+ */
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-position: center;
+  background-size: cover;
+}
+
+#container {
+  margin: auto;
+
+  display: flex;
+  flex-flow: column wrap;
+
+  width: 95%;
+  height: 100%;
+}
+
+.slot {
+  margin: auto;
+  width: 20%;
+}
+
+.slot > a {
+  display: block;
+}
+
+.slot > a > img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.slot > #desc {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 200%;
+}
+
+#copyright {
+  /* Make it stick at the bottom. */
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+
+  height: 30px;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+  color: white;
+  opacity: 0.7;
+  z-index: 100;
+}

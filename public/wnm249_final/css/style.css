@@ -1,0 +1,1289 @@
+@charset "UTF-8";
+/**
+ * $File: style.css $
+ * $Date: 2017-07-25 04:50:10 $
+ * $Revision: $
+ * $Creator: Jen-Chieh Shen $
+ * $Notice: See LICENSE.txt for modification and distribution information
+ *                   Copyright (c) 2017 by Shen, Jen-Chieh $
+ */
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+html {
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0px;
+}
+
+body {
+  min-width: 1920px; /* suppose you want minimun width of 1000px */
+
+  overflow: hidden;
+  background-color: #55ddff;
+
+  height: 100%;
+}
+
+/************************************************************
+* Loading Screen
+*************************************************************/
+
+#load-screen {
+  background-color: #000;
+  opacity: 1;
+  position: fixed;
+  z-index: 300;
+  top: 0px;
+  width: 100%;
+  height: 1600px;
+}
+
+#loading {
+  color: #fff;
+  width: 120px;
+  height: 24px;
+  margin: 300px auto;
+}
+
+
+/************************************************************
+* Start of Layer 0
+*
+* Content-Range: -249 ~ -200
+*************************************************************/
+#layer-00 {
+  z-index: -200;
+  position: absolute;
+
+  top: 3.5%;
+  left: -5000px;
+  width: 100%;
+  height: 100%;
+
+  -webkit-transition:
+  top 1.5s ease-in-out,
+  left 1.5s ease-in-out;
+}
+
+#layer-00.page-right-1 {
+  /*
+  * The more close the animated `left' value. The layer
+  * seems to move slower.
+  */
+  left: calc(-7500px + 2200px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-00.page-left-1 {
+  left: calc(-2500px - 2200px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-00.page-top-1 {
+  top: 100%;
+
+  -webkit-transition: top 1.5s ease-in-out;
+}
+
+#star-bg {
+  /* background-image: url('../images/star_blink.gif'); */
+  background-repeat: repeat;
+  position: absolute;
+
+  top: -300%;
+  width: 400%;
+  height: 500%;
+}
+
+#back-1 {
+  background-image: url('../images/IDvampireEU_town - no name/back_1.png');
+  position: absolute;
+  background-repeat: repeat;
+
+  top: 35%;
+  width: calc(426px * 100);
+  height: calc(375px);
+}
+
+
+/************************************************************
+* Start of Layer 1
+*
+* Content-Range: -199 ~ -150
+*************************************************************/
+#layer-01 {
+  z-index: -200;
+  position: absolute;
+
+  top: 3.5%;
+  left: -5000px;
+  width: 100%;
+  height: 100%;
+
+  -webkit-transition:
+  top 1.5s ease-in-out,
+  left 1.5s ease-in-out;
+}
+
+#layer-01.page-right-1 {
+  /*
+  * The more close the animated `left' value. The layer
+  * seems to move slower.
+  */
+  left: calc(-7500px + 1900px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-01.page-left-1 {
+
+  left: calc(-2500px - 1900px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-01.page-top-1 {
+  top: 110%;
+  -webkit-transition: top 1.5s ease-in-out;
+}
+
+#back-2 {
+  background-image: url('../images/IDvampireEU_town - no name/back_2.png');
+  position: absolute;
+  background-repeat: repeat-x;
+
+  top: 23%;
+  width: calc(2808px * 10);
+  height: calc(498px);
+}
+
+
+/************************************************************
+* Start of Layer 2
+*************************************************************/
+#layer-02 {
+  z-index: -150;
+  position: absolute;
+
+  top: 3.5%;
+  left: -5000px; /* `left' value before animated. */
+  width: 100%;
+  height: 100%;
+
+  -webkit-transition:
+  top 1.5s ease-in-out,
+  left 1.5s ease-in-out;
+}
+
+#layer-02.page-right-1 {
+  /*
+  * The more close the animated `left' value. The layer
+  * seems to move slower.
+  */
+  left: calc(-7500px + 1600px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-02.page-left-1 {
+  left: calc(-2500px - 1600px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-02.page-top-1 {
+  top: 120%;
+
+  -webkit-transition: top 1.5s ease-in-out;
+}
+
+#back-4 {
+  background-image: url('../images/IDvampireEU_town - no name/back_4.png');
+  position: absolute;
+  background-repeat: repeat-x;
+
+  top: 55%;
+  left: -1000px;
+  width: calc(1780px * 10);
+  height: calc(363px);
+
+  z-index: -101;
+}
+
+
+/************************************************************
+* Start of Layer 3
+*
+* Content-Range: -149 ~ -100
+*************************************************************/
+#layer-03 {
+  z-index: -100;
+  position: absolute;
+
+  top: 3.5%;
+  left: -5000px; /* `left' value before animated. */
+  width: 100%;
+  height: 100%;
+
+  -webkit-transition:
+  top 1.5s ease-in-out,
+  left 1.5s ease-in-out;
+}
+
+#layer-03.page-right-1 {
+  /*
+  * The more close the animated `left' value. The layer
+  * seems to move slower.
+  */
+  left: calc(-7500px + 1300px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-03.page-left-1 {
+  left: calc(-2500px - 1300px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-03.page-top-1 {
+  top: 130%;
+
+  -webkit-transition: top 1.5s ease-in-out;
+}
+
+.back-5:nth-child(1) {
+  background-image: url('../images/IDvampireEU_town - no name/back_5.png');
+  position: absolute;
+
+  top: 63.5%;
+  left: calc(5000px + 680px);
+  width: 1395px;
+  height: 313px;
+
+  z-index: -100;
+}
+
+.back-5:nth-child(2) {
+  background-image: url('../images/IDvampireEU_town - no name/back_5.png');
+  position: absolute;
+
+  top: 60%;
+  left: calc(5000px + 2400px);
+  width: 1395px;
+  height: 313px;
+
+  transform: scaleX(-1);
+  z-index: -100;
+}
+
+.back-5:nth-child(3) {
+  background-image: url('../images/IDvampireEU_town - no name/back_5.png');
+  position: absolute;
+
+  top: 60%;
+  left: calc(5000px - 1400px);
+  width: 1395px;
+  height: 313px;
+
+  transform: scaleX(-1);
+  z-index: -100;
+}
+
+.rainbow {
+  background-image: url('../images/ID11thFestival - no name/back_3.png');
+  position: absolute;
+
+  top: 45%;
+  left: calc(5000px + 600px);
+  width: 321px;
+  height: 182px;
+
+  transform: scaleX(1) scaleY(1);
+
+  z-index: -99;
+}
+
+.air-balloon {
+  position: absolute;
+
+  top: 25%;
+  left: calc(5000px + 1600px);
+  width: 72px;
+  height: 168px;
+
+  z-index: -99;
+}
+
+.air-flag {
+  position: absolute;
+
+  top: 35%;
+  left: calc(5000px + 50px);
+  width: 72px;
+  height: 168px;
+
+  z-index: -99;
+}
+
+.smoke {
+  position: absolute;
+
+  top: 55%;
+  left: calc(5000px + 1390px);
+  width: 75px;
+  height: 94px;
+
+  z-index: -99;
+}
+
+/************************************************************
+* Start of Layer 4
+*
+* Content-Range: -99 ~ -50
+*************************************************************/
+#layer-04 {
+  z-index: -50;
+  position: absolute;
+
+  top: 3.5%;
+  left: -5000px;
+  width: 100%;
+  height: 100%;
+
+  -webkit-transition:
+  top 1.5s ease-in-out,
+  left 1.5s ease-in-out;
+}
+
+#layer-04.page-right-1 {
+  left: calc(-7500px + 0px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-04.page-left-1 {
+  left: calc(-2500px + 0px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-04.page-top-1 {
+  top: 140%;
+
+  -webkit-transition: top 1.5s ease-in-out;
+}
+
+/* Bush */
+#back-17 {
+  background-image: url('../images/ID11thFestival - no name/back_17.png');
+  background-repeat: repeat-x;
+  position: absolute;
+
+  top: 80%;
+  /* left: 5000px; */
+  width: calc(1199px * 10);
+  height: 105px;
+
+  z-index: -55;
+}
+
+#ground {
+  background-image: url("../images/ground.png");
+  background-repeat: repeat-x;
+
+  top: 90%;
+  width: calc(808px * 100);
+  height: 248px;
+
+  /* Need to add this in order to make `z-index' work */
+  position: absolute;
+  z-index: -52;
+}
+
+#sign {
+  background-image: url('../images/ID2012037 - Orbis Tower Warning Sign/stand_0.png');
+  position: absolute;
+
+  top: 81.6%;
+  /*
+  * Plus the offset back to 0.
+  *
+  * NOTE(jenchieh): Find the layer this object in, you will see
+  * the offset.
+  *
+  * In this case, is `layer-04' and the left is -5000px. If we want
+  * this DOM object to the left of the screen we need to add 5000px
+  * back in order to set the object at the very left of our screen.
+  */
+  left: calc(5000px + 30px);
+  width: 81px;
+  height: 89px;
+
+  z-index: -53;
+}
+
+#gil {
+  background-image: url('../images/gil.png');
+  position: absolute;
+
+  top: 71%;
+  left: calc(5000px + 1650px);
+  width: 174px;
+  height: 190px;
+}
+
+.back-19 {
+  background-image: url('../images/ID11thFestival - no name/back_19.png');
+  position: absolute;
+
+  top: 80%;
+  left: calc(5000px + 200px);
+  width: 296px;
+  height: 104px;
+
+  z-index: -52;
+}
+
+.back-20:nth-child(8) {
+  background-image: url('../images/ID11thFestival - no name/back_20.png');
+  position: absolute;
+
+  top: 80%;
+  left: calc(5000px + 2300px);
+  width: 296px;
+  height: 104px;
+
+  z-index: -52;
+}
+
+.back-20:nth-child(9) {
+  background-image: url('../images/ID11thFestival - no name/back_20.png');
+  position: absolute;
+
+  top: 80%;
+  left: calc(5000px - 2400px);
+  width: 296px;
+  height: 104px;
+
+  transform: scaleX(1);
+
+  z-index: -52;
+}
+
+.tree-02:nth-child(1) {
+  background-image: url('../images/ID11thFestival - no name/back_14.png');
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: 45%;
+  left: calc(5000px + 4000px);
+  width: 387px;
+  height: 415px;
+
+  /* Must be after the `Bush' object. */
+  z-index: -56;
+}
+
+.tree-02:nth-child(2) {
+  background-image: url('../images/ID11thFestival - no name/back_14.png');
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: 45%;
+  left: calc(5000px - 2400px);
+  width: 387px;
+  height: 415px;
+
+  /* Must be after the `Bush' object. */
+  z-index: -56;
+}
+
+#lenario {
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: 83%;
+  left: calc(5000px + 1600px);
+  width: 53px;
+  height: 74px;
+
+  z-index: -51;
+}
+
+#chief {
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: 83%;
+  left: calc(5000px + 4100px);
+  width: 50px;
+  height: 73px;
+
+  z-index: -51;
+}
+
+#moppie {
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: 85%;
+  left: calc(5000px - 2300px);
+  width: 60px;
+  height: 55px;
+
+  z-index: -51;
+}
+
+#moppie img {
+  display: none;
+}
+
+.eak:nth-child(13) {
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: -120%;
+  left: calc(5000px + 1650px);
+  width: 70px;
+  height: 49px;
+
+  z-index: -51;
+}
+
+.eak img {
+  display: none;
+}
+
+.eak:nth-child(14) {
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: -90%;
+  left: calc(5000px + 200px);
+  width: 70px;
+  height: 49px;
+
+  transform: scaleX(-1);
+
+  z-index: -51;
+}
+
+.eak:nth-child(15) {
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: -60%;
+  left: calc(5000px + 1300px);
+  width: 70px;
+  height: 49px;
+
+  z-index: -51;
+}
+
+
+/************************************************************
+* Start of Layer 5
+*
+* Content-Range: -49 ~ -1 (0 is default of other,
+* so dont override 0)
+*
+* NOTE: This layer will be in front of all the other layers
+* but not the content layer.
+*************************************************************/
+#layer-05 {
+  z-index: -1;
+  position: absolute;
+
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+
+  -webkit-transition:
+  top 1.5s ease-in-out,
+  left 1.5s ease-in-out;
+}
+
+#layer-05.page-right-1 {
+  /* left: -500px; */
+  left: calc(-3000px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-05.page-left-1 {
+  /* left: +500px; */
+  left: calc(3000px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-05.page-top-1 {
+  top: 150%;
+
+  -webkit-transition: top 1.5s ease-in-out;
+}
+
+.tree-01 {
+  background-image: url('../images/ID11thFestival - no name/back_11.png');
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: 60%;
+  left: -80%;
+  width: 383px;
+  height: 434px;
+  z-index: -1;
+}
+
+#moon {
+  background-image: url('../images/moon.png');
+  background-repeat: no-repeat;
+  position: absolute;
+
+  top: -155%;
+  left: -2%;
+  width: 560px;
+  height: 558px;
+
+  transform: scale(0.7);
+
+  z-index: -1;
+}
+
+/************************************************************
+* Start of Layer 6
+*
+* Content-Range: 0 ~ 50
+* NOTE: This layer will be in front of the Content.
+*************************************************************/
+#layer-06 {
+  /*
+  * This will allow click event through this layer.
+  * NOTE: Since this is the only layer that is blocking the
+  * content we need this to prevent mouse events not triggered.
+  */
+  pointer-events: none;
+
+  z-index: 50;
+  position: absolute;
+
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+
+  -webkit-transition:
+  top 1.5s ease-in-out,
+  left 1.5s ease-in-out;
+}
+
+#layer-06.page-right-1 {
+  left: calc(-7500px - 600px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-06.page-left-1 {
+  left: calc(3200px);
+
+  -webkit-transition: left 1.5s ease-in-out;
+}
+
+#layer-06.page-top-1 {
+  top: 160%;
+
+  -webkit-transition: top 1.5s ease-in-out;
+}
+
+.light-00 {
+  background-image: url('../images/IDprofession - no name/ani.0_0.png');
+  position: absolute;
+
+  top: -10%;
+  left: -182%;
+  width: 554px;
+  height: 723px;
+
+  z-index: 5;
+
+  -webkit-animation: flickerAnimation 5s infinite;
+}
+
+.light-01 {
+  background-image: url('../images/IDprofession - no name/ani.0_1.png');
+  position: absolute;
+
+  top: -15%;
+  left: 500%;
+  width: 554px;
+  height: 723px;
+
+  z-index: 5;
+
+  -webkit-animation: flickerAnimation 5s infinite;
+}
+
+.light-02 {
+  background-image: url('../images/IDprofession - no name/ani.0_2.png');
+  position: absolute;
+
+  top: -10%;
+  left: -150%;
+  width: 554px;
+  height: 723px;
+
+  z-index: 5;
+
+  -webkit-animation: flickerAnimation 5s infinite;
+}
+
+.item {
+  position: absolute;
+
+  z-index: 4;
+}
+
+/************************************************************
+* Any Layer.
+*************************************************************/
+.cloud-01:nth-child(1) {
+  background-image: url('../images/ID11thFestival - no name/back_2.png');
+  position: absolute;
+
+  top: 0%;
+  left: 7000px;
+  width: 1306px;
+  height: 276px;
+
+  -webkit-animation: wind 120s linear infinite;
+}
+
+.cloud-01:nth-child(2) {
+  background-image: url('../images/ID11thFestival - no name/back_2.png');
+  position: absolute;
+
+  top: -10%;
+  left: -400px;
+  width: 1306px;
+  height: 276px;
+
+  -webkit-animation: wind 120s linear infinite;
+}
+
+.cloud-01:nth-child(3) {
+  background-image: url('../images/ID11thFestival - no name/back_2.png');
+  position: absolute;
+
+  top: -80%;
+  left: 9000px;
+  width: 1306px;
+  height: 276px;
+
+  transform: scaleX(-1);
+
+  -webkit-animation: wind 120s linear infinite;
+}
+
+.cloud-01:nth-child(4) {
+  background-image: url('../images/ID11thFestival - no name/back_2.png');
+  position: absolute;
+
+  top: -60%;
+  left: 2000px;
+  width: 1306px;
+  height: 276px;
+
+  -webkit-animation: wind 120s linear infinite;
+}
+
+.cloud-01:nth-child(5) {
+  background-image: url('../images/ID11thFestival - no name/back_2.png');
+  position: absolute;
+
+  top: -150%;
+  left: 1200px;
+  width: 1306px;
+  height: 276px;
+
+  -webkit-animation: wind 120s linear infinite;
+}
+
+.cloud-01:nth-child(6) {
+  background-image: url('../images/ID11thFestival - no name/back_2.png');
+  position: absolute;
+
+  top: -65%;
+  left: 3600px;
+  width: 1306px;
+  height: 276px;
+
+  -webkit-animation: wind 120s linear infinite;
+}
+
+
+.cloud-02:nth-child(7) {
+  background-image: url('../images/IDvampireEU_town - no name/back_6.png');
+  position: absolute;
+
+  -webkit-animation: wind 120s linear infinite;
+
+  top: 40%;
+  left: 2000px;
+  width: 1046px;
+  height: 346px;
+}
+
+.cloud-02:nth-child(8) {
+  background-image: url('../images/IDvampireEU_town - no name/back_6.png');
+  position: absolute;
+
+  -webkit-animation: wind 120s linear infinite;
+
+  top: 20%;
+  left: 5000px;
+  width: 1046px;
+  height: 346px;
+}
+
+
+.cloud-02:nth-child(9) {
+  background-image: url('../images/IDvampireEU_town - no name/back_6.png');
+  position: absolute;
+
+  -webkit-animation: wind 120s linear infinite;
+
+  top: -85%;
+  left: 7000px;
+  width: 1046px;
+  height: 346px;
+}
+
+.cloud-02:nth-child(10) {
+  background-image: url('../images/IDvampireEU_town - no name/back_6.png');
+  position: absolute;
+
+  -webkit-animation: wind 120s linear infinite;
+
+  top: -95%;
+  left: -2000px;
+  width: 1046px;
+  height: 346px;
+}
+
+.cloud-02:nth-child(11) {
+  background-image: url('../images/IDvampireEU_town - no name/back_6.png');
+  position: absolute;
+
+  -webkit-animation: wind 120s linear infinite;
+
+  top: -100%;
+  left: 400px;
+  width: 1046px;
+  height: 346px;
+}
+
+.cloud-02:nth-child(12) {
+  background-image: url('../images/IDvampireEU_town - no name/back_6.png');
+  position: absolute;
+
+  -webkit-animation: wind 120s linear infinite;
+
+  top: -60%;
+  left: 5000px;
+  width: 1046px;
+  height: 346px;
+}
+
+
+/************************************************************
+* Animation Section.
+*************************************************************/
+@-webkit-keyframes wind {
+  /* From whatever position to this position. */
+  to { left: -5000px; }
+}
+
+@-webkit-keyframes flickerAnimation {
+  0%   { opacity: 1; }
+  50%  { opacity: 0.4; }
+  100% { opacity: 1; }
+}
+
+/************************************************************
+* Time and Weather.
+*************************************************************/
+#time-cover {
+  /* These won't trigger cuz javascript change the value! */
+  opacity: 1;
+  background: #000;
+
+  z-index: 0;
+
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  position: fixed;
+
+  pointer-events: none;
+}
+
+/************************************************************
+* Content Design Section
+*************************************************************/
+
+/* Floting Navigation Bar */
+#nav {
+  position: absolute;
+
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+
+  z-index: 200;
+
+  pointer-events: none;
+  -webkit-user-select: none;
+}
+
+#toggle-nav {
+  position: absolute;
+
+  top: 8%;
+  width: 1.5%;
+  height: 10%;
+
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 5%;
+
+  pointer-events: auto;
+}
+
+#nav-panel {
+  background-color: rgba(0,0,0,0.5);
+  position: absolute;
+
+  top: 8%;
+  left: -10%;
+  width: 10%;
+
+  padding: 0.3% 0;
+
+  border-radius: 5%;
+
+  -webkit-transition: left 0.5s ease-out;
+
+  pointer-events: auto;
+}
+
+#nav-panel.move {
+  left: 1.8%;
+  -webkit-transition: left 0.5s ease-out;
+}
+
+.nav-btn {
+  list-style-type: none;
+  cursor: pointer;
+  color: #444;
+  background-color: #EEE;
+  text-align: center;
+  font-size: 1.5em;
+  text-decoration: none;
+
+  width: 90%;
+  margin: 3% auto;
+
+  border-radius: 5%;
+
+  border: 2px solid #000;
+}
+
+.nav-btn.hover:hover {
+  -webkit-animation: bounceIn 1s ease-in-out;
+}
+
+#container {
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 60%;
+  height: 100%;
+
+  z-index: 50;
+}
+
+header {
+  text-align: center;
+  z-index: 50;
+
+  text-indent: -9999px;
+
+  width: 100%;
+}
+
+#logo {
+  background-image: url('../images/logo.png');
+  background-repeat: no-repeat;
+
+  width: 1152px;
+  height: 190px;
+
+  margin: 0px auto;
+}
+
+#announcement {
+  background-image: url('../images/announcement.png');
+  background-repeat: no-repeat;
+
+  background-color: rgba(111,111,111, 0.3);
+  border-radius: 10px;
+  padding: 0px 1%;
+
+  margin-top: 0.5%;
+
+  margin-right: auto;
+  margin-left: auto;
+
+  position: relative;
+
+  width: 1110px;
+  height: 55px;
+
+}
+
+marquee {
+  margin-left: 6%;
+
+  width: 91%;
+  height: 100%;
+}
+
+#announcement-text {
+  font-family: 'Zilla Slab', serif;
+
+  position: relative;
+  font-size: 1.2em;
+
+  /* Move text downward to the center  */
+  top: 20px;
+
+  -webkit-animation: pulse 1s ease-in infinite;
+}
+
+#content-container {
+  background-image: url('../images/content_bg.png');
+  background-repeat: no-repeat;
+
+  width: 1147px;
+  height: 760px;
+
+  margin-bottom: 1%;
+
+  margin-right: auto;
+  margin-left: auto;
+
+  position: relative;
+}
+
+#main-panel {
+  font-family: 'Zilla Slab', serif;
+  background-color: rgba(0, 0, 0, 0.4);
+
+  position: relative;
+
+  border-radius: 5px;
+
+  top: 3.5%;
+  width: 95%;
+  height: 85%;
+
+  margin: 0px auto;
+}
+
+.content-panel {
+  background-color: #eee;
+
+  /* NOTE: You need this to manage vertical spaces. */
+  position: relative;
+
+  top: 2%;
+  width: 98%;
+  height: 95%;
+
+  margin: 0 auto;
+}
+
+.content-panel h1 {
+  font-size: 2.1em;
+
+  margin: 5px 10px;
+
+  padding-top: 10px;
+}
+
+.content-panel p {
+  font-size: 1.3em;
+
+  margin: 10px;
+}
+
+#content-home img {
+  position: relative;
+  margin: 0px auto;
+
+  border-radius: 10px;
+  width: 45%;
+
+  float: left;
+  margin: 10px;
+  border: 3px solid rgba(0,0,0,0.3);
+}
+
+#content-left img {
+  position: relative;
+  margin: 10px;
+
+  top: 0px;
+  left: 0px;
+  z-index: 50;
+}
+
+#content-left img:nth-of-type(1) {
+  float: left;
+}
+
+#content-left img:nth-of-type(2) {
+  float: right;
+}
+
+#content-left img:nth-of-type(3) {
+  float: left;
+}
+
+#content-right img {
+  position: relative;
+  margin: 0px auto;
+
+  border: 3px solid rgba(0,0,0,0.5);
+  border-radius: 10px;
+
+  width: 40%;
+  left: 30%;
+}
+
+#content-right p:nth-of-type(2) {
+  text-align: center;
+  color: #006400;
+}
+
+#content-top img {
+  width: 40%;
+
+  margin: 10px;
+
+  border: 3px solid rgba(0,0,0,0.5);
+  border-radius: 10px;
+
+  float: right;
+}
+
+footer {
+  background-image: url('../images/footer.png');
+  background-repeat: no-repeat;
+
+  position: relative;
+
+  top: 5%;
+  text-align: center;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 800px;
+  height: 57px;
+
+  /* centering the text */
+  padding: 1% 0%;
+
+  z-index: 50;
+}
+
+/************************************************************
+* Toggle Button
+*************************************************************/
+#toggle-btn {
+  position: relative;
+  display: inline-block;
+
+  width: 60px;
+  height: 34px;
+
+  float: right;
+
+  top: 15px;
+  left: -5px;
+}
+
+#toggle-btn input {
+  display: none;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #4589f7;
+  -webkit-transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #10213d;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #10213d;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+}
+
+/**
+* Add the class if you want to make the button
+* Round instead of square.
+*/
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}

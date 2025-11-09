@@ -1,0 +1,446 @@
+/**
+ * $File: style.css $
+ * $Date: 2017-07-11 12:00:59 $
+ * $Revision: $
+ * $Creator: Jen-Chieh Shen $
+ * $Notice: See LICENSE.txt for modification and distribution information
+ *                   Copyright (c) 2017 by Shen, Jen-Chieh $
+ */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-width: 1800px; /* suppose you want minimun width of 1000px */
+  width: auto !important;  /* Firefox will set width as auto */
+  width: 1800px;             /* As IE ignores !important it will set width as 1000px; */
+  height: auto !important;
+
+  background-color: #000;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+#muteBtn {
+  background-color: white;
+  width: 3%;
+  z-index: 1;
+  position: absolute;
+
+  top: 1%;
+  left: 96%;
+  border-radius: 20px;
+}
+
+#muteBtn img {
+  width: 100%;
+  height: 100%;
+}
+
+#topNav {
+  width: 100%;
+  height: auto;
+
+  background-color: red;
+  position: absolute;
+
+  top: -26%;
+  left: 7%;
+  width: 8%;
+  height: 31%;
+
+  z-index: 1;
+
+  font-size: 1.3em;
+  text-align: center;
+
+  /* event handler */
+  transition: top 0.35s ease-in-out;  transition: top 0.5s ease-in-out;
+}
+
+#topNav:hover {
+  top: 0px;
+
+  /* event handler */
+  transition: top 0.35s ease-in-out;
+}
+
+.topNavBtn {
+  list-style-type: none;
+
+  background-color: yellow;
+  width: 100%;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  margin-top: 10%;
+  margin-bottom: 10%;
+
+  cursor: pointer;
+
+  padding-left: 0px;
+  /* event handler */
+  transition: padding-left 0.25s ease-in-out;
+}
+
+.topNavBtn:hover {
+  padding-left: 25px;
+
+  /* event handler */
+  transition: padding-left 0.25s ease-in-out;
+}
+
+/**
+* Top 'navigation' key word shown.
+*/
+#navKey {
+  padding-top: 20%;
+}
+
+#bgvid {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  background-size: cover;
+  opacity: 0.1;
+}
+
+#botNav {
+  background-color: #fcff7a;
+  opacity: 0.3;
+
+  /* These properties will make the bar at the bottom.*/
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+#botNav ul {
+  /* text-align: center; */
+  list-style-type: none;
+}
+
+.botNavBtn {
+  display: inline;
+
+  padding-right: 10px;
+  padding-left: 10px;
+
+  cursor: pointer;
+
+  /* border: 1px solid red; */
+
+  /* event handler */
+  /* transition: padding-bottom 0.5s ease-in-out; */
+}
+
+.botNavBtn:hover {
+  /* padding-bottom: 100px; */
+
+  /* event handler */
+  /* transition: padding-bottom 0.5s ease-in-out; */
+}
+
+/************************************************************/
+
+#container {
+  background-color: rgba(255, 255, 255, 0.18);
+
+  padding-left: 1%;
+  padding-right: 1%;
+
+  width: 65%;
+
+  text-align: center;
+  color: black;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#mainNav {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/8b/36/10/8b3610fda697eaab7375df48313bd858.jpg");
+  background-image: url("http://www.ultrahdfreewallpapers.com/uploads/large/3d-and-abstract/abstract-hd-wallpaper-0148.jpg");
+  text-align: left;
+  height: 30px;
+
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin: 7px 0px;
+
+  font-size: 1.3em;
+
+  border-radius: 5px;
+}
+
+#mainNav ul {
+  margin-left: 1.3%;
+}
+
+#mainNav li {
+  border-left: 1px solid blue;
+}
+
+#mainNav li:hover {
+  color: red;
+}
+
+#mainNav li {
+  display: inline;
+
+  padding-left: 10px;
+  padding-right: 10px;
+
+  cursor: pointer;
+
+}
+
+/***********************************************************
+* Header
+************************************************************/
+#header {
+  background-image: url("http://blog.bubbleteasupply.biz/uploads/2016/07/Pina-Colada-Bubble-Tea-with-Boba-Tapioca-Pearls-01.jpg");
+  padding-top: 30px;
+  height: 200px;
+
+  font-size: 1.8em;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#header h1 {
+  font-size: 3em;
+  margin: 0px;
+}
+
+#header h1 img {
+  margin-top: -100px;
+}
+
+/***********************************************************
+* Content
+************************************************************/
+.content {
+  /* content height */
+  height: 600px;
+}
+
+.rightPanel {
+  display: inline;
+  width: 50%;
+
+  float: right;
+
+  padding: 1.5%;
+  margin: 1%;
+  height: 540px;
+
+  text-align: left;
+
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+
+  /* scroll if needed use 'auto' */
+  overflow-y: auto;
+}
+
+/* Image in every page. */
+.rightPanel img {
+  width: 50%;
+  float: right;
+}
+
+.rightPanel h2 {
+  display: inline;
+  font-size: 2.5em;
+}
+
+.rightPanel p {
+  font-size: 1.3em;
+}
+
+.googleMap {
+  float: left;
+
+  padding: 1.5%;
+  margin: 1%;
+
+  width: 40%;
+  height: 540px;
+
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+}
+
+/* Make sure all the google map fille out the box. */
+.googleMap iframe {
+  width: 100%;
+  height: 100%;
+
+  border-radius: 15px;
+}
+
+/***********************************************************
+* Footer
+************************************************************/
+#footer {
+  background-image: url("../image/footer/footer-background-011.jpg");
+  background-color: #444;
+  padding-top: 25px;
+  height: 200px;
+
+  margin: 7px 0px;
+  text-align: right;
+}
+
+#followUsPanel {
+  text-align: left;
+  padding: 0 2%;
+  border-right: 1px solid #ccc;
+  width: 40%;
+  height: 80%;
+
+  color: #fff;
+
+  float: left;
+}
+
+
+.aLink {
+  /* border: 1px solid red; */
+  width: 30%;
+  overflow: hidden;
+  /* float: left; */
+  text-align: center;
+
+  font-size: 1.2em;
+
+  display: inline-block;
+}
+
+.linkText:hover {
+  color: #eee;
+}
+
+.aLink img {
+  width: 30%;
+  float: left;
+  margin-right: 0.2%;
+}
+
+.linkText {
+  padding-top: 15px;
+  color: #bbb;
+}
+
+#contactUsPanel {
+  float: left;
+  width: 15%;
+  text-align: left;
+  padding-left: 2%;
+
+  /* increase the interval between the line */
+  line-height: 150%;
+
+  color: #bbb;
+}
+
+#contactUsPanel h3 {
+  padding-bottom: 3%;
+
+  color: white;
+}
+
+#learnMorePanel {
+  float: left;
+  width: 23%;
+  text-align: left;
+  padding-left: 2%;
+  border-right: 1px solid #ccc;
+  height: 80%;
+
+  line-height: 150%;
+}
+
+#learnMorePanel a {
+  color: #bbb;
+}
+
+#learnMorePanel a:hover {
+  color: #eee;
+}
+
+#learnMorePanel h3 {
+  padding-bottom: 3%;
+  color: #fff;
+}
+
+#copyright {
+  clear: both;
+  padding: 1%;
+  color: #eee;
+}
+
+/***********************************************************
+* Homgepage
+************************************************************/
+
+#homeBoxContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;/*this default*/
+  flex-wrap: wrap;
+}
+
+.homeBox {
+  flex: 1 0 20%;
+  height: 600px;
+  border: 3px solid rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+
+  background-color: rgba(200, 200, 200, 0.8);
+  transition: background-color 0.5s ease-in-out;
+
+  /* scroll if needed use 'auto' */
+  overflow-y: auto;
+}
+
+.homeBox:hover {
+  background-color: rgba(200, 200, 200, 1.0);
+  transition: background-color 0.5s ease-in-out;
+}
+
+.homeBox h3 {
+  font-size: 1.8em;
+  padding: 3%;
+
+  color: black;
+}
+
+.homeBox img {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.homeBox p {
+  text-align: left;
+  padding: 5%;
+  font-size: 1.3em;
+}

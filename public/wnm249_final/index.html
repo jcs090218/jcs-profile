@@ -1,0 +1,480 @@
+<!--
+   - $File: index.html $
+   - $Date: 2017-07-25 04:46:22 $
+   - $Revision: $
+   - $Creator: Jen-Chieh Shen $
+   - $Notice: See LICENSE.txt for modification and distribution information
+   -                   Copyright (c) 2017 by Shen, Jen-Chieh $
+   -->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MapleStory Survival Kit</title>
+    <meta charset="UTF-8">
+
+    <link rel="icon" href="./favicon.ico" />
+
+    <!-- 3rd party CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Zilla+Slab" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="http://csshake.surge.sh/csshake.min.css">
+
+    <!-- own CSS -->
+    <link href="./css/style.css" rel="stylesheet"/>
+
+  </head>
+  <body>
+
+    <!-- Loading Screen -->
+    <div id="load-screen">
+      <div id="loading">
+        Loading...
+      </div>
+    </div>
+
+    <!-- Time and Weather -->
+    <div id="time-cover"></div>
+
+    <!-- Parallax Layer -->
+    <div id="layer-00">
+      <div id="star-bg"></div>
+      <div id="back-1"></div>
+    </div>
+
+    <div id="layer-01">
+      <div id="back-2"></div>
+    </div>
+
+    <div id="layer-02">
+      <div id="back-4"></div>
+    </div>
+
+    <div id="layer-03">
+      <div class="back-5"></div>
+      <div class="back-5"></div>
+      <div class="back-5"></div>
+      <div class="rainbow"></div>
+      <div class="air-balloon">
+        <img alt="air-balloon-0" src="./images/ID11thFestival - no name/ani.4_0.png"/>
+        <img alt="air-balloon-1" src="./images/ID11thFestival - no name/ani.4_1.png"/>
+        <img alt="air-balloon-2" src="./images/ID11thFestival - no name/ani.4_2.png"/>
+        <img alt="air-balloon-3" src="./images/ID11thFestival - no name/ani.4_3.png"/>
+        <img alt="air-balloon-4" src="./images/ID11thFestival - no name/ani.4_4.png"/>
+        <img alt="air-balloon-5" src="./images/ID11thFestival - no name/ani.4_5.png"/>
+      </div>
+      <div class="air-flag">
+        <img alt="air-balloon-0" src="./images/ID11thFestival - no name/ani.5_0.png"/>
+        <img alt="air-balloon-1" src="./images/ID11thFestival - no name/ani.5_1.png"/>
+        <img alt="air-balloon-2" src="./images/ID11thFestival - no name/ani.5_2.png"/>
+        <img alt="air-balloon-3" src="./images/ID11thFestival - no name/ani.5_3.png"/>
+        <img alt="air-balloon-4" src="./images/ID11thFestival - no name/ani.5_4.png"/>
+        <img alt="air-balloon-5" src="./images/ID11thFestival - no name/ani.5_5.png"/>
+      </div>
+
+      <div class="smoke">
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_0.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_1.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_2.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_3.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_4.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_5.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_6.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_7.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_8.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_9.png"/>
+        <img alt="smoke-5" src="./images/IDvampireEU_town - no name/ani.0_10.png"/>
+      </div>
+    </div>
+
+    <div id="layer-04">
+      <div class="tree-02"></div>
+      <div class="tree-02"></div>
+      <div id="back-17"></div>
+      <div id="ground"></div>
+      <div id="sign"></div>
+      <div id="gil"></div>
+      <div class="back-19"></div>
+      <div class="back-20"></div>
+      <div class="back-20"></div>
+      <div id="lenario">
+        <img alt="lenario_img_0" src="./images/ID2010009 - Lenario/eye_0.png"/>
+        <img alt="lenario_img_1" src="./images/ID2010009 - Lenario/eye_1.png"/>
+        <img alt="lenario_img_2" src="./images/ID2010009 - Lenario/eye_2.png"/>
+      </div>
+
+      <div id="chief">
+        <img alt="chief" src="./images/ID0010300 - unknown/stand_0.png"/>
+      </div>
+
+      <div id="moppie">
+        <img alt="moppie_img_0" src="./images/ID2012019 - Moppie/tail_0.png"/>
+        <img alt="moppie_img_1" src="./images/ID2012019 - Moppie/tail_1.png"/>
+        <img alt="moppie_img_2" src="./images/ID2012019 - Moppie/tail_2.png"/>
+        <img alt="moppie_img_3" src="./images/ID2012019 - Moppie/tail_3.png"/>
+        <img alt="moppie_img_4" src="./images/ID2012019 - Moppie/tail_4.png"/>
+        <img alt="moppie_img_5" src="./images/ID2012019 - Moppie/tail_5.png"/>
+        <img alt="moppie_img_6" src="./images/ID2012019 - Moppie/tail_6.png"/>
+        <img alt="moppie_img_7" src="./images/ID2012019 - Moppie/tail_7.png"/>
+        <img alt="moppie_img_8" src="./images/ID2012019 - Moppie/tail_8.png"/>
+        <img alt="moppie_img_9" src="./images/ID2012019 - Moppie/tail_9.png"/>
+        <img alt="moppie_img_10" src="./images/ID2012019 - Moppie/tail_10.png"/>
+        <img alt="moppie_img_11" src="./images/ID2012019 - Moppie/tail_11.png"/>
+      </div>
+
+      <div class="eak">
+        <img alt="eak_img_00" src="./images/ID2013001 - Chamberiain Eak/stand_0.png"/>
+        <img alt="eak_img_01" src="./images/ID2013001 - Chamberiain Eak/stand_1.png"/>
+        <img alt="eak_img_02" src="./images/ID2013001 - Chamberiain Eak/stand_2.png"/>
+        <img alt="eak_img_03" src="./images/ID2013001 - Chamberiain Eak/stand_3.png"/>
+        <img alt="eak_img_04" src="./images/ID2013001 - Chamberiain Eak/stand_4.png"/>
+        <img alt="eak_img_05" src="./images/ID2013001 - Chamberiain Eak/stand_5.png"/>
+        <img alt="eak_img_06" src="./images/ID2013001 - Chamberiain Eak/stand_6.png"/>
+        <img alt="eak_img_07" src="./images/ID2013001 - Chamberiain Eak/stand_7.png"/>
+        <img alt="eak_img_08" src="./images/ID2013001 - Chamberiain Eak/stand_8.png"/>
+        <img alt="eak_img_09" src="./images/ID2013001 - Chamberiain Eak/stand_9.png"/>
+        <img alt="eak_img_10" src="./images/ID2013001 - Chamberiain Eak/stand_10.png"/>
+        <img alt="eak_img_11" src="./images/ID2013001 - Chamberiain Eak/stand_11.png"/>
+        <img alt="eak_img_12" src="./images/ID2013001 - Chamberiain Eak/stand_12.png"/>
+        <img alt="eak_img_13" src="./images/ID2013001 - Chamberiain Eak/stand_13.png"/>
+        <img alt="eak_img_14" src="./images/ID2013001 - Chamberiain Eak/stand_14.png"/>
+        <img alt="eak_img_15" src="./images/ID2013001 - Chamberiain Eak/stand_15.png"/>
+        <img alt="eak_img_16" src="./images/ID2013001 - Chamberiain Eak/stand_16.png"/>
+        <img alt="eak_img_17" src="./images/ID2013001 - Chamberiain Eak/stand_17.png"/>
+        <img alt="eak_img_18" src="./images/ID2013001 - Chamberiain Eak/stand_18.png"/>
+        <img alt="eak_img_19" src="./images/ID2013001 - Chamberiain Eak/stand_19.png"/>
+        <img alt="eak_img_20" src="./images/ID2013001 - Chamberiain Eak/stand_20.png"/>
+        <img alt="eak_img_21" src="./images/ID2013001 - Chamberiain Eak/stand_21.png"/>
+        <img alt="eak_img_22" src="./images/ID2013001 - Chamberiain Eak/stand_22.png"/>
+        <img alt="eak_img_23" src="./images/ID2013001 - Chamberiain Eak/stand_23.png"/>
+      </div>
+
+      <div class="eak">
+        <img alt="eak_img_00" src="./images/ID2013001 - Chamberiain Eak/stand_0.png"/>
+        <img alt="eak_img_01" src="./images/ID2013001 - Chamberiain Eak/stand_1.png"/>
+        <img alt="eak_img_02" src="./images/ID2013001 - Chamberiain Eak/stand_2.png"/>
+        <img alt="eak_img_03" src="./images/ID2013001 - Chamberiain Eak/stand_3.png"/>
+        <img alt="eak_img_04" src="./images/ID2013001 - Chamberiain Eak/stand_4.png"/>
+        <img alt="eak_img_05" src="./images/ID2013001 - Chamberiain Eak/stand_5.png"/>
+        <img alt="eak_img_06" src="./images/ID2013001 - Chamberiain Eak/stand_6.png"/>
+        <img alt="eak_img_07" src="./images/ID2013001 - Chamberiain Eak/stand_7.png"/>
+        <img alt="eak_img_08" src="./images/ID2013001 - Chamberiain Eak/stand_8.png"/>
+        <img alt="eak_img_09" src="./images/ID2013001 - Chamberiain Eak/stand_9.png"/>
+        <img alt="eak_img_10" src="./images/ID2013001 - Chamberiain Eak/stand_10.png"/>
+        <img alt="eak_img_11" src="./images/ID2013001 - Chamberiain Eak/stand_11.png"/>
+        <img alt="eak_img_12" src="./images/ID2013001 - Chamberiain Eak/stand_12.png"/>
+        <img alt="eak_img_13" src="./images/ID2013001 - Chamberiain Eak/stand_13.png"/>
+        <img alt="eak_img_14" src="./images/ID2013001 - Chamberiain Eak/stand_14.png"/>
+        <img alt="eak_img_15" src="./images/ID2013001 - Chamberiain Eak/stand_15.png"/>
+        <img alt="eak_img_16" src="./images/ID2013001 - Chamberiain Eak/stand_16.png"/>
+        <img alt="eak_img_17" src="./images/ID2013001 - Chamberiain Eak/stand_17.png"/>
+        <img alt="eak_img_18" src="./images/ID2013001 - Chamberiain Eak/stand_18.png"/>
+        <img alt="eak_img_19" src="./images/ID2013001 - Chamberiain Eak/stand_19.png"/>
+        <img alt="eak_img_20" src="./images/ID2013001 - Chamberiain Eak/stand_20.png"/>
+        <img alt="eak_img_21" src="./images/ID2013001 - Chamberiain Eak/stand_21.png"/>
+        <img alt="eak_img_22" src="./images/ID2013001 - Chamberiain Eak/stand_22.png"/>
+        <img alt="eak_img_23" src="./images/ID2013001 - Chamberiain Eak/stand_23.png"/>
+      </div>
+
+      <div class="eak">
+        <img alt="eak_img_00" src="./images/ID2013001 - Chamberiain Eak/stand_0.png"/>
+        <img alt="eak_img_01" src="./images/ID2013001 - Chamberiain Eak/stand_1.png"/>
+        <img alt="eak_img_02" src="./images/ID2013001 - Chamberiain Eak/stand_2.png"/>
+        <img alt="eak_img_03" src="./images/ID2013001 - Chamberiain Eak/stand_3.png"/>
+        <img alt="eak_img_04" src="./images/ID2013001 - Chamberiain Eak/stand_4.png"/>
+        <img alt="eak_img_05" src="./images/ID2013001 - Chamberiain Eak/stand_5.png"/>
+        <img alt="eak_img_06" src="./images/ID2013001 - Chamberiain Eak/stand_6.png"/>
+        <img alt="eak_img_07" src="./images/ID2013001 - Chamberiain Eak/stand_7.png"/>
+        <img alt="eak_img_08" src="./images/ID2013001 - Chamberiain Eak/stand_8.png"/>
+        <img alt="eak_img_09" src="./images/ID2013001 - Chamberiain Eak/stand_9.png"/>
+        <img alt="eak_img_10" src="./images/ID2013001 - Chamberiain Eak/stand_10.png"/>
+        <img alt="eak_img_11" src="./images/ID2013001 - Chamberiain Eak/stand_11.png"/>
+        <img alt="eak_img_12" src="./images/ID2013001 - Chamberiain Eak/stand_12.png"/>
+        <img alt="eak_img_13" src="./images/ID2013001 - Chamberiain Eak/stand_13.png"/>
+        <img alt="eak_img_14" src="./images/ID2013001 - Chamberiain Eak/stand_14.png"/>
+        <img alt="eak_img_15" src="./images/ID2013001 - Chamberiain Eak/stand_15.png"/>
+        <img alt="eak_img_16" src="./images/ID2013001 - Chamberiain Eak/stand_16.png"/>
+        <img alt="eak_img_17" src="./images/ID2013001 - Chamberiain Eak/stand_17.png"/>
+        <img alt="eak_img_18" src="./images/ID2013001 - Chamberiain Eak/stand_18.png"/>
+        <img alt="eak_img_19" src="./images/ID2013001 - Chamberiain Eak/stand_19.png"/>
+        <img alt="eak_img_20" src="./images/ID2013001 - Chamberiain Eak/stand_20.png"/>
+        <img alt="eak_img_21" src="./images/ID2013001 - Chamberiain Eak/stand_21.png"/>
+        <img alt="eak_img_22" src="./images/ID2013001 - Chamberiain Eak/stand_22.png"/>
+        <img alt="eak_img_23" src="./images/ID2013001 - Chamberiain Eak/stand_23.png"/>
+      </div>
+    </div>
+
+    <div id="layer-05">
+      <div class="cloud-01"></div>
+      <div class="cloud-01"></div>
+      <div class="cloud-01"></div>
+      <div class="cloud-01"></div>
+      <div class="cloud-01"></div>
+      <div class="cloud-01"></div>
+      <div class="cloud-02"></div>
+      <div class="cloud-02"></div>
+      <div class="cloud-02"></div>
+      <div class="cloud-02"></div>
+      <div class="cloud-02"></div>
+      <div class="cloud-02"></div>
+      <div class="tree-01"></div>
+      <div id="moon"></div>
+    </div>
+
+    <div id="layer-06">
+      <div class="light-00"></div>
+      <div class="light-01"></div>
+      <div class="light-02"></div>
+    </div>
+
+    <!-- Main Content -->
+
+    <!-- Navigation -->
+    <div id="nav">
+      <!-- Everything inside nav will need to trigger
+           on the `pointer-events: auto', if you want
+           to keep the mouse events. -->
+      <div id="toggle-nav">►</div>
+      <div id="nav-panel">
+        <ul>
+          <li class="pageHome nav-btn">Home</li>
+          <li class="pageRight nav-btn">Experience</li>
+          <li class="pageLeft nav-btn">Possiblity</li>
+          <li class="pageTop nav-btn">Pay to WIN</li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="container">
+      <header>
+        <label id="toggle-btn">
+          <input type="checkbox" checked/>
+          <span class="slider round"></span>
+        </label>
+        <div id="logo">
+          <h1>MapleStory Survival Kit</h1>
+        </div>
+      </header>
+
+      <div id="announcement">
+        <marquee behavior="scroll" align="middle">
+          <div id="announcement-text">
+            Announcement
+          </div>
+        </marquee>
+      </div>
+
+      <div id="content-container">
+        <div id="main-panel">
+          <div id="content-home" class="content-panel">
+            <img alt="guild_memory" src="./images/memory/guild_memory.png"/>
+
+            <h1>Home</h1>
+            <p>
+              Welcome to MapleStory Survival Kit, if you have any
+              trouble while playing current patch of MapleStory.
+              Then you come to the wrong place, this website
+              only provide the old MapleStory's information
+              and experience of how the game logic work as
+              a software. If you have any specific question about
+              the current MapleStory patch then you might felt
+              disappointed and think of this website is utterly
+              useless to you. The purpose of this website is to
+              share the old memory and feel entertain about what
+              all MapleStory's player have done in the past. Give
+              yourself a question of "What if?" and "What could it
+              change?" that we all have done the wrong decision
+              in the game. For instance, I have try to upgreade
+              the item with the 60% scoll but it failed. You might
+              think that is just a bad luck happen while play this
+              game. In fact, how if I tell you this is not true to
+              everyone and to anytime? What would have been change
+              in the game?
+            </p>
+
+            <h1>About Author</h1>
+            <p>
+              Hello! My name is
+              <a href="#">Jen-Chieh Shen</a>.
+              I make and study games as a role of game programmer
+              at
+              <a href="#">
+                Academy of Art University</a>. MapleStory is
+              one of my favorite Massively Multiplayer Online
+              Game. MapleStory does really well attracting
+              people because the game have fantastic art and
+              unique game mechanics. That is why I have been
+              playing this game over half of decade. I truely
+              enjoy the game and miss the old time that this
+              game brought me to. Well, time does not goes back,
+              just want to put down something in my lift to show
+              off how important this game bring me and entertain
+              me when I was a little kid.
+            </p>
+          </div>
+
+          <!-- Experience -->
+          <div id="content-right" class="content-panel">
+            <h1>Experience</h1>
+            <p>
+              Weclome to the experience section. This section
+              is about how experiences can be use to change
+              the way of playing MapleStory. If you want to be
+              the really good at something you certainly need to
+              practice or get use to that in order to master it.
+              Neither do MapleStory, you just need to be playing
+              with your friend and research about the quest and
+              you are done. Their might be a little issue with
+              people who want to sale item in the game. I remember
+              when I was 7th grade and I am trying to make some
+              money through the game because someone who willing
+              to pay you because they do not have time to do the
+              quest or something related. Is all about the experience
+              will help you get better to the game itself.
+            </p>
+
+            <img alt="gameplay_01" src="./images/gameplay/gameplay_01.jpg"/>
+            <p>Get the Quest!~</p>
+
+          </div>
+
+          <!-- Possiblity -->
+          <div id="content-left" class="content-panel">
+            <img class="shake-slow"  alt="machine_01" src="./images/machine/machine_01.png"/>
+
+            <h1>Possiblity</h1>
+            <p>
+              Most of the game is interact with strategy and luck.
+              If one game's win or lose hardly rely on the luck
+              then we can call this gamble. In reality we could
+              use trick or method to achieve 100% win rate. So
+              as the video game, we could all achieve 100%
+              win rate if we use the right method. But depends
+              on the method you used this could be lead to
+              multiple consequences. Here I would like to share
+              informations that alot of people does not know while
+              they playing a Massively Multiplayer Online game.
+              Fire and foremost, I would need to brought up
+              randomness, so what exactly randomness in video
+              games? In game development, randomness is something
+              we think of the luck. Indeed, in order to make chance
+              in video game is to generate a random number. Then
+              base on that number we could have the diversity
+              results. So what is the point?
+            </p>
+
+            <img class="shake-slow" alt="machine_02" src="./images/machine/machine_02.png"/>
+
+            <p>
+              The secret is how does human generate random numbers
+              in video game or any software? Answer is programmer
+              gnerate random number base on the certain amount of
+              data and turn that into algorithm. You might think of
+              why doe this matter? This matter because this mean
+              randomness is actually not random. You might heard of
+              the news about someone won the lottery by measuring
+              the algorithm, etc. This could be fake news, but this
+              isn't impossible to do if you understand the algorithm.
+              You can almost 100 percent get want you want in the
+              software world.
+            </p>
+
+            <img class="shake-slow" alt="machine_03" src="./images/machine/machine_03.gif"/>
+
+            <h1>Trick</h1>
+            <p>
+              According to above information we can proof this in
+              MapleStory. Just oberve how people gain the item
+              from the egg machine. You will discover when people
+              get certain amount of good item in the certain amount
+              of time. Why? because the algorithm is base on the
+              time itself, which mean if you want to use egg machine
+              you could simply check of the master announce post
+              in order to get the good timing. Good Luck!
+            </p>
+
+          </div>
+
+          <!-- Pay to WIN -->
+          <div id="content-top" class="content-panel">
+            <img alt="kms_2_screen" src="./images/KMS_2_screen.jpg"/>
+
+            <h1>Pay to WIN</h1>
+            <p>
+              Welcome to Pay to WIN section! This is topic that I
+              would not want to talk about, but I think this become
+              more and more important by the time goes. Since the
+              third CEO of the game MapleStory had change their
+              sale strategy the game have basically changed from
+              a pure fun game into the pay to win game. I would
+              not say that this is not wrong since I am also work
+              in the game industry, in normal to see people
+              trying to sell their game hardly. But really, I mean
+              MapleStory is so popular, they have all the reputation
+              and could easily make another game by using the
+              same concept or what so ever. Is worst to turn
+              a good game into a selling game because it would
+              game become another normal game and I believe
+              Nexon can proof that they have good income from
+              MapleStory for certain amount of year. It just
+              not necessary for them to change the selling
+              strategy. Now people will just leave this game
+              because the game have already lose the fun and
+              challenges.
+            </p>
+
+            <h1>MapleStory 2</h1>
+            <p>
+              Good News to all the MapleStory fans. Nexon have
+              plan MapleStory 2 but which is another completely
+              different game. Hopefully it could bring us the
+              sense of the adventure what MapleStory brought
+              to us. MapleStory 2 have been release in 2015 at
+              Korean, some of my friend have tried them at KMS 2.
+              Seem like this would not be as fun as the old GMS
+              but will still bring us some fun I suppose.
+            </p>
+          </div>
+        </div>
+
+        <footer>
+          Design by
+          <a href="#">Jen-Chieh Shen</a>
+          & Coded by
+          <a href="#">Jen-Chieh Shen</a>
+          - Copyright © 2017
+          <br/>
+          All "MapleStory Survival Kit" related image are property of "Nexon Cooperation".
+        </footer>
+      </div>
+
+    </div>
+
+
+    <!-- -------------------------------- -->
+    <!-- 3rd party -->
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"></script>
+    <script src="./js/lib/ion.sound.min.js"></script>
+
+    <!-- own code -->
+    <!-- Config -->
+    <script src="./config/config.js"></script>
+
+    <!-- action event -->
+    <script src="./js/JCSJSF/src/jcsjsf.js"></script>
+    <script src="./js/day.js"></script>
+    <script src="./js/sound.js"></script>
+
+    <!-- start of the script. -->
+    <script src="./js/drop_effect.js"></script>
+    <script src="./js/main.js"></script>
+
+  </body>
+</html>

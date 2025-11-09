@@ -1,0 +1,14 @@
+# ========================================================================
+# $File: Update_Log.txt $
+# $Date: 2017-08-09 17:56:27 $
+# $Revision: $
+# $Creator: Jen-Chieh Shen $
+# $Notice: See LICENSE.txt for modification and distribution information
+#                   Copyright (c) 2017 by Shen, Jen-Chieh $
+# ========================================================================
+
+
+2017-08-09
+* jcs_random implemented. (JCSJSF)
+* jcs_animation implemented. (JCSJSF)
+* Setup project. (JCSJSF)
