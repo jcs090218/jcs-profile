@@ -24,12 +24,12 @@ jobs:
       with:
         submodules: true
 
-    - name: Remove .git from submodule
+    - name: Don't treat submodules
       run: |
-        rm -rf static/public/wnm249_midterm/.git/
-        rm -rf static/public/wnm249_final/.git/
-        rm -rf static/public/sherlock-web/.git/
-        rm -rf static/public/Links_PipelineOfEmperorYu/.git/
+        git rm -r --cached static/public/wnm249_midterm/
+        git rm -r --cached static/public/wnm249_final/
+        git rm -r --cached static/public/sherlock-web/
+        git rm -r --cached static/public/Links_PipelineOfEmperorYu/
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
