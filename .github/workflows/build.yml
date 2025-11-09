@@ -34,6 +34,7 @@ jobs:
       with:
         ref: gh-pages
         path: ${{ env.PATH_DOC }}
+        submodules: true
 
     - name: Clean up before the build
       working-directory: ${{ env.PATH_DOC }}
