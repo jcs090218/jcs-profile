@@ -1,3 +1,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "static/public/Links_PipelineOfEmperorYu"]
+	path = static/public/Links_PipelineOfEmperorYu
+	url = https://gitlab.com/jcs-profile/public/Links_PipelineOfEmperorYu
