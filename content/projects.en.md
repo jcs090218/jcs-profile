@@ -629,6 +629,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [foldvis](https://github.com/emacs-vs/foldvis) (Fall 2025):
+Display indicators for various folding systems.
 - [eca](https://github.com/editor-code-assistant/eca-emacs) (Summer 2025 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [Editor Code Assistant (ECA)][ECA] integration for [Emacs][].
