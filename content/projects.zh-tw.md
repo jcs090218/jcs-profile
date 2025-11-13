@@ -1473,7 +1473,7 @@ data-balloon-pos="up">💸</span>):
   讓 [MGDP][] 遊戲開發人員有能力創作自己的音樂遊戲，並在 [MGDP][] 平台上發行。
 - [JCSUE][] (秋 2017):
 利用多種元件和預先定義的預設設定，快速建構您的遊戲。
-- [jcs-vim](https://github.com/jcs090218/jcs-vim) (冬 2016):
+- [jcs-vim][] (冬 2016 – 現在):
 我個人的 [vim][] 配置文件。
 這是我使用 [Vim][] 的初步經驗，我有興趣在未來探索 [NeoVim][]。
 
@@ -1840,6 +1840,8 @@ data-balloon-pos="up">💸</span>):
 [jcs-frametitle]: https://github.com/jcs-emacs/jcs-frametitle
 [jcs-modeline]: https://github.com/jcs-emacs/jcs-modeline
 [doomemacs]: https://github.com/doomemacs/doomemacs
+
+[jcs-vim]: https://github.com/jcs090218/jcs-vim
 
 <!-- Algorithms -->
 [cl-flx]: https://github.com/the-flx/cl-flx

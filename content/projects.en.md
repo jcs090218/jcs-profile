@@ -1490,7 +1490,7 @@ Automatically generate the [swagger.io][] yaml file for your project.
   Empower [MGDP][] game developers with the capability to create their own music games and publish them on the [MGDP][] platform.
 - [JCSUE][] (Fall 2017):
 Quickly construct your game by utilizing multiple components and predefined default settings.
-- [jcs-vim](https://github.com/jcs090218/jcs-vim) (Winter 2016):
+- [jcs-vim][] (Winter 2016 – Present):
 My personal [vim][] configuration files.
 This is my initial experience with [Vim][], and I'm interested in exploring [NeoVim][] in the future.
 
@@ -1858,6 +1858,8 @@ The project was initiated during the course of work but is no longer in use as t
 [jcs-frametitle]: https://github.com/jcs-emacs/jcs-frametitle
 [jcs-modeline]: https://github.com/jcs-emacs/jcs-modeline
 [doomemacs]: https://github.com/doomemacs/doomemacs
+
+[jcs-vim]: https://github.com/jcs090218/jcs-vim
 
 <!-- Algorithms -->
 [cl-flx]: https://github.com/the-flx/cl-flx
