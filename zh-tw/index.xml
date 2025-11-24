@@ -1078,7 +1078,7 @@ Vim口令那樣的設計巧思. 根本就是一塊石頭. 在這樣的情況下,
 &lt;li&gt;&lt;span aria-label=&#34;職稱&#34; data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt; = 在團隊的角色&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;維護者&#34; data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt; = 維護者&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;貢獻者&#34; data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt; = 貢獻者&lt;/li&gt;
-&lt;li&gt;&lt;span aria-label=&#34;分支項目&#34; data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt; = 分支項目 （非原作者）&lt;/li&gt;
+&lt;li&gt;&lt;span aria-label=&#34;分支&#34; data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt; = 分支 （非原作者）&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;獎勵或成就&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt; = 獎勵或成就&lt;/li&gt;
 &lt;li&gt;&lt;span aria-label=&#34;成人內容&#34; data-balloon-pos=&#34;up&#34;&gt;🔞&lt;/span&gt; = 成人內容&lt;/li&gt;
 &lt;/ul&gt;
@@ -1628,12 +1628,12 @@ data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;):
 它也支援各種 CG 程式語言，例如 &lt;a href=&#34;https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl&#34;&gt;HLSL&lt;/a&gt;、&lt;a href=&#34;https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language&#34;&gt;GLSL&lt;/a&gt;、&lt;a href=&#34;https://en.wikipedia.org/wiki/Cg_%28programming_language%29&#34;&gt;Cg&lt;/a&gt; 等。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/emacs-grammarly/grammarly-language-server&#34;&gt;grammarly-language-server&lt;/a&gt; (夏 2022 &lt;span aria-label=&#34;貢獻者&#34;
 data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt;&lt;span aria-label=&#34;維護者&#34;
-data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;&lt;span aria-label=&#34;分支項目&#34;
+data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;&lt;span aria-label=&#34;分支&#34;
 data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt;):
 適用於 &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;VS Code&lt;/a&gt; 的 &lt;a href=&#34;https://www.grammarly.com/&#34;&gt;Grammarly&lt;/a&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/emacs-grammarly/unofficial-grammarly-language-server&#34;&gt;unofficial-grammarly-language-server&lt;/a&gt; (春 2021 &lt;span aria-label=&#34;貢獻者&#34;
 data-balloon-pos=&#34;up&#34;&gt;✨&lt;/span&gt;&lt;span aria-label=&#34;維護者&#34;
-data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;&lt;span aria-label=&#34;分支項目&#34;
+data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;&lt;span aria-label=&#34;分支&#34;
 data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt;):
 非官方 &lt;a href=&#34;https://www.grammarly.com/&#34;&gt;Grammarly&lt;/a&gt; 擴充。
 從原始儲存庫分叉並維護一個版本以確保與各種編輯器的兼容性。
