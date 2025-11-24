@@ -1381,7 +1381,7 @@ This was initially developed for several of my game frameworks, including [JCSUn
 <details class="my-details">
   <summary>See details</summary>
 
-- [jcs-actions/delete-tag-and-release][] (冬 2025 <span aria-label="Contributor"
+- [jcs-actions/delete-tag-and-release][] (Winter 2025 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Forked"
 data-balloon-pos="up">🔗</span><span aria-label="Published to GitHub Marketplace (7)"
 data-balloon-pos="up">🏅</span>):
