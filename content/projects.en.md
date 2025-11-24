@@ -1381,6 +1381,11 @@ This was initially developed for several of my game frameworks, including [JCSUn
 <details class="my-details">
   <summary>See details</summary>
 
+- [jcs-actions/delete-tag-and-release][] (冬 2025 <span aria-label="Contributor"
+data-balloon-pos="up">✨</span><span aria-label="Forked"
+data-balloon-pos="up">🔗</span><span aria-label="Published to GitHub Marketplace (7)"
+data-balloon-pos="up">🏅</span>):
+Simple action to delete a git tag, and optionally the associated release.
 - [setup-qob](https://github.com/cl-qob/setup-qob) (Winter 2024 <span aria-label="Published to GitHub Marketplace (6)"
 data-balloon-pos="up">🏅</span>):
 Install [Qob][] for [GitHub Actions][] workflow.
@@ -1402,11 +1407,11 @@ Automatically locate the most recent [Emacs][]' snapshot and update the code thr
 - [setup-lem](https://github.com/lem-project/setup-lem) (Fall 2023 <span aria-label="Published to GitHub Marketplace (5)"
 data-balloon-pos="up">🏅</span>):
 Install [Lem][] for [GitHub Actions][] workflow.
-- [github-push-action](https://github.com/jcs090218/github-push-action) (Summer 2022 <span aria-label="Contributor"
+- [jcs-actions/github-push-action][] (Summer 2022 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span><span aria-label="Forked"
 data-balloon-pos="up">🔗</span><span aria-label="Published to GitHub Marketplace (4)"
 data-balloon-pos="up">🏅</span>):
-Forked from [ad-m/github-push-action](https://github.com/ad-m/github-push-action), this fork includes the rebase option tailored for my automation workflows.
+Forked from [ad-m/github-push-action][], this fork includes the rebase option tailored for my automation workflows.
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summer 2022 <span aria-label="Published to GitHub Marketplace (3)"
 data-balloon-pos="up">🏅</span>):
 [Github Actions][] which installs a given [Emacs][] version.
@@ -1945,6 +1950,11 @@ The project was initiated during the course of work but is no longer in use as t
 [Cognitive Complexity]: https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
 [Genetic Algorithm]: https://en.wikipedia.org/wiki/Genetic_algorithm
+
+<!-- CI & CD -->
+[jcs-actions/github-push-action]: https://github.com/jcs-actions/github-push-action
+[jcs-actions/delete-tag-and-release]: https://github.com/jcs-actions/delete-tag-and-release
+[ad-m/github-push-action]: https://github.com/ad-m/github-push-action
 
 <!-- AI -->
 [Copilot]: https://github.com/features/copilot

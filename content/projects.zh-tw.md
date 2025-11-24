@@ -12,7 +12,7 @@ ShowReadingTime: false
 - <span aria-label="職稱" data-balloon-pos="up">👨‍💼</span> = 在團隊的角色
 - <span aria-label="維護者" data-balloon-pos="up">👷</span> = 維護者
 - <span aria-label="貢獻者" data-balloon-pos="up">✨</span> = 貢獻者
-- <span aria-label="分支項目" data-balloon-pos="up">🔗</span> = 分支項目 （非原作者）
+- <span aria-label="分支" data-balloon-pos="up">🔗</span> = 分支 （非原作者）
 - <span aria-label="獎勵或成就" data-balloon-pos="up">🏅</span> = 獎勵或成就
 - <span aria-label="成人內容" data-balloon-pos="up">🔞</span> = 成人內容
 
@@ -594,12 +594,12 @@ data-balloon-pos="up">🏅</span>):
 它也支援各種 CG 程式語言，例如 [HLSL][]、[GLSL][]、[Cg][] 等。
 - [grammarly-language-server][] (夏 2022 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span><span aria-label="維護者"
-data-balloon-pos="up">👷</span><span aria-label="分支項目"
+data-balloon-pos="up">👷</span><span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 適用於 [VS Code][VSCode] 的 [Grammarly][]。
 - [unofficial-grammarly-language-server][] (春 2021 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span><span aria-label="維護者"
-data-balloon-pos="up">👷</span><span aria-label="分支項目"
+data-balloon-pos="up">👷</span><span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 非官方 [Grammarly][] 擴充。
 從原始儲存庫分叉並維護一個版本以確保與各種編輯器的兼容性。
@@ -783,7 +783,7 @@ data-balloon-pos="up">👷</span>):
 [eglot][] 客戶端利用 [shader-language-server][]。
 - [nerd-icons-buffer-menu](https://github.com/jcs-elpa/nerd-icons-buffer-menu) (夏 2023):
 在 [buffer-menu][] 中顯示 [nerd icons][nerd-icons]。
-- [on.el](https://github.com/elp-revive/on.el) (夏 2023 <span aria-label="分支項目"
+- [on.el](https://github.com/elp-revive/on.el) (夏 2023 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 加快 [Emacs][] 啟動速度的鉤子。
 - [deepl](https://github.com/emacs-openai/deepl) (夏 2023):
@@ -891,24 +891,24 @@ data-balloon-pos="up">👷</span>):
 - [git-gutter](https://github.com/emacsorphanage/git-gutter) (秋 2022 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 [Emacs][] 版 [GitGutter][]，這是 [Sublime Text][] 插件。
-- [company-autoconf](https://github.com/elp-revive/company-autoconf) (秋 2022 <span aria-label="分支項目"
+- [company-autoconf](https://github.com/elp-revive/company-autoconf) (秋 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 用於在 [Emacs][] 中編輯 [autoconf][] 文件的完成後端。
 - [company-kaomoji](https://github.com/jcs-elpa/company-kaomoji) (秋 2022):
 [Company][] [Kaomoji][] 的後端。
-- [kaomoji.el](https://github.com/elp-revive/kaomoji.el) (秋 2022 <span aria-label="分支項目"
+- [kaomoji.el](https://github.com/elp-revive/kaomoji.el) (秋 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 輕鬆輸入[kaomoji][]（顔文字）！┌（┌ ＾o＾）┐ﾎﾓｫ
-- [company-makefile](https://github.com/elp-revive/company-makefile) (秋 2022 <span aria-label="分支項目"
+- [company-makefile](https://github.com/elp-revive/company-makefile) (秋 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 [Emacs][] [company][] [GNU Makefiles][Make] 的完成後端。
-- [company-cmd](https://github.com/elp-revive/company-cmd) (秋 2022 <span aria-label="分支項目"
+- [company-cmd](https://github.com/elp-revive/company-cmd) (秋 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 [Emacs][] [company-mode][] Windows [DOS][]/[batch][] 腳本的後端。
-- [company-powershell](https://github.com/elp-revive/company-powershell) (秋 2022 <span aria-label="分支項目"
+- [company-powershell](https://github.com/elp-revive/company-powershell) (秋 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 [Emacs][] 中 [powershell-mode][] 的自動完成後端。
-- [company-dockerfile](https://github.com/elp-revive/company-dockerfile) (秋 2022 <span aria-label="分支項目"
+- [company-dockerfile](https://github.com/elp-revive/company-dockerfile) (秋 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 將 [dockerfile][Docker] 關鍵字添加到 [company-mode][] 關鍵字列表中。
 - [ts-docstr](https://github.com/emacs-vs/ts-docstr) (秋 2022):
@@ -933,22 +933,22 @@ data-balloon-pos="up">👷</span>):
 - [gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) (夏 2022 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 一個用於獲得 [GDScript][] 支援和語法高亮顯示的 [Emacs][] 套件。
-- [javap-mode](https://github.com/elp-revive/javap-mode) (夏 2022 <span aria-label="分支項目"
+- [javap-mode](https://github.com/elp-revive/javap-mode) (夏 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 在 [Emacs][] 中打開 JVM 類文件時，顯示 [javap](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html) 的輸出結果。
-- [company-coffee](https://github.com/elp-revive/company-coffee) (夏 2022 <span aria-label="分支項目"
+- [company-coffee](https://github.com/elp-revive/company-coffee) (夏 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 [Emacs][] 將 [coffee][CoffeeScript] 關鍵字添加到 `company-keywords` 以進行自動完成。
-- [company-c-headers](https://github.com/elp-revive/company-c-headers) (夏 2022 <span aria-label="分支項目"
+- [company-c-headers](https://github.com/elp-revive/company-c-headers) (夏 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 使用 [Company][] 自動完成 [C][] / [C++][] 標頭。
-- [buffer-move](https://github.com/elp-revive/buffer-move) (夏 2022 <span aria-label="分支項目"
+- [buffer-move](https://github.com/elp-revive/buffer-move) (夏 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 輕鬆交換 buffers。
-- [noflet](https://github.com/elp-revive/noflet) (夏 2022 <span aria-label="分支項目"
+- [noflet](https://github.com/elp-revive/noflet) (夏 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 nic 的主要功能是為裝飾目的而提供裝飾功能。
-- [eping](https://github.com/elp-revive/eping) (夏 2022 <span aria-label="分支項目"
+- [eping](https://github.com/elp-revive/eping) (夏 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 一個使用 [ping](https://en.wikipedia.org/wiki/Ping_(networking_utility)) 檢查互聯網連接的 [Emacs][] 套件。
 - [flymake-eask](https://github.com/flymake/flymake-eask) (夏 2022):
@@ -973,7 +973,7 @@ Minor mode 實現 [Visual Studio][] 中的編輯體驗。
 - [fontawesome](https://github.com/emacsorphanage/fontawesome) (春 2022 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 [FontAwesome][] 工具。
-- [quick-peek](https://github.com/emacs-vs/quick-peek) (春 2022 <span aria-label="分支項目"
+- [quick-peek](https://github.com/emacs-vs/quick-peek) (春 2022 <span aria-label="分支"
 data-balloon-pos="up">🔗</span><span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 [Emacs][] 的快速預覽內嵌視窗庫。
@@ -1006,7 +1006,7 @@ data-balloon-pos="up">👷</span>):
 使用 [Rust][] 將 [sublime_fuzzy](https://github.com/Schlechtwetterfront/fuzzy-rs) 編譯為 [Emacs][] 可載入的二進位檔。
 - [github-tags](https://github.com/jcs-elpa/github-tags) (秋 2021):
 通過 [GitHub][] API 檢索標籤信息。
-- [company-box](https://github.com/elp-revive/company-box) (秋 2021 <span aria-label="分支項目"
+- [company-box](https://github.com/elp-revive/company-box) (秋 2021 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 一個帶有圖標的 [company][] 前端。
 由於在 [Windows][] 上使用困難，因此進行了分叉，加入了許多錯誤修復、性能增強和其他改進。
@@ -1155,7 +1155,7 @@ data-balloon-pos="up">👷</span>):
 填滿 buffer，這樣您就不會在最後看到空行。
 - [undersea-theme](https://github.com/jcs-legacy/undersea-theme) (秋 2020):
 以海底圖像為主題。
-- [origami.el][] (夏 2020 <span aria-label="分支項目"
+- [origami.el][] (夏 2020 <span aria-label="分支"
 data-balloon-pos="up">🔗</span>):
 [Emacs][] 的折疊次要模式。
 這個專案是一個基於 [Regular Expression][regex] 的解決方案，但在 [ts-fold][] 產生之後，這個方案就被廢棄了。
@@ -1367,6 +1367,11 @@ data-balloon-pos="up">🏅</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
+- [jcs-actions/delete-tag-and-release][] (冬 2025 <span aria-label="貢獻者"
+data-balloon-pos="up">✨</span><span aria-label="分支"
+data-balloon-pos="up">🔗</span><span aria-label="發佈至 GitHub Marketplace (7)"
+data-balloon-pos="up">🏅</span>):
+刪除 Git 標籤的簡易操作，並可選擇性地刪除相關聯的版本發佈。
 - [setup-qob](https://github.com/cl-qob/setup-qob) (冬 2024 <span aria-label="發佈至 GitHub Marketplace (6)"
 data-balloon-pos="up">🏅</span>):
 為 [GitHub Actions][] 工作流程安裝 [Qob][]。
@@ -1387,11 +1392,11 @@ data-balloon-pos="up">🏅</span>):
 - [setup-lem](https://github.com/lem-project/setup-lem) (秋 2023 <span aria-label="發佈至 GitHub Marketplace (5)"
 data-balloon-pos="up">🏅</span>):
 為 [GitHub Actions][] 工作流程安裝 [Lem][]。
-- [github-push-action](https://github.com/jcs090218/github-push-action) (夏 2022 <span aria-label="貢獻者"
-data-balloon-pos="up">✨</span><span aria-label="分支項目"
+- [jcs-actions/github-push-action] (夏 2022 <span aria-label="貢獻者"
+data-balloon-pos="up">✨</span><span aria-label="分支"
 data-balloon-pos="up">🔗</span><span aria-label="發佈至 GitHub Marketplace (4)"
 data-balloon-pos="up">🏅</span>):
-分叉自 [ad-m/github-push-action](https://github.com/ad-m/github-push-action)，此分叉包含為我的自動化工作流程量身打造的 rebase 選項。
+分叉自 [ad-m/github-push-action][]，此分叉包含為我的自動化工作流程量身打造的 rebase 選項。
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (夏 2022 <span aria-label="發佈至 GitHub Marketplace (3)"
 data-balloon-pos="up">🏅</span>):
 安裝指定 [Emacs][] 版本的 [Github Actions][]。本專案的目的是取代 [purcell/setup-emacs][]，
@@ -1927,6 +1932,11 @@ data-balloon-pos="up">💸</span>):
 [Cognitive Complexity]: https://www.sonarsource.com/docs/CognitiveComplexity.pdf
 [Infinite monkey theorem]: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
 [Genetic Algorithm]: https://en.wikipedia.org/wiki/Genetic_algorithm
+
+<!-- CI & CD -->
+[jcs-actions/github-push-action]: https://github.com/jcs-actions/github-push-action
+[jcs-actions/delete-tag-and-release]: https://github.com/jcs-actions/delete-tag-and-release
+[ad-m/github-push-action]: https://github.com/ad-m/github-push-action
 
 <!-- AI -->
 [Copilot]: https://github.com/features/copilot
