@@ -1385,7 +1385,8 @@ This was initially developed for several of my game frameworks, including [JCSUn
 data-balloon-pos="up">✨</span><span aria-label="Forked"
 data-balloon-pos="up">🔗</span><span aria-label="Published to GitHub Marketplace (7)"
 data-balloon-pos="up">🏅</span>):
-Simple action to delete a git tag, and optionally the associated release.
+Simple action to delete a [git][] tag, and optionally the associated release.
+Forked from [dev-drprasad/delete-tag-and-release][] and [ClementTsang/delete-tag-and-release][], my own maintained fork since the upstream is no longer being maintained.
 - [setup-qob](https://github.com/cl-qob/setup-qob) (Winter 2024 <span aria-label="Published to GitHub Marketplace (6)"
 data-balloon-pos="up">🏅</span>):
 Install [Qob][] for [GitHub Actions][] workflow.
@@ -1411,6 +1412,7 @@ Install [Lem][] for [GitHub Actions][] workflow.
 data-balloon-pos="up">✨</span><span aria-label="Forked"
 data-balloon-pos="up">🔗</span><span aria-label="Published to GitHub Marketplace (4)"
 data-balloon-pos="up">🏅</span>):
+GitHub actions to push back to repository eg. updated code.
 Forked from [ad-m/github-push-action][], this fork includes the rebase option tailored for my automation workflows.
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (Summer 2022 <span aria-label="Published to GitHub Marketplace (3)"
 data-balloon-pos="up">🏅</span>):
@@ -1657,6 +1659,7 @@ The project was initiated during the course of work but is no longer in use as t
 [MongoDB]: https://www.mongodb.com/
 
 <!-- Tools -->
+[Git]: https://git-scm.com/
 [Emacs]: https://www.gnu.org/software/emacs/
 [Vim]: https://www.vim.org/
 [NeoVim]: https://neovim.io/
@@ -1954,7 +1957,10 @@ The project was initiated during the course of work but is no longer in use as t
 <!-- CI & CD -->
 [jcs-actions/github-push-action]: https://github.com/jcs-actions/github-push-action
 [jcs-actions/delete-tag-and-release]: https://github.com/jcs-actions/delete-tag-and-release
+
 [ad-m/github-push-action]: https://github.com/ad-m/github-push-action
+[dev-drprasad/delete-tag-and-release]: https://github.com/dev-drprasad/delete-tag-and-release
+[ClementTsang/delete-tag-and-release]: https://github.com/ClementTsang/delete-tag-and-release
 
 <!-- AI -->
 [Copilot]: https://github.com/features/copilot

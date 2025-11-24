@@ -1371,7 +1371,8 @@ data-balloon-pos="up">🏅</span>):
 data-balloon-pos="up">✨</span><span aria-label="分支"
 data-balloon-pos="up">🔗</span><span aria-label="發佈至 GitHub Marketplace (7)"
 data-balloon-pos="up">🏅</span>):
-刪除 Git 標籤的簡易操作，並可選擇性地刪除相關聯的版本發佈。
+刪除 [Git][] 標籤的簡易操作，並可選擇性地刪除相關聯的版本發佈。
+此分支源自 [dev-drprasad/delete-tag-and-release][] 與 [ClementTsang/delete-tag-and-release][]，因上游項目已停止維護，故由我自行維護此分支。
 - [setup-qob](https://github.com/cl-qob/setup-qob) (冬 2024 <span aria-label="發佈至 GitHub Marketplace (6)"
 data-balloon-pos="up">🏅</span>):
 為 [GitHub Actions][] 工作流程安裝 [Qob][]。
@@ -1396,6 +1397,7 @@ data-balloon-pos="up">🏅</span>):
 data-balloon-pos="up">✨</span><span aria-label="分支"
 data-balloon-pos="up">🔗</span><span aria-label="發佈至 GitHub Marketplace (4)"
 data-balloon-pos="up">🏅</span>):
+[GitHub][] 動作用於將更新內容（例如更新後的程式碼）推送回儲存庫。
 分叉自 [ad-m/github-push-action][]，此分叉包含為我的自動化工作流程量身打造的 rebase 選項。
 - [setup-emacs](https://github.com/jcs090218/setup-emacs) (夏 2022 <span aria-label="發佈至 GitHub Marketplace (3)"
 data-balloon-pos="up">🏅</span>):
@@ -1639,6 +1641,7 @@ data-balloon-pos="up">💸</span>):
 [MongoDB]: https://www.mongodb.com/
 
 <!-- Tools -->
+[Git]: https://git-scm.com/
 [Emacs]: https://www.gnu.org/software/emacs/
 [Vim]: https://www.vim.org/
 [NeoVim]: https://neovim.io/
@@ -1936,7 +1939,10 @@ data-balloon-pos="up">💸</span>):
 <!-- CI & CD -->
 [jcs-actions/github-push-action]: https://github.com/jcs-actions/github-push-action
 [jcs-actions/delete-tag-and-release]: https://github.com/jcs-actions/delete-tag-and-release
+
 [ad-m/github-push-action]: https://github.com/ad-m/github-push-action
+[dev-drprasad/delete-tag-and-release]: https://github.com/dev-drprasad/delete-tag-and-release
+[ClementTsang/delete-tag-and-release]: https://github.com/ClementTsang/delete-tag-and-release
 
 <!-- AI -->
 [Copilot]: https://github.com/features/copilot
