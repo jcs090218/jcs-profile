@@ -617,6 +617,9 @@ data-balloon-pos="up">🔗</span>):
 > 或 [JCS-ELPA][] <span aria-label="發布至 JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > 上，所以我不會明確列出。
 
+- [emamux](https://github.com/emacsorphanage/emamux) (冬 2025 <span aria-label="維護者"
+data-balloon-pos="up">👷</span>):
+[tmux][] 透過 [Emacs][] 進行操作。
 - [foldvis](https://github.com/emacs-vs/foldvis) (秋 2025):
 各種摺疊系統的顯示指示器。
 - [eca](https://github.com/editor-code-assistant/eca-emacs) (夏 2025 <span aria-label="維護者"
@@ -1642,6 +1645,7 @@ data-balloon-pos="up">💸</span>):
 
 <!-- Tools -->
 [Git]: https://git-scm.com/
+[tmux]: https://en.wikipedia.org/wiki/Tmux
 [Emacs]: https://www.gnu.org/software/emacs/
 [Vim]: https://www.vim.org/
 [NeoVim]: https://neovim.io/

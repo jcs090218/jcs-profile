@@ -629,6 +629,9 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
 > so I won’t list them explicitly.
 
+- [emamux](https://github.com/emacsorphanage/emamux) (Winter 2025 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+[tmux][] manipulation from [Emacs][].
 - [foldvis](https://github.com/emacs-vs/foldvis) (Fall 2025):
 Display indicators for various folding systems.
 - [eca](https://github.com/editor-code-assistant/eca-emacs) (Summer 2025 <span aria-label="Maintainer"
@@ -1660,6 +1663,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 <!-- Tools -->
 [Git]: https://git-scm.com/
+[tmux]: https://en.wikipedia.org/wiki/Tmux
 [Emacs]: https://www.gnu.org/software/emacs/
 [Vim]: https://www.vim.org/
 [NeoVim]: https://neovim.io/
