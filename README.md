@@ -10,8 +10,15 @@ See the latest version in https://jcs090218.github.io/jcs-profile/.
 
 To start the server:
 
-```
-$ hugo server
+```sh
+# Clone the repo.
+git clone https://github.com/jcs090218/jcs-profile --recursive
+
+# Change directory to the project folder.
+cd jcs-profile
+
+# Start the server.
+hugo server
 ```
 
 Then open the url http://localhost:1313/ to your browser!
