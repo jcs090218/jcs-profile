@@ -9,15 +9,31 @@
     <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>不同視角下的測試驅動開發</title>
+      <title>不同視角下的 TDD</title>
       <link>https://www.jcs-profile.com/zh-tw/posts/tech/tdd-in-different-view/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/tech/tdd-in-different-view/</guid>
-      <description>&lt;p&gt;..&lt;/p&gt;
+      <description>&lt;p&gt;這裡我想記錄下我對 &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; 的看法. 這個文章並不打算對 &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; 多做解釋, 這並不是個教學文章.&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;h2 id=&#34;-結語&#34;&gt;💬 結語&lt;/h2&gt;
-&lt;p&gt;..&lt;/p&gt;
-&lt;!-- Links --&gt;</description>
+&lt;h2 id=&#34;-網路解釋&#34;&gt;🌐 網路解釋&lt;/h2&gt;
+&lt;p&gt;我們先看看網路解釋:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yfP_v6qCdcs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; 簡單來說是要先寫測試, 然後在實作. 其實這對於很多程序員來說是非常不容易的.
+主要原因是因為過於瑣碎, 導致開發過程不順暢.&lt;/p&gt;
+&lt;p&gt;這點我其實是認同的, 我剛開始看的時候只覺得這也太蠢了吧? 接著看其他人對 &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; 的看法:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kJWsFWY25GA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;hr&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TzOaXepgEtQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;看來很相當多人的認為 &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; 本身真的很不友好. 🤔&lt;/p&gt;</description>
     </item>
     <item>
       <title>匠人級 5 萬小時是什麼概念</title>

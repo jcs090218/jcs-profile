@@ -13,12 +13,15 @@
       <link>https://www.jcs-profile.com/posts/tech/tdd-in-different-view/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/tech/tdd-in-different-view/</guid>
-      <description>&lt;p&gt;WIP&lt;/p&gt;
+      <description>&lt;p&gt;Here I&amp;rsquo;d like to document my thoughts on &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt;. This article isn&amp;rsquo;t intended to explain &lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; in detail—it&amp;rsquo;s not a tutorial.&lt;/p&gt;
 &lt;!-- more --&gt;
-&lt;h2 id=&#34;-conclusion&#34;&gt;💬 Conclusion&lt;/h2&gt;
-&lt;p&gt;..&lt;/p&gt;
-&lt;!-- Links --&gt;
-&lt;p&gt;..&lt;/p&gt;</description>
+&lt;h2 id=&#34;-online-explanation&#34;&gt;🌐 Online Explanation&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s first look at the online explanation:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yfP_v6qCdcs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; Simply put, it means writing tests first, then implementing the code. This is actually quite challenging for many programmers. The main reason is that it feels overly tedious, making the development process less smooth.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
