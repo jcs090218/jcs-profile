@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on Jen-Chieh&#39;s Website</title>
+    <link>https://www.jcs-profile.com/zh-tw/categories/tech/</link>
+    <description>Recent content in Tech on Jen-Chieh&#39;s Website</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.jcs-profile.com/zh-tw/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不同視角下的測試驅動開發</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/tech/tdd-in-different-view/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/tech/tdd-in-different-view/</guid>
+      <description>&lt;p&gt;..&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;h2 id=&#34;-結語&#34;&gt;💬 結語&lt;/h2&gt;
+&lt;p&gt;..&lt;/p&gt;
+&lt;!-- Links --&gt;</description>
+    </item>
+  </channel>
+</rss>
