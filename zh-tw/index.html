@@ -10,7 +10,18 @@ Hi, 我是人傑 👋 一位致力於透過科技發展、創新和激發靈感�
 <a href=https://twitter.com/jenchieh94 target=”_blank”><img src=../images/icons/twitter.svg width=50px class=my-img></a>
 <a href=https://www.linkedin.com/in/jen-chieh-shen-17a02780/ target=”_blank”><img src=../images/icons/linkedin.svg width=50px class=my-img></a>
 <a href=mailto:jcs090218@gmail.com target=”_blank”><img src=../images/icons/gmail.svg width=50px class=my-img></a>
-<a href=./blog/><img src=../images/icons/blog.svg width=50px class=my-img></a></div><article class=first-entry><figure class=entry-cover><img loading=lazy srcset='https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover_hu_c93419c9b25f3f52.png 360w,https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover_hu_9870c05ff14f528d.png 480w,https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover.png 560w' src=https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover.png sizes="(min-width: 768px) 720px, 100vw" width=560 height=315 alt></figure><header class=entry-header><h2 class=entry-hint-parent>不同視角下的 TDD</h2></header><div class=entry-content><p>這裡我想記錄下我對 TDD 的看法. 這個文章並不打算對 TDD 多做解釋, 這並不是個教學文章.
+<a href=./blog/><img src=../images/icons/blog.svg width=50px class=my-img></a></div><article class=first-entry><header class=entry-header><h2 class=entry-hint-parent>使用 Eask 將 Emacs 視為 Elisp 執行環境</h2></header><div class=entry-content><p>代碼庫連結: https://github.com/emacs-eask/cli
+在 2023 年的時候, 我寫了一篇關於 Elisp Language Server 的文章. 那是其中一個把 Elisp 用作一個執行環境的一個實驗性質的專案. 在開發 Eask 的開發過程中, 我無意間發現他是個可以輕鬆把 Emacs 包裝成一個運行時的有趣程序.
+為什麼這麼說? 我們接下來看看:
+🔰 執行 Elisp 程序 一般執行 Elisp, 不能像是 Python 或 Node.js 那樣直接執行一個代碼文件.
+python hello.py 或者 Node.js :
+node hello.js 就可以直接運行一段代碼.
+這對 Elisp 並不困難, 只是多了一些旗子:
+emacs -batch -l hello.el ❓ 問題 既然可以直接執行, 那為何需要 Eask 呢?
+實際上 Eask 就如同 Python 的 pip 和 Node.js 的 npm 一樣, 它們都有著管理包的重大責任. 但唯一不同的是, Emacs 的環境是共有的, 所以沒辦法像是 npm 一樣擁有一個 node_modules. 也就是說, 任何獨立專案改變都會影響到你的 Emacs 的使用.
+這對如果不使用 Emacs 的用戶可能不是個問題, 但這樣包管理上就會非常繁瑣. 於是 Eask 的重要性就顯現出來了, 他負責解決這幾個痛點:
+沒有專案依賴, 只有共有依賴 沒辦法下載和管理包 依賴會互相污染的問題 Emacs 的版本間的問題 📝 範例 接下來我們看如果在使用包的情況下, 需要寫的 Elisp 就相當不輕鬆了.
+...</p></div><footer class=entry-footer><span title='2025-12-18 00:00:00 +0000 UTC'>December 18, 2025</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>182 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to 使用 Eask 將 Emacs 視為 Elisp 執行環境" href=https://www.jcs-profile.com/zh-tw/posts/editor/elisp-runtime/></a></article><article class=post-entry><figure class=entry-cover><img loading=lazy srcset='https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover_hu_c93419c9b25f3f52.png 360w,https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover_hu_9870c05ff14f528d.png 480w,https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover.png 560w' src=https://www.jcs-profile.com/posts/tech/tdd-in-different-view/cover.png sizes="(min-width: 768px) 720px, 100vw" width=560 height=315 alt></figure><header class=entry-header><h2 class=entry-hint-parent>不同視角下的 TDD</h2></header><div class=entry-content><p>這裡我想記錄下我對 TDD 的看法. 這個文章並不打算對 TDD 多做解釋, 這並不是個教學文章.
 🌐 網路解釋 我們先看看網路解釋:
 TDD 簡單來說是要先寫測試, 然後在實作. 其實這對於很多程序員來說是非常不容易的. 主要原因是因為過於瑣碎, 導致開發過程不順暢.
 這點我其實是認同的, 我剛開始看的時候只覺得這也太蠢了吧? 接著看其他人對 TDD 的看法:
@@ -44,7 +55,7 @@ LeetCode Ruined Software Engineering… LeetCode: The Worst Thing to Happen to S
 🗯️ 前言 這份工作是在 imi technology (應該已經倒閉) 擔任 Unity 軟體工程師. 主要工作為開發棋牌遊戲 (就是博弈). 當初選擇這間公司單純是因為離家很近, 薪水可以接受, 也就沒有想太多了. 有些人可能會對博弈的工作感到反感或有興趣. 但這次的主題跟這個產業沒有掛鉤, 只單純講軟體業的一些親身經歷. 🤔
 ✏️ 概況 這個團隊總共為 8 人團隊, 有 5 名超過 10 年經驗的資深工程師, 1 名初級, 剩下 2 名入門級. 我們的分工為下:
 3 名資深 + 1 名初級使用 Java 開發服務端 1 名資深使用 Phaser 開發 Web 遊戲客戶端 1 名資深 + 1 名入門級 (我) 開發 Unity 遊戲客戶端 1 名入門級學習 (不太知道他是做什麼的) 如上所示, 我負責的和另一名資深的工程師共同開發 Unity 遊戲客戶端.說來好笑, 我們這個團隊已經面臨瀕死邊緣了. 好像是老闆對我們的成績不滿意, 開發時程過長, 所以準備要裁掉整個部門 (當時我並不知道). 😒
-...</p></div><footer class=entry-footer><span title='2024-09-06 00:00:00 +0000 UTC'>September 6, 2024</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>139 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to 在第一份工作中成為 10x 的工程師" href=https://www.jcs-profile.com/zh-tw/posts/career/being-10x-engineer-in-my-first-job/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>Elisp 語言服務器</h2></header><div class=entry-content><p>代碼庫連結: https://github.com/jcs090218/ellsp
+...</p></div><footer class=entry-footer><span title='2024-09-06 00:00:00 +0000 UTC'>September 6, 2024</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>139 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to 在第一份工作中成為 10x 的工程師" href=https://www.jcs-profile.com/zh-tw/posts/career/being-10x-engineer-in-my-first-job/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>Elisp 語言服務器</h2></header><div class=entry-content><p>代碼庫連結: https://github.com/elisp-lsp/ellsp
 我最近為 Emacs Lisp 創建了一個語言伺服器。這很有趣，因為人們認為 Emacs Lisp 的語言伺服器不會提供任何價值。這個說法是正確的，我也是如此。Emacs Lisp 僅在 Emacs 編輯器內使用，Emacs 本身是一個 Emacs Lisp 解釋器。因此，Emacs Lisp 的語言伺服器很難為 Emacs 用戶帶來任何好處。
 但想像一下您可以在 Emacs 之外編寫 elisp（Emacs Lisp 的縮寫）。聽起來很有趣，對吧？ 🤔
 🔰 重頭開始建立 好吧，我並不是完全從頭開始。我確實使用了一些庫來幫助我更快地設定東西。以下是重要的一點：
@@ -73,16 +84,7 @@ $ eask create elpa &lt;project_name> 在示例中，我將使用 “my-elpa” �
 官方存儲庫中的示例要么損壞，要么不完整（有點無用） 過時或缺乏文檔 他們並不真正關心其他編輯。 （許多編輯器兼容問題和 PR 尚未解決） 幸運的是，我找到了 @gulbanana 創建的 thousand 語言服務器和 @tgjones 創建的 HlslTools。因此，我能夠通過看到他們的實現來完成這個項目！ 😅😇
 附註: 我花了很長時間才弄清楚事情！！！💀
 ⚙️ 插入 ShaderlabVS 另一個挑戰是語言服務器的引擎。什麼解析文本文檔並向客戶提供合理的響應？然後我找到了一個已 經為我做到這一點的項目—— ShaderlabVS。這是一個理想的解決方案，因為也是用 C# 實現的。 感謝作者 @wudixiaop 這個令人驚嘆的項目！ ❤️
-...</p></div><footer class=entry-footer><span title='2023-08-23 00:00:00 +0000 UTC'>August 23, 2023</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>133 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to Shader 语言服务器" href=https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>Emacs 的漫長旅程</h2></header><div class=entry-content><p>⚠️這篇文章的目的是提醒自己為什麼 Emacs 不再值得我花時間了。
-我從 2015 年開始使用 Emacs。我已經開發了 150 多個 elisp 包，並維護了 200 多個包（包括我的包）。 留在 Emacs 社區是一段漫長的旅程，我認為放慢自己的腳步，退一步思考這些年來我所取得的成就對我來說是有好處的。
-💫 我是如何進入 Emacs 的？ 很多人問我這個問題，所以我決定在這裡回答一下。
-我第一次看到 Emacs 是在 2015 年，當時看到的是 Casey Muratori 的 Handmade Hero 系列。 他在 Emacs 中編碼的速度讓我震驚。他如何跳到其他窗口並且永遠不離開鍵盤對我來說都是新的。
-但現在看他的配置，其實並不是那麼好。他不使用任何第三方軟件包，因此他在自己的配置文件（~/.emacs 文件） 中定義了所有內容。如果不使用那些第三方軟件包，配置仍然可以很好，但它只會限制你並重新製作可能其他人已經為你完成的輪子。
-除此之外，Casey 仍然是我一生所認識的頂級程序員。 ❤️
-💫 我在 Emacs 上投入了多少時間？ 就像我上面提到的，相信我。我投入了大量時間來完成我為 Emacs 社區所做的事情。如果你搜索我所有的包裹， 我在 MELPA 擁有最多的包裹。這次我已經證明了我有多喜歡 Emacs，但也證明了我對 Emacs 有多麼失望。 😥
-💫 為什麼 Emacs 不再值得我花時間了？ 首先，Emacs的開發沒有任何問題。他們在保持 Emacs 的活力方面做得非常出色，我喜歡他們的心態和大部分技術決策。
-對我來說，問題在於 Elisp 開發生態系統（而不是 Emacs 社區本身；考慮 Elisp 開發生態系統是 Emacs 社區的子集）。 我很欣賞那些願意為 Emacs 做出貢獻的人，但我討厭他們不考慮他們的軟件包的跨平台功能。是的，我是 Windows 用戶；實際上， 我使用所有最常用的系統（Linux、macOS 和 Windows）。我討厭當我嘗試一個軟件包時，它只適用於特定係統（不包括僅 依賴於某些系統的軟件包），但它應該適用於所有系統。我感到可怕和沮喪，因為大多數 Elisp 開發人員不關心或不夠關心少數用戶 （Windows 用戶）。甚至一些著名的軟件包在 Windows 上也不能很好地工作，magit 很慢，straight.el 很慢，helm 很慢，ivy 很慢， projectile 壞了，eping 壞了，EAF 經常壞了等等。我使用了超過 500 個軟件包在我的配置中。我可以列出大量跨平台能力很差的軟件包。
-...</p></div><footer class=entry-footer><span title='2023-07-08 00:00:00 +0000 UTC'>July 8, 2023</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>145 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to Emacs 的漫長旅程" href=https://www.jcs-profile.com/zh-tw/posts/editor/long-journey-with-emacs/></a></article><footer class=page-footer><nav class=pagination><a class=next href=https://www.jcs-profile.com/zh-tw/page/2/>下一頁&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>&copy; 2025 <a href=https://www.jcs-profile.com/zh-tw/>Jen-Chieh's Website</a></span> ·
+...</p></div><footer class=entry-footer><span title='2023-08-23 00:00:00 +0000 UTC'>August 23, 2023</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>133 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to Shader 语言服务器" href=https://www.jcs-profile.com/zh-tw/posts/lsp/shader-ls/></a></article><footer class=page-footer><nav class=pagination><a class=next href=https://www.jcs-profile.com/zh-tw/page/2/>下一頁&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>&copy; 2025 <a href=https://www.jcs-profile.com/zh-tw/>Jen-Chieh's Website</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>

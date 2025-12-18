@@ -6,15 +6,51 @@
     <description>Recent content in Editor on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/zh-tw/categories/editor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Eask 將 Emacs 視為 Elisp 執行環境</title>
+      <link>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-runtime/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-runtime/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;https://github.com/emacs-eask/cli&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;在 2023 年的時候, 我寫了一篇關於 &lt;a href=&#34;../elisp-ls/&#34;&gt;Elisp Language Server&lt;/a&gt; 的文章.
+那是其中一個把 &lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Elisp&lt;/a&gt; 用作一個執行環境的一個實驗性質的專案.
+在開發 &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; 的開發過程中, 我無意間發現他是個可以輕鬆把 &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 包裝成一個運行時的有趣程序.&lt;/p&gt;
+&lt;p&gt;為什麼這麼說? 我們接下來看看:&lt;/p&gt;
+&lt;h2 id=&#34;-執行-elisp-程序&#34;&gt;🔰 執行 Elisp 程序&lt;/h2&gt;
+&lt;p&gt;一般執行 &lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Elisp&lt;/a&gt;, 不能像是 &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt; 或 &lt;a href=&#34;https://nodejs.org/en&#34;&gt;Node.js&lt;/a&gt; 那樣直接執行一個代碼文件.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;python hello.py
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;或者 &lt;a href=&#34;https://nodejs.org/en&#34;&gt;Node.js&lt;/a&gt; :&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;node hello.js
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;就可以直接運行一段代碼.&lt;/p&gt;
+&lt;p&gt;這對 &lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Elisp&lt;/a&gt; 並不困難, 只是多了一些旗子:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-console&#34; data-lang=&#34;console&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;go&#34;&gt;emacs -batch -l hello.el
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-問題&#34;&gt;❓ 問題&lt;/h3&gt;
+&lt;p&gt;既然可以直接執行, 那為何需要 &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; 呢?&lt;/p&gt;
+&lt;p&gt;實際上 &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; 就如同 &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt; 的 &lt;a href=&#34;https://pypi.org/project/pip/&#34;&gt;pip&lt;/a&gt; 和 &lt;a href=&#34;https://nodejs.org/en&#34;&gt;Node.js&lt;/a&gt; 的 &lt;a href=&#34;https://www.npmjs.com/&#34;&gt;npm&lt;/a&gt; 一樣,
+它們都有著管理包的重大責任. 但唯一不同的是, &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 的環境是共有的,
+所以沒辦法像是 &lt;a href=&#34;https://www.npmjs.com/&#34;&gt;npm&lt;/a&gt; 一樣擁有一個 &lt;code&gt;node_modules&lt;/code&gt;.
+也就是說, 任何獨立專案改變都會影響到你的 &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 的使用.&lt;/p&gt;
+&lt;p&gt;這對如果不使用 &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 的用戶可能不是個問題, 但這樣包管理上就會非常繁瑣.
+於是 &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt; 的重要性就顯現出來了, 他負責解決這幾個痛點:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;沒有專案依賴, 只有共有依賴&lt;/li&gt;
+&lt;li&gt;沒辦法下載和管理包&lt;/li&gt;
+&lt;li&gt;依賴會互相污染的問題&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 的版本間的問題&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;-範例&#34;&gt;📝 範例&lt;/h2&gt;
+&lt;p&gt;接下來我們看如果在使用包的情況下, 需要寫的 &lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Elisp&lt;/a&gt; 就相當不輕鬆了.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Elisp 語言服務器</title>
       <link>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-ls/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-ls/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/jcs090218/ellsp&#34;&gt;https://github.com/jcs090218/ellsp&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;代碼庫連結: &lt;a href=&#34;https://github.com/elisp-lsp/ellsp&#34;&gt;https://github.com/elisp-lsp/ellsp&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;我最近為 Emacs Lisp 創建了一個語言伺服器。這很有趣，因為人們認為 Emacs Lisp
 的語言伺服器不會提供任何價值。這個說法是正確的，我也是如此。Emacs Lisp 僅在
 Emacs 編輯器內使用，Emacs 本身是一個 Emacs Lisp 解釋器。因此，Emacs Lisp

@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jcs-profile.com/posts/editor/elisp-runtime/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/posts/editor/elisp-runtime/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/posts/editor/elisp-runtime/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/posts/tech/tdd-in-different-view/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -406,7 +419,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -419,7 +432,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/categories/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -431,8 +444,34 @@
                 href="https://www.jcs-profile.com/categories/"
                 />
   </url><url>
+    <loc>https://www.jcs-profile.com/categories/editor/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/categories/editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/categories/editor/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/tags/editor/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/editor/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/posts/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -445,7 +484,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -572,32 +611,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.jcs-profile.com/tags/10x/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/categories/editor/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/categories/editor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/categories/editor/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/tags/editor/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/editor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/editor/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/tags/elpa/</loc>

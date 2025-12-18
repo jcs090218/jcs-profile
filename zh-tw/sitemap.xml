@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jcs-profile.com/zh-tw/posts/editor/elisp-runtime/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/posts/editor/elisp-runtime/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/posts/editor/elisp-runtime/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/posts/tech/tdd-in-different-view/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -433,7 +446,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -446,7 +459,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/categories/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -458,8 +471,34 @@
                 href="https://www.jcs-profile.com/zh-tw/categories/"
                 />
   </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/categories/editor/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/categories/editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/categories/editor/"
+                />
+  </url><url>
+    <loc>https://www.jcs-profile.com/zh-tw/tags/editor/</loc>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.jcs-profile.com/tags/editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://www.jcs-profile.com/zh-tw/tags/editor/"
+                />
+  </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/posts/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -472,7 +511,7 @@
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/tags/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -599,32 +638,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://www.jcs-profile.com/zh-tw/tags/10x/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/categories/editor/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/categories/editor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/categories/editor/"
-                />
-  </url><url>
-    <loc>https://www.jcs-profile.com/zh-tw/tags/editor/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.jcs-profile.com/tags/editor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://www.jcs-profile.com/zh-tw/tags/editor/"
                 />
   </url><url>
     <loc>https://www.jcs-profile.com/zh-tw/tags/education/</loc>

@@ -6,8 +6,20 @@
     <description>Recent content in Posts on Jen-Chieh&#39;s Website</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.jcs-profile.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treat Emacs as an Elisp Runtime using Eask</title>
+      <link>https://www.jcs-profile.com/posts/editor/elisp-runtime/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.jcs-profile.com/posts/editor/elisp-runtime/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Repo link: &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;https://github.com/emacs-eask/cli&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In 2023, I wrote an article about the &lt;a href=&#34;../elisp-ls/&#34;&gt;Elisp Language Server&lt;/a&gt;. It was one of several experimental projects exploring &lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Elisp&lt;/a&gt; as an execution environment. While developing &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask&lt;/a&gt;, I serendipitously discovered it was an intriguing program that could effortlessly wrap &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; into a runtime.&lt;/p&gt;
+&lt;p&gt;Why do I say that? Let&amp;rsquo;s take a look:&lt;/p&gt;
+&lt;h2 id=&#34;-running-elisp-programs&#34;&gt;🔰 Running Elisp Programs&lt;/h2&gt;
+&lt;p&gt;Typically, executing &lt;a href=&#34;https://en.wikipedia.org/wiki/Emacs_Lisp&#34;&gt;Elisp&lt;/a&gt; doesn&amp;rsquo;t allow you to run a code file directly like you can with &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt; or &lt;a href=&#34;https://nodejs.org/en&#34;&gt;Node.js&lt;/a&gt;:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TDD in different view</title>
       <link>https://www.jcs-profile.com/posts/tech/tdd-in-different-view/</link>
@@ -93,7 +105,7 @@ managed to fix a bunch of complex bugs in a short amount of time, which left the
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.jcs-profile.com/posts/editor/elisp-ls/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Repo link: &lt;a href=&#34;https://github.com/jcs090218/ellsp&#34;&gt;https://github.com/jcs090218/ellsp&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Repo link: &lt;a href=&#34;https://github.com/elisp-lsp/ellsp&#34;&gt;https://github.com/elisp-lsp/ellsp&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I’ve recently created a language server for Emacs Lisp. It’s interesting
 since people don’t think a language server for Emacs Lisp will provide
 any value. The statement is correct, and so do I. Emacs Lisp is only used
