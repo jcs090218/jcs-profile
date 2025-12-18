@@ -11,7 +11,7 @@ cover:
 draft: false
 ---
 
-> 代碼庫連結: https://github.com/jcs090218/ellsp
+> 代碼庫連結: https://github.com/elisp-lsp/ellsp
 
 我最近為 Emacs Lisp 創建了一個語言伺服器。這很有趣，因為人們認為 Emacs Lisp
 的語言伺服器不會提供任何價值。這個說法是正確的，我也是如此。Emacs Lisp 僅在
@@ -78,10 +78,12 @@ method: initialized
 << no response
 ```
 
-## ⚜ Conclusion
+## ⚜️ 結語
 
 我道歉;這篇文章不是關於實作細節的。實作非常簡單。我只花了幾個小時就實現了它。如果您對實作感興趣，請直接查看儲存庫。該連結位於本頁的開頭。
 
+
+<!-- Links -->
 
 [LSP規範]: https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/
 

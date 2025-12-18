@@ -11,7 +11,7 @@ cover:
 draft: false
 ---
 
-> Repo link: https://github.com/jcs090218/ellsp
+> Repo link: https://github.com/elisp-lsp/ellsp
 
 I’ve recently created a language server for Emacs Lisp. It’s interesting
 since people don’t think a language server for Emacs Lisp will provide
@@ -89,12 +89,14 @@ method: initialized
 << no response
 ```
 
-## ⚜ Conclusion
+## ⚜️ Conclusion
 
 I apologize; this post isn’t about the implementation details.
 The implementation is quite simple. It only took me a couple of hours
 to implement it. If you are interested in the implementation, please
 check out the repository directly. The link is at the beginning of this page.
 
+
+<!-- Links -->
 
 [LSP Specification]: https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/
