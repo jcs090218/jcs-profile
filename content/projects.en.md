@@ -367,12 +367,21 @@ Implementation of a music visualizer in [Unity][]. Check out the demo [here](htt
 
 #### Fuzzy Matching
 
+- [rs-flx][] (Winter 2025 <span aria-label="Published to crates.io (3)"
+data-balloon-pos="up">🏅</span>):
+[Rust][] bindings for [flx-c][].
+  - [demo-rs-flx][] (Winter 2025):
+  Demo to use [rs-flx][].
 - [FlxSwift][] (Winter 2024 <span aria-label="Searchable on Swift Package Manager (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Swift][].
+  - [DemoFlxSwift][] (Winter 2024):
+  Demo to use [FlxSwift][].
 - [flx.go][] (Winter 2024 <span aria-label="Searchable on Go.dev (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Go][].
+  - [demo-flx.go][] (Winter 2024):
+  Demo to use [flx.go][].
 - [flx.py][] (Winter 2024 <span aria-label="Published to PyPi (1)"
 data-balloon-pos="up">🏅</span>):
 Rewrite [emacs-flx][] in [Python][].
@@ -1883,10 +1892,16 @@ The project was initiated during the course of work but is no longer in use as t
 [flx-c]: https://github.com/the-flx/flx-c
 [flx_dart]: https://github.com/the-flx/flx_dart
 [flx-ts]: https://github.com/the-flx/flx-ts
-[zig-flx]: https://github.com/the-flx/zig-flx
 [FlxCs]: https://github.com/the-flx/FlxCs
 [FlxSwift]: https://github.com/the-flx/FlxSwift
 [flx-hs]: https://github.com/the-flx/flx-hs
+
+[zig-flx]: https://github.com/the-flx/zig-flx
+[rs-flx]: https://github.com/the-flx/rs-flx
+
+[DemoFlxSwift]: https://github.com/the-flx/DemoFlxSwift
+[demo-rs-flx]: https://github.com/the-flx/demo-rs-flx
+[demo-flx.go]: https://github.com/the-flx/demo-flx.go
 
 <!-- Terminologies -->
 [API]: https://en.wikipedia.org/wiki/API

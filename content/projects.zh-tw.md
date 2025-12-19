@@ -355,12 +355,21 @@ data-balloon-pos="up">🏅</span>):
 
 #### 模糊匹配
 
-- [FlxSwift][] (冬 2024 <span aria-label="Searchable on Swift Package Manager (1)"
+- [rs-flx][] (冬 2025 <span aria-label="發佈至 crates.io (3)"
+data-balloon-pos="up">🏅</span>):
+[Rust][] 綁定 [flx-c][]。
+  - [demo-rs-flx][] (冬 2025):
+  使用 [rs-flx][] 的示範。
+- [FlxSwift][] (冬 2024 <span aria-label="索引在 Swift Package Manager (1)"
 data-balloon-pos="up">🏅</span>):
 用 [Swift][] 重寫 [emacs-flx][]。
-- [flx.go][] (冬 2024 <span aria-label="Searchable on Go.dev (1)"
+  - [DemoFlxSwift][] (冬 2024):
+  使用 [FlxSwift][] 的示範。
+- [flx.go][] (冬 2024 <span aria-label="索引在 Go.dev (1)"
 data-balloon-pos="up">🏅</span>):
 用 [Go][] 重寫 [emacs-flx][]。
+  - [demo-flx.go][] (冬 2024):
+  使用 [flx.go][] 的示範。
 - [flx.py][] (冬 2024 <span aria-label="發佈至 PyPi (1)"
 data-balloon-pos="up">🏅</span>):
 用 [Python][] 重寫 [emacs-flx][]。
@@ -1865,10 +1874,16 @@ data-balloon-pos="up">💸</span>):
 [flx-c]: https://github.com/the-flx/flx-c
 [flx_dart]: https://github.com/the-flx/flx_dart
 [flx-ts]: https://github.com/the-flx/flx-ts
-[zig-flx]: https://github.com/the-flx/zig-flx
 [FlxCs]: https://github.com/the-flx/FlxCs
 [FlxSwift]: https://github.com/the-flx/FlxSwift
 [flx-hs]: https://github.com/the-flx/flx-hs
+
+[zig-flx]: https://github.com/the-flx/zig-flx
+[rs-flx]: https://github.com/the-flx/rs-flx
+
+[DemoFlxSwift]: https://github.com/the-flx/DemoFlxSwift
+[demo-rs-flx]: https://github.com/the-flx/demo-rs-flx
+[demo-flx.go]: https://github.com/the-flx/demo-flx.go
 
 <!-- Terminologies -->
 [API]: https://en.wikipedia.org/wiki/API
