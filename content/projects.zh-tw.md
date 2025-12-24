@@ -535,6 +535,20 @@ data-balloon-pos="up">🏫</span>):
 
 </details>
 
+### 👨‍💻 程式語言與解析器
+
+<details class="my-details">
+  <summary>詳細資訊</summary>
+
+#### 🌳 Tree-sitter
+
+- [tree-sitter-actionscript][] (春 2021 – 冬 2025):
+[ActionScript][] 語法規則適用於 [tree-sitter][]。
+儘管 [Rileran][github/Rileran] 聲稱他的專案受到我的啟發
+但我也同樣受到他的專案 [Rileran/tree-sitter-actionscript][] 的啟發。
+
+</details>
+
 ### 📦 套件管理員與建置工具
 
 <details class="my-details">
@@ -1362,7 +1376,7 @@ data-balloon-pos="up">🏅</span>):
 
 </details>
 
-### ⚙️ 靜態網站產生器
+### ⚡️ 靜態網站產生器
 
 <details class="my-details">
   <summary>詳細資訊</summary>
@@ -1449,7 +1463,7 @@ data-balloon-pos="up">💸</span>):
 等遊戲的機制。
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (冬 2023):
 從 [Emacs][] 編輯器與 [AWS][] 互動的外掛程式。
-- [jcs-lem](https://github.com/jcs090218/jcs-lem) (夏 2023 – 現在):
+- [jcs-lem][] (夏 2023 – 現在):
 我個人的 [lem][] 設定檔案。
 [Lem][] is still in its early stages, particularly on [Windows][] systems.
 - [Untitled: CODE_D][] (春 2023 – 秋 2023 <span aria-label="程式領導"
@@ -1503,10 +1517,6 @@ data-balloon-pos="up">💸</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [tree-sitter-actionscript](https://github.com/jcs090218/tree-sitter-actionscript) (春 2021):
-[ActionScript][] 文法的 [tree-sitter][]。
-[Rileran][github/Rileran] 較早前已完成該專案 - [Rileran/tree-sitter-actionscript](https://github.com/Rileran/tree-sitter-actionscript)，因此，不需要再繼續進行該專案。
-聲明一下，[Rileran][github/Rileran] 的專案靈感來自我的專案！
 - [work-time](https://github.com/jcs-legacy/work-time) (春 2021):
 您工作多久了？
 我不確定它目前的值，因為它有可能被 [wakatime](https://wakatime.com/emacs) 和 [hammy.el](https://github.com/alphapapa/hammy.el) 取代。
@@ -1863,6 +1873,11 @@ data-balloon-pos="up">💸</span>):
 [doomemacs]: https://github.com/doomemacs/doomemacs
 
 [jcs-vim]: https://github.com/jcs090218/jcs-vim
+[jcs-lem]: https://github.com/jcs090218/jcs-lem
+
+<!-- Parsers -->
+[tree-sitter-actionscript]: https://github.com/jcs090218/tree-sitter-actionscript
+[Rileran/tree-sitter-actionscript]: https://github.com/Rileran/tree-sitter-actionscript
 
 <!-- Algorithms -->
 [cl-flx]: https://github.com/the-flx/cl-flx

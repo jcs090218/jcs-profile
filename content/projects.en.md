@@ -547,6 +547,20 @@ This is a small extension that presents statistical charts indicating the websit
 
 </details>
 
+### 👨‍💻 Programming Language and parsers
+
+<details class="my-details">
+  <summary>See details</summary>
+
+#### 🌳 Tree-sitter
+
+- [tree-sitter-actionscript][] (Spring 2021 – Winter 2025):
+[ActionScript][] grammar for [tree-sitter][].
+Although [Rileran][github/Rileran] stated that his project was inspired by mine,
+I was also inspired by his project, [Rileran/tree-sitter-actionscript][].
+
+</details>
+
 ### 📦 Package managers and build tools
 
 <details class="my-details">
@@ -1376,7 +1390,7 @@ First attempt at implementing a [Genetic Algorithm][] to demonstrate the [Infini
 
 </details>
 
-### ⚙️ Static site generators
+### ⚡️ Static site generators
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1465,7 +1479,7 @@ A bottom-up project that explores mechanics from games like
 [Vampire Survivor][], [20 Minutes Till Dawn][], and others.
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (Winter 2023):
 A plugin for interacting with [AWS][] from [Emacs][] editor.
-- [jcs-lem](https://github.com/jcs090218/jcs-lem) (Summer 2023 – Present):
+- [jcs-lem][] (Summer 2023 – Present):
 My personal [lem][] configuration files.
 [Lem][] is still in its early stages, particularly on [Windows][] systems.
 - [Untitled: CODE_D][] (Spring 2023 – Fall 2023 <span aria-label="Programming Lead"
@@ -1520,10 +1534,6 @@ This is my initial experience with [Vim][], and I'm interested in exploring [Neo
 <details class="my-details">
   <summary>See details</summary>
 
-- [tree-sitter-actionscript](https://github.com/jcs090218/tree-sitter-actionscript) (Spring 2021):
-[ActionScript][] grammar for [tree-sitter][].
-[Rileran][github/Rileran] completed the project earlier — [Rileran/tree-sitter-actionscript](https://github.com/Rileran/tree-sitter-actionscript) — thus, there is no need to continue the project any further.
-For the record, [Rileran][github/Rileran]'s project takes inspiration from my project!
 - [work-time](https://github.com/jcs-legacy/work-time) (Spring 2021):
 How long have you been working?
 I'm uncertain about its current value, as it could potentially be substituted with [wakatime](https://wakatime.com/emacs) and [hammy.el](https://github.com/alphapapa/hammy.el).
@@ -1881,6 +1891,11 @@ The project was initiated during the course of work but is no longer in use as t
 [doomemacs]: https://github.com/doomemacs/doomemacs
 
 [jcs-vim]: https://github.com/jcs090218/jcs-vim
+[jcs-lem]: https://github.com/jcs090218/jcs-lem
+
+<!-- Parsers -->
+[tree-sitter-actionscript]: https://github.com/jcs090218/tree-sitter-actionscript
+[Rileran/tree-sitter-actionscript]: https://github.com/Rileran/tree-sitter-actionscript
 
 <!-- Algorithms -->
 [cl-flx]: https://github.com/the-flx/cl-flx
