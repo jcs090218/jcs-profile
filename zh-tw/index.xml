@@ -1646,6 +1646,17 @@ data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
 這是一個小的擴展，可以顯示您經常訪問的網站的統計圖表。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
+&lt;h3 id=&#34;-程式語言與解析器&#34;&gt;👨‍💻 程式語言與解析器&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;h4 id=&#34;-tree-sitter&#34;&gt;🌳 Tree-sitter&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/tree-sitter-actionscript&#34;&gt;tree-sitter-actionscript&lt;/a&gt; (春 2021 – 冬 2025):
+&lt;a href=&#34;https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html&#34;&gt;ActionScript&lt;/a&gt; 語法規則適用於 &lt;a href=&#34;https://tree-sitter.github.io/tree-sitter/&#34;&gt;tree-sitter&lt;/a&gt;。
+儘管 &lt;a href=&#34;https://github.com/Rileran&#34;&gt;Rileran&lt;/a&gt; 聲稱他的專案受到我的啟發
+但我也同樣受到他的專案 &lt;a href=&#34;https://github.com/Rileran/tree-sitter-actionscript&#34;&gt;Rileran/tree-sitter-actionscript&lt;/a&gt; 的啟發。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
 &lt;h3 id=&#34;-套件管理員與建置工具&#34;&gt;📦 套件管理員與建置工具&lt;/h3&gt;
 &lt;details class=&#34;my-details&#34;&gt;
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
