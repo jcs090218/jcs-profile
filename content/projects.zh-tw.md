@@ -1875,10 +1875,6 @@ data-balloon-pos="up">💸</span>):
 [jcs-vim]: https://github.com/jcs090218/jcs-vim
 [jcs-lem]: https://github.com/jcs090218/jcs-lem
 
-<!-- Parsers -->
-[tree-sitter-actionscript]: https://github.com/jcs090218/tree-sitter-actionscript
-[Rileran/tree-sitter-actionscript]: https://github.com/Rileran/tree-sitter-actionscript
-
 <!-- Algorithms -->
 [cl-flx]: https://github.com/the-flx/cl-flx
 [clj-flx]: https://github.com/the-flx/clj-flx
@@ -1977,6 +1973,10 @@ data-balloon-pos="up">💸</span>):
 [ad-m/github-push-action]: https://github.com/ad-m/github-push-action
 [dev-drprasad/delete-tag-and-release]: https://github.com/dev-drprasad/delete-tag-and-release
 [ClementTsang/delete-tag-and-release]: https://github.com/ClementTsang/delete-tag-and-release
+
+<!-- Parsers -->
+[tree-sitter-actionscript]: https://github.com/jcs090218/tree-sitter-actionscript
+[Rileran/tree-sitter-actionscript]: https://github.com/Rileran/tree-sitter-actionscript
 
 <!-- AI -->
 [Copilot]: https://github.com/features/copilot
