@@ -31,6 +31,8 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
+- [csharp-tree-sitter](https://github.com/jcs090218/csharp-tree-sitter) (Winter 2025 – Present):
+[C#][] bindings to the [Tree-sitter][] parsing library.
 - [Untitled: CODE_E][] (Winter 2024 – Present <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
@@ -47,7 +49,7 @@ data-balloon-pos="up">🏅</span>):
 - [cogru][] (Summer 2024 – Present):
 Where the collaboration start!?
 I've implemented the [Operational Transformation (OT)][] in [Rust][] using the [client-server model][].
-- [dotfiles](https://github.com/jcs090218/dotfiles) (Summer 2024 – Present):
+- [dotfiles][jcs090218/dotfiles] (Summer 2024 – Present):
 [Jen-Chieh][]'s dotfiles.
 - [jayces][] (Winter 2023 – Present): Programming language I've created to learn to write one my own.
 
@@ -1786,6 +1788,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Cogru]: https://github.com/Cogru/cogru
 
 <!-- Personal -->
+[jcs090218/dotfiles]: https://github.com/jcs090218/dotfiles
 [32feet]: https://github.com/inthehand/32feet
 [swagger-it]: https://github.com/jcs090218/swagger-it
 [CCosQuick]: https://github.com/jcs090218/CCosQuick

@@ -27,6 +27,8 @@ ShowReadingTime: false
 <details class="my-details" open>
   <summary>詳細資訊</summary>
 
+- [csharp-tree-sitter](https://github.com/jcs090218/csharp-tree-sitter) (冬 2025 – 現在):
+[C#][] 綁定至 [Tree-sitter][] 解析函式庫。
 - [Untitled: CODE_E][] (冬 2024 – 現在 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
@@ -42,7 +44,7 @@ data-balloon-pos="up">🏅</span>):
 [CLI][] 用於建立、執行、測試和管理您的 [Common Lisp][] 相依性。
 - [cogru][] (夏 2024 – 現在):
 協作從哪裡開始！？我在 [Rust][] 中使用 [client-server model][] 實作了 [Operational Transformation (OT)][]。
-- [dotfiles](https://github.com/jcs090218/dotfiles) (夏 2024 – 現在):
+- [dotfiles][jcs090218/dotfiles] (夏 2024 – 現在):
 [Jen-Chieh][] 的 dotfiles。
 - [jayces][] (冬 2023 – 現在): 我創建的編程語言，主要是為了學習寫的。
 
@@ -1768,6 +1770,7 @@ data-balloon-pos="up">💸</span>):
 [Cogru]: https://github.com/Cogru/cogru
 
 <!-- Personal -->
+[jcs090218/dotfiles]: https://github.com/jcs090218/dotfiles
 [32feet]: https://github.com/inthehand/32feet
 [swagger-it]: https://github.com/jcs090218/swagger-it
 [CCosQuick]: https://github.com/jcs090218/CCosQuick
