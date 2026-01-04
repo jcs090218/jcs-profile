@@ -5,7 +5,7 @@
 這裡 JCS-ELPA 使用了不同的策略. 這個 ELPA 使用了一個插件 github-elpa 來使其建構我們的插件然後上傳到 GitHub Pages. 所以到底為什麼會是最快? 主要有兩個因素:
 微軟擁有 GitHub. 技術上來說, 我們的 ELPA 是直接跑在微軟的服務器上 我們使用 GitHub Actions 建構插件, 定且使用了多個 jobs (如果你不熟悉 GHA, 就想說有很多台電腦在幫你做事即可) JCS-ELPA 使用這技術來達成很多 worker 幫你同時建構插件. 公式如下:
 新的建構總時長 = 原本建構總時長 / 工作者 如果工作者為 1, 建構時長則保持不變 (建構時長沒有任何改善). 舉例, 如果原本建構總時長是 10 分鐘, 開 5 個工作者 則會減少為 2 分鐘.
-...</p></div><footer class=entry-footer><span title='2023-04-10 00:00:00 +0000 UTC'>April 10, 2023</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>156 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to 最快的 ELPA" href=https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/></a></article></main><footer class=footer><span>&copy; 2025 <a href=https://www.jcs-profile.com/zh-tw/>Jen-Chieh's Website</a></span> ·
+...</p></div><footer class=entry-footer><span title='2023-04-10 00:00:00 +0000 UTC'>April 10, 2023</span>&nbsp;·&nbsp;<span>1 分鐘</span>&nbsp;·&nbsp;<span>156 字</span>&nbsp;·&nbsp;<span>Jen-Chieh Shen</span></footer><a class=entry-link aria-label="post link to 最快的 ELPA" href=https://www.jcs-profile.com/zh-tw/posts/editor/fastest-elpa/></a></article></main><footer class=footer><span>&copy; 2026 <a href=https://www.jcs-profile.com/zh-tw/>Jen-Chieh's Website</a></span> ·
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg>
