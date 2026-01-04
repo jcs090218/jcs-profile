@@ -31,8 +31,6 @@ There are a lot of information on this page. Please use <kbd>Ctrl</kbd>+<kbd>f</
 <details class="my-details" open>
   <summary>See details</summary>
 
-- [csharp-tree-sitter](https://github.com/jcs090218/csharp-tree-sitter) (Winter 2025 – Present):
-[C#][] bindings to the [Tree-sitter][] parsing library.
 - [Untitled: CODE_E][] (Winter 2024 – Present <span aria-label="Programming Lead"
 data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
@@ -556,6 +554,8 @@ This is a small extension that presents statistical charts indicating the websit
 
 #### 🌳 Tree-sitter
 
+- [csharp-tree-sitter][] (Winter 2025 – Present):
+[C#][] bindings to the [Tree-sitter][] parsing library.
 - [tree-sitter-actionscript][] (Spring 2021 – Winter 2025):
 [ActionScript][] grammar for [tree-sitter][].
 Although [Rileran][github/Rileran] stated that his project was inspired by mine,
@@ -1996,6 +1996,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ClementTsang/delete-tag-and-release]: https://github.com/ClementTsang/delete-tag-and-release
 
 <!-- Parsers -->
+[csharp-tree-sitter]: https://github.com/jcs090218/csharp-tree-sitter
 [tree-sitter-actionscript]: https://github.com/jcs090218/tree-sitter-actionscript
 [Rileran/tree-sitter-actionscript]: https://github.com/Rileran/tree-sitter-actionscript
 

@@ -27,8 +27,6 @@ ShowReadingTime: false
 <details class="my-details" open>
   <summary>詳細資訊</summary>
 
-- [csharp-tree-sitter](https://github.com/jcs090218/csharp-tree-sitter) (冬 2025 – 現在):
-[C#][] 綁定至 [Tree-sitter][] 解析函式庫。
 - [Untitled: CODE_E][] (冬 2024 – 現在 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
@@ -544,6 +542,8 @@ data-balloon-pos="up">🏫</span>):
 
 #### 🌳 Tree-sitter
 
+- [csharp-tree-sitter][] (冬 2025 – 現在):
+[C#][] 綁定至 [Tree-sitter][] 解析函式庫。
 - [tree-sitter-actionscript][] (春 2021 – 冬 2025):
 [ActionScript][] 語法規則適用於 [tree-sitter][]。
 儘管 [Rileran][github/Rileran] 聲稱他的專案受到我的啟發
@@ -1978,6 +1978,7 @@ data-balloon-pos="up">💸</span>):
 [ClementTsang/delete-tag-and-release]: https://github.com/ClementTsang/delete-tag-and-release
 
 <!-- Parsers -->
+[csharp-tree-sitter]: https://github.com/jcs090218/csharp-tree-sitter
 [tree-sitter-actionscript]: https://github.com/jcs090218/tree-sitter-actionscript
 [Rileran/tree-sitter-actionscript]: https://github.com/Rileran/tree-sitter-actionscript
 
