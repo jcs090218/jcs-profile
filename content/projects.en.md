@@ -547,7 +547,7 @@ This is a small extension that presents statistical charts indicating the websit
 
 </details>
 
-### 👨‍💻 Programming Language and parsers
+### 👨‍💻 Programming languages and parsers
 
 <details class="my-details">
   <summary>See details</summary>
