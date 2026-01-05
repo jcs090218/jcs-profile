@@ -542,7 +542,7 @@ data-balloon-pos="up">🏫</span>):
 
 #### 🌳 Tree-sitter
 
-- [csharp-tree-sitter][] (冬 2025 – 現在):
+- [csharp-tree-sitter][] (冬 2025 – 春 2026):
 [C#][] 綁定至 [Tree-sitter][] 解析函式庫。
 - [tree-sitter-actionscript][] (春 2021 – 冬 2025):
 [ActionScript][] 語法規則適用於 [tree-sitter][]。
