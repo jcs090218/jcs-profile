@@ -1651,7 +1651,7 @@ data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;h4 id=&#34;-tree-sitter&#34;&gt;🌳 Tree-sitter&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/csharp-tree-sitter&#34;&gt;csharp-tree-sitter&lt;/a&gt; (冬 2025 – 現在):
+&lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/csharp-tree-sitter&#34;&gt;csharp-tree-sitter&lt;/a&gt; (冬 2025 – 春 2026):
 &lt;a href=&#34;https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29&#34;&gt;C#&lt;/a&gt; 綁定至 &lt;a href=&#34;https://tree-sitter.github.io/tree-sitter/&#34;&gt;Tree-sitter&lt;/a&gt; 解析函式庫。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jcs090218/tree-sitter-actionscript&#34;&gt;tree-sitter-actionscript&lt;/a&gt; (春 2021 – 冬 2025):
 &lt;a href=&#34;https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html&#34;&gt;ActionScript&lt;/a&gt; 語法規則適用於 &lt;a href=&#34;https://tree-sitter.github.io/tree-sitter/&#34;&gt;tree-sitter&lt;/a&gt;。
