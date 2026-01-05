@@ -554,7 +554,7 @@ This is a small extension that presents statistical charts indicating the websit
 
 #### 🌳 Tree-sitter
 
-- [csharp-tree-sitter][] (Winter 2025 – Present):
+- [csharp-tree-sitter][] (Winter 2025 – Spring 2026):
 [C#][] bindings to the [Tree-sitter][] parsing library.
 - [tree-sitter-actionscript][] (Spring 2021 – Winter 2025):
 [ActionScript][] grammar for [tree-sitter][].
