@@ -1354,6 +1354,18 @@ delivering exceptional performance, especially on legacy [Windows][] systems.
 
 </details>
 
+### <div class="simpleicons" id="si-zed"></div> Zed
+
+<details class="my-details">
+  <summary>See details</summary>
+
+- [zed-shader-ls](https://github.com/shader-ls/zed-shader-ls) (Spring 2026):
+[Shader][] languages support for [Zed][].
+- [zed-ellsp](https://github.com/elisp-lsp/zed-ellsp) (Spring 2026):
+[Emacs Lisp][] languages support for [Zed][].
+
+</details>
+
 ### ⚙️ Technical utilities
 
 <details class="my-details">
@@ -1689,6 +1701,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Vim]: https://www.vim.org/
 [NeoVim]: https://neovim.io/
 [Atom]: https://atom-editor.cc/
+[Zed]: https://zed.dev/
 [VSCode]: https://code.visualstudio.com/
 [Visual Studio]: https://visualstudio.microsoft.com/
 [Sublime Text]: https://www.sublimetext.com/
@@ -1773,6 +1786,7 @@ The project was initiated during the course of work but is no longer in use as t
 
 <!-- Graphics -->
 [shader-language-server]: https://github.com/shader-ls/shader-language-server
+[Shader]: https://en.wikipedia.org/wiki/Shader
 [ShaderLab]: https://docs.unity3d.com/Manual/SL-Reference.html
 [HLSL]: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
 [GLSL]: https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language

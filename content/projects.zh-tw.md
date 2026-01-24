@@ -856,7 +856,7 @@ data-balloon-pos="up">👷</span>):
 以非同步方式播放聲音。
 - [block-travel](https://github.com/emacs-vs/block-travel) (冬 2022):
 移至上一行/下一行空白行。
-靈感來源：Atom 社群中的 [Block Travel](https://atom.io/packages/block-travel) 和 VSCode 社群中的 [Block Travel](https://marketplace.visualstudio.com/items?itemName=sashaweiss.block-travel)。
+靈感來源：[Atom][] 社群中的 [Block Travel](https://atom.io/packages/block-travel) 和 VSCode 社群中的 [Block Travel](https://marketplace.visualstudio.com/items?itemName=sashaweiss.block-travel)。
 - [jcs-modeline][] (冬 2022):
 [jcs-emacs][] 的 modeline。
 - [pkg-dm](https://github.com/jcs-elpa/pkg-dm) (冬 2022):
@@ -1340,6 +1340,18 @@ Emacs 發行版可在所有作業系統上順暢運作，提供卓越的效能�
 
 </details>
 
+### <div class="simpleicons" id="si-zed"></div> Zed
+
+<details class="my-details">
+  <summary>詳細資訊</summary>
+
+- [zed-shader-ls](https://github.com/shader-ls/zed-shader-ls) (春 2026):
+[Shader][] 語言支援 [Zed][]。
+- [zed-ellsp](https://github.com/elisp-lsp/zed-ellsp) (春 2026):
+[Emacs Lisp][] 語言支援 [Zed][]。
+
+</details>
+
 ### ⚙️ 技術工具
 
 <details class="my-details">
@@ -1671,6 +1683,7 @@ data-balloon-pos="up">💸</span>):
 [Vim]: https://www.vim.org/
 [NeoVim]: https://neovim.io/
 [Atom]: https://atom-editor.cc/
+[Zed]: https://zed.dev/
 [VSCode]: https://code.visualstudio.com/
 [Visual Studio]: https://visualstudio.microsoft.com/
 [Sublime Text]: https://www.sublimetext.com/
@@ -1755,6 +1768,7 @@ data-balloon-pos="up">💸</span>):
 
 <!-- Graphics -->
 [shader-language-server]: https://github.com/shader-ls/shader-language-server
+[Shader]: https://en.wikipedia.org/wiki/Shader
 [ShaderLab]: https://docs.unity3d.com/Manual/SL-Reference.html
 [HLSL]: https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl
 [GLSL]: https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language
