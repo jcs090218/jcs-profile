@@ -7,6 +7,17 @@
 	top: 5px;
 }
 
+.simpleicons-2 {
+    display: inline-block;
+    margin-right: 5px;
+    width: 18px;
+    height: 18px;
+	position: relative;
+	top: 4px;
+}
+
+/* Icons */
+
 #si-nix {
     background-image: url('https://avatars.githubusercontent.com/u/487568?s=200&v=4');
     background-size: cover;
@@ -33,6 +44,18 @@
 
 #si-emacs {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/180px-EmacsIcon.svg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#si-visual-studio {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/960px-Visual_Studio_Icon_2026.svg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#si-vscode {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png');
     background-size: cover;
     background-repeat: no-repeat;
 }

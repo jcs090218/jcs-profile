@@ -616,15 +616,9 @@ I serve as the package maintainer for a small set of packages.
 <details class="my-details">
   <summary>See details</summary>
 
-- [vscode-ellsp](https://github.com/elisp-lsp/vscode-ellsp) (Winter 2023 <span aria-label="Published to VSCode Marketplace (2)"
-data-balloon-pos="up">🏅</span>):
-[Emacs Lisp][] languages support for [Visual Studio Code][VSCode].
 - [ellsp](https://github.com/elisp-lsp/ellsp) (Winter 2023):
 Language server implementation for [Emacs Lisp][].
 The emacs client (using [lsp-mode][]) is also included; do `M-x ellsp-register` to enable it.
-- [vscode-shader](https://github.com/shader-ls/vscode-shader) (Fall 2023 <span aria-label="Published to VSCode Marketplace (1)"
-data-balloon-pos="up">🏅</span>):
-Shader languages support for [Visual Studio Code][VSCode].
 - [shader-language-server][] (Summer 2023 – Fall 2023 <span aria-label="Published to NuGet (1)"
 data-balloon-pos="up">🏅</span>):
 Language server implementation for [ShaderLab][].
@@ -645,7 +639,12 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 </details>
 
-### <div class="simpleicons" id="si-emacs"></div> Emacs
+### 📝 Text Editor
+
+<details class="my-details">
+  <summary>See details</summary>
+
+#### <div class="simpleicons-2" id="si-emacs"></div> Emacs
 
 <details class="my-details">
   <summary>See details</summary>
@@ -1337,7 +1336,7 @@ Line annotation for changed and saved lines.
 Automatically organize imports in [Java][] code.
 It has been deprecated with the advent of the [Language Server Protocol][LSP].
 
-#### Package Archive (ELPA)
+##### Package Archive (ELPA)
 
 - [jcs-elpa][] (Winter 2021 – Present):
 [Jen-Chieh Shen][]'s (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **250+** packages.
@@ -1346,7 +1345,7 @@ data-balloon-pos="up">✨</span>):
 Recipes and build machinery for the biggest [Emacs][] package repo.
 [MELPA][] stands for "[Milkypostman][github/Milkypostman]’s [Emacs Lisp Package Archive][ELPA]," and I am among the **top 5** contributors to the repository.
 
-#### Distribution
+##### Distribution
 
 - [jcs-emacs][] (Summer 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
@@ -1354,10 +1353,16 @@ delivering exceptional performance, especially on legacy [Windows][] systems.
 
 </details>
 
-### <div class="simpleicons" id="si-zed"></div> Zed
+#### <div class="simpleicons-2" id="si-vscode"></div> VSCode
 
-<details class="my-details">
-  <summary>See details</summary>
+- [vscode-ellsp](https://github.com/elisp-lsp/vscode-ellsp) (Winter 2023 <span aria-label="Published to VSCode Marketplace (2)"
+data-balloon-pos="up">🏅</span>):
+[Emacs Lisp][] languages support for [Visual Studio Code][VSCode].
+- [vscode-shader](https://github.com/shader-ls/vscode-shader) (Fall 2023 <span aria-label="Published to VSCode Marketplace (1)"
+data-balloon-pos="up">🏅</span>):
+Shader languages support for [Visual Studio Code][VSCode].
+
+#### <div class="simpleicons-2" id="si-zed"></div> Zed
 
 - [zed-shader-ls](https://github.com/shader-ls/zed-shader-ls) (Spring 2026):
 [Shader][] languages support for [Zed][].

@@ -604,15 +604,9 @@ data-balloon-pos="up">✨</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [vscode-ellsp](https://github.com/elisp-lsp/vscode-ellsp) (冬 2023 <span aria-label="發佈至 VSCode Marketplace (2)"
-data-balloon-pos="up">🏅</span>):
-[Emacs Lisp][] 語言支援 [Visual Studio Code][VSCode]。
 - [ellsp](https://github.com/elisp-lsp/ellsp) (冬 2023):
 為 [Emacs Lisp][] 實作語言伺服器。
 emacs 用戶端（使用 [lsp-mode][]）也包含在內；使用 `M-x ellsp-register` 即可啟用。
-- [vscode-shader](https://github.com/shader-ls/vscode-shader) (秋 2023 <span aria-label="發佈至 VSCode Marketplace (1)"
-data-balloon-pos="up">🏅</span>):
-著色器語言支援 [Visual Studio Code][VSCode]。
 - [shader-language-server][] (夏 2023 – 秋 2023 <span aria-label="發佈至 NuGet (1)"
 data-balloon-pos="up">🏅</span>):
 為 [ShaderLab][] 實作語言伺服器。
@@ -633,7 +627,12 @@ data-balloon-pos="up">🔗</span>):
 
 </details>
 
-### <div class="simpleicons" id="si-emacs"></div> Emacs
+### 📝 文字編輯器
+
+<details class="my-details">
+  <summary>詳細資訊</summary>
+
+#### <div class="simpleicons-2" id="si-emacs"></div> Emacs
 
 <details class="my-details">
   <summary>詳細資訊</summary>
@@ -1324,7 +1323,7 @@ data-balloon-pos="up">👷</span>):
 自動組織 [Java][] 程式碼中的匯入。
 隨著 [語言伺服器協定][LSP] 的出現，它已被廢棄。
 
-#### Package Archive (ELPA)
+##### Package Archive (ELPA)
 
 - [jcs-elpa][] (冬 2021 – 現在):
 [Jen-Chieh Shen][] (我自己的) [ELPA](https://www.emacswiki.org/emacs/ELPA)；目前有 **250+** 包。
@@ -1333,17 +1332,23 @@ data-balloon-pos="up">✨</span>):
 最大的 [Emacs][] 套件 repo 的 Recipes 和建立機制。
 [MELPA][] 是「[Milkypostman][github/Milkypostman] 的 [Emacs Lisp Package Archive][ELPA] 」的縮寫，而我是該套件庫的 **5 大**貢獻者之一。
 
-#### 分佈
+##### 分佈
 
 - [jcs-emacs][] (夏 2015 – 現在):
 Emacs 發行版可在所有作業系統上順暢運作，提供卓越的效能，尤其是在傳統 [Windows][] 系統上。
 
 </details>
 
-### <div class="simpleicons" id="si-zed"></div> Zed
+#### <div class="simpleicons-2" id="si-vscode"></div> VSCode
 
-<details class="my-details">
-  <summary>詳細資訊</summary>
+- [vscode-ellsp](https://github.com/elisp-lsp/vscode-ellsp) (冬 2023 <span aria-label="發佈至 VSCode Marketplace (2)"
+data-balloon-pos="up">🏅</span>):
+[Emacs Lisp][] 語言支援 [Visual Studio Code][VSCode]。
+- [vscode-shader](https://github.com/shader-ls/vscode-shader) (秋 2023 <span aria-label="發佈至 VSCode Marketplace (1)"
+data-balloon-pos="up">🏅</span>):
+[Shader][] 語言支援 [Visual Studio Code][VSCode]。
+
+#### <div class="simpleicons-2" id="si-zed"></div> Zed
 
 - [zed-shader-ls](https://github.com/shader-ls/zed-shader-ls) (春 2026):
 [Shader][] 語言支援 [Zed][]。
