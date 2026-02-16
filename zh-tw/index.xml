@@ -1202,7 +1202,7 @@ data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
 這是分層在 &lt;a href=&#34;https://gamua.com/starling/&#34;&gt;Starling&lt;/a&gt; 框架之上的程式介面，將事件驅動系統轉換成元件驅動系統。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;h3 id=&#34;unity&#34;&gt;&lt;div class=&#34;simpleicons&#34; id=&#34;si-unity&#34;&gt;&lt;/div&gt; Unity&lt;/h3&gt;
+&lt;h3 id=&#34;unity&#34;&gt;&lt;div class=&#34;simpleicons-1&#34; id=&#34;si-unity&#34;&gt;&lt;/div&gt; Unity&lt;/h3&gt;
 &lt;details class=&#34;my-details&#34;&gt;
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;ul&gt;
@@ -1688,7 +1688,7 @@ data-balloon-pos=&#34;up&#34;&gt;👷&lt;/span&gt;):
 我是專門負責 &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Windows&#34;&gt;Windows&lt;/a&gt; 平台的維護者。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
-&lt;h3 id=&#34;nix&#34;&gt;&lt;div class=&#34;simpleicons&#34; id=&#34;si-nix&#34;&gt;&lt;/div&gt; Nix&lt;/h3&gt;
+&lt;h3 id=&#34;nix&#34;&gt;&lt;div class=&#34;simpleicons-1&#34; id=&#34;si-nix&#34;&gt;&lt;/div&gt; Nix&lt;/h3&gt;
 &lt;details class=&#34;my-details&#34;&gt;
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;ul&gt;
@@ -1727,6 +1727,16 @@ data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt;):
 從原始儲存庫分叉並維護一個版本以確保與各種編輯器的兼容性。
 隨著上游已於 2022 年過渡到官方 API，該語言伺服器現已棄用。
 鼓勵使用者改用較新的 &lt;a href=&#34;https://github.com/emacs-grammarly/grammarly-language-server&#34;&gt;grammarly-language-server&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;h3 id=&#34;eine&#34;&gt;&lt;div class=&#34;simpleicons-1&#34; id=&#34;si-eine&#34;&gt;&lt;/div&gt; Eine&lt;/h3&gt;
+&lt;details class=&#34;my-details&#34;&gt;
+  &lt;summary&gt;詳細資訊&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/gt-cli&#34;&gt;gt-cli&lt;/a&gt; (Spring 2026):
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;命令列介面&lt;/a&gt; 適用於 &lt;a href=&#34;https://github.com/lorniu/gt.el&#34;&gt;gt.el&lt;/a&gt;（前身為 &lt;a href=&#34;https://github.com/lorniu/gt.el&#34;&gt;go-translate&lt;/a&gt;）。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/google-translate-cli&#34;&gt;google-translate-cli&lt;/a&gt; (Spring 2026):
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;命令列介面&lt;/a&gt; 適用於 Google 翻譯。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
 &lt;h3 id=&#34;-文字編輯器&#34;&gt;📝 文字編輯器&lt;/h3&gt;
