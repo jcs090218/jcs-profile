@@ -89,7 +89,7 @@ This is a programming interface layered on top of the [Starling][] framework, tr
 
 </details>
 
-### <div class="simpleicons" id="si-unity"></div> Unity
+### <div class="simpleicons-1" id="si-unity"></div> Unity
 
 <details class="my-details">
   <summary>See details</summary>
@@ -594,7 +594,7 @@ I'm the maintainer specifically responsible to [Windows][] platform.
 
 </details>
 
-### <div class="simpleicons" id="si-nix"></div> Nix
+### <div class="simpleicons-1" id="si-nix"></div> Nix
 
 <details class="my-details">
   <summary>See details</summary>
@@ -636,6 +636,18 @@ Unofficial [Grammarly][] extension.
 Forked from the original repository and maintained a version to ensure compatibility with various editors.
 This language server is now deprecated as the upstream has transitioned to the official API in 2022.
 Users are encouraged to use the newer [grammarly-language-server][] instead.
+
+</details>
+
+### <div class="simpleicons-1" id="si-eine"></div> Eine
+
+<details class="my-details">
+  <summary>See details</summary>
+
+- [gt-cli](https://github.com/emacs-eine/gt-cli) (Spring 2026):
+A [command-line interface][CLI] for [gt.el][] (previously [go-translate][gt.el]).
+- [google-translate-cli](https://github.com/emacs-eine/google-translate-cli) (Spring 2026):
+A [command-line interface][CLI] for Google Translate.
 
 </details>
 
@@ -1900,6 +1912,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ws]: https://www.npmjs.com/package/ws
 [ziglint]: https://github.com/nektro/ziglint
 [org-mode]: https://orgmode.org/
+[gt.el]: https://github.com/lorniu/gt.el
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows

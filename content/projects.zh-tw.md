@@ -81,7 +81,7 @@ data-balloon-pos="up">🏫</span>):
 
 </details>
 
-### <div class="simpleicons" id="si-unity"></div> Unity
+### <div class="simpleicons-1" id="si-unity"></div> Unity
 
 <details class="my-details">
   <summary>詳細資訊</summary>
@@ -582,7 +582,7 @@ data-balloon-pos="up">👷</span>):
 
 </details>
 
-### <div class="simpleicons" id="si-nix"></div> Nix
+### <div class="simpleicons-1" id="si-nix"></div> Nix
 
 <details class="my-details">
   <summary>詳細資訊</summary>
@@ -624,6 +624,18 @@ data-balloon-pos="up">🔗</span>):
 從原始儲存庫分叉並維護一個版本以確保與各種編輯器的兼容性。
 隨著上游已於 2022 年過渡到官方 API，該語言伺服器現已棄用。
 鼓勵使用者改用較新的 [grammarly-language-server][]。
+
+</details>
+
+### <div class="simpleicons-1" id="si-eine"></div> Eine
+
+<details class="my-details">
+  <summary>詳細資訊</summary>
+
+- [gt-cli](https://github.com/emacs-eine/gt-cli) (Spring 2026):
+[命令列介面][CLI] 適用於 [gt.el][]（前身為 [go-translate][gt.el]）。
+- [google-translate-cli](https://github.com/emacs-eine/google-translate-cli) (Spring 2026):
+[命令列介面][CLI] 適用於 Google 翻譯。
 
 </details>
 
@@ -1882,6 +1894,7 @@ data-balloon-pos="up">💸</span>):
 [ws]: https://www.npmjs.com/package/ws
 [ziglint]: https://github.com/nektro/ziglint
 [org-mode]: https://orgmode.org/
+[gt.el]: https://github.com/lorniu/gt.el
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
