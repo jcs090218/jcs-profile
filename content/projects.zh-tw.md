@@ -632,9 +632,9 @@ data-balloon-pos="up">🔗</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [gt-cli](https://github.com/emacs-eine/gt-cli) (Spring 2026):
+- [gt-cli](https://github.com/emacs-eine/gt-cli) (春 2026):
 [命令列介面][CLI] 適用於 [gt.el][]（前身為 [go-translate][gt.el]）。
-- [google-translate-cli](https://github.com/emacs-eine/google-translate-cli) (Spring 2026):
+- [google-translate-cli](https://github.com/emacs-eine/google-translate-cli) (春 2026):
 [命令列介面][CLI] 適用於 Google 翻譯。
 
 </details>
