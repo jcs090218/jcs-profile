@@ -1733,6 +1733,8 @@ data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt;):
 &lt;details class=&#34;my-details&#34;&gt;
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/simple-httpd-cli&#34;&gt;simple-httpd-cli&lt;/a&gt; (春 2026):
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;命令列介面&lt;/a&gt; 適用於 &lt;a href=&#34;https://github.com/skeeto/emacs-web-server/blob/master/simple-httpd.el&#34;&gt;simple-httpd&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/gt-cli&#34;&gt;gt-cli&lt;/a&gt; (春 2026):
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;命令列介面&lt;/a&gt; 適用於 &lt;a href=&#34;https://github.com/lorniu/gt.el&#34;&gt;gt.el&lt;/a&gt;（前身為 &lt;a href=&#34;https://github.com/lorniu/gt.el&#34;&gt;go-translate&lt;/a&gt;）。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/google-translate-cli&#34;&gt;google-translate-cli&lt;/a&gt; (春 2026):
