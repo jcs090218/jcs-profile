@@ -632,6 +632,8 @@ data-balloon-pos="up">🔗</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
+- [simple-httpd-cli](https://github.com/emacs-eine/simple-httpd-cli) (春 2026):
+[命令列介面][CLI] 適用於 [simple-httpd][simple-httpd.el].
 - [gt-cli](https://github.com/emacs-eine/gt-cli) (春 2026):
 [命令列介面][CLI] 適用於 [gt.el][]（前身為 [go-translate][gt.el]）。
 - [google-translate-cli](https://github.com/emacs-eine/google-translate-cli) (春 2026):
@@ -1895,6 +1897,7 @@ data-balloon-pos="up">💸</span>):
 [ziglint]: https://github.com/nektro/ziglint
 [org-mode]: https://orgmode.org/
 [gt.el]: https://github.com/lorniu/gt.el
+[simple-httpd.el]: https://github.com/skeeto/emacs-web-server/blob/master/simple-httpd.el
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows

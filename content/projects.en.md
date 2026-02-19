@@ -641,9 +641,11 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ### <div class="simpleicons-1" id="si-eine"></div> Eine
 
-<details class="my-details">
+<details class="my-details">2
   <summary>See details</summary>
 
+- [gt-cli](https://github.com/emacs-eine/simple-httpd-cli) (Spring 2026):
+A [command-line interface][CLI] for [simple-httpd][simple-httpd.el].
 - [gt-cli](https://github.com/emacs-eine/gt-cli) (Spring 2026):
 A [command-line interface][CLI] for [gt.el][] (previously [go-translate][gt.el]).
 - [google-translate-cli](https://github.com/emacs-eine/google-translate-cli) (Spring 2026):
@@ -1913,6 +1915,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ziglint]: https://github.com/nektro/ziglint
 [org-mode]: https://orgmode.org/
 [gt.el]: https://github.com/lorniu/gt.el
+[simple-httpd.el]: https://github.com/skeeto/emacs-web-server/blob/master/simple-httpd.el
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
