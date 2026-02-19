@@ -641,10 +641,10 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 
 ### <div class="simpleicons-1" id="si-eine"></div> Eine
 
-<details class="my-details">2
+<details class="my-details">
   <summary>See details</summary>
 
-- [gt-cli](https://github.com/emacs-eine/simple-httpd-cli) (Spring 2026):
+- [simple-httpd-cli](https://github.com/emacs-eine/simple-httpd-cli) (Spring 2026):
 A [command-line interface][CLI] for [simple-httpd][simple-httpd.el].
 - [gt-cli](https://github.com/emacs-eine/gt-cli) (Spring 2026):
 A [command-line interface][CLI] for [gt.el][] (previously [go-translate][gt.el]).
