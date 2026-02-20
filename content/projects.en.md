@@ -616,9 +616,10 @@ I serve as the package maintainer for a small set of packages.
 <details class="my-details">
   <summary>See details</summary>
 
-- [ellsp](https://github.com/elisp-lsp/ellsp) (Winter 2023):
+- [ellsp][] (Winter 2023 – Spring 2026):
 Language server implementation for [Emacs Lisp][].
-The emacs client (using [lsp-mode][]) is also included; do `M-x ellsp-register` to enable it.
+The emacs client (using [lsp-mode][]) is also included; ~~do `M-x ellsp-register` to enable it~~.
+After version `0.2.0`, the client is now [lsp-ellsp][].
 - [shader-language-server][] (Summer 2023 – Fall 2023 <span aria-label="Published to NuGet (1)"
 data-balloon-pos="up">🏅</span>):
 Language server implementation for [ShaderLab][].
@@ -788,6 +789,8 @@ Show [eglot][] information with [sideline][].
 - [ic](https://github.com/jcs-elpa/ic) (Winter 2023):
 Pretty print to debug.
 Inspired by the [icecream](https://pypi.org/project/icecream/) package from the [Python][]/[PyPi][] community.
+- [lsp-ellsp][] (Winter 2023 – Spring 2026):
+[lsp-mode][] client leveraging [Ellsp][].
 - [jcs-template][] (Winter 2023):
 Template module for [jcs-emacs][].
 - [dart-mode](https://github.com/emacsorphanage/dart-mode) (Fall 2023 <span aria-label="Maintainer"
@@ -1883,6 +1886,8 @@ The project was initiated during the course of work but is no longer in use as t
 [eglot]: https://github.com/joaotavora/eglot
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
+[Ellsp]: https://github.com/elisp-lsp/ellsp
+[lsp-ellsp]: https://github.com/elisp-lsp/lsp-ellsp
 [ecukes]: https://github.com/ecukes/ecukes
 [origami.el]: https://github.com/elp-revive/origami.el
 [elisp-tree-sitter]: https://github.com/emacs-tree-sitter/elisp-tree-sitter
