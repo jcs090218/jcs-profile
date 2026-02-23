@@ -41,6 +41,7 @@ jobs:
       with:
         ref: gh-pages
         path: ${{ env.PATH_DOC }}
+        fetch-depth: 1
 
     - name: Clean up before the build
       working-directory: ${{ env.PATH_DOC }}
