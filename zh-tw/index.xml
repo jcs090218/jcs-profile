@@ -1545,10 +1545,10 @@ data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
 &lt;details class=&#34;my-details&#34;&gt;
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jcs-emacs.github.io/&#34;&gt;JCS-EMACS Homepage&lt;/a&gt; (春 2022):
+&lt;li&gt;&lt;a href=&#34;https://jcs-emacs.github.io/&#34;&gt;JCS Emacs Homepage&lt;/a&gt; (春 2022):
 &lt;a href=&#34;https://github.com/jcs-emacs/jcs-emacs&#34;&gt;jcs-emacs&lt;/a&gt; 的登陸頁面。本網站使用 &lt;a href=&#34;https://react.dev/&#34;&gt;React.js&lt;/a&gt; 製作。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jcs-emacs.github.io/jcs-elpa/&#34;&gt;JCS-ELPA Homepage&lt;/a&gt; (冬 2021):
-&lt;a href=&#34;https://github.com/jcs-emacs/jcs-elpa&#34;&gt;JCS-ELPA&lt;/a&gt; 的主頁旨在展示存檔中的所有軟體包。
+&lt;li&gt;&lt;a href=&#34;https://jcs-emacs.github.io/jcs-elpa/&#34;&gt;JCS ELPA Homepage&lt;/a&gt; (冬 2021):
+&lt;a href=&#34;https://github.com/jcs-emacs/jcs-elpa&#34;&gt;JCS ELPA&lt;/a&gt; 的主頁旨在展示存檔中的所有軟體包。
 網站僅包含基本的 &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34;&gt;HTML&lt;/a&gt;、&lt;a href=&#34;https://en.wikipedia.org/wiki/CSS&#34;&gt;CSS&lt;/a&gt; 和 &lt;a href=&#34;https://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt;。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://pixisoft.gitlab.io/&#34;&gt;Pixisoft Website&lt;/a&gt; (夏 2021 – 冬 2021 &lt;span aria-label=&#34;專業工作&#34;
 data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
@@ -1733,24 +1733,9 @@ data-balloon-pos=&#34;up&#34;&gt;🔗&lt;/span&gt;):
 &lt;h3 id=&#34;eine&#34;&gt;&lt;div class=&#34;simpleicons-1&#34; id=&#34;si-eine&#34;&gt;&lt;/div&gt; Eine&lt;/h3&gt;
 &lt;details class=&#34;my-details&#34;&gt;
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/simple-httpd-cli&#34;&gt;simple-httpd-cli&lt;/a&gt; (春 2026):
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;命令列介面&lt;/a&gt; 適用於 &lt;a href=&#34;https://github.com/skeeto/emacs-web-server/blob/master/simple-httpd.el&#34;&gt;simple-httpd&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/gt-cli&#34;&gt;gt-cli&lt;/a&gt; (春 2026):
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;命令列介面&lt;/a&gt; 適用於 &lt;a href=&#34;https://github.com/lorniu/gt.el&#34;&gt;gt.el&lt;/a&gt;（前身為 &lt;a href=&#34;https://github.com/lorniu/gt.el&#34;&gt;go-translate&lt;/a&gt;）。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eine/google-translate-cli&#34;&gt;google-translate-cli&lt;/a&gt; (春 2026):
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Command-line_interface&#34;&gt;命令列介面&lt;/a&gt; 適用於 Google 翻譯。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/details&gt;
-&lt;h3 id=&#34;-文字編輯器&#34;&gt;📝 文字編輯器&lt;/h3&gt;
-&lt;details class=&#34;my-details&#34;&gt;
-  &lt;summary&gt;詳細資訊&lt;/summary&gt;
-&lt;h4 id=&#34;emacs&#34;&gt;&lt;div class=&#34;simpleicons-2&#34; id=&#34;si-emacs&#34;&gt;&lt;/div&gt; Emacs&lt;/h4&gt;
-&lt;details class=&#34;my-details&#34;&gt;
-  &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;blockquote&gt;
-&lt;p&gt;📢 大部分的 &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt; 套件都發表在 &lt;a href=&#34;https://melpa.org/&#34;&gt;MELPA&lt;/a&gt; &lt;span aria-label=&#34;發布至 MELPA&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;
-或 &lt;a href=&#34;https://github.com/jcs-emacs/jcs-elpa&#34;&gt;JCS-ELPA&lt;/a&gt; &lt;span aria-label=&#34;發布至 JCS-ELPA&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;,
+&lt;p&gt;📢 大部分的 &lt;a href=&#34;https://github.com/emacs-eine&#34;&gt;EINE&lt;/a&gt; 套件都發表在
+&lt;a href=&#34;https://github.com/emacs-eine/elpa&#34;&gt;EINE ELPA&lt;/a&gt; &lt;span aria-label=&#34;發布至 EINE ELPA&#34; data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;
 上，所以我不會明確列出。&lt;/p&gt;</description>
     </item>
     <item>
