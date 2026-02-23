@@ -1916,6 +1916,7 @@ data-balloon-pos="up">💸</span>):
 [ws]: https://www.npmjs.com/package/ws
 [ziglint]: https://github.com/nektro/ziglint
 [org-mode]: https://orgmode.org/
+[commander.el]: https://github.com/rejeep/commander.el
 [gt.el]: https://github.com/lorniu/gt.el
 [simple-httpd.el]: https://github.com/skeeto/emacs-web-server/blob/master/simple-httpd.el
 [e2ansi]: https://github.com/Lindydancer/e2ansi
