@@ -644,7 +644,7 @@ data-balloon-pos="up">🔗</span>):
 - [run-tetris](https://github.com/emacs-eine/run-tetris) (春 2026):
 玩 [Tetris][].
 - [org-linter](https://github.com/emacs-eine/org-linter) (春 2026):
-在 Org 檔案上執行 org-lint。
+在 [Org][org-mode] 檔案上執行 `org-lint`。
 - [cat](https://github.com/emacs-eine/cat) (春 2026):
 使用由 [e2ansi][] 驅動的語法高亮功能檢視檔案。
 - [simple-httpd-cli](https://github.com/emacs-eine/simple-httpd-cli) (春 2026):
