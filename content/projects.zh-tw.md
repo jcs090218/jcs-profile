@@ -637,6 +637,8 @@ data-balloon-pos="up">🔗</span>):
 > [EINE ELPA][] <span aria-label="發布至 EINE ELPA" data-balloon-pos="up">🏅</span>
 > 上，所以我不會明確列出。
 
+- [org-linter](https://github.com/emacs-eine/org-linter) (春 2026):
+在 Org 檔案上執行 org-lint。
 - [cat](https://github.com/emacs-eine/cat) (春 2026):
 使用由 [e2ansi][] 驅動的語法高亮功能檢視檔案。
 - [simple-httpd-cli](https://github.com/emacs-eine/simple-httpd-cli) (春 2026):

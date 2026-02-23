@@ -649,6 +649,8 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > [EINE ELPA][] <span aria-label="Published on EINE ELPA" data-balloon-pos="up">🏅</span>
 > so I won’t list them explicitly.
 
+- [org-linter](https://github.com/emacs-eine/org-linter) (Spring 2026):
+Run org-lint on Org files.
 - [cat](https://github.com/emacs-eine/cat) (Spring 2026):
 View files with syntax highlighting powered by [e2ansi][].
 - [simple-httpd-cli](https://github.com/emacs-eine/simple-httpd-cli) (Spring 2026):
