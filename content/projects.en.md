@@ -379,7 +379,7 @@ Rewrite [emacs-flx][] in [Swift][].
   Demo to use [FlxSwift][].
 - [flx.go][] (Winter 2024 <span aria-label="Searchable on Go.dev (1)"
 data-balloon-pos="up">🏅</span>):
-Rewrite [emacs-flx][] in [Go][].
+Rewrite [emacs-flx][] in [Go][Golang].
   - [demo-flx.go][] (Winter 2024):
   Demo to use [flx.go][].
 - [flx.py][] (Winter 2024 <span aria-label="Published to PyPi (1)"
@@ -649,6 +649,12 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > [EINE ELPA][] <span aria-label="Published on EINE ELPA" data-balloon-pos="up">🏅</span>
 > so I won’t list them explicitly.
 
+- [run-slime-volleyball](https://github.com/emacs-eine/run-slime-volleyball) (Spring 2026):
+Play [slime-volleyball](https://github.com/fitzsim/slime-volleyball).
+- [run-go](https://github.com/emacs-eine/run-go) (Spring 2026):
+Play [Go][].
+- [run-tetris](https://github.com/emacs-eine/run-tetris) (Spring 2026):
+Play [Tetris][].
 - [org-linter](https://github.com/emacs-eine/org-linter) (Spring 2026):
 Run org-lint on Org files.
 - [cat](https://github.com/emacs-eine/cat) (Spring 2026):
@@ -1702,7 +1708,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [GDScript]: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
-[Go]: https://go.dev/
+[Golang]: https://go.dev/
 [Haskell]: https://www.haskell.org/
 [Haxe]: https://haxe.org/
 [JayCeS]: https://github.com/jayces-lang/jayces
@@ -2038,6 +2044,8 @@ The project was initiated during the course of work but is no longer in use as t
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
 [Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
 [Screensaver]: https://en.wikipedia.org/wiki/Screensaver
+[Go]: https://en.wikipedia.org/wiki/Go_(game)
+[Tetris]: https://en.wikipedia.org/wiki/Tetris
 
 [Roguelike]: https://en.wikipedia.org/wiki/Roguelike
 [Shooter game]: https://en.wikipedia.org/wiki/Shooter_game

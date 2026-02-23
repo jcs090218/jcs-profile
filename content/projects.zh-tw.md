@@ -367,7 +367,7 @@ data-balloon-pos="up">🏅</span>):
   使用 [FlxSwift][] 的示範。
 - [flx.go][] (冬 2024 <span aria-label="索引在 Go.dev (1)"
 data-balloon-pos="up">🏅</span>):
-用 [Go][] 重寫 [emacs-flx][]。
+用 [Go][Golang] 重寫 [emacs-flx][]。
   - [demo-flx.go][] (冬 2024):
   使用 [flx.go][] 的示範。
 - [flx.py][] (冬 2024 <span aria-label="發佈至 PyPi (1)"
@@ -637,6 +637,12 @@ data-balloon-pos="up">🔗</span>):
 > [EINE ELPA][] <span aria-label="發布至 EINE ELPA" data-balloon-pos="up">🏅</span>
 > 上，所以我不會明確列出。
 
+- [run-slime-volleyball](https://github.com/emacs-eine/run-slime-volleyball) (春 2026):
+玩 [slime-volleyball](https://github.com/fitzsim/slime-volleyball).
+- [run-go](https://github.com/emacs-eine/run-go) (春 2026):
+玩 [Go][].
+- [run-tetris](https://github.com/emacs-eine/run-tetris) (春 2026):
+玩 [Tetris][].
 - [org-linter](https://github.com/emacs-eine/org-linter) (春 2026):
 在 Org 檔案上執行 org-lint。
 - [cat](https://github.com/emacs-eine/cat) (春 2026):
@@ -1684,7 +1690,7 @@ data-balloon-pos="up">💸</span>):
 [Emacs Lisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [Elisp]: https://www.gnu.org/software/emacs/manual/html_node/eintr/
 [GDScript]: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
-[Go]: https://go.dev/
+[Golang]: https://go.dev/
 [Haskell]: https://www.haskell.org/
 [Haxe]: https://haxe.org/
 [JayCeS]: https://github.com/jayces-lang/jayces
@@ -2020,6 +2026,8 @@ data-balloon-pos="up">💸</span>):
 [websocket]: https://en.wikipedia.org/wiki/WebSocket
 [Table of contents]: https://en.wikipedia.org/wiki/Table_of_contents
 [Screensaver]: https://en.wikipedia.org/wiki/Screensaver
+[Go]: https://en.wikipedia.org/wiki/Go_(game)
+[Tetris]: https://en.wikipedia.org/wiki/Tetris
 
 [Roguelike]: https://en.wikipedia.org/wiki/Roguelike
 [Shooter game]: https://en.wikipedia.org/wiki/Shooter_game
