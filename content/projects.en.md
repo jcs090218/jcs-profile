@@ -1392,7 +1392,8 @@ Shader languages support for [Visual Studio Code][VSCode].
 
 - [zed-shader-ls](https://github.com/shader-ls/zed-shader-ls) (Spring 2026):
 [Shader][] languages support for [Zed][].
-- [zed-ellsp](https://github.com/elisp-lsp/zed-ellsp) (Spring 2026):
+- [zed-ellsp](https://github.com/elisp-lsp/zed-ellsp) (Spring 2026 <span aria-label="Published to Zed Extensions (1)"
+data-balloon-pos="up">🏅</span>):
 [Emacs Lisp][] languages support for [Zed][].
 
 </details>

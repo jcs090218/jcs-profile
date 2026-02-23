@@ -1378,7 +1378,8 @@ data-balloon-pos="up">🏅</span>):
 
 - [zed-shader-ls](https://github.com/shader-ls/zed-shader-ls) (春 2026):
 [Shader][] 語言支援 [Zed][]。
-- [zed-ellsp](https://github.com/elisp-lsp/zed-ellsp) (春 2026):
+- [zed-ellsp](https://github.com/elisp-lsp/zed-ellsp) (春 2026 <span aria-label="發佈至 Zed Extensions (1)"
+data-balloon-pos="up">🏅</span>):
 [Emacs Lisp][] 語言支援 [Zed][]。
 
 </details>
