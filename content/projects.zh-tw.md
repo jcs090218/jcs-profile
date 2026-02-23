@@ -431,10 +431,10 @@ data-balloon-pos="up">🏫</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-- [JCS-EMACS Homepage](https://jcs-emacs.github.io/) (春 2022):
+- [JCS Emacs Homepage](https://jcs-emacs.github.io/) (春 2022):
 [jcs-emacs][] 的登陸頁面。本網站使用 [React.js][] 製作。
-- [JCS-ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (冬 2021):
-[JCS-ELPA][] 的主頁旨在展示存檔中的所有軟體包。
+- [JCS ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (冬 2021):
+[JCS ELPA][] 的主頁旨在展示存檔中的所有軟體包。
 網站僅包含基本的 [HTML][]、[CSS][] 和 [JavaScript][]。
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (夏 2021 – 冬 2021 <span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
@@ -633,8 +633,14 @@ data-balloon-pos="up">🔗</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
+> 📢 大部分的 [EINE][] 套件都發表在
+> [EINE ELPA][] <span aria-label="發布至 EINE ELPA" data-balloon-pos="up">🏅</span>
+> 上，所以我不會明確列出。
+
+- [cat](https://github.com/emacs-eine/cat) (春 2026):
+使用由 [e2ansi][] 驅動的語法高亮功能檢視檔案。
 - [simple-httpd-cli](https://github.com/emacs-eine/simple-httpd-cli) (春 2026):
-[命令列介面][CLI] 適用於 [simple-httpd][simple-httpd.el].
+[命令列介面][CLI] 適用於 [simple-httpd][simple-httpd.el]。
 - [gt-cli](https://github.com/emacs-eine/gt-cli) (春 2026):
 [命令列介面][CLI] 適用於 [gt.el][]（前身為 [go-translate][gt.el]）。
 - [google-translate-cli](https://github.com/emacs-eine/google-translate-cli) (春 2026):
@@ -652,8 +658,9 @@ data-balloon-pos="up">🔗</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
-> 📢 大部分的 [Emacs][] 套件都發表在 [MELPA][] <span aria-label="發布至 MELPA" data-balloon-pos="up">🏅</span>
-> 或 [JCS-ELPA][] <span aria-label="發布至 JCS-ELPA" data-balloon-pos="up">🏅</span>,
+> 📢 大部分的 [Emacs][] 套件都發表在
+> [MELPA][] <span aria-label="發布至 MELPA" data-balloon-pos="up">🏅</span>
+> 或 [JCS ELPA][] <span aria-label="發布至 JCS ELPA" data-balloon-pos="up">🏅</span>
 > 上，所以我不會明確列出。
 
 - [emamux](https://github.com/emacsorphanage/emamux) (冬 2025 <span aria-label="維護者"
@@ -1342,8 +1349,10 @@ data-balloon-pos="up">👷</span>):
 
 ##### Package Archive (ELPA)
 
-- [jcs-elpa][] (冬 2021 – 現在):
-[Jen-Chieh Shen][] (我自己的) [ELPA](https://www.emacswiki.org/emacs/ELPA)；目前有 **250+** 包。
+- [EINE ELPA][] (春 2026):
+[ELPA][] 為 [EINE][]。
+- [JCS ELPA][] (冬 2021 – 春 2026):
+[Jen-Chieh Shen][] (我自己的) [ELPA][]；目前有 **250+** 包。
 - [melpa][] (秋 2020 – 冬 2023 <span aria-label="貢獻者"
 data-balloon-pos="up">✨</span>):
 最大的 [Emacs][] 套件 repo 的 Recipes 和建立機制。
@@ -1351,7 +1360,7 @@ data-balloon-pos="up">✨</span>):
 
 ##### 分佈
 
-- [jcs-emacs][] (夏 2015 – 現在):
+- [JCS Emacs][] (夏 2015 – 現在):
 Emacs 發行版可在所有作業系統上順暢運作，提供卓越的效能，尤其是在傳統 [Windows][] 系統上。
 
 </details>
@@ -1614,6 +1623,11 @@ data-balloon-pos="up">💸</span>):
 [Bunny Eats Tiger]: https://store.steampowered.com/developer/BunnyEatsTiger
 [Mango Party]: https://store.steampowered.com/publisher/MangoParty
 
+<!-- Names (Others) -->
+[GNU]: https://en.wikipedia.org/wiki/GNU
+[Wine]: https://www.winehq.org/
+[EINE]: https://github.com/emacs-eine
+
 <!-- Intellectual Property -->
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
@@ -1781,7 +1795,8 @@ data-balloon-pos="up">💸</span>):
 
 <!-- Archives -->
 [ELPA]: https://www.emacswiki.org/emacs/ELPA
-[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
+[JCS ELPA]: https://github.com/jcs-emacs/jcs-elpa
+[EINE ELPA]: https://github.com/emacs-eine/elpa
 [MELPA]: https://melpa.org/
 [Quicklisp]: https://www.quicklisp.org/beta/
 [Ultralisp]: https://ultralisp.org/
@@ -1903,10 +1918,12 @@ data-balloon-pos="up">💸</span>):
 [org-mode]: https://orgmode.org/
 [gt.el]: https://github.com/lorniu/gt.el
 [simple-httpd.el]: https://github.com/skeeto/emacs-web-server/blob/master/simple-httpd.el
+[e2ansi]: https://github.com/Lindydancer/e2ansi
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
 
+[JCS Emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-template]: https://github.com/jcs-emacs/jcs-template
 [jcs-poptip]: https://github.com/jcs-emacs/jcs-poptip

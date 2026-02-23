@@ -443,10 +443,10 @@ This is constructed using [JCSPyGm_Lib][] layered on top of [Pygame][].
 <details class="my-details">
   <summary>See details</summary>
 
-- [JCS-EMACS Homepage](https://jcs-emacs.github.io/) (Spring 2022):
+- [JCS Emacs Homepage](https://jcs-emacs.github.io/) (Spring 2022):
 Landing page for [jcs-emacs][]. This webiste is made using [React.js][].
-- [JCS-ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
-A homepage for [JCS-ELPA][] designed to showcase all packages in the archive.
+- [JCS ELPA Homepage](https://jcs-emacs.github.io/jcs-elpa/) (Winter 2021):
+A homepage for [JCS ELPA][] designed to showcase all packages in the archive.
 The site only consists of basic [HTML][], [CSS][] and [JavaScript][].
 - [Pixisoft Website](https://pixisoft.gitlab.io/) (Summer 2021 – Winter 2021 <span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
@@ -645,6 +645,12 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 <details class="my-details">
   <summary>See details</summary>
 
+> 📢 Most [EINE][] packages are published on
+> [EINE ELPA][] <span aria-label="Published on EINE ELPA" data-balloon-pos="up">🏅</span>
+> so I won’t list them explicitly.
+
+- [cat](https://github.com/emacs-eine/cat) (Spring 2026):
+View files with syntax highlighting powered by [e2ansi][].
 - [simple-httpd-cli](https://github.com/emacs-eine/simple-httpd-cli) (Spring 2026):
 A [command-line interface][CLI] for [simple-httpd][simple-httpd.el].
 - [gt-cli](https://github.com/emacs-eine/gt-cli) (Spring 2026):
@@ -664,8 +670,9 @@ A [command-line interface][CLI] for Google Translate.
 <details class="my-details">
   <summary>See details</summary>
 
-> 📢 Most [Emacs][] packages are published on either [MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
-> or [JCS-ELPA][] <span aria-label="Published on JCS-ELPA" data-balloon-pos="up">🏅</span>,
+> 📢 Most [Emacs][] packages are published on either
+> [MELPA][] <span aria-label="Published on MELPA" data-balloon-pos="up">🏅</span>
+> or [JCS ELPA][] <span aria-label="Published on JCS ELPA" data-balloon-pos="up">🏅</span>
 > so I won’t list them explicitly.
 
 - [emamux](https://github.com/emacsorphanage/emamux) (Winter 2025 <span aria-label="Maintainer"
@@ -1355,8 +1362,10 @@ It has been deprecated with the advent of the [Language Server Protocol][LSP].
 
 ##### Package Archive (ELPA)
 
-- [jcs-elpa][] (Winter 2021 – Present):
-[Jen-Chieh Shen][]'s (my own) [ELPA](https://www.emacswiki.org/emacs/ELPA); currently featuring **250+** packages.
+- [EINE ELPA][] (Spring 2026):
+[ELPA][] for [EINE][].
+- [JCS ELPA][] (Winter 2021 – Spring 2026):
+[Jen-Chieh Shen][]'s (my own) [ELPA][]; currently featuring **250+** packages.
 - [melpa][] (Fall 2020 – Winter 2023 <span aria-label="Contributor"
 data-balloon-pos="up">✨</span>):
 Recipes and build machinery for the biggest [Emacs][] package repo.
@@ -1364,7 +1373,7 @@ Recipes and build machinery for the biggest [Emacs][] package repo.
 
 ##### Distribution
 
-- [jcs-emacs][] (Summer 2015 – Present):
+- [JCS Emacs][] (Summer 2015 – Present):
 Emacs distribution that is designed to function smoothly across all operating systems,
 delivering exceptional performance, especially on legacy [Windows][] systems.
 
@@ -1632,6 +1641,11 @@ The project was initiated during the course of work but is no longer in use as t
 [Bunny Eats Tiger]: https://store.steampowered.com/developer/BunnyEatsTiger
 [Mango Party]: https://store.steampowered.com/publisher/MangoParty
 
+<!-- Names (Others) -->
+[GNU]: https://en.wikipedia.org/wiki/GNU
+[Wine]: https://www.winehq.org/
+[EINE]: https://github.com/emacs-eine
+
 <!-- Intellectual Property -->
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
@@ -1799,7 +1813,8 @@ The project was initiated during the course of work but is no longer in use as t
 
 <!-- Archives -->
 [ELPA]: https://www.emacswiki.org/emacs/ELPA
-[jcs-elpa]: https://github.com/jcs-emacs/jcs-elpa
+[JCS ELPA]: https://github.com/jcs-emacs/jcs-elpa
+[EINE ELPA]: https://github.com/emacs-eine/elpa
 [MELPA]: https://melpa.org/
 [Quicklisp]: https://www.quicklisp.org/beta/
 [Ultralisp]: https://ultralisp.org/
@@ -1921,10 +1936,12 @@ The project was initiated during the course of work but is no longer in use as t
 [org-mode]: https://orgmode.org/
 [gt.el]: https://github.com/lorniu/gt.el
 [simple-httpd.el]: https://github.com/skeeto/emacs-web-server/blob/master/simple-httpd.el
+[e2ansi]: https://github.com/Lindydancer/e2ansi
 
 [purcell/setup-emacs]: https://github.com/purcell/setup-emacs
 [setup-emacs-windows]: https://github.com/jcs090218/setup-emacs-windows
 
+[JCS Emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-emacs]: https://github.com/jcs-emacs/jcs-emacs
 [jcs-template]: https://github.com/jcs-emacs/jcs-template
 [jcs-poptip]: https://github.com/jcs-emacs/jcs-poptip
