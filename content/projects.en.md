@@ -616,9 +616,9 @@ I serve as the package maintainer for a small set of packages.
 <details class="my-details">
   <summary>See details</summary>
 
-- [ellsp][] (Winter 2023 – Spring 2026):
+- [Ellsp][] (Winter 2023 – Spring 2026):
 Language server implementation for [Emacs Lisp][].
-The emacs client (using [lsp-mode][]) is also included; ~~do `M-x ellsp-register` to enable it~~.
+The [Emacs][] client (using [lsp-mode][]) is also included; ~~do `M-x ellsp-register` to enable it~~.
 After version `0.2.0`, the client is now [lsp-ellsp][].
 - [shader-language-server][] (Summer 2023 – Fall 2023 <span aria-label="Published to NuGet (1)"
 data-balloon-pos="up">🏅</span>):
@@ -1910,7 +1910,7 @@ The project was initiated during the course of work but is no longer in use as t
 [eglot]: https://github.com/joaotavora/eglot
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
-[Ellsp]: https://github.com/elisp-lsp/ellsp
+[Ellsp]: https://github.com/elisp-lsp/Ellsp
 [lsp-ellsp]: https://github.com/elisp-lsp/lsp-ellsp
 [ecukes]: https://github.com/ecukes/ecukes
 [origami.el]: https://github.com/elp-revive/origami.el

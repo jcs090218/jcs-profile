@@ -606,7 +606,7 @@ data-balloon-pos="up">✨</span>):
 
 - [Ellsp][] (冬 2023 – 春 2026):
 為 [Emacs Lisp][] 實作語言伺服器。
-emacs 用戶端（使用 [lsp-mode][]）也包含在內；~~使用 `M-x ellsp-register` 即可啟用~~。
+[Emacs][] 用戶端（使用 [lsp-mode][]）也包含在內；~~使用 `M-x ellsp-register` 即可啟用~~。
 在 `0.2.0` 版本之後, 改成使用 [lsp-ellsp][].
 - [shader-language-server][] (夏 2023 – 秋 2023 <span aria-label="發佈至 NuGet (1)"
 data-balloon-pos="up">🏅</span>):
@@ -1892,7 +1892,7 @@ data-balloon-pos="up">💸</span>):
 [eglot]: https://github.com/joaotavora/eglot
 [quelpa]: https://github.com/quelpa/quelpa
 [Elsa]: https://github.com/emacs-elsa/Elsa
-[Ellsp]: https://github.com/elisp-lsp/ellsp
+[Ellsp]: https://github.com/elisp-lsp/Ellsp
 [lsp-ellsp]: https://github.com/elisp-lsp/lsp-ellsp
 [ecukes]: https://github.com/ecukes/ecukes
 [origami.el]: https://github.com/elp-revive/origami.el
