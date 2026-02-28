@@ -1875,7 +1875,7 @@ data-balloon-pos="up">💸</span>):
 [company]: https://github.com/company-mode/company-mode
 [company-mode]: https://github.com/company-mode/company-mode
 [ElDoc]: https://www.emacswiki.org/emacs/ElDoc
-[emacs-dashboard]: https://github.com/emacs-dashboard/emacs-dashboard
+[emacs-dashboard]: https://github.com/emacs-dashboard/dashboard
 [emacs-flx]: https://github.com/lewang/flx
 [flxy-rs]: https://github.com/jcs-legacy/flxy-rs
 [fuz.el]: https://github.com/rustify-emacs/fuz.el
