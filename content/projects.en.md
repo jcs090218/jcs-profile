@@ -649,13 +649,13 @@ Users are encouraged to use the newer [grammarly-language-server][] instead.
 > [EINE ELPA][] <span aria-label="Published on EINE ELPA" data-balloon-pos="up">🏅</span>
 > so I won’t list them explicitly.
 
-- [run-slime-volleyball](https://github.com/emacs-eine/run-slime-volleyball) (Spring 2026):
+- [x-slime-volleyball](https://github.com/emacs-eine/x-slime-volleyball) (Spring 2026):
 Play [slime-volleyball](https://github.com/fitzsim/slime-volleyball).
-- [run-go](https://github.com/emacs-eine/run-go) (Spring 2026):
+- [x-go](https://github.com/emacs-eine/x-go) (Spring 2026):
 Play [Go][].
-- [run-tetris](https://github.com/emacs-eine/run-tetris) (Spring 2026):
+- [x-tetris](https://github.com/emacs-eine/x-tetris) (Spring 2026):
 Play [Tetris][].
-- [org-linter](https://github.com/emacs-eine/org-linter) (Spring 2026):
+- [x-org-lint](https://github.com/emacs-eine/x-org-lint) (Spring 2026):
 Run `org-lint` on [Org][org-mode] files.
 - [cat](https://github.com/emacs-eine/cat) (Spring 2026):
 View files with syntax highlighting powered by [e2ansi][].

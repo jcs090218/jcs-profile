@@ -637,13 +637,13 @@ data-balloon-pos="up">🔗</span>):
 > [EINE ELPA][] <span aria-label="發布至 EINE ELPA" data-balloon-pos="up">🏅</span>
 > 上，所以我不會明確列出。
 
-- [run-slime-volleyball](https://github.com/emacs-eine/run-slime-volleyball) (春 2026):
+- [x-slime-volleyball](https://github.com/emacs-eine/x-slime-volleyball) (春 2026):
 玩 [slime-volleyball](https://github.com/fitzsim/slime-volleyball).
-- [run-go](https://github.com/emacs-eine/run-go) (春 2026):
+- [x-go](https://github.com/emacs-eine/x-go) (春 2026):
 玩 [Go][].
-- [run-tetris](https://github.com/emacs-eine/run-tetris) (春 2026):
+- [x-tetris](https://github.com/emacs-eine/x-tetris) (春 2026):
 玩 [Tetris][].
-- [org-linter](https://github.com/emacs-eine/org-linter) (春 2026):
+- [x-org-lint](https://github.com/emacs-eine/x-org-lint) (春 2026):
 在 [Org][org-mode] 檔案上執行 `org-lint`。
 - [cat](https://github.com/emacs-eine/cat) (春 2026):
 使用由 [e2ansi][] 驅動的語法高亮功能檢視檔案。
