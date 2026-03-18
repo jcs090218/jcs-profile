@@ -27,7 +27,7 @@ ShowReadingTime: false
 <details class="my-details" open>
   <summary>詳細資訊</summary>
 
-- [Untitled: CODE_E][] (冬 2024 – 現在 <span aria-label="程式領導"
+- [Untitled: CODE_E - Moga Quest][] (冬 2024 – 現在 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 一款融合了更多 [meta-progression][] 機制的類 [Roguelike][] [Shooter game][]，
@@ -1513,7 +1513,7 @@ data-balloon-pos="up">🏅</span>):
 - [Untitled: CODE_F][] (冬 2024 – 春 2025 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-一個自下而上的專案，探索來自《[吸血鬼倖存者][]》、《[20 Minutes Till Dawn][]》
+一個自下而上的專案，探索來自《[吸血鬼倖存者][Vampire Survivors]》、《[20 Minutes Till Dawn][]》
 等遊戲的機制。
 - [aws-toolkit-emacs](https://github.com/jcs090218/aws-toolkit-emacs) (冬 2023):
 從 [Emacs][] 編輯器與 [AWS][] 互動的外掛程式。
@@ -1523,7 +1523,7 @@ data-balloon-pos="up">💸</span>):
 - [Untitled: CODE_D][] (春 2023 – 秋 2023 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-一款受《[紀念碑谷][]》、《[瘟疫傳說：無罪][]》及《[刺客教條][]》
+一款受《[紀念碑谷][Monument Valley]》、《[瘟疫傳說：無罪][A Plague Tale: Innocence]》及《[刺客教條][Assassin’s Creed]》
 啟發的俯視視角動作冒險遊戲。
 - [Prevo](https://github.com/jcs090218/Prevo) (夏 2021):
 使用預覽視窗預覽 `GameObject`。
@@ -1638,6 +1638,8 @@ data-balloon-pos="up">💸</span>):
 [EINE]: https://github.com/emacs-eine
 
 <!-- Intellectual Property -->
+[ASAKU]: https://asaku.info/
+
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
 [MGDP]: https://gitlab.com/MGDP
@@ -1645,15 +1647,13 @@ data-balloon-pos="up">💸</span>):
 [Magic: The Gathering]: https://magic.wizards.com/en
 [MegaMan NT Warrior]: https://en.wikipedia.org/wiki/MegaMan_NT_Warrior
 [A Plague Tale: Innocence]: https://en.wikipedia.org/wiki/A_Plague_Tale:_Innocence
-[瘟疫傳說：無罪]: https://zh.wikipedia.org/wiki/%E7%98%9F%E7%96%AB%E5%82%B3%E8%AA%AA%EF%BC%9A%E7%84%A1%E7%BD%AA
 [Assassin’s Creed]: https://en.wikipedia.org/wiki/Assassin%27s_Creed
-[刺客教條]: https://zh.wikipedia.org/wiki/%E5%88%BA%E5%AE%A2%E6%95%99%E6%A2%9D%E7%B3%BB%E5%88%97
 [Monument Valley]: https://en.wikipedia.org/wiki/Monument_Valley_(video_game)
-[紀念碑谷]: https://zh.wikipedia.org/wiki/%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7_(%E6%B8%B8%E6%88%8F)
-[Vampire Survivor]: https://en.wikipedia.org/wiki/Vampire_Survivors
-[吸血鬼倖存者]: https://zh.wikipedia.org/wiki/%E5%90%B8%E8%A1%80%E9%AC%BC%E5%80%96%E5%AD%98%E8%80%85
+[Vampire Survivors]: https://en.wikipedia.org/wiki/Vampire_Survivors
 [20 Minutes Till Dawn]: https://en.wikipedia.org/wiki/20_Minutes_Till_Dawn
-[ASAKU]: https://asaku.info/
+[Risk of Rain]: https://en.wikipedia.org/wiki/Risk_of_Rain
+[Risk of Rain 2]: https://en.wikipedia.org/wiki/Risk_of_Rain_2
+[Megabonk]: https://en.wikipedia.org/wiki/Megabonk
 
 [Untitled: Project M]: #
 [Greedy Island]: https://youtu.be/Buykong9y9w
@@ -1665,7 +1665,7 @@ data-balloon-pos="up">💸</span>):
 [Untitled: CODE_B - Arrows For One]: #
 [Untitled: CODE_C - Unfinished Road]: #
 [Untitled: CODE_D]: #
-[Untitled: CODE_E]: #
+[Untitled: CODE_E - Moga Quest]: #
 [Untitled: CODE_F]: #
 
 <!-- Operating Systems -->
