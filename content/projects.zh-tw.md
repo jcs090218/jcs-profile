@@ -30,8 +30,8 @@ ShowReadingTime: false
 - [Untitled: CODE_E - Moga Quest][] (冬 2024 – 現在 <span aria-label="程式領導"
 data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
-一款融合了更多 [meta-progression][] 機制的類 [Roguelike][] [Shooter game][]，
-同時具備 [Action game][] 元素。
+一款受《[吸血鬼倖存者][Vampire Survivors]》、《[雨中危機 2][Risk of Rain 2]》及《[Megabonk][]》啟發的類Roguelike冒險遊戲，
+遊戲中包含人類與非人類陣營，為玩家帶來豐富多樣的遊戲體驗。
 - [cl-qob/packaging][] (冬 2024 – 現在):
 為 [Qob CLI][cl-qob/cli] 進行封裝。
 - [Qob][] or [cl-qob/cli][] (秋 2024 – 現在 <span aria-label="發佈至 Debian (2)"
