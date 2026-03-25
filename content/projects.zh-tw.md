@@ -32,8 +32,6 @@ data-balloon-pos="up">👨‍💼</span><span aria-label="專業工作"
 data-balloon-pos="up">💸</span>):
 一款受《[吸血鬼倖存者][Vampire Survivors]》、《[雨中危機 2][Risk of Rain 2]》及《[Megabonk][]》啟發的類Roguelike冒險遊戲，
 遊戲中包含人類與非人類陣營，為玩家帶來豐富多樣的遊戲體驗。
-- [cl-qob/packaging][] (冬 2024 – 現在):
-為 [Qob CLI][cl-qob/cli] 進行封裝。
 - [Qob][] or [cl-qob/cli][] (秋 2024 – 現在 <span aria-label="發佈至 Debian (2)"
 data-balloon-pos="up">🏅</span><span aria-label="發佈至 Homebrew (2)"
 data-balloon-pos="up">🏅</span><span aria-label="發佈至 Chocolatey (2)"
@@ -283,6 +281,10 @@ data-balloon-pos="up">👨‍💼</span><span data-balloon-pos="up" aria-label="
 
 #### 仿真器/模擬器
 
+- [MapleStory2Unity](https://github.com/MapleStory2Unity/MapleStory2Unity) (春 2026 – 現在):
+一個用於開發《[楓之谷 2][MapleStory 2]》[MMO][] [RPG][] 遊戲的框架。
+- [MapleStoryUnity](https://github.com/MapleStoryUnity/MapleStoryUnity) (夏 2021 – 現在):
+一個用於開發《[楓之谷][MapleStory]》[MMO][] [RPG][] 遊戲的框架。
 - [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (夏 2021):
 適用於 [Unity][] 的 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse)。
 
@@ -559,6 +561,8 @@ data-balloon-pos="up">🏫</span>):
 <details class="my-details">
   <summary>詳細資訊</summary>
 
+- [cl-qob/packaging][] (冬 2024 – 現在):
+為 [Qob CLI][cl-qob/cli] 進行封裝。
 - [emacs-eask/packaging][] (秋 2023 – 冬 2023):
 為 [Eask CLI][emacs-eask/cli] 打包。
 我積極為各種軟體套件管理器做出貢獻，例如 [Chocolatey][]、[Snapcraft][]、[MacPorts][] 等。
@@ -1644,6 +1648,7 @@ data-balloon-pos="up">💸</span>):
 [ASAKU]: https://asaku.info/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
+[MapleStory 2]: https://en.wikipedia.org/wiki/MapleStory_2
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/

@@ -36,8 +36,6 @@ data-balloon-pos="up">👨‍💼</span><span aria-label="Professional work"
 data-balloon-pos="up">💸</span>):
 A [roguelike][] adventure inspired by [Vampire Survivors][], [Risk of Rain 2][], and [Megabonk][],
 featuring both human and non-human parties to deliver a rich and varied gameplay experience.
-- [cl-qob/packaging][] (Winter 2024 – Present):
-Packaging for [Qob CLI][cl-qob/cli].
 - [Qob][] or [cl-qob/cli][] (Fall 2024 – Present <span aria-label="Published to Debian (2)"
 data-balloon-pos="up">🏅</span><span aria-label="Published to Homebrew (2)"
 data-balloon-pos="up">🏅</span><span aria-label="Published to Chocolatey (2)"
@@ -292,8 +290,12 @@ The 3rd stage will be a boss fight, where the player who does the most damage wi
 A basic UI automation bot to avoid AFK penalties.
 The bot ensures your character takes action (like intentionally moving) at regular intervals.
 
-#### Emulator/Simulator
+#### Emulator and simulator
 
+- [MapleStory2Unity](https://github.com/MapleStory2Unity/MapleStory2Unity) (Spring 2026 – Present):
+A framework to build [MapleStory 2][] [MMO][] [RPG][] games.
+- [MapleStoryUnity](https://github.com/MapleStoryUnity/MapleStoryUnity) (Summer 2021 – Present):
+A framework to build [MapleStory][] [MMO][] [RPG][] games.
 - [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summer 2021):
 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse) for [Unity][].
 
@@ -571,6 +573,8 @@ I was also inspired by his project, [Rileran/tree-sitter-actionscript][].
 <details class="my-details">
   <summary>See details</summary>
 
+- [cl-qob/packaging][] (Winter 2024 – Present):
+Packaging for [Qob CLI][cl-qob/cli].
 - [emacs-eask/packaging][] (Fall 2023 – Winter 2023):
 Packaging for [Eask CLI][emacs-eask/cli].
 I've actively contributed to diverse package managers such as [Chocolatey][], [Snapcraft][], [MacPorts][], etc.
@@ -1662,6 +1666,7 @@ The project was initiated during the course of work but is no longer in use as t
 [ASAKU]: https://asaku.info/
 
 [MapleStory]: https://en.wikipedia.org/wiki/MapleStory
+[MapleStory 2]: https://en.wikipedia.org/wiki/MapleStory_2
 [DJMax]: https://en.wikipedia.org/wiki/DJMax
 [MGDP]: https://gitlab.com/MGDP
 [Quaver]: https://store.steampowered.com/app/980610/Quaver/
