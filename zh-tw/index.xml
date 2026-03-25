@@ -1157,8 +1157,6 @@ data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span aria-label=&#3
 data-balloon-pos=&#34;up&#34;&gt;💸&lt;/span&gt;):
 一款受《&lt;a href=&#34;https://en.wikipedia.org/wiki/Vampire_Survivors&#34;&gt;吸血鬼倖存者&lt;/a&gt;》、《&lt;a href=&#34;https://en.wikipedia.org/wiki/Risk_of_Rain_2&#34;&gt;雨中危機 2&lt;/a&gt;》及《&lt;a href=&#34;https://en.wikipedia.org/wiki/Megabonk&#34;&gt;Megabonk&lt;/a&gt;》啟發的類Roguelike冒險遊戲，
 遊戲中包含人類與非人類陣營，為玩家帶來豐富多樣的遊戲體驗。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/cl-qob/packaging&#34;&gt;cl-qob/packaging&lt;/a&gt; (冬 2024 – 現在):
-為 &lt;a href=&#34;https://github.com/cl-qob/cli&#34;&gt;Qob CLI&lt;/a&gt; 進行封裝。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://cl-qob.github.io/&#34;&gt;Qob&lt;/a&gt; or &lt;a href=&#34;https://github.com/cl-qob/cli&#34;&gt;cl-qob/cli&lt;/a&gt; (秋 2024 – 現在 &lt;span aria-label=&#34;發佈至 Debian (2)&#34;
 data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Homebrew (2)&#34;
 data-balloon-pos=&#34;up&#34;&gt;🏅&lt;/span&gt;&lt;span aria-label=&#34;發佈至 Chocolatey (2)&#34;
@@ -1401,6 +1399,10 @@ data-balloon-pos=&#34;up&#34;&gt;👨‍💼&lt;/span&gt;&lt;span data-balloon-p
 &lt;/ul&gt;
 &lt;h4 id=&#34;仿真器模擬器&#34;&gt;仿真器/模擬器&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MapleStory2Unity/MapleStory2Unity&#34;&gt;MapleStory2Unity&lt;/a&gt; (春 2026 – 現在):
+一個用於開發《&lt;a href=&#34;https://en.wikipedia.org/wiki/MapleStory_2&#34;&gt;楓之谷 2&lt;/a&gt;》&lt;a href=&#34;https://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Role-playing_gametion&#34;&gt;RPG&lt;/a&gt; 遊戲的框架。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MapleStoryUnity/MapleStoryUnity&#34;&gt;MapleStoryUnity&lt;/a&gt; (夏 2021 – 現在):
+一個用於開發《&lt;a href=&#34;https://en.wikipedia.org/wiki/MapleStory&#34;&gt;楓之谷&lt;/a&gt;》&lt;a href=&#34;https://en.wikipedia.org/wiki/Massively_multiplayer_online_game&#34;&gt;MMO&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Role-playing_gametion&#34;&gt;RPG&lt;/a&gt; 遊戲的框架。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/MapleStoryUnity/UnityWzLib&#34;&gt;UnityWzLib&lt;/a&gt; (夏 2021):
 適用於 &lt;a href=&#34;https://unity.com/&#34;&gt;Unity&lt;/a&gt; 的 &lt;a href=&#34;https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse&#34;&gt;WzLib&lt;/a&gt;。&lt;/li&gt;
 &lt;/ul&gt;
@@ -1666,6 +1668,8 @@ data-balloon-pos=&#34;up&#34;&gt;🏫&lt;/span&gt;):
 &lt;details class=&#34;my-details&#34;&gt;
   &lt;summary&gt;詳細資訊&lt;/summary&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cl-qob/packaging&#34;&gt;cl-qob/packaging&lt;/a&gt; (冬 2024 – 現在):
+為 &lt;a href=&#34;https://github.com/cl-qob/cli&#34;&gt;Qob CLI&lt;/a&gt; 進行封裝。&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/emacs-eask/packaging&#34;&gt;emacs-eask/packaging&lt;/a&gt; (秋 2023 – 冬 2023):
 為 &lt;a href=&#34;https://github.com/emacs-eask/cli&#34;&gt;Eask CLI&lt;/a&gt; 打包。
 我積極為各種軟體套件管理器做出貢獻，例如 &lt;a href=&#34;https://chocolatey.org/&#34;&gt;Chocolatey&lt;/a&gt;、&lt;a href=&#34;https://snapcraft.io/store&#34;&gt;Snapcraft&lt;/a&gt;、&lt;a href=&#34;https://www.macports.org/&#34;&gt;MacPorts&lt;/a&gt; 等。
