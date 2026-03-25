@@ -124,8 +124,6 @@ data-balloon-pos="up">🏅</span>):
 data-balloon-pos="up">💸</span><span aria-label="發佈至 Unity Asset Store (1)"
 data-balloon-pos="up">🏅</span>):
 極簡主義的美觀的 [hierarchy][HierarchyWindow]。
-- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (夏 2021):
-適用於 [Unity][] 的 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.)。
 - [32feet.Unity.Example](https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example) (春 2021):
 在 [Unity][] ([Bluetooth][] Classic) 中使用 [32feet][] 的範例專案。
 - [Unity.Lua](https://github.com/jcs090218/Unity.Lua) (春 2020 <span aria-label="專業工作"
@@ -282,6 +280,11 @@ data-balloon-pos="up">👨‍💼</span><span data-balloon-pos="up" aria-label="
 - [moba-inting](https://gitlab.com/jcs-workspace/Python/moba-inting) (秋 2024):
 一個基本的 UI 自動化機器人，用於避免 AFK 懲罰。
 該機器人會確保你的角色定期採取行動（例如故意移動）。
+
+#### 仿真器/模擬器
+
+- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (夏 2021):
+適用於 [Unity][] 的 [WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse)。
 
 </details>
 

@@ -132,8 +132,6 @@ A simple solution that work with 2D and 3D renderers, including UI components (I
 data-balloon-pos="up">💸</span><span aria-label="Published to Unity Asset Store (1)"
 data-balloon-pos="up">🏅</span>):
 Minimalistic good looking [hierarchy][HierarchyWindow].
-- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summer 2021):
-[WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse.) for [Unity][].
 - [32feet.Unity.Example](https://gitlab.com/jcs-workspace/bluetooth/32feet.Unity.Example) (Spring 2021):
 Example project to use [32feet][] inside [Unity][] ([Bluetooth][] Classic).
 - [Unity.Lua](https://github.com/jcs090218/Unity.Lua) (Spring 2020 <span aria-label="Professional work"
@@ -293,6 +291,11 @@ The 3rd stage will be a boss fight, where the player who does the most damage wi
 - [moba-inting](https://gitlab.com/jcs-workspace/Python/moba-inting) (Fall 2024):
 A basic UI automation bot to avoid AFK penalties.
 The bot ensures your character takes action (like intentionally moving) at regular intervals.
+
+#### Emulator/Simulator
+
+- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) (Summer 2021):
+[WzLib](https://mapleref.fandom.com/wiki/WZ#:~:text=The%20WZ%20format%20is%20what,t%20too%20hard%20to%20parse) for [Unity][].
 
 </details>
 
