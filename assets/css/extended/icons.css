@@ -43,7 +43,7 @@
 }
 
 #si-emacs {
-    background-image: url('../images/icons/emacs.png');
+    background-image: url('https://raw.githubusercontent.com/jcs090218/jcs-profile/refs/heads/master/static/images/icons/emacs.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
