@@ -43,7 +43,7 @@
 }
 
 #si-emacs {
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/180px-EmacsIcon.svg.png');
+    background-image: url('../images/icons/emacs.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
