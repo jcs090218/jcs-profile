@@ -690,6 +690,9 @@ A [command-line interface][CLI] for Google Translate.
 > or [JCS ELPA][] <span aria-label="Published on JCS ELPA" data-balloon-pos="up">🏅</span>
 > so I won’t list them explicitly.
 
+-[impatient-mode](https://github.com/skeeto/impatient-mode) (Spring 2026 <span aria-label="Maintainer"
+data-balloon-pos="up">👷</span>):
+Impatient html mode. See your changes in the browser as you type.
 - [emamux](https://github.com/emacsorphanage/emamux) (Winter 2025 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [tmux][] manipulation from [Emacs][].
