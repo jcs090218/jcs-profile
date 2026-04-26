@@ -678,7 +678,7 @@ data-balloon-pos="up">🔗</span>):
 > 或 [JCS ELPA][] <span aria-label="發布至 JCS ELPA" data-balloon-pos="up">🏅</span>
 > 上，所以我不會明確列出。
 
--[impatient-mode](https://github.com/skeeto/impatient-mode) (Spring 2026 <span aria-label="Maintainer"
+- [impatient-mode](https://github.com/skeeto/impatient-mode) (夏天 2026 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 即時 HTML 模式。輸入時即可在瀏覽器中查看您的變更。
 - [emamux](https://github.com/emacsorphanage/emamux) (冬 2025 <span aria-label="維護者"
