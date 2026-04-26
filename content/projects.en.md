@@ -692,7 +692,7 @@ A [command-line interface][CLI] for Google Translate.
 
 - [impatient-mode](https://github.com/skeeto/impatient-mode) (Summer 2026 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
-Impatient html mode. See your changes in the browser as you type.
+Impatient [html][] mode. See your changes in the browser as you type.
 - [emamux](https://github.com/emacsorphanage/emamux) (Winter 2025 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 [tmux][] manipulation from [Emacs][].

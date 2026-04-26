@@ -680,7 +680,7 @@ data-balloon-pos="up">🔗</span>):
 
 - [impatient-mode](https://github.com/skeeto/impatient-mode) (夏天 2026 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
-即時 HTML 模式。輸入時即可在瀏覽器中查看您的變更。
+即時 [HTML][] 模式。輸入時即可在瀏覽器中查看您的變更。
 - [emamux](https://github.com/emacsorphanage/emamux) (冬 2025 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 [tmux][] 透過 [Emacs][] 進行操作。
