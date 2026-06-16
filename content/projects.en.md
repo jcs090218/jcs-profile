@@ -690,6 +690,10 @@ A [command-line interface][CLI] for Google Translate.
 > or [JCS ELPA][] <span aria-label="Published on JCS ELPA" data-balloon-pos="up">🏅</span>
 > so I won’t list them explicitly.
 
+- [lsp-mlua](https://github.com/MSW-cmty/lsp-mlua) (Summer 2026):
+[LSP][] Clients for [mLua][].
+- [mlua-mode](https://github.com/MSW-cmty/mlua-mode) (Summer 2026):
+Major mode for [mLua][].
 - [impatient-mode](https://github.com/skeeto/impatient-mode) (Summer 2026 <span aria-label="Maintainer"
 data-balloon-pos="up">👷</span>):
 Impatient [html][] mode. See your changes in the browser as you type.
@@ -1731,6 +1735,7 @@ The project was initiated during the course of work but is no longer in use as t
 [Lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
 [Common Lisp]: https://en.wikipedia.org/wiki/Common_Lisp
 [Lua]: https://www.lua.org/
+[mLua]: https://maplestoryworlds-creators.nexon.com/en/docs?postId=1287
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Make]: https://www.gnu.org/software/make/manual/make.html
 [HTML]: https://en.wikipedia.org/wiki/HTML

@@ -678,6 +678,10 @@ data-balloon-pos="up">🔗</span>):
 > 或 [JCS ELPA][] <span aria-label="發布至 JCS ELPA" data-balloon-pos="up">🏅</span>
 > 上，所以我不會明確列出。
 
+- [lsp-mlua](https://github.com/MSW-cmty/lsp-mlua) (夏天 2026):
+[LSP][] [mLua][] 的客戶端。
+- [mlua-mode](https://github.com/MSW-cmty/mlua-mode) (夏天 2026):
+[mLua][] 的 major mode。
 - [impatient-mode](https://github.com/skeeto/impatient-mode) (夏天 2026 <span aria-label="維護者"
 data-balloon-pos="up">👷</span>):
 即時 [HTML][] 模式。輸入時即可在瀏覽器中查看您的變更。
@@ -1713,6 +1717,7 @@ data-balloon-pos="up">💸</span>):
 [Lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
 [Common Lisp]: https://en.wikipedia.org/wiki/Common_Lisp
 [Lua]: https://www.lua.org/
+[mLua]: https://maplestoryworlds-creators.nexon.com/en/docs?postId=1287
 [Markdown]: https://en.wikipedia.org/wiki/Markdown
 [Make]: https://www.gnu.org/software/make/manual/make.html
 [HTML]: https://en.wikipedia.org/wiki/HTML
